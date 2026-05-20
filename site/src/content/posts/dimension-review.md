@@ -40,15 +40,15 @@ My Rating:
 
 Likes
 
-- thumbs-o-upFast Paced Game.
-- thumbs-o-upEasy to learn.
-- thumbs-o-upQuick to set up and take down.
+- 👍Fast Paced Game.
+- 👍Easy to learn.
+- 👍Quick to set up and take down.
 
 Dislikes
 
-- thumbs-o-downNot a lot of inter-player interaction.
-- thumbs-o-downLots of extra point tokens.
-- thumbs-o-downOnly up to 4 players.
+- 👎Not a lot of inter-player interaction.
+- 👎Lots of extra point tokens.
+- 👎Only up to 4 players.
 
 Intr﻿﻿﻿o/First Impressions
 

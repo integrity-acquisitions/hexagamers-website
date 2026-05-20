@@ -43,13 +43,13 @@ Ages
 My Rating:
         
 Likes
-   - thumbs-o-up
+   - 👍
 
 Easy Rules
-- thumbs-o-up
+- 👍
 
 Card Quality
-- thumbs-o-up
+- 👍
 
 Quick to Start
   
@@ -60,13 +60,13 @@ Quick to Start
  
  
 Dislikes
-   - thumbs-o-down
+   - 👎
 
 Need the right group to make it enjoyable
-- thumbs-o-down
+- 👎
 
 Have to have a good imagination
-- thumbs-o-down
+- 👎
 
 Favoritism can ruin it
    

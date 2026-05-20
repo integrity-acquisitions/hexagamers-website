@@ -57,16 +57,16 @@ My Rating:
 
 Likes
 
-- thumbs-o-upEvery action area is important.
-- thumbs-o-upEverything in the game is linked.​
-- thumbs-o-upEven if it's not your turn, you may end up getting an additional turn due to being kicked out.
-- thumbs-o-upLots of player interaction.
+- 👍Every action area is important.
+- 👍Everything in the game is linked.​
+- 👍Even if it's not your turn, you may end up getting an additional turn due to being kicked out.
+- 👍Lots of player interaction.
 
 Dislikes
 
-- thumbs-o-downThe rules are lengthy, wordy and sometimes confusing.
-- thumbs-o-downInfluence can top out, so you may waste it.
-- thumbs-o-downLike any worker placement, it can take a long time to play.
+- 👎The rules are lengthy, wordy and sometimes confusing.
+- 👎Influence can top out, so you may waste it.
+- 👎Like any worker placement, it can take a long time to play.
 
 First Impressions
 

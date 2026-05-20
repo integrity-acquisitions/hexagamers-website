@@ -23,17 +23,17 @@ My Rating:
 
 Likes
 
-- thumbs-o-upWell organized game packet.
-- thumbs-o-upGreat interaction among guests.
-- thumbs-o-upGood characters and theme for the night.
-- thumbs-o-upGood flow to the night.
-- thumbs-o-upOption to include more guests.
+- 👍Well organized game packet.
+- 👍Great interaction among guests.
+- 👍Good characters and theme for the night.
+- 👍Good flow to the night.
+- 👍Option to include more guests.
 
 Dislikes
 
-- thumbs-o-downSome storylines unused.
-- thumbs-o-downHost knows which characters are extra if they set it up themselves.
-- thumbs-o-downLittle tricky to cut out clues for guests without seeing the solutions.
+- 👎Some storylines unused.
+- 👎Host knows which characters are extra if they set it up themselves.
+- 👎Little tricky to cut out clues for guests without seeing the solutions.
 
 # Intr﻿﻿﻿o/First Impressions
 

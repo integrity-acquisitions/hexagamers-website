@@ -40,17 +40,17 @@ My Rating:
 
 Likes
 
-- thumbs-o-upSimple, yet fun.
-- thumbs-o-upGood for any skill level player.
-- thumbs-o-upThe right amount of randomness.
-- thumbs-o-upGood Overall Theme.
-- thumbs-o-upBox Organizer.
+- 👍Simple, yet fun.
+- 👍Good for any skill level player.
+- 👍The right amount of randomness.
+- 👍Good Overall Theme.
+- 👍Box Organizer.
 
 Dislikes
 
-- thumbs-o-downDoesn't cost you to go after more quests.
-- thumbs-o-downCubes could be better thematically.
-- thumbs-o-downOnly 5 players.
+- 👎Doesn't cost you to go after more quests.
+- 👎Cubes could be better thematically.
+- 👎Only 5 players.
 
 Intr﻿﻿﻿o/First Impressions
 

@@ -43,15 +43,15 @@ My Rating:
 
 Likes
 
-- thumbs-o-upHigh Replayability
-- thumbs-o-upShort Games_​_
-- thumbs-o-upFast to Learn
+- 👍High Replayability
+- 👍Short Games_​_
+- 👍Fast to Learn
 
 Dislikes
 
-- thumbs-o-downLuck is a Big Factor
-- thumbs-o-downLittle Strategy
-- thumbs-o-downTheme has little affect 
+- 👎Luck is a Big Factor
+- 👎Little Strategy
+- 👎Theme has little affect 
 
 Intr﻿﻿﻿o/First Impressions
 

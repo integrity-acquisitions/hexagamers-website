@@ -32,13 +32,13 @@ tags:
 My Rating:
         
 Likes
-   - thumbs-o-up
+   - 👍
 
 Creative game play allowing for co-op, solo and competitive modes
-- thumbs-o-up
+- 👍
 
 Cards allow you to impact other players' games
-- thumbs-o-up
+- 👍
 
 You can rotate Secret Agenda cards, making it a strategy puzzle
    
@@ -51,13 +51,13 @@ You can rotate Secret Agenda cards, making it a strategy puzzle
  
  
 Dislikes
-   - thumbs-o-down
+   - 👎
 
 The theme was a little confusing (but a change is in the works!)
-- thumbs-o-down
+- 👎
 
 We ran out of Stache cards so it seems like there should be more, but we're not sure if we did something wrong
-- thumbs-o-down
+- 👎
 
 Everyone plays at the same time so it's hard to track whether players are following rules
    

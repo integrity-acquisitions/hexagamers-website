@@ -39,13 +39,13 @@ My Rating:
 
 Likes
 
-- thumbs-o-upQuick and Easy_​_​​​​
-- thumbs-o-upTravel Friendly**​**
-- thumbs-o-upSummary Cards
+- 👍Quick and Easy_​_​​​​
+- 👍Travel Friendly**​**
+- 👍Summary Cards
 
 Dislikes
 
-- thumbs-o-downNot a lot of strategy**​**
+- 👎Not a lot of strategy**​**
 
 Intr﻿﻿﻿o/First Impressions
 

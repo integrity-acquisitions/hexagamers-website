@@ -34,15 +34,15 @@ My Rating:
 
 Likes
 
-- thumbs-o-upQuick to play
-- thumbs-o-upEasy to learn
-- thumbs-o-upChallenging game play that's never the same
+- 👍Quick to play
+- 👍Easy to learn
+- 👍Challenging game play that's never the same
 
 Dislikes
 
-- thumbs-o-downTiles warp easily
-- thumbs-o-downOdds seem stacked in favour of the scientists
-- thumbs-o-downI wish we could add players!
+- 👎Tiles warp easily
+- 👎Odds seem stacked in favour of the scientists
+- 👎I wish we could add players!
 
 First Impressions
 

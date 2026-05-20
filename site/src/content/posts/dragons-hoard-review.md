@@ -52,14 +52,14 @@ My Rating:
 
 Likes
 
-- thumbs-o-upArtwork
-- thumbs-o-upIntensity
-- thumbs-o-upDouble Sided Cards
-- thumbs-o-upNo Setup
+- 👍Artwork
+- 👍Intensity
+- 👍Double Sided Cards
+- 👍No Setup
 
 Dislikes
 
-- thumbs-o-downWish there was an expansion to add more players and cards
+- 👎Wish there was an expansion to add more players and cards
 
 Intro/First Impressions
 

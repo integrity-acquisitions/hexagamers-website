@@ -40,13 +40,13 @@ My Rating:
 
 Likes
 
-- thumbs-o-upFast Rounds
-- thumbs-o-upGood for Travel 
-- thumbs-o-upGreat two player strategic game
+- 👍Fast Rounds
+- 👍Good for Travel 
+- 👍Great two player strategic game
 
 Dislikes
 
-- thumbs-o-downWish there was an expansion to make it possible to have more players 
+- 👎Wish there was an expansion to make it possible to have more players 
 
 Intr﻿﻿﻿o/First Impressions
 
