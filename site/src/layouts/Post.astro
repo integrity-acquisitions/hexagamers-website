@@ -33,11 +33,6 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
           <time datetime={date.toISOString()} class="post-date">{formattedDate}</time>
         </div>
         <h1 class="post-title fade-up fade-up-1">{title}</h1>
-        {coverImage && (
-          <div class="post-hero fade-up fade-up-2">
-            <img src={coverImage} alt={title} loading="eager" />
-          </div>
-        )}
       </div>
     </header>
 
@@ -97,16 +92,6 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
 .post-title {
   max-width: 840px;
   margin-bottom: 2rem;
-}
-.post-hero {
-  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
-  overflow: hidden;
-  max-height: 480px;
-}
-.post-hero img {
-  width: 100%;
-  max-height: 480px;
-  object-fit: cover;
 }
 
 .post-body-wrap {
