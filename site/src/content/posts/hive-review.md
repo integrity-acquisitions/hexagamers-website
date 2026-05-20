@@ -15,6 +15,7 @@ tags:
   - "table-top-board-games"
   - "table-top-game"
   - "two-player"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305645/IMG_1436-2-300x295.jpg"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305645/IMG_1436-2-300x295.jpg "Hive")

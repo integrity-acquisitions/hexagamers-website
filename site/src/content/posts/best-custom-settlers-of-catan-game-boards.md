@@ -10,6 +10,7 @@ tags:
   - "catan"
   - "custom-game-boards"
   - "settlers-of-catan"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305600/Custom-Catan-Boards-Header.jpg"
 ---
 
 ![Best Custom Catan Boards](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305600/Custom-Catan-Boards-Header.jpg)

@@ -11,6 +11,7 @@ tags:
   - "haunt"
   - "strategy-board-game"
   - "traitor"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg"
 ---
 
 ![Betrayal at house on the hill](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)
