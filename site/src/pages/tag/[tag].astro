@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+
+  // Collect all unique tags
+  const tagSet = new Set<string>();
+  for (const post of allPosts) {
+    post.data.tags?.forEach(t => tagSet.add(t));
+  }
+
+  return [...tagSet].map(tag => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: allPosts
+        .filter(p => p.data.tags?.includes(tag))
+        .sort((a, b) => b.data.date.getTime() - a.data.date.getTime()),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const displayTag = tag.replace(/-/g, ' ');
+---
+<Base
+  title={`${displayTag} — Tag`}
+  description={`All board game posts tagged with "${displayTag}" on Hexagamers.`}
+>
+  <section class="tag-page">
+    <div class="container">
+      <header class="page-header fade-up">
+        <p class="section-label">Tag</p>
+        <h1>{displayTag}</h1>
+        <p class="post-count">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
+      </header>
+
+      {posts.length > 0 ? (
+        <div class="tag-grid">
+          {posts.map((post, i) => (
+            <div class:list={['fade-up', `fade-up-${(i % 5) + 1}`]}>
+              <PostCard post={post} />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <p>No posts found for this tag.</p>
+          <a href={`${base}/blog/`} class="btn btn-outline">Browse all posts</a>
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
+
+<style>
+.tag-page { padding: 4rem 0 5rem; }
+.page-header { margin-bottom: 3rem; }
+.page-header h1 {
+  margin: 0.5rem 0;
+  text-transform: capitalize;
+}
+.post-count {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+.tag-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.empty-state {
+  text-align: center;
+  padding: 4rem 0;
+  color: var(--text-3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+@media (max-width: 900px) { .tag-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .tag-grid { grid-template-columns: 1fr; } }
+</style>

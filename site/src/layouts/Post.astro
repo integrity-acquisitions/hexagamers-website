@@ -60,7 +60,7 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
             <p class="sidebar-label">Tags</p>
             <div class="sidebar-tags">
               {tags.slice(0, 12).map(t => (
-                <span class="tag-chip">{t.replace(/-/g, ' ')}</span>
+                <a href={`${base}/tag/${t}/`} class="tag-chip">{t.replace(/-/g, ' ')}</a>
               ))}
             </div>
           </div>
@@ -217,6 +217,12 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
   border-radius: var(--radius);
   color: var(--text-2);
   text-transform: capitalize;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.tag-chip:hover {
+  color: var(--amber);
+  border-color: rgba(240,165,0,0.3);
+  background: var(--amber-dim);
 }
 .affiliate-note p:not(.sidebar-label) {
   font-size: 0.78rem;
