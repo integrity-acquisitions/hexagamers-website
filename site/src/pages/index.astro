@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import PostCard from '../components/PostCard.astro';
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
@@ -35,8 +36,8 @@ const categories = [
           Honest reviews, simplified rules guides, and curated lists — everything you need to level up your tabletop game night.
         </p>
         <div class="hero-actions fade-up fade-up-3">
-          <a href="/category/reviews/" class="btn btn-primary">Browse Reviews</a>
-          <a href="/category/favourites-lists/" class="btn btn-outline">Best-Of Lists</a>
+          <a href={`${base}/category/reviews/`} class="btn btn-primary">Browse Reviews</a>
+          <a href={`${base}/category/favourites-lists/`} class="btn btn-outline">Best-Of Lists</a>
         </div>
       </div>
 
@@ -56,7 +57,7 @@ const categories = [
       <ul class="cat-grid" role="list">
         {categories.map(({ slug, label, icon, count }) => (
           <li>
-            <a href={`/category/${slug}/`} class="cat-card">
+            <a href={`${base}/category/${slug}/`} class="cat-card">
               <span class="cat-icon" aria-hidden="true">{icon}</span>
               <span class="cat-label">{label}</span>
               <span class="cat-count">{count} posts</span>
@@ -79,7 +80,7 @@ const categories = [
         ))}
       </div>
       <div class="view-all-wrap">
-        <a href="/blog/" class="btn btn-outline">View All Posts</a>
+        <a href={`${base}/blog/`} class="btn btn-outline">View All Posts</a>
       </div>
     </div>
   </section>

@@ -1,5 +1,6 @@
 ---
 const year = new Date().getFullYear();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <footer class="site-footer">
   <div class="container footer-inner">
@@ -17,18 +18,18 @@ const year = new Date().getFullYear();
     <nav class="footer-nav" aria-label="Footer navigation">
       <p class="footer-nav-heading">Explore</p>
       <ul role="list">
-        <li><a href="/category/reviews/">Reviews</a></li>
-        <li><a href="/category/how-to-play/">How To Play</a></li>
-        <li><a href="/category/favourites-lists/">Best-Of Lists</a></li>
-        <li><a href="/about/">About</a></li>
+        <li><a href={`${base}/category/reviews/`}>Reviews</a></li>
+        <li><a href={`${base}/category/how-to-play/`}>How To Play</a></li>
+        <li><a href={`${base}/category/favourites-lists/`}>Best-Of Lists</a></li>
+        <li><a href={`${base}/about/`}>About</a></li>
       </ul>
     </nav>
 
     <nav class="footer-nav" aria-label="Legal navigation">
       <p class="footer-nav-heading">Info</p>
       <ul role="list">
-        <li><a href="/disclaimer/">Disclaimer</a></li>
-        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href={`${base}/disclaimer/`}>Disclaimer</a></li>
+        <li><a href={`${base}/privacy-policy/`}>Privacy Policy</a></li>
       </ul>
     </nav>
   </div>

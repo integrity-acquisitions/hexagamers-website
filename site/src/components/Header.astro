@@ -1,17 +1,19 @@
 ---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
 const navLinks = [
-  { href: '/category/reviews/', label: 'Reviews' },
-  { href: '/category/how-to-play/', label: 'How To Play' },
-  { href: '/category/favourites-lists/', label: 'Best-Of Lists' },
-  { href: '/about/', label: 'About' },
+  { href: `${base}/category/reviews/`, label: 'Reviews' },
+  { href: `${base}/category/how-to-play/`, label: 'How To Play' },
+  { href: `${base}/category/favourites-lists/`, label: 'Best-Of Lists' },
+  { href: `${base}/about/`, label: 'About' },
 ];
 
 const currentPath = Astro.url.pathname;
 ---
 <header class="site-header" role="banner">
   <div class="container header-inner">
-    <a href="/" class="logo" aria-label="Hexagamers home">
-      <img src="/logo.png" alt="Hexagamers" class="logo-img" width="180" height="50" />
+    <a href={`${base}/`} class="logo" aria-label="Hexagamers home">
+      <img src={`${base}/logo.png`} alt="Hexagamers" class="logo-img" width="180" height="50" />
     </a>
 
     <nav class="main-nav" aria-label="Main navigation">

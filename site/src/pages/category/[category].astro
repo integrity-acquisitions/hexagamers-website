@@ -27,6 +27,7 @@ export async function getStaticPaths() {
 }
 
 const { posts, category } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const meta = CATEGORIES.find(c => c.slug === category) ?? { label: category, description: '' };
 ---
 <Base
@@ -53,7 +54,7 @@ const meta = CATEGORIES.find(c => c.slug === category) ?? { label: category, des
       ) : (
         <div class="empty-state">
           <p>No posts in this category yet.</p>
-          <a href="/blog/" class="btn btn-outline">Browse all posts</a>
+          <a href={`${base}/blog/`} class="btn btn-outline">Browse all posts</a>
         </div>
       )}
     </div>

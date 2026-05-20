@@ -7,6 +7,7 @@ interface Props {
 }
 const { post } = Astro.props;
 const { title, date, categories, tags, description, coverImage } = post.data;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric',
@@ -28,7 +29,7 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
     <header class="post-header">
       <div class="container">
         <div class="post-meta fade-up">
-          <a href={`/category/${mainCategory}/`} class="cat-badge">{catDisplay}</a>
+          <a href={`${base}/category/${mainCategory}/`} class="cat-badge">{catDisplay}</a>
           <time datetime={date.toISOString()} class="post-date">{formattedDate}</time>
         </div>
         <h1 class="post-title fade-up fade-up-1">{title}</h1>
@@ -50,7 +51,7 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
           <p class="sidebar-label">Categories</p>
           <div class="sidebar-tags">
             {categories?.map(c => (
-              <a href={`/category/${c}/`} class="cat-badge">{c.replace(/-/g, ' ')}</a>
+              <a href={`${base}/category/${c}/`} class="cat-badge">{c.replace(/-/g, ' ')}</a>
             ))}
           </div>
         </div>
