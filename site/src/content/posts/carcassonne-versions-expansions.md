@@ -90,15 +90,15 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Abbey
 
 It's hard to keep track of all the Carcassonne versions. If you're looking for your next expansion or a different Carcassonne-style challenge, we've compiled everything we could find on the standalones and expansion along with a quick brief on each to help you decide. If you'd rather an easy visual, check out the Carcassonne infographic below. Otherwise, skip past it to see the descriptions of all the Carcassonne Expansions.
 
-![](//hexagamers.com/wp-content/uploads/2017/11/Carcassonne-Infographic-Compressed1.jpg "Carcassonne Infographic - Compressed1")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg "Carcassonne Infographic - Compressed1")
 
 ### Share this Image On Your Site
 
-<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='http://hexagamers.com/carcassonne-versions-expansions'><img src='http://hexagamers.com/wp-content/uploads/2017/11/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
+<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='http://hexagamers.com/carcassonne-versions-expansions'><img src='http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
 
 ​Carcassonne (2-5 players, 30-45 mins.)
 
-![](//hexagamers.com/wp-content/uploads/2017/10/Carcassonne-Original-2000.jpg "Carcassonne - Original - 2000")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg "Carcassonne - Original - 2000")
 
 Players draw and place tiles to build farms, cities, cloisters and roads so that everything is connected. Everyone has meeples that lay claim to specific areas, but only get points if that area or feature is complete. What's more--scoring points for you can also mean scoring points for your opponents. It's a fun and strategic game good for rookies and vets alike.
 

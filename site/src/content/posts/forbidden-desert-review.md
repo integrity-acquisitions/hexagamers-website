@@ -80,7 +80,7 @@ Now it’s time to get to my absolute favorite part of Forbidden Desert. The mov
 
 When you initially set up the game you set up the individual tiles in a 5 x 5 grid with an empty space in the middle which is the eye of the storm. Throughout the game you will have to flip storm cards, and when you do this the storm moves the tiles around creating a new location for the eye.
 
-[![](//hexagamers.com/wp-content/uploads/2017/08/Forbidden-Desert-Sand-Tiles.jpg)](http://hexagamers.com/wp-content/uploads/2017/08/Forbidden-Desert-Sand-Tiles.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305627/Forbidden-Desert-Sand-Tiles.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305627/Forbidden-Desert-Sand-Tiles.jpg)
 
 Without getting into too much detail, the tiles that are moved by the storm are covered with more sand, and a different area of the board is in danger (although nowhere is ever really safe) There is something about the storm moving around that has me hooked. It really ups the tension in a different way than I have experienced in other games.
 

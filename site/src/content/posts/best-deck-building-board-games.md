@@ -20,7 +20,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg"
 ---
 
-![](//hexagamers.com/wp-content/uploads/2017/02/Deck-building Board-Games.png "Deck building  Board Games")
+
 
 As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you interested is Deck Building Games, and rightfully so. If you are unfamiliar with what we these are, they can be summarized as board games where you slowly improve your hand over the duration of the game, in order to use that hand to help you eventually win.
 

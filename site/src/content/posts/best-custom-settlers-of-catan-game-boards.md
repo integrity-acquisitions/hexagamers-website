@@ -12,7 +12,7 @@ tags:
   - "settlers-of-catan"
 ---
 
-![Best Custom Catan Boards](//hexagamers.com/wp-content/uploads/2017/05/Custom-Catan-Boards-Header.jpg)
+![Best Custom Catan Boards](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305600/Custom-Catan-Boards-Header.jpg)
 
 [Catan](http://hexagamers.com/catan-review) or Settlers of Catan as many still know it, is one of the more popular strategy board games on the market. It is great for beginners (it made it on to our [top board games for beginners list](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews)), but also stand the test of time.
 

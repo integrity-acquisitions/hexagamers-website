@@ -163,7 +163,7 @@ Got a sock fiend in your life, or perhaps a sock fetish yourself? Warm up your t
 
 ## [Game Board Wall Clock](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
 
-[![Hexagamers](//hexagamers.com/wp-content/uploads/2017/06/clock.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305606/clock.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
 
 Do you have gamers in your life who are always running late (Tito, Whitney)? This wall clock is perfect for them, whether in the bathroom, game room or kitchen. It's a unique clock in that it uses actual board game pieces, and when editions are discontinued, the pieces change, making each clock slightly different from the last.
 

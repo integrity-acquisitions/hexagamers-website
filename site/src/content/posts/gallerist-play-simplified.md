@@ -64,7 +64,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg"
 ---
 
-![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-How-To-Play-Simplified-.jpg "Gallerist - How To Play - Simplified -")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305628/Gallerist-How-To-Play-Simplified-.jpg "Gallerist - How To Play - Simplified -")
 
 # OVERVIEW
 
@@ -94,7 +94,7 @@ The matching pink, brown and white tickets are used to move visitors from the pl
 
 The small, square white tiles are artist bonus tiles for the artist tiles, and the grey-blue tiles (reputation tiles) are for the international market.
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Overview-2.jpg "Gallerist Overview 2")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305630/Gallerist-Overview-2.jpg "Gallerist Overview 2")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg)
 
 Ready to play The Gallerist.
 
@@ -108,7 +108,7 @@ There are four action areas on the game board: the sales office, artists colony,
 
 Actions: discover a new artist **or** buy art from an already-discovered artist. 
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Artists-Colony-in-Play.jpg "Gallerist Artists Colony in Play")](http://hexagamers.com/wp-content/uploads/2017/09/Gallerist-Artists-Colony-in-Play-1.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305631/Gallerist-Artists-Colony-in-Play.jpg "Gallerist Artists Colony in Play")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305633/Gallerist-Artists-Colony-in-Play-1.jpg)
 
 The artists colony. Players can buy art from the face-up artists or discover the face-down artists. Art at the right, tickets at the bottom.
 
@@ -156,7 +156,7 @@ See it in action:
 
 You start with two assistants in your office and eight waiting in the unemployment line on your player board. Hire (pay for) as many assistants as what fit at the desks in your office. Each assistant cost is different. 
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Player-Board.jpg "Gallerist Player Board")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305634/Gallerist-Player-Board.jpg "Gallerist Player Board")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg)
 
 Assistants are hired from the unemployment line, shown at left.
 
@@ -178,7 +178,7 @@ Actions: take a contract or sell your art.
 
 Four contracts are placed face-up (pink and brown sides) on the game board. Each has an art medium (sculpture, photography, etc.) and a bonus shown. Take one, or turn four new ones face up and take one of those, and put it on your player board's contract spaces.
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Player-Board.jpg "Gallerist Player Board")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305634/Gallerist-Player-Board.jpg "Gallerist Player Board")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg)
 
 The empty contract spaces are shown bottom centre.
 
@@ -196,7 +196,7 @@ See it in action:
 
 The artist tile's value track shows how much your art is worth. Sell the matching art from your player board and put it next to your board. Flip the contract-face down and move any remaining art to the left in your player board gallery. Put the signature tile back on the game board next to the artist. You'll also lose a visitor from your gallery and put any assistants assigned to the contract back to the player board office.
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Player-Board-with-Contracts-Bonuses.jpg "Gallerist Player Board with Contracts & Bonuses")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-with-Contracts-Bonuses-1_ekrdkr.jpg)Sold artwork is placed near your player board. At left is the unemployment line for assistants with some assigned to contracts to get bonuses.
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305635/Gallerist-Player-Board-with-Contracts-Bonuses.jpg "Gallerist Player Board with Contracts & Bonuses")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-with-Contracts-Bonuses-1_ekrdkr.jpg)Sold artwork is placed near your player board. At left is the unemployment line for assistants with some assigned to contracts to get bonuses.
 
 **Why You Want to Do It**
 
@@ -208,7 +208,7 @@ See it in action:
 
 Actions: take a reputation (blue and grey) tile or bid on renowned artwork.
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-International-Market.jpg "Gallerist International Market")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-International-Market-1_jqan4p.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305636/Gallerist-International-Market.jpg "Gallerist International Market")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-International-Market-1_jqan4p.jpg)
 
 International Market, shown at left, with contracts above and the influence tokens and track at the bottom.
 
@@ -248,7 +248,7 @@ OR
 
 B) You can assign an assistant to a contract and take the bonus.
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/Gallerist-Player-Board-with-Contracts.jpg "Gallerist Player Board with Contracts")](http://hexagamers.com/wp-content/uploads/2017/09/Gallerist-Player-Board-with-Contracts-1.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305637/Gallerist-Player-Board-with-Contracts.jpg "Gallerist Player Board with Contracts")](http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305638/Gallerist-Player-Board-with-Contracts-1.jpg)
 
 An orange meeple is assigned to a contract, immediately giving that bonus.
 

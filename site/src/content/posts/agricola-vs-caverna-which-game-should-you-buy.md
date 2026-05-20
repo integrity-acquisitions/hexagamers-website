@@ -14,7 +14,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg"
 ---
 
-![Agricola Vs Caverna](//hexagamers.com/wp-content/uploads/2017/04/Agricola-Versus-Caverna-1024x727.png)
+![Agricola Vs Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305590/Agricola-Versus-Caverna-1024x727.png)
 
 Are you stuck trying to decide if you should buy the board game Agricola or Caverna?
 
@@ -46,7 +46,7 @@ We will look at things like scoring, replay-ability, interaction, and many more,
 
 Let’s get started… but first a quick comparison chart…
 
-|   Game   | ![Agricola](//hexagamers.com/wp-content/uploads/2017/03/Agricola.jpg) | ![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg) |
+|   Game   | ![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg) | ![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg) |
 | --- | --- | --- |
 |   Number of Players   |   1-5   |   1-7   |
 |   Time To Play   |   30-150 min   |   30-210 min   |
@@ -150,7 +150,7 @@ It might also be wise to think about who you will be playing with here. What do 
 
 One of the differences between Caverna vs Agricola is the timing of the harvests. In former they are random but in the latter they are set. Each has its benefits and its drawbacks (i.e. planning vs luck). They each work great to help keep the feel (a point we will discuss in a bit) of their respective games, but it is worth noting here.
 
-[![](//hexagamers.com/wp-content/uploads/2017/03/Agricola-Game-Board.jpg)](http://hexagamers.com/wp-content/uploads/2017/03/Agricola-Game-Board.jpg)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305592/Agricola-Game-Board.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305592/Agricola-Game-Board.jpg)
 
 Agricola - Harvest is every time you get to the bottom of the board (Click to enlarge)
 

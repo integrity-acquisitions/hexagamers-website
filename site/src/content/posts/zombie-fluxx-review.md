@@ -61,7 +61,7 @@ Thoughts
 
 For Zombie Fluxx, the basic rules remain constant, draw a card and play a card. The neat thing is that as you play the game you can add rule cards that alter the game. Something like a one card hand limit, and that you must groan like a zombie when you pick one up. Also your objective changes as well, there are many goal cards so do not expect the goal to stay the same for long. In general, in order to win you need to collect keeper cards that are associated with the current goal card in play. You may also need zombies, a certain number of zombies or you may need to have no zombies. 
 
-![](//hexagamers.com/wp-content/uploads/2017/09/91Z6CL3bgL._SL1500_-300x300.jpg "Zombie Fluxx")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305659/91Z6CL3bgL._SL1500_-300x300.jpg "Zombie Fluxx")
 
 It is very fast to teach, maybe one of the fastest games to teach that I have played. This is great when you have individuals at a game night and need to slowly introduce them to strategic games. With there being so many different versions, if you like Fluxx there will probably be a version that interests you. Each of these versions has a slightly different element involved in the game. There are many versions ranging from adventure time to monty python.
 

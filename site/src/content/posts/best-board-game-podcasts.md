@@ -298,7 +298,7 @@ Ludology has been around for more than 150 episodes, all of which are roughly an
 
 ## 2\. [Board Game Design Lab](http://www.boardgamedesignlab.com/)
 
-![](//hexagamers.com/wp-content/uploads/2017/09/Board-Game-Design-Lab-1024x1024.png "Board Game Design Lab")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305594/Board-Game-Design-Lab-1024x1024.png "Board Game Design Lab")
 
 |   Frequency   |   Episodes   |   Length (Avg)   |
 | --- | --- | --- |

@@ -25,7 +25,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/My-Mystery-Party_zo5iyh.png"
 ---
 
-![Best Murder Mystery Party Games](//hexagamers.com/wp-content/uploads/2017/10/Best-Murder-Mystery-Party-Companies.jpg "Best Murder Mystery Party Companies")
+![Best Murder Mystery Party Games](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305604/Best-Murder-Mystery-Party-Companies.jpg "Best Murder Mystery Party Companies")
 
 **Disclaimer:** We have labelled this article as the “Best Murder Mystery Parties”, but we haven’t played all of them. What we have done is consolidated all the ones we could find while doing some internet research. As we play more of these over time, we will keep this list updated with reviews, so you can always expect it to be up to date!
 
@@ -134,7 +134,7 @@ The company has also generously offered up a promo code for our readers, enter: 
 
 5\. [Party Time Mysteries](http://partytimemysteries.com/index.html)
 
-![](//hexagamers.com/wp-content/uploads/2017/10/Party-Time-Mysteries-279x300.png "Party Time Mysteries")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305605/Party-Time-Mysteries-279x300.png "Party Time Mysteries")
 
 Party Time Mysteries appears to be another good murder mystery party company. They do seem smaller than lots of the other ones on the list. They have only around 100 Facebook fans and only about half a dozen games to choose from.
 

@@ -57,11 +57,11 @@ Putting aside the morbid theme, I was very open minded about this game… knowin
 
 The initial thought when opening the box is that these cards are AWESOME! They are one of the coolest set of playing cards I have ever used. The cards are clear, and made in a way that their ‘value’ is stackable on other cards. Such an awesome idea and mechanic to work into a board game. See pictures below.
 
-![](https://hexagamers.com/wp-content/uploads/2020/04/Gloom-Back-of-Cards-scaled.jpg "Gloom - Back of Cards")![](https://res.cloudinary.com/dt4ujaczs/image/upload/Gloom-Back-of-Cards_eqsxoj.jpg "Gloom - Back of Cards")
+![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305640/Gloom-Back-of-Cards-scaled.jpg "Gloom - Back of Cards")![](https://res.cloudinary.com/dt4ujaczs/image/upload/Gloom-Back-of-Cards_eqsxoj.jpg "Gloom - Back of Cards")
 
 I won’t get too into how to play Gloom, as we will do a separate article about a simplified how to play at a later time. What you do need to know is that you play cards on your characters (or other people’s characters) that give them positive and negative stats. If your character is in the negative, you can play a card to kill them off. First one to kill off all their family (and have the most negative points attached to them), wins.
 
-![](//hexagamers.com/wp-content/uploads/2018/02/Gloom-Family-Cards1.jpg "Gloom - Family Cards1")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305641/Gloom-Family-Cards1.jpg "Gloom - Family Cards1")
 
 Morbid? Yes. Fun? Also yes.
 
@@ -69,7 +69,7 @@ Taking away the theme of the game, this ends up being an interesting card game t
 
 You will get cards that help you on your path to victory via negative points and untimely death cards, but you also get cards to throw your opponents off their path with positive points… or, in other words, making their families happier. There are also event cards which can help you, hurt your opponent, or sometimes even help your opponent.
 
-![](//hexagamers.com/wp-content/uploads/2018/02/Gloom-Event-Cards1.jpg "Gloom - Event Cards1")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305643/Gloom-Event-Cards1.jpg "Gloom - Event Cards1")
 
 The wide variety of cards give you a number of different options on your turn. Plus all the event cards can turn the game on its head. What I really like about this is that the game is not linear. Your family is constantly going up and down in moral. So much so that even if one of your family members suffers an untimely death, they can come back alive with some cards. Without this randomness, the game would get very stale very quickly, but someone with the right cards and right strategy can keep a game going for a while.
 
@@ -91,7 +91,7 @@ Our regular group, the Hexagamers, all have pretty good senses of humour and are
 
  I do realize that the stories in this game could get old over time. You may run out of interesting ideas to use in your stories and they would get repetitive. Or possibly your group might find that they really aren’t adding to the game, and you just like the game for the playability of it. That’s fair. The stories aren’t integral, and you could drop them without affecting the game play.
 
-![](//hexagamers.com/wp-content/uploads/2018/02/Gloom-Positive-and-Negative-Points-Combined1.jpg "Gloom - Positive and Negative Points Combined1")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305644/Gloom-Positive-and-Negative-Points-Combined1.jpg "Gloom - Positive and Negative Points Combined1")
 
 The games can be very short, or they can stretch out for a while depending on how your cards come up, and the people you are playing with. It isn’t a ‘take all night’ type of strategy game where you have to put on your thinking cap, but does take some thinking.
 

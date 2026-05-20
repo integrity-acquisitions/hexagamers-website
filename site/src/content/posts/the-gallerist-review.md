@@ -92,7 +92,7 @@ This is a heavy game, without a doubt. It's a classic worker placement [Eurogame
 
 The Gallerist is spectacular. Even if they don't like it, board gamers will appreciate The Gallerist for its intricacies, beauty, creativity, challenge and the way it connects every piece of the game. There's no skipping over one of the actions if you want to succeed in becoming a renowned gallerist, and this is what I really appreciate about the game. Everything is important, and the turn count isn't limited so there's no frantic pressure as you watch rounds tick down. The game ends when two or more are true: there are no more tickets, no more visitors in the bag and/or two artists become celebrities. One of my favourite aspects of the game is the player interaction. With some board games, it takes forever for friends to take their turn or for your turn to come up. Not so with The Gallerist, thanks to those lovely kicked-out actions. And, the more players you have, the more chance you have of getting those opportunities. 
 
-![](//hexagamers.com/wp-content/uploads/2017/09/20170829_214241-e1506549803173-225x300.jpg "The Gallerist Artists Colony")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305658/20170829_214241-e1506549803173-225x300.jpg "The Gallerist Artists Colony")
 
 Tickets and the Artists Colony.
 

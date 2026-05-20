@@ -17,7 +17,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Game-Board_g1jbhf.jpg"
 ---
 
-![](//hexagamers.com/wp-content/uploads/2017/09/Catan-1-244x300.jpg "Catan-1")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305654/Catan-1-244x300.jpg "Catan-1")
 
 Wanting to read our full review? Check out...[Ryan's Review of Settlers of Catan Here](https://hexagamers.com/catan-review)
 
@@ -47,7 +47,7 @@ Other players may gang up on you and not trade with you to avoid you getting eve
 
 If you have resources that compliment each other (wood and brick or ore and wheat), it may be a benefit if they are on the same number (both wood and brick are a 9). You can overload these hexes and then you get a large number of resources in one roll. Then you can spend them as soon as you get them. But you will look like a good target for the robber, so keep a knight card ready.
 
-![Catan Resource and Development Cards](https://hexagamers.com/wp-content/uploads/2017/04/Catan-Resources-and-Development-Cards.jpg "Catan Resources and Development Cards")**4\. Development Cards**
+![Catan Resource and Development Cards](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305656/Catan-Resources-and-Development-Cards.jpg "Catan Resources and Development Cards")**4\. Development Cards**
 
 If you have a strategy that does not include buying development cards, consider buying them periodically. If a lot of other players are buying them and playing a lot of knights, you may get lucky and get a victory point card or a monopoly card. Here is a monopoly card trick, trade all of one resource away to the other players for whatever, then play the monopoly card and get it all back. But beware others may not want to trade with you after that. Play a knight card before you roll, especially if the robber is on one of your hexes. Keep a knight card on hand if you are getting targeted by the robber of if you plan to build a few cities on the same hex. 
 
@@ -55,7 +55,7 @@ If you have a strategy that does not include buying development cards, consider 
 
 Don’t place a lot of cities on the same hex tile. This leaves you looking very tempting by the robber. If you find yourself with two cities on one hex or planned this deliberately, keep a knight card on hand to move the robber. 
 
-[![](//hexagamers.com/wp-content/uploads/2017/09/We-built-this-city-on-wheat-and-ore-300x225.jpg "We-built-this-city-on-wheat-and-ore")](https://hexagamers.com/best-settlers-of-catan-gifts)**6\. Ports**
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305657/We-built-this-city-on-wheat-and-ore-300x225.jpg "We-built-this-city-on-wheat-and-ore")](https://hexagamers.com/best-settlers-of-catan-gifts)**6\. Ports**
 
 If you plan to collect a lot of one resource, or end up having a few settlements on the same resource, try to get that resources port. This will help you keep your card number in your hand down and allow you to get resources that are harder for you to get.
 

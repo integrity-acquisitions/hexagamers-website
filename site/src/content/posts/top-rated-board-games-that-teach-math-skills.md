@@ -18,7 +18,7 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.j
 
 Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill tests, and memorization exercises. These make mathematics dull and kids end up shunning it. However, with a bit of effort and creativity, math can be very interesting if not the most interesting subject.
 
-![](//hexagamers.com/wp-content/uploads/2017/03/Teach MATH.png "Teach MATH")
+
 
 How?
 

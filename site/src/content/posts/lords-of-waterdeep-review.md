@@ -18,7 +18,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Player-Card-Full_abbcgh.jpg"
 ---
 
-![Lords of Waterdeep Review](//hexagamers.com/wp-content/uploads/2017/04/Lords-Of-Waterdeep.jpg "Lords Of Waterdeep")
+![Lords of Waterdeep Review](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg "Lords Of Waterdeep")
 
 # OVERVIEW
 

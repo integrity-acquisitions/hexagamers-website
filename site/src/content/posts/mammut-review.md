@@ -72,7 +72,7 @@ I was skeptical from the description and lack of reviews. When I first played, I
 
 When we first started playing, I didn’t realise how important some of the game tokens are. There’s a _lot_ to track in this game, including other player’s tokens. You need to pay attention to what you're getting and what other players have. Mammut is played over four or five rounds (it adapts to the number of players), and each round, the spoils of your mammoth hunt are laid out on the table. The trick is to take what you need without being greedy, or taking too much to score too many points. Either of these moves risks the next player stealing your entire pile (minus a token or two), and you then needing to figure out what your next best move is.
 
-![](//hexagamers.com/wp-content/uploads/2017/08/20170824_141938-300x231.jpg "20170824_141938")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305650/20170824_141938-300x231.jpg "20170824_141938")
 
  
 
@@ -84,7 +84,7 @@ Some of the tokens give you easy points, so we as a group largely focused on tho
 
 Intense strategy games aren’t necessarily my favourite. I’m often decision-stricken and these games can take waaaaaay too long for fun, but Mammut isn’t like this. Even while other players are making their turns, you’re thinking about what you’re going to do--no waiting until your turn to decide. Surprisingly, the strategy element is what I like best about Mammut. Hidden cards can impact even the most well thought-out strategy by capitalising on player gains–no matter who plays the cards–and the Shaman tile always impacts scoring order and how ties are broken—and the Shaman tile is up for grabs, just like everything else.
 
-![](//hexagamers.com/wp-content/uploads/2017/08/20170824_142040-300x225.jpg "20170824_142040")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305651/20170824_142040-300x225.jpg "20170824_142040")
 
  
 
@@ -94,7 +94,7 @@ Reversible shaman tile.
 
 My point is, not everything is an easy points tally. Sometimes you have to make concessions which is a tough choice, and this is where strategy comes into play. It’s surprisingly difficult to stay objective about other players’ tokens while trying to gather the best mix for yourself. Sometimes players are too greedy (Wes), but their pile doesn’t work for you—so what do you do? Take away their points and potentially mess up your round, or leave them alone and potentially give them a huge lead?
 
-![](//hexagamers.com/wp-content/uploads/2017/08/20170824_142236-300x223.jpg "20170824_142236")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305652/20170824_142236-300x223.jpg "20170824_142236")
 
  
 
@@ -104,7 +104,7 @@ Some of the cards available that can change the scoring.
 
 It’s a game that makes long-term planning difficult, and every round, every player turn, is a surprise. A round isn’t over until all the tokens are taken, but anytime you steal someone else’s tokens, you have to put at least one back into the spoils pot, so it’s not a simple grab and go. The spoils pot is different every single round, too, so you can’t start strategizing until the tokens are laid out, and even if you scored big on a previous round, it’s pretty easy for people to catch up. One round can make a huge difference. Sometimes that one decision, that one, simple, straightforward decision, ends up becoming a twist that changes the entire game. (One game we played, I flipped over one of Wes’ tokens, and that won him the game. You’re welcome, Wes.)
 
-![](//hexagamers.com/wp-content/uploads/2017/08/20170824_142135-300x248.jpg "20170824_142135")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305653/20170824_142135-300x248.jpg "20170824_142135")
 
  
 

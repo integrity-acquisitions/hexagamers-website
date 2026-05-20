@@ -64,7 +64,7 @@ You may want to review "Board Game Boxes" below before you go, though, so you ha
 
 Speaking of jumping off points...one of the most popular and well-known gateway games is Settlers of Catan also known as Catan ([see our review here](https://hexagamers.com/catan-review)). If you're really lost, try Catan. It's pretty straightforward​ and easy to understand. If you're stuck, you'll find someone in spitting distance who knows how to play. If you are looking for a list of other [g﻿ood Gateway Board Games For Beginners](https://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews), we have you covered.
 
-[![](//hexagamers.com/wp-content/uploads/2017/02/Catan-1.jpg)](https://hexagamers.com/catan-review)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://hexagamers.com/catan-review)
 
 ## Board Game Boxes: Your Cheat Sheet
 
@@ -86,7 +86,7 @@ Before we get into too much detail, here are a few examples of what your board g
 
 King of New York Box
 
-![](//hexagamers.com/wp-content/uploads/2017/03/Agricola-Game-Board-box-1-576x1024.jpg)
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305624/Agricola-Game-Board-box-1-576x1024.jpg)
 
 Agricola Box
 
@@ -170,7 +170,7 @@ In co-operative games, you work with teammates--sometimes everyone, sometimes on
 
 Check out [Pandemic](https://hexagamers.com/pandemic-review), [Betrayal at House on the Hill](https://hexagamers.com/betrayal-at-house-on-the-hill-review) and [Flash﻿﻿ Point: Fire Rescu﻿﻿e](https://hexagamers.com/flash-point-fire-rescue-review) for examples.​
 
-[![](https://hexagamers.com/wp-content/uploads/2017/02/Pandemic.jpg "Pandemic")](https://hexagamers.com/pandemic-review)[![](https://hexagamers.com/wp-content/uploads/2017/02/Betrayal-1.jpg "Betrayal")](https://hexagamers.com/betrayal-at-house-on-the-hill-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg "Flash Point - Fire Rescue")](https://hexagamers.com/flash-point-fire-rescue-review)
+[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg "Pandemic")](https://hexagamers.com/pandemic-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg "Betrayal")](https://hexagamers.com/betrayal-at-house-on-the-hill-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg "Flash Point - Fire Rescue")](https://hexagamers.com/flash-point-fire-rescue-review)
 
 ​Check out our favourites![Best Cooperative Board Games](https://hexagamers.com/best-cooperative-board-games)
 
@@ -196,7 +196,7 @@ Like two player games, these one player games are adapted or created for one pla
 
 These games are great for people that want to get into the boardgame world but don't have the time to meet with groups of people and/or just enjoy challenging themselves. Again, these can be a good replacement for video games. Good examples here are Friday (1 player only) and [Agricola](https://hexagamers.com/agricola-review) (1-5 players).
 
-![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg "Friday")[![Agricola](https://hexagamers.com/wp-content/uploads/2017/03/Agricola.jpg "Agricola")](https://hexagamers.com/agricola-review)
+![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg "Friday")[![Agricola](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg "Agricola")](https://hexagamers.com/agricola-review)
 
 If you are looking to try out some games by yourself, check out...[Best  Solo Board Games](https://hexagamers.com/best-one-player-solo-board-games-with-reviews)
 
@@ -216,7 +216,7 @@ Evolved from Yahtzee and Go Fish, these games rely on dice and cards to achieve 
 
 Players have a limited number of game pieces they can place to gain points or achieve goals. These pieces all have set roles and impact the game differently. Usually these games are player vs. player. Perhaps the most famous worker placement game is [Settlers of Catan](https://hexagamers.com/catan-review) (a different type of people placing game in that you aren't always moving your worker - Catan might be better classified as an area control board game), but other popular games include [Agricola](https://hexagamers.com/agricola-review) and [Lords of Waterdeep](https://hexagamers.com/lords-of-waterdeep-review).
 
-[![Agricola](https://hexagamers.com/wp-content/uploads/2017/03/Agricola.jpg "Agricola")](https://hexagamers.com/agricola-review)[![](https://hexagamers.com/wp-content/uploads/2017/04/Lords-Of-Waterdeep.jpg "Lords Of Waterdeep")](https://hexagamers.com/lords-of-waterdeep-review)
+[![Agricola](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg "Agricola")](https://hexagamers.com/agricola-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg "Lords Of Waterdeep")](https://hexagamers.com/lords-of-waterdeep-review)
 
 ​Check out some of our favourites:[Best Worker Placement Board Games](https://hexagamers.com/best-worker-placement-board-games-reviews)
 
@@ -224,7 +224,7 @@ Players have a limited number of game pieces they can place to gain points or ac
 
 Players are given a choice of what cards they would like to select or use in the game. This can be from a common pile vs. drawing randomly, or from a set of cards in their hand which will be passed on to another player after choosing one, or somewhere in between. Some of these games can involve a board, and some don't. A couple of good examples in this genre are [7 Wonders](https://hexagamers.com/7-wonders-review) and Citadels.
 
-[![](https://hexagamers.com/wp-content/uploads/2017/05/7-Wonders.jpg "7 Wonders")](https://hexagamers.com/7-wonders-review)![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Citadels-2016_zu5wlu.jpg "Citadels (2016)")
+[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg "7 Wonders")](https://hexagamers.com/7-wonders-review)![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Citadels-2016_zu5wlu.jpg "Citadels (2016)")
 
 We have compiled a list of some of the top games in this genre. Check out:[Best Card Drafting Board Games](https://hexagamers.com/best-card-drafting-board-games)
 
@@ -232,7 +232,7 @@ We have compiled a list of some of the top games in this genre. Check out:[Best 
 
 Everyone has a role, usually secret, and players gather information throughout the game to figure out who's who. Players or teams are often pitted against each other to achieve a common or individual goal, and this goal helps them win the game. Logic, bluffing, strategy and often some kind of special ability or skill help you along the road. [Avalon](https://hexagamers.com/the-resistance-avalon-review), [Coup](https://hexagamers.com/coup-review) and [Deception: Murder in Hong Kong](https://hexagamers.com/deception-murder-hong-kong) are great examples.
 
-[![The Resistance Avalon Review](https://hexagamers.com/wp-content/uploads/2017/04/The-Resistance-Avalon.jpg "The Resistance - Avalon")](https://hexagamers.com/the-resistance-avalon-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg "Coup")](https://hexagamers.com/coup-review)[![Deception board game review](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg "Deception")](https://hexagamers.com/deception-murder-hong-kong)
+[![The Resistance Avalon Review](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg "The Resistance - Avalon")](https://hexagamers.com/the-resistance-avalon-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg "Coup")](https://hexagamers.com/coup-review)[![Deception board game review](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg "Deception")](https://hexagamers.com/deception-murder-hong-kong)
 
 We have compiled a list of some of the top games in this genre, check out...[Best Social Deduction Board Games](https://hexagamers.com/best-social-deduction-board-games)
 
@@ -240,7 +240,7 @@ We have compiled a list of some of the top games in this genre, check out...[Bes
 
 In these games, players are fighting to control an area of the board. There may be different mechanics involved to achieve that, or the win condition of the games might vary. You might think of a classic game like Risk here, but there are some interesting takes on the modern area control board games. Some examples include [Catan](https://hexagamers.com/catan-review), [Ticket to Ride](https://hexagamers.com/ticket-to-ride-europe-review), or Root.
 
-[![](https://hexagamers.com/wp-content/uploads/2017/09/Catan-1.jpg "Catan-1")](https://hexagamers.com/catan-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg "Ticket to Ride Europe")](https://hexagamers.com/ticket-to-ride-europe-review)
+[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg "Catan-1")](https://hexagamers.com/catan-review)[![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg "Ticket to Ride Europe")](https://hexagamers.com/ticket-to-ride-europe-review)
 
 ## What are some terms I need to know?
 

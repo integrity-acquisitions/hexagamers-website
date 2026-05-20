@@ -73,7 +73,7 @@ Kon'nichiwa! East meets West in these board games. It doesn't really matter whet
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/hanabi_lwiwni.jpg "hanabi") |   [**Hanabi**](https://amzn.to/2xhqNmk)   |   2-5   |   20 mins.   |   $   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/lanterns_xwu1j9.png "lanterns") |   [**Lanterns**](https://amzn.to/34wwuss)   |   2-4   |   20 mins.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/tokaido_vn2ido.jpg "tokaido") |   [**Tokaido**](https://amzn.to/3efgfop)   |   2-5   |   45 mins.   |   $$   |  |
-| ![](//hexagamers.com/wp-content/uploads/2018/08/sushigo.jpg "sushigo") |   [**Sushi Go/Party**](https://amzn.to/2VlJptc)   |   2-8   |   15 mins.   |   $   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305615/sushigo.jpg "sushigo") |   [**Sushi Go/Party**](https://amzn.to/2VlJptc)   |   2-8   |   15 mins.   |   $   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/hanamikoji_jmervm.jpg "hanamikoji") |   [**Hanamikoji**](https://amzn.to/3b6UHrR) **or**[**Shadows in Kyoto**](https://amzn.to/2VpiRHv)   |   2Or2   |   15 minsor15-30 mins.   |   $Or$$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/lotus_ep315f.jpg "lotus") |   [**Lotus**](https://amzn.to/2K3OgKs)   |   2-4   |   30 mins.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/kanagawa_ocxr63.jpg "kanagawa") |   [**Kanagawa**](https://amzn.to/2yZ3LRB)   |   2-4   |   45 mins.   |   $$$   |  |
@@ -130,7 +130,7 @@ You can definitely learn this game in under five minutes, though it takes a coup
 
 Our Rating:
 
-[![](//hexagamers.com/wp-content/uploads/2018/08/sushigo.jpg "sushigo")](https://amzn.to/2VlJptc)
+[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305615/sushigo.jpg "sushigo")](https://amzn.to/2VlJptc)
 
 Sushi Go! is a fun and quick card drafting game for 2-5 players. Sushi Go! Party **plays up to eight people**. Both are great for newbies and seasoned players alike as it's easy to learn but still strategic and competitive. If you're a fan of card drafting and games like [7 Wonders](https://hexagamers.com/7-wonders-review), Sushi Go is an enjoyable, fun and lighter change of pace. It's a great intro for people intimidated by weightier games.
 

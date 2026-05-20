@@ -55,7 +55,7 @@ Whether you are looking for a first date spot, hosting a birthday party for kids
 
 | ​ | Cafe | Location | Phone | Cover Price | Hours of Operation |
 | --- | --- | --- | --- | --- | --- |
-| ![](//hexagamers.com/wp-content/uploads/2017/08/BBG-sign-300x225.jpg "BBG sign") | Beyond Board Games & Events | 6 Blackfoot Road | 780 851-2233 | $5 flat rate PP | **M-T** 11-11 **F** 11A-2A **Sa** 10A-2A **Su** 10A-11P |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305617/BBG-sign-300x225.jpg "BBG sign") | Beyond Board Games & Events | 6 Blackfoot Road | 780 851-2233 | $5 flat rate PP | **M-T** 11-11 **F** 11A-2A **Sa** 10A-2A **Su** 10A-11P |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/BNB_zgnb2o.png "BNB") | Board N Brew Cafe | 9929-103 St NW | 780 757-8262 | $5 flat rate PP | **M-T** 11-11**F** 11A-2A**Sa** 10A-2A**Su** 10A-11P |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/GL_yfp8xx.png "GL") | Gamers' Lodge | 10459-124 St NW | 780 428-4880 | Su-Th $10/table, 4 max; F-S $5 PP | **M-T** 11A-12A**F-Sa** 11A-2A**Su** 11-11 |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/HG_umgpib.png "HG") | Hexagon Board Game Cafe | 10123-82 Ave NW | 780 757-3105 | $2.5/hr PP | **Su-T** 11-11**F** 11A-12A**Sa** 11A-1A |
@@ -63,13 +63,13 @@ Whether you are looking for a first date spot, hosting a birthday party for kids
 
 ## Beyond Board Games & Events
 
-![](//hexagamers.com/wp-content/uploads/2017/08/BBG-sign-300x225.jpg "BBG sign")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305617/BBG-sign-300x225.jpg "BBG sign")
 
 Located just off Baseline Road as you enter Sherwood Park, Beyond Board Games & Events is a smaller cafe that just opened in 2016. It's starting to hit its stride and is expanding its shelves weekly as well as its event offerings. Jason is one of the owners, and he's a cheerful, approachable and friendly guy who is happy to assist, advise or receive suggestions.
 
 When we wandered BBGE, we first noticed the games were set up according to style: family games, party games, card games, and so forth. Jason is constantly organizing his shelves, and we love the way the games are laid out--not to mention the wall of kid-friendly and classic games. If you're unfamiliar with recent games or don't know where to start, hit this shelf first.
 
-![](//hexagamers.com/wp-content/uploads/2017/08/Beyond-Board-Games-2-300x225.jpg "Beyond Board Games 2")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305618/Beyond-Board-Games-2-300x225.jpg "Beyond Board Games 2")
 
 Games available to play.
 
@@ -77,7 +77,7 @@ There are a lot of games and a lot of tables to choose from, and an excellent la
 
 What we really enjoy about BBGE is how it supports the local community. Some employees are from the [Robin Hood Association](https://www.robinhoodassoc.com/content/1/WelcomeToRobinHood) and BBGE has plans to partner with Mastermind Toys to run kids camps that teach Science, Technology, Math and Engineering (STEM) skills. Additionally, they run D&D and Magic: The Gathering events, among others, that provide a safe hangout for kids and teens while mom and dad have a night out.
 
-![](//hexagamers.com/wp-content/uploads/2017/08/BBG-to-the-back-300x225.jpg "BBG to the back")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305618/BBG-to-the-back-300x225.jpg "BBG to the back")
 
 Cover charge is $5 which allows you to play all night long, and they are licensed so you can grab a beer as well as a few snacks while you play. Pop by BBGE for a laid-back night out. If you're new or a vet in the board games world, you'll likely find a few new games you haven't played before, and you'll definitely find good company who are happy to help you learn or talk games!​
 
@@ -107,23 +107,23 @@ Hexagon describes themselves as “Coffee, Games, and Community” and we agree.
 
 Table Top Cafe is the first and original board games cafe in Edmonton. Their downtown location is their second, located off Jasper Ave near the old MEC location. Parking might be tough on busy Saturday nights, but we had no issue finding a street spot in front of the cafe.
 
-![](//hexagamers.com/wp-content/uploads/2017/09/20170902_194724-300x225.jpg "20170902_194724")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305619/20170902_194724-300x225.jpg "20170902_194724")
 
 When we walked in, we were pleased with how open, spacious and welcoming it feels. They built a cool feature wall using board game box tops that greets you when you come in, and there are shelves of accessories and some of the games they carry for sale.
 
-![](//hexagamers.com/wp-content/uploads/2017/09/20170902_194347-300x225.jpg "20170902_194347")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305621/20170902_194347-300x225.jpg "20170902_194347")
 
 Looking at the cafe from the door.
 
 Staff greet you when you walk in, and if you're new, they're happy to explain how the cafe functions. We hit the cafe late afternoon, just before suppertime, and we were surprised at the constant stream of people coming in to join their friends or set up a new table. It's a popular spot and the staff keep busy, helping gamers and serving up drinks food (hilarious play-on-word names: Betrayal at Clubhouse on the Hill, Settlers of Chick-an, etc.). We grabbed a table and stood in front of the shelves of games, stumped on what to play. There are so many games and choices, and the shelves are organized by different elements: player numbers, themes, length, etc.
 
-![](//hexagamers.com/wp-content/uploads/2017/09/20170902_194454-300x225.jpg "20170902_194454")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305622/20170902_194454-300x225.jpg "20170902_194454")
 
 SO many games to choose from!
 
 One of the staffers helped us pick a game (Dice Forge, which we ended up thoroughly enjoying) and walked us through how to play. We appreciated her easy, simple explanation and offer to help if we got stuck anywhere during the game. We never felt like we were bothering staff with our questions and definitely felt comfortable gaming and hanging out here.
 
-![](//hexagamers.com/wp-content/uploads/2017/09/20170902_194438-300x225.jpg "20170902_194438")
+![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305623/20170902_194438-300x225.jpg "20170902_194438")
 
 Only some of the many games for sale.
 
