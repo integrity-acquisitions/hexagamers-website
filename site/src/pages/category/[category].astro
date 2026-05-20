@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+
+const CATEGORIES = [
+  { slug: 'reviews', label: 'Reviews', description: 'Honest, in-depth reviews of board games for every type of player.' },
+  { slug: 'how-to-play', label: 'How To Play', description: 'Simplified rules guides so you can get to the fun faster.' },
+  { slug: 'favourites-lists', label: 'Best-Of Lists', description: 'Curated picks for every occasion, group size, and taste.' },
+  { slug: 'miscellaneous', label: 'Articles', description: 'Essays, comparisons, and everything else board game related.' },
+  { slug: 'memes', label: 'Board Game Memes', description: 'For the laughs. Every gamer gets it.' },
+  { slug: 'games', label: 'Games', description: 'All board game content on Hexagamers.' },
+];
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+  const cats = ['reviews', 'how-to-play', 'favourites-lists', 'miscellaneous', 'memes', 'games'];
+  return cats.map(cat => ({
+    params: { category: cat },
+    props: {
+      posts: allPosts
+        .filter(p => p.data.categories?.includes(cat))
+        .sort((a, b) => b.data.date.getTime() - a.data.date.getTime()),
+      category: cat,
+    },
+  }));
+}
+
+const { posts, category } = Astro.props;
+const meta = CATEGORIES.find(c => c.slug === category) ?? { label: category, description: '' };
+---
+<Base
+  title={meta.label}
+  description={meta.description}
+>
+  <section class="category-page">
+    <div class="container">
+      <header class="page-header fade-up">
+        <p class="section-label">Category</p>
+        <h1>{meta.label}</h1>
+        <p class="page-sub">{meta.description}</p>
+        <p class="post-count">{posts.length} posts</p>
+      </header>
+
+      {posts.length > 0 ? (
+        <div class="cat-grid">
+          {posts.map((post, i) => (
+            <div class:list={['fade-up', `fade-up-${(i % 5) + 1}`]}>
+              <PostCard post={post} />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <p>No posts in this category yet.</p>
+          <a href="/blog/" class="btn btn-outline">Browse all posts</a>
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
+
+<style>
+.category-page { padding: 4rem 0 5rem; }
+.page-header { margin-bottom: 3rem; }
+.page-header h1 { margin: 0.5rem 0; }
+.page-sub { color: var(--text-2); font-size: 0.95rem; margin-bottom: 0.5rem; }
+.post-count {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.empty-state {
+  text-align: center;
+  padding: 4rem 0;
+  color: var(--text-3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+@media (max-width: 900px) { .cat-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .cat-grid { grid-template-columns: 1fr; } }
+</style>

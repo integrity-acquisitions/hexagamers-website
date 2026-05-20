@@ -1,0 +1,170 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+  featured?: boolean;
+}
+
+const { post, featured = false } = Astro.props;
+const { title, date, categories, coverImage, description } = post.data;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  month: 'short', day: 'numeric', year: 'numeric',
+});
+const mainCategory = categories?.[0] ?? 'games';
+const categoryLabel: Record<string, string> = {
+  'reviews': 'Review',
+  'how-to-play': 'How To Play',
+  'favourites-lists': 'Best-Of List',
+  'miscellaneous': 'Article',
+  'memes': 'Fun',
+  'games': 'Games',
+};
+const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
+---
+<article class:list={['post-card', { featured }]}>
+  {coverImage && (
+    <a href={`/blog/${post.id}/`} class="card-img-wrap" aria-hidden="true" tabindex="-1">
+      <img src={coverImage} alt={title} loading="lazy" />
+    </a>
+  )}
+  {!coverImage && (
+    <div class="card-placeholder" aria-hidden="true">
+      <svg viewBox="0 0 60 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 2L58 17V53L30 68L2 53V17L30 2Z" stroke="currentColor" stroke-width="1.5" stroke-opacity="0.3"/>
+        <path d="M30 14L50 25V47L30 58L10 47V25L30 14Z" stroke="currentColor" stroke-width="1" stroke-opacity="0.15"/>
+      </svg>
+    </div>
+  )}
+  <div class="card-body">
+    <div class="card-meta">
+      <a href={`/category/${mainCategory}/`} class="cat-badge">{catDisplay}</a>
+      <time datetime={date.toISOString()} class="card-date">{formattedDate}</time>
+    </div>
+    <h2 class="card-title">
+      <a href={`/blog/${post.id}/`}>{title}</a>
+    </h2>
+    {description && <p class="card-desc">{description}</p>}
+    <a href={`/blog/${post.id}/`} class="card-read-more" aria-label={`Read ${title}`}>
+      Read more
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+        <path d="M1 7h12M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  </div>
+</article>
+
+<style>
+.post-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+.post-card:hover {
+  border-color: rgba(240,165,0,0.3);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+.post-card.featured { grid-column: span 2; flex-direction: row; }
+
+.card-img-wrap {
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  flex-shrink: 0;
+}
+.post-card.featured .card-img-wrap {
+  aspect-ratio: auto;
+  width: 46%;
+}
+.card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.post-card:hover .card-img-wrap img { transform: scale(1.04); }
+
+.card-placeholder {
+  aspect-ratio: 16/9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-3);
+  flex-shrink: 0;
+}
+.card-placeholder svg {
+  width: 60px;
+  color: var(--amber);
+}
+.post-card.featured .card-placeholder {
+  aspect-ratio: auto;
+  width: 46%;
+}
+
+.card-body {
+  padding: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  flex: 1;
+}
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.card-date {
+  font-size: 0.72rem;
+  color: var(--text-3);
+  letter-spacing: 0.05em;
+}
+.card-title {
+  font-size: 1.1rem;
+  margin: 0;
+}
+.post-card.featured .card-title { font-size: 1.5rem; }
+.card-title a {
+  color: var(--text);
+  transition: color 0.15s;
+}
+.card-title a:hover { color: var(--amber-light); }
+.card-desc {
+  font-size: 0.85rem;
+  color: var(--text-2);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.card-read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--amber);
+  letter-spacing: 0.04em;
+  margin-top: auto;
+  padding-top: 0.5rem;
+  transition: gap 0.15s;
+}
+.card-read-more:hover { gap: 0.65em; }
+
+@media (max-width: 768px) {
+  .post-card.featured {
+    flex-direction: column;
+    grid-column: span 1;
+  }
+  .post-card.featured .card-img-wrap,
+  .post-card.featured .card-placeholder {
+    width: 100%;
+  }
+}
+</style>

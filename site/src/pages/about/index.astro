@@ -1,0 +1,177 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base
+  title="About Hexagamers"
+  description="Learn about Hexagamers — a board game review and guide site for tabletop enthusiasts of all experience levels."
+>
+  <div class="about-page">
+    <div class="container">
+      <header class="about-header fade-up">
+        <p class="section-label">About</p>
+        <h1>Built by a Board Gamer,<br/>For Board Gamers</h1>
+      </header>
+
+      <div class="about-body">
+        <div class="about-content fade-up fade-up-1">
+          <p class="lead">
+            Hexagamers is a board game blog dedicated to helping you find your next great game — whether you're a seasoned strategist or someone who just opened their first box of Catan.
+          </p>
+          <p>
+            Every review, how-to-play guide, and best-of list on this site comes from real playthroughs and genuine enthusiasm for tabletop gaming. No paid promotions, no fluff — just honest opinions on games we've actually played.
+          </p>
+          <h2>What You'll Find Here</h2>
+          <ul class="feature-list">
+            <li>
+              <span class="feature-icon" aria-hidden="true">★</span>
+              <div>
+                <strong>Reviews</strong> — Detailed takes on what works, what doesn't, who'll love it, and whether it's worth the price.
+              </div>
+            </li>
+            <li>
+              <span class="feature-icon" aria-hidden="true">◎</span>
+              <div>
+                <strong>How-To-Play Guides</strong> — Simplified rulebooks so your group spends less time reading and more time playing.
+              </div>
+            </li>
+            <li>
+              <span class="feature-icon" aria-hidden="true">◈</span>
+              <div>
+                <strong>Best-Of Lists</strong> — Curated picks by player count, age, category, and occasion.
+              </div>
+            </li>
+          </ul>
+          <h2>Affiliate Disclosure</h2>
+          <p>
+            Some links on this site are Amazon affiliate links. If you buy a game through one of those links, we earn a small commission at no extra cost to you. It helps keep the site running. We only recommend games we genuinely like.
+          </p>
+        </div>
+
+        <aside class="about-sidebar fade-up fade-up-2">
+          <div class="sidebar-card">
+            <div class="hex-badge" aria-hidden="true">
+              <svg viewBox="0 0 80 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M40 2L78 23V69L40 90L2 69V23L40 2Z" stroke="currentColor" stroke-width="2"/>
+                <path d="M40 16L66 31V61L40 76L14 61V31L40 16Z" fill="currentColor" fill-opacity="0.08" stroke="currentColor" stroke-width="1.5"/>
+                <text x="40" y="56" text-anchor="middle" font-family="Georgia,serif" font-weight="900" font-size="28" fill="currentColor">H</text>
+              </svg>
+            </div>
+            <p class="sidebar-tagline">Board games for every table.</p>
+          </div>
+          <div class="sidebar-stats">
+            <div class="about-stat">
+              <span class="about-stat-num">100+</span>
+              <span class="about-stat-label">Games Reviewed</span>
+            </div>
+            <div class="about-stat">
+              <span class="about-stat-num">4</span>
+              <span class="about-stat-label">Content Types</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+</Base>
+
+<style>
+.about-page { padding: 4rem 0 6rem; }
+.about-header { margin-bottom: 3.5rem; }
+.about-header h1 { margin-top: 0.5rem; }
+
+.about-body {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 4rem;
+  align-items: start;
+}
+
+.about-content .lead {
+  font-size: 1.15rem;
+  color: var(--text-2);
+  line-height: 1.75;
+  margin-bottom: 1.5rem;
+}
+.about-content p { margin-bottom: 1.5rem; color: var(--text-2); }
+.about-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.feature-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+.feature-list li {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.feature-icon {
+  color: var(--amber);
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 0.1em;
+  line-height: 1.5;
+}
+.feature-list strong { color: var(--text); }
+
+.about-sidebar { position: sticky; top: 6rem; }
+.sidebar-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.hex-badge {
+  width: 80px;
+  height: 92px;
+  color: var(--amber);
+  margin: 0 auto 1rem;
+}
+.hex-badge svg { width: 100%; height: 100%; }
+.sidebar-tagline {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--text-2);
+  font-size: 1rem;
+}
+.sidebar-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.about-stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem;
+  text-align: center;
+}
+.about-stat-num {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--amber);
+  line-height: 1;
+}
+.about-stat-label {
+  display: block;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-top: 0.3rem;
+}
+
+@media (max-width: 768px) {
+  .about-body { grid-template-columns: 1fr; }
+  .about-sidebar { position: static; }
+}
+</style>

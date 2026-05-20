@@ -1,0 +1,157 @@
+---
+const navLinks = [
+  { href: '/category/reviews/', label: 'Reviews' },
+  { href: '/category/how-to-play/', label: 'How To Play' },
+  { href: '/category/favourites-lists/', label: 'Best-Of Lists' },
+  { href: '/about/', label: 'About' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+<header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a href="/" class="logo" aria-label="Hexagamers home">
+      <img src="/logo.png" alt="Hexagamers" class="logo-img" width="180" height="50" />
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul role="list">
+        {navLinks.map(({ href, label }) => (
+          <li>
+            <a
+              href={href}
+              class={currentPath.startsWith(href) ? 'active' : ''}
+              aria-current={currentPath.startsWith(href) ? 'page' : undefined}
+            >
+              {label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <button class="mobile-menu-btn" id="mobile-menu-btn" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+
+  <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation" hidden>
+    <ul role="list">
+      {navLinks.map(({ href, label }) => (
+        <li><a href={href}>{label}</a></li>
+      ))}
+    </ul>
+  </nav>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  if (btn && menu) {
+    btn.addEventListener('click', () => {
+      const open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      menu.hidden = open;
+      btn.classList.toggle('open', !open);
+    });
+  }
+</script>
+
+<style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(13,13,14,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  height: 64px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  transition: opacity 0.18s;
+}
+.logo:hover { opacity: 0.85; }
+.logo-img {
+  height: 36px;
+  width: auto;
+  /* Tint the black logo to amber to match the site palette */
+  filter: invert(1) sepia(1) saturate(4) hue-rotate(5deg) brightness(1.05);
+}
+
+.main-nav { margin-left: auto; }
+.main-nav ul {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+.main-nav a {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-2);
+  padding: 0.4em 0.85em;
+  border-radius: var(--radius);
+  transition: color 0.15s, background 0.15s;
+  letter-spacing: 0.02em;
+}
+.main-nav a:hover { color: var(--text); background: var(--surface); }
+.main-nav a.active {
+  color: var(--amber);
+  background: var(--amber-dim);
+}
+
+.mobile-menu-btn {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  margin-left: auto;
+  min-width: 44px;
+  min-height: 44px;
+  justify-content: center;
+  align-items: center;
+}
+.mobile-menu-btn span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--text-2);
+  border-radius: 1px;
+  transition: all 0.2s ease;
+  transform-origin: center;
+}
+.mobile-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.mobile-menu-btn.open span:nth-child(2) { opacity: 0; }
+.mobile-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+.mobile-menu {
+  background: var(--bg-2);
+  border-top: 1px solid var(--border);
+  padding: 1rem 0;
+}
+.mobile-menu ul { display: flex; flex-direction: column; }
+.mobile-menu a {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  color: var(--text-2);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.15s, background 0.15s;
+}
+.mobile-menu a:hover { color: var(--amber); background: var(--amber-dim); }
+
+@media (max-width: 640px) {
+  .main-nav { display: none; }
+  .mobile-menu-btn { display: flex; }
+}
+</style>

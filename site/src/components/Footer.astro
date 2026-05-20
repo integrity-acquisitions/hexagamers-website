@@ -1,0 +1,115 @@
+---
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo-hex" aria-hidden="true">
+        <svg viewBox="0 0 40 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M20 1L39 11.5V34.5L20 45L1 34.5V11.5L20 1Z" stroke="currentColor" stroke-width="1.5"/>
+          <text x="20" y="28" text-anchor="middle" font-family="Georgia,serif" font-weight="900" font-size="14" fill="currentColor">H</text>
+        </svg>
+      </div>
+      <span class="footer-name">Hexagamers</span>
+      <p class="footer-about">Reviews, guides, and curated lists for the tabletop enthusiast.</p>
+    </div>
+
+    <nav class="footer-nav" aria-label="Footer navigation">
+      <p class="footer-nav-heading">Explore</p>
+      <ul role="list">
+        <li><a href="/category/reviews/">Reviews</a></li>
+        <li><a href="/category/how-to-play/">How To Play</a></li>
+        <li><a href="/category/favourites-lists/">Best-Of Lists</a></li>
+        <li><a href="/about/">About</a></li>
+      </ul>
+    </nav>
+
+    <nav class="footer-nav" aria-label="Legal navigation">
+      <p class="footer-nav-heading">Info</p>
+      <ul role="list">
+        <li><a href="/disclaimer/">Disclaimer</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>&copy; {year} Hexagamers. All rights reserved.</p>
+      <p class="affiliate-text">Amazon affiliate links used throughout this site.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+.site-footer {
+  background: var(--bg-2);
+  border-top: 1px solid var(--border);
+  margin-top: 5rem;
+}
+.footer-inner {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1fr;
+  gap: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.footer-brand { display: flex; flex-direction: column; gap: 0.5rem; }
+.footer-logo-hex {
+  width: 32px;
+  height: 37px;
+  color: var(--amber);
+}
+.footer-logo-hex svg { width: 100%; height: 100%; }
+.footer-name {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+.footer-about {
+  font-size: 0.82rem;
+  color: var(--text-3);
+  line-height: 1.6;
+  max-width: 280px;
+  margin-top: 0.25rem;
+}
+.footer-nav-heading {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.75rem;
+}
+.footer-nav ul { display: flex; flex-direction: column; gap: 0.4rem; }
+.footer-nav a {
+  font-size: 0.82rem;
+  color: var(--text-3);
+  transition: color 0.15s;
+}
+.footer-nav a:hover { color: var(--amber); }
+
+.footer-bottom {
+  border-top: 1px solid var(--border);
+}
+.footer-bottom-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.footer-bottom p {
+  font-size: 0.75rem;
+  color: var(--text-3);
+}
+.affiliate-text { font-style: italic; }
+
+@media (max-width: 640px) {
+  .footer-inner { grid-template-columns: 1fr; gap: 2rem; }
+  .footer-bottom-inner { flex-direction: column; align-items: flex-start; }
+}
+</style>

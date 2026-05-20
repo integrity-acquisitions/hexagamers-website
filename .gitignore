@@ -1,0 +1,11 @@
+# Environment
+.env
+
+# Astro build output
+site/dist/
+site/.astro/
+site/node_modules/
+
+# Misc
+.DS_Store
+*.log

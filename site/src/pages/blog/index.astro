@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+<Base
+  title="All Posts"
+  description="Every board game review, how-to-play guide, and best-of list on Hexagamers."
+>
+  <section class="blog-index">
+    <div class="container">
+      <header class="page-header fade-up">
+        <p class="section-label">Archive</p>
+        <h1>All Posts</h1>
+        <p class="page-sub">{sorted.length} articles on board games, reviews, and guides.</p>
+      </header>
+      <div class="blog-grid">
+        {sorted.map((post, i) => (
+          <div class:list={['fade-up', `fade-up-${(i % 5) + 1}`]}>
+            <PostCard post={post} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+.blog-index { padding: 4rem 0 5rem; }
+.page-header { margin-bottom: 3rem; }
+.page-header h1 { margin: 0.5rem 0; }
+.page-sub { color: var(--text-2); font-size: 0.95rem; }
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+@media (max-width: 900px) { .blog-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .blog-grid { grid-template-columns: 1fr; } }
+</style>

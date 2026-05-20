@@ -1,0 +1,232 @@
+---
+import Base from './Base.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+const { post } = Astro.props;
+const { title, date, categories, tags, description, coverImage } = post.data;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+
+const mainCategory = categories?.[0] ?? 'games';
+const categoryLabel: Record<string, string> = {
+  'reviews': 'Review',
+  'how-to-play': 'How To Play',
+  'favourites-lists': 'Best-Of List',
+  'miscellaneous': 'Article',
+  'memes': 'For the Laughs',
+  'games': 'Games',
+};
+const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
+---
+<Base title={title} description={description ?? title} image={coverImage}>
+  <article class="post-page">
+    <header class="post-header">
+      <div class="container">
+        <div class="post-meta fade-up">
+          <a href={`/category/${mainCategory}/`} class="cat-badge">{catDisplay}</a>
+          <time datetime={date.toISOString()} class="post-date">{formattedDate}</time>
+        </div>
+        <h1 class="post-title fade-up fade-up-1">{title}</h1>
+        {coverImage && (
+          <div class="post-hero fade-up fade-up-2">
+            <img src={coverImage} alt={title} loading="eager" />
+          </div>
+        )}
+      </div>
+    </header>
+
+    <div class="container post-body-wrap">
+      <div class="post-content fade-up fade-up-2">
+        <slot />
+      </div>
+
+      <aside class="post-sidebar">
+        <div class="sidebar-card">
+          <p class="sidebar-label">Categories</p>
+          <div class="sidebar-tags">
+            {categories?.map(c => (
+              <a href={`/category/${c}/`} class="cat-badge">{c.replace(/-/g, ' ')}</a>
+            ))}
+          </div>
+        </div>
+        {tags && tags.length > 0 && (
+          <div class="sidebar-card">
+            <p class="sidebar-label">Tags</p>
+            <div class="sidebar-tags">
+              {tags.slice(0, 12).map(t => (
+                <span class="tag-chip">{t.replace(/-/g, ' ')}</span>
+              ))}
+            </div>
+          </div>
+        )}
+        <div class="sidebar-card affiliate-note">
+          <p class="sidebar-label">Disclosure</p>
+          <p>As an Amazon Associate, Hexagamers earns from qualifying purchases at no extra cost to you.</p>
+        </div>
+      </aside>
+    </div>
+  </article>
+</Base>
+
+<style>
+.post-page { padding-bottom: 5rem; }
+
+.post-header {
+  background: linear-gradient(180deg, var(--bg-2) 0%, var(--bg) 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 3rem 0 0;
+  margin-bottom: 3rem;
+}
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+.post-date {
+  font-size: 0.8rem;
+  color: var(--text-3);
+  letter-spacing: 0.06em;
+}
+.post-title {
+  max-width: 840px;
+  margin-bottom: 2rem;
+}
+.post-hero {
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  overflow: hidden;
+  max-height: 480px;
+}
+.post-hero img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+}
+
+.post-body-wrap {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 3rem;
+  align-items: start;
+}
+
+/* ── Post content prose ── */
+.post-content {
+  min-width: 0;
+  color: var(--text);
+}
+.post-content :global(h2),
+.post-content :global(h3),
+.post-content :global(h4) {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+.post-content :global(p) { margin-bottom: 1.5rem; }
+.post-content :global(ul),
+.post-content :global(ol) {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+.post-content :global(ul) { list-style: disc; }
+.post-content :global(ol) { list-style: decimal; }
+.post-content :global(li) { margin-bottom: 0.4rem; }
+.post-content :global(img) {
+  border-radius: var(--radius-lg);
+  margin: 1.5rem 0;
+  width: 100%;
+}
+.post-content :global(a) {
+  color: var(--amber-light);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.post-content :global(a[href*="amazon"]),
+.post-content :global(a[href*="amzn"]) {
+  color: var(--amber);
+  font-weight: 500;
+}
+.post-content :global(strong) { color: var(--text); font-weight: 600; }
+.post-content :global(blockquote) {
+  border-left: 3px solid var(--amber);
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: var(--surface);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  color: var(--text-2);
+  font-style: italic;
+}
+.post-content :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+.post-content :global(th) {
+  background: var(--surface);
+  color: var(--amber);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--border);
+}
+.post-content :global(td) {
+  padding: 0.6rem 0.9rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.post-content :global(tr:nth-child(even) td) { background: var(--surface); }
+.post-content :global(hr) {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* ── Sidebar ── */
+.post-sidebar { position: sticky; top: 6rem; }
+.sidebar-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+.sidebar-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.75rem;
+}
+.sidebar-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.tag-chip {
+  font-size: 0.65rem;
+  padding: 0.2em 0.55em;
+  background: var(--bg-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-2);
+  text-transform: capitalize;
+}
+.affiliate-note p:not(.sidebar-label) {
+  font-size: 0.78rem;
+  color: var(--text-3);
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .post-body-wrap {
+    grid-template-columns: 1fr;
+  }
+  .post-sidebar { position: static; }
+}
+</style>

@@ -1,0 +1,252 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const featured = sorted[0];
+const recent = sorted.slice(1, 7);
+
+const categories = [
+  { slug: 'reviews', label: 'Reviews', icon: '★', count: allPosts.filter(p => p.data.categories?.includes('reviews')).length },
+  { slug: 'how-to-play', label: 'How To Play', icon: '◎', count: allPosts.filter(p => p.data.categories?.includes('how-to-play')).length },
+  { slug: 'favourites-lists', label: 'Best-Of Lists', icon: '◈', count: allPosts.filter(p => p.data.categories?.includes('favourites-lists')).length },
+  { slug: 'miscellaneous', label: 'Articles', icon: '◇', count: allPosts.filter(p => p.data.categories?.includes('miscellaneous')).length },
+];
+---
+<Base
+  title="Hexagamers — Board Game Reviews, Guides & Best-Of Lists"
+  description="In-depth board game reviews, how-to-play guides, and curated lists to help you find your next great tabletop game."
+>
+  <!-- ── Hero ── -->
+  <section class="hero" aria-label="Featured post">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="hero-eyebrow fade-up">
+          <span class="eyebrow-hex" aria-hidden="true">⬡</span>
+          Board Game Hub
+        </p>
+        <h1 class="hero-headline fade-up fade-up-1">
+          Find Your Next<br/><em>Favourite Game</em>
+        </h1>
+        <p class="hero-sub fade-up fade-up-2">
+          Honest reviews, simplified rules guides, and curated lists — everything you need to level up your tabletop game night.
+        </p>
+        <div class="hero-actions fade-up fade-up-3">
+          <a href="/category/reviews/" class="btn btn-primary">Browse Reviews</a>
+          <a href="/category/favourites-lists/" class="btn btn-outline">Best-Of Lists</a>
+        </div>
+      </div>
+
+      {featured && (
+        <div class="hero-featured fade-up fade-up-2">
+          <p class="section-label" style="margin-bottom:1rem;">Latest Post</p>
+          <PostCard post={featured} />
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- ── Category Nav ── -->
+  <section class="cat-section" aria-labelledby="cat-heading">
+    <div class="container">
+      <p class="section-label" id="cat-heading">Browse by Type</p>
+      <ul class="cat-grid" role="list">
+        {categories.map(({ slug, label, icon, count }) => (
+          <li>
+            <a href={`/category/${slug}/`} class="cat-card">
+              <span class="cat-icon" aria-hidden="true">{icon}</span>
+              <span class="cat-label">{label}</span>
+              <span class="cat-count">{count} posts</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ── Recent Posts ── -->
+  <section class="posts-section" aria-labelledby="recent-heading">
+    <div class="container">
+      <p class="section-label" id="recent-heading">Recent Posts</p>
+      <div class="posts-grid">
+        {recent.map((post, i) => (
+          <div class:list={['post-card-wrap', `fade-up`, `fade-up-${(i % 4) + 1}`]}>
+            <PostCard post={post} />
+          </div>
+        ))}
+      </div>
+      <div class="view-all-wrap">
+        <a href="/blog/" class="btn btn-outline">View All Posts</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Stats strip ── -->
+  <section class="stats-strip" aria-label="Site statistics">
+    <div class="container stats-inner">
+      <div class="stat">
+        <span class="stat-num">{allPosts.length}+</span>
+        <span class="stat-label">Posts Written</span>
+      </div>
+      <div class="stat-divider" aria-hidden="true">⬡</div>
+      <div class="stat">
+        <span class="stat-num">100+</span>
+        <span class="stat-label">Games Covered</span>
+      </div>
+      <div class="stat-divider" aria-hidden="true">⬡</div>
+      <div class="stat">
+        <span class="stat-num">4</span>
+        <span class="stat-label">Content Categories</span>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+/* ── Hero ── */
+.hero {
+  padding: 5rem 0 4rem;
+  border-bottom: 1px solid var(--border);
+}
+.hero-inner {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 4rem;
+  align-items: center;
+}
+.hero-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 1rem;
+}
+.eyebrow-hex { font-size: 1rem; line-height: 1; }
+.hero-headline {
+  margin-bottom: 1.25rem;
+  line-height: 1.08;
+}
+.hero-headline em {
+  font-style: italic;
+  color: var(--amber);
+}
+.hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-2);
+  max-width: 460px;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+.hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+
+/* ── Categories ── */
+.cat-section { padding: 4rem 0; border-bottom: 1px solid var(--border); }
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.cat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 2rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  transition: border-color 0.2s, background 0.2s, transform 0.2s;
+}
+.cat-card:hover {
+  border-color: rgba(240,165,0,0.4);
+  background: var(--surface-2);
+  transform: translateY(-2px);
+}
+.cat-icon {
+  font-size: 1.6rem;
+  color: var(--amber);
+  line-height: 1;
+  display: block;
+}
+.cat-label {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+.cat-count {
+  font-size: 0.72rem;
+  color: var(--text-3);
+  letter-spacing: 0.06em;
+}
+
+/* ── Recent posts ── */
+.posts-section { padding: 4rem 0; }
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+.view-all-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+/* ── Stats strip ── */
+.stats-strip {
+  background: var(--bg-2);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 2.5rem 0;
+}
+.stats-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+.stat { text-align: center; }
+.stat-num {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--amber);
+  line-height: 1;
+}
+.stat-label {
+  display: block;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-top: 0.3rem;
+}
+.stat-divider {
+  color: var(--border);
+  font-size: 1.2rem;
+}
+
+@media (max-width: 900px) {
+  .hero-inner { grid-template-columns: 1fr; }
+  .hero-featured { display: none; }
+  .cat-grid { grid-template-columns: repeat(2, 1fr); }
+  .posts-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .cat-grid { grid-template-columns: 1fr 1fr; }
+  .posts-grid { grid-template-columns: 1fr; }
+}
+</style>
