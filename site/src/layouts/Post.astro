@@ -72,6 +72,43 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
   </article>
 </Base>
 
+<script>
+  // Wrap each .img-gallery in a .img-gallery-wrap and append a custom scrollbar track
+  document.querySelectorAll('.img-gallery').forEach((gallery) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'img-gallery-wrap';
+    gallery.parentNode?.insertBefore(wrap, gallery);
+    wrap.appendChild(gallery);
+
+    const track = document.createElement('div');
+    track.className = 'img-gallery-track';
+    const thumb = document.createElement('div');
+    thumb.className = 'img-gallery-thumb';
+    track.appendChild(thumb);
+    wrap.appendChild(track);
+
+    function update() {
+      const { scrollLeft, scrollWidth, clientWidth } = gallery;
+      const ratio = clientWidth / scrollWidth;
+      const thumbWidth = Math.max(ratio * 100, 10);
+      const thumbLeft = (scrollLeft / (scrollWidth - clientWidth)) * (100 - thumbWidth);
+      thumb.style.width = thumbWidth + '%';
+      thumb.style.left = thumbLeft + '%';
+    }
+
+    update();
+    gallery.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update, { passive: true });
+
+    // Click on track to scroll
+    track.addEventListener('click', (e) => {
+      const rect = track.getBoundingClientRect();
+      const ratio = (e.clientX - rect.left) / rect.width;
+      gallery.scrollLeft = ratio * (gallery.scrollWidth - gallery.clientWidth);
+    });
+  });
+</script>
+
 <style>
 .post-page { padding-bottom: 5rem; }
 
@@ -577,33 +614,20 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
 }
 
 /* ── Horizontal image gallery ── */
+.post-content :global(.img-gallery-wrap) {
+  margin: 1rem 0 1.5rem;
+}
 .post-content :global(.img-gallery) {
   display: flex;
   gap: 0.5rem;
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
-  padding: 0.25rem 0 0.75rem;
-  margin: 1rem 0 1.5rem;
-  scrollbar-width: auto;
-  scrollbar-color: var(--amber, #f0a500) rgba(255,255,255,0.15);
+  padding: 0.25rem 0 0.5rem;
+  scrollbar-width: none; /* hide native — we use custom track below */
 }
 .post-content :global(.img-gallery::-webkit-scrollbar) {
-  height: 10px;
-}
-.post-content :global(.img-gallery::-webkit-scrollbar-track) {
-  background: rgba(255,255,255,0.15);
-  border-radius: 5px;
-}
-.post-content :global(.img-gallery::-webkit-scrollbar-thumb) {
-  background: var(--amber, #f0a500);
-  border-radius: 5px;
-  border: 2px solid transparent;
-  background-clip: padding-box;
-}
-.post-content :global(.img-gallery::-webkit-scrollbar-thumb:hover) {
-  background: var(--amber-light, #fbbf24);
-  background-clip: padding-box;
+  display: none;
 }
 .post-content :global(.img-gallery a) {
   flex: 0 0 auto;
@@ -622,5 +646,24 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
   object-fit: cover;
   border-radius: var(--radius-lg, 0.75rem);
   margin: 0;
+}
+/* Custom scrollbar track */
+.post-content :global(.img-gallery-track) {
+  height: 10px;
+  background: rgba(255,255,255,0.15);
+  border-radius: 5px;
+  margin-top: 0.5rem;
+  position: relative;
+  overflow: hidden;
+}
+.post-content :global(.img-gallery-thumb) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: var(--amber, #f0a500);
+  border-radius: 5px;
+  transition: left 0.05s linear;
+  cursor: pointer;
 }
 </style>
