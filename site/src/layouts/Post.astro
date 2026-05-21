@@ -575,4 +575,45 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
   max-width: 480px;
   max-height: 280px;
 }
+
+/* ── Horizontal image gallery ── */
+.post-content :global(.img-gallery) {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.25rem 0 0.75rem;
+  margin: 1rem 0 1.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--amber-dim) transparent;
+}
+.post-content :global(.img-gallery::-webkit-scrollbar) {
+  height: 4px;
+}
+.post-content :global(.img-gallery::-webkit-scrollbar-track) {
+  background: transparent;
+}
+.post-content :global(.img-gallery::-webkit-scrollbar-thumb) {
+  background: var(--amber-dim, rgba(240,165,0,0.25));
+  border-radius: 2px;
+}
+.post-content :global(.img-gallery a) {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  display: block;
+  text-decoration: none;
+}
+.post-content :global(.img-gallery a:hover) {
+  opacity: 0.88;
+}
+.post-content :global(.img-gallery img) {
+  display: block;
+  height: 200px;
+  width: auto;
+  max-width: none;
+  object-fit: cover;
+  border-radius: var(--radius-lg, 0.75rem);
+  margin: 0;
+}
 </style>
