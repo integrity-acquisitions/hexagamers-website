@@ -100,11 +100,41 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
     gallery.addEventListener('scroll', update, { passive: true });
     window.addEventListener('resize', update, { passive: true });
 
-    // Click on track to scroll
+    // Click on track (but not on thumb) to jump
     track.addEventListener('click', (e) => {
+      if (e.target === thumb) return;
       const rect = track.getBoundingClientRect();
       const ratio = (e.clientX - rect.left) / rect.width;
       gallery.scrollLeft = ratio * (gallery.scrollWidth - gallery.clientWidth);
+    });
+
+    // Drag thumb to scroll
+    thumb.addEventListener('mousedown', (e) => {
+      e.preventDefault();
+      const startX = e.clientX;
+      const startScroll = gallery.scrollLeft;
+      const trackWidth = track.clientWidth;
+      const scrollRange = gallery.scrollWidth - gallery.clientWidth;
+      const thumbWidth = thumb.offsetWidth;
+
+      thumb.style.cursor = 'grabbing';
+      document.body.style.userSelect = 'none';
+
+      function onMove(e) {
+        const dx = e.clientX - startX;
+        const scrollRatio = dx / (trackWidth - thumbWidth);
+        gallery.scrollLeft = Math.max(0, Math.min(scrollRange, startScroll + scrollRatio * scrollRange));
+      }
+
+      function onUp() {
+        thumb.style.cursor = 'grab';
+        document.body.style.userSelect = '';
+        window.removeEventListener('mousemove', onMove);
+        window.removeEventListener('mouseup', onUp);
+      }
+
+      window.addEventListener('mousemove', onMove);
+      window.addEventListener('mouseup', onUp);
     });
   });
 </script>
@@ -663,7 +693,7 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
   height: 100%;
   background: var(--amber, #f0a500);
   border-radius: 5px;
-  transition: left 0.05s linear;
-  cursor: pointer;
+  cursor: grab;
+  user-select: none;
 }
 </style>
