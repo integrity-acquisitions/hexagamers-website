@@ -11,6 +11,7 @@ tags:
   - "dominion-review"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310055/hexagamers-reviews/dominion-review.jpg"
+lastModified: 2025-01-01
 description: "Build your deck, acquire resources, play action cards, and collect Victory Points to claim dominion before your opponents. The classic deck-building game…"
 ---
 

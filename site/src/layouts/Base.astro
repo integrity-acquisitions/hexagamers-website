@@ -77,6 +77,20 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID;
     }
   })} />
 
+  <!-- Organization schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Hexagamers",
+    "url": siteUrl,
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${siteUrl}/favicon-logo.png`
+    },
+    "description": "In-depth board game reviews, how-to-play guides, and curated lists to help you find your next great tabletop game.",
+    "sameAs": []
+  })} />
+
   <!-- Preconnect for fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

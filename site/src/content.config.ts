@@ -12,6 +12,10 @@ const posts = defineCollection({
     draft: z.boolean().optional().default(false),
     description: z.string().optional(),
     lastModified: z.coerce.date().optional(),
+    // Structured data for AI schema markup
+    faqItems: z.array(z.object({ question: z.string(), answer: z.string() })).optional(),
+    howToSteps: z.array(z.object({ name: z.string(), text: z.string() })).optional(),
+    listItems: z.array(z.object({ name: z.string(), url: z.string().optional() })).optional(),
   }),
 });
 

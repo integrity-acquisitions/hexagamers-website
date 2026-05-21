@@ -10,6 +10,7 @@ tags:
   - "pandemic-how-to-play"
   - "pandemic-shuffling"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312591/hexagamers-guides/pandemic-how-to-play-simplified.jpg"
+lastModified: 2025-01-01
 description: "Four deadly diseases are spreading globally. Work together with up to 3 colleagues, using your specialized roles, to cure all four before the world is…"
 ---
 

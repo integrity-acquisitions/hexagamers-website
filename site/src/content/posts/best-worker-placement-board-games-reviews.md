@@ -18,6 +18,7 @@ tags:
   - "uwe-rosenberg"
   - "viticulture"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Worker-Replacement-Board-Games_uej59o.png"
+lastModified: 2025-01-01
 description: "If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the…"
 ---
 

@@ -10,6 +10,7 @@ tags:
   - "pandemic"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310703/hexagamers-reviews/pandemic-review.jpg"
+lastModified: 2025-01-01
 description: "Four deadly diseases are spreading across the globe. Work together as specialized disease-fighting operatives to contain outbreaks and cure all four before…"
 ---
 

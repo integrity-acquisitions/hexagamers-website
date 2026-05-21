@@ -10,6 +10,7 @@ tags:
   - "repos-preduction"
   - "top-ten-card-drafting-games"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309426/hexagamers-reviews/7-wonders-review.jpg"
+lastModified: 2025-01-01
 description: "As the ruler of one of seven ancient cities, you must build your empire to defeat your enemies and reign supreme. Collect resources, build structures,…"
 ---
 

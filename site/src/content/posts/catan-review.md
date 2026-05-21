@@ -11,6 +11,7 @@ tags:
   - "gateway-games"
   - "settlers-of-catan"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309440/hexagamers-reviews/catan-review.jpg"
+lastModified: 2025-01-01
 description: "Collect resources, build settlements, roads, and cities, and race to become the most dominant colony in Catan. Trade with your opponents when you need what…"
 ---
 

@@ -12,6 +12,7 @@ tags:
   - "which-game-is-better"
   - "worker-placement-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg"
+lastModified: 2025-01-01
 description: "Are you stuck trying to decide if you should buy the board game Agricola or Caverna?"
 ---
 

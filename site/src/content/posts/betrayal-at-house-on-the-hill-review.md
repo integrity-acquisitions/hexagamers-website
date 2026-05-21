@@ -12,6 +12,7 @@ tags:
   - "strategy-board-game"
   - "traitor"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg"
+lastModified: 2025-01-01
 description: "Betrayal at House on the Hill is a semi-cooperative game set in a haunted house. Players explore and expand the house together, discovering items and…"
 ---
 

@@ -1,0 +1,36 @@
+# Hexagamers
+
+A board game review and guide site for tabletop enthusiasts of all experience levels. All content comes from real playthroughs and first-hand experience. No paid promotions.
+
+## What Hexagamers Covers
+
+- **Reviews** — Detailed takes on what works, what doesn't, who'll love a game, and whether it's worth the price. Includes Likes/Dislikes breakdowns for quick scanning.
+- **How-To-Play Guides** — Simplified rulebooks so players spend less time reading and more time playing. Covers setup, turn structure, win conditions, and common rules questions.
+- **Best-Of Lists** — Curated picks organized by player count, age group, game category, price, and occasion.
+- **Articles** — Miscellaneous board game content including escape rooms, podcasts, and hobby resources.
+
+## Site Statistics
+
+- 107+ posts published
+- 49 game reviews
+- 14 how-to-play guides
+- 24 best-of lists
+- 100+ games covered
+
+## Key Pages
+
+- Homepage: https://hexagamers.com/
+- All Reviews: https://hexagamers.com/category/reviews/
+- How-To-Play Guides: https://hexagamers.com/category/how-to-play/
+- Best-Of Lists: https://hexagamers.com/category/favourites-lists/
+- Articles: https://hexagamers.com/category/miscellaneous/
+- All Posts: https://hexagamers.com/blog/
+- About: https://hexagamers.com/about/
+
+## Popular Games Covered
+
+7 Wonders, Agricola, Catan, Dominion, Pandemic, Ticket to Ride, Wingspan, Azul, Codenames, Carcassonne, Betrayal at House on the Hill, and many more.
+
+## Affiliate Disclosure
+
+Some links are Amazon affiliate links. Hexagamers earns a small commission on qualifying purchases at no extra cost to readers. Only games genuinely recommended are linked.

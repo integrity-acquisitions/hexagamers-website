@@ -19,6 +19,7 @@ tags:
   - "takenoko"
   - "ticket-to-ride-europe"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg"
+lastModified: 2025-01-01
 description: "If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are…"
 ---
 

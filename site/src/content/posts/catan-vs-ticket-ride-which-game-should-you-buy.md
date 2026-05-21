@@ -16,6 +16,7 @@ tags:
   - "vs"
   - "which-game-is-better"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312925/hexagamers-articles/catan-vs-ticket-ride-which-game-should-you-buy.jpg"
+lastModified: 2025-01-01
 description: "Even if you are new to board games, chances are you've heard of Catan and Ticket to Ride. Both made our Best Board Games for Beginners list — and for good…"
 ---
 

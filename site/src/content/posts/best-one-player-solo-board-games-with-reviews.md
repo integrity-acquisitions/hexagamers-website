@@ -21,6 +21,7 @@ tags:
   - "single-player-games"
   - "solo-board-games"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-solo_nrxo7i.png"
+lastModified: 2025-01-01
 description: "When you think of board games, you think of getting together with friends and family, having some fun, arguing with one another maybe, and generally…"
 ---
 
