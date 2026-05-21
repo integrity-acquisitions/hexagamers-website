@@ -11,6 +11,7 @@ tags:
   - "fantasy"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/1500935167191_d9ijbk.png"
+description: "You're a dragon collecting treasure — coins, princes, wishing trees, and more. Steal sheep from farmers and spend them to buy treasure for your lair. Race…"
 ---
 
 ## Overview

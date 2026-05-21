@@ -19,6 +19,7 @@ tags:
   - "strategy"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dospuv.png"
+description: "Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dospuv.png "Two Year Olds")

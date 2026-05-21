@@ -10,6 +10,7 @@ tags:
   - "flash-point-fire-rescue"
   - "strategy"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310294/hexagamers-reviews/flash-point-fire-rescue-review.jpg"
+description: "You and your fellow firefighters race to rescue victims from a burning building before it collapses. Fight fires, remove hazmat, and carry victims to…"
 ---
 
 ## Overview

@@ -16,6 +16,7 @@ tags:
   - "strategy-board-game"
   - "worker-placement-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/P1090929_woooxm.jpg"
+description: "Board games have come a long way from Monopoly and Life. Today's landscape is vast, innovative, and sometimes overwhelming. \"Where do I start? What games…"
 ---
 
 ![Board games](https://res.cloudinary.com/dt4ujaczs/image/upload/P1090929_woooxm.jpg)

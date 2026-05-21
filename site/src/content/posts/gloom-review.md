@@ -9,6 +9,7 @@ tags:
   - "gloom"
   - "strategy-card-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Gloom-Review_hr7vbt.jpg"
+description: "Control an eccentric family of misfits and make their lives as miserable as possible. Heap tragedies and untimely deaths on your own family while cheering…"
 ---
 
 ## Overview

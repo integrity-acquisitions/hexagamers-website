@@ -10,6 +10,7 @@ tags:
   - "cooperative-board-games"
   - "how-to-play-simplified"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Character-Cards_koahdn.jpg"
+description: "You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the…"
 ---
 
 You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the game completely transforms.

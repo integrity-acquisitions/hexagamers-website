@@ -31,6 +31,7 @@ tags:
   - "tides-of-madness"
   - "tides-of-time"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Two-Player_sdyuug.png"
+description: "Finding the best 2 player board games can be difficult. Many games have a tailored, two player variant that often involves a \"ghost\" player the other two…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Two-Player_sdyuug.png "Best Two Player")

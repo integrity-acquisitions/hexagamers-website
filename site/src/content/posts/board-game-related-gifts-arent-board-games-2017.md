@@ -134,6 +134,7 @@ tags:
   - "wyrmwood"
   - "yeg"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/BestChristmasGifts-2_pwnezd.png"
+description: "For great board games to give or gifts for Settlers of Catan fans, we've got you covered! If you're hesitant to buy a board game or want a more unique…"
 ---
 
 More...

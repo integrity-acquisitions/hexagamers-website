@@ -73,6 +73,7 @@ tags:
   - "zombie"
   - "zombies"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Social-Deduction-Board-Games-2_ckqi7r.png"
+description: "In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who.…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Social-Deduction-Board-Games-2_ckqi7r.png "Best Social Deduction Board Games")

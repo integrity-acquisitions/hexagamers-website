@@ -9,6 +9,7 @@ tags:
   - "sheriff-of-nottingham"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/sheriff_bhi6ht.jpg"
+description: "You're a merchant trying to bring goods into Nottingham — legally or otherwise. Declare what's in your pouch, bluff the Sheriff, bribe them to look away,…"
 ---
 
 ## Overview

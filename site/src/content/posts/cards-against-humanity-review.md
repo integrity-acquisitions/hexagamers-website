@@ -14,6 +14,7 @@ tags:
   - "party-board-game"
   - "party-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309435/hexagamers-reviews/cards-against-humanity-review.jpg"
+description: "The self-described \"party game for horrible people.\" One player reads a question or fill-in-the-blank; everyone else plays an answer card face-down. The…"
 ---
 
 ## Overview

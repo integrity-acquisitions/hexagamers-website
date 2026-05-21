@@ -9,6 +9,7 @@ tags:
   - "mammut"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut_kp7njm.jpg"
+description: "Back from the mammoth hunt, your tribe must divide the spoils. Take what you need — but not too much, or the next player steals your whole pile. Manage…"
 ---
 
 ## Overview

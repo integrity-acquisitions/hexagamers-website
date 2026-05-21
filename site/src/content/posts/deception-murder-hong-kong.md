@@ -12,6 +12,7 @@ tags:
   - "murder-mystery"
   - "social-deduction"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg"
+description: "Investigators work together to solve a murder — but one of them is the killer. A silent Forensic Scientist drops clues via coded boards. Everyone must…"
 ---
 
 ## Overview

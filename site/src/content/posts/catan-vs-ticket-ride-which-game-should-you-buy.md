@@ -16,6 +16,7 @@ tags:
   - "vs"
   - "which-game-is-better"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312925/hexagamers-articles/catan-vs-ticket-ride-which-game-should-you-buy.jpg"
+description: "Even if you are new to board games, chances are you've heard of Catan and Ticket to Ride. Both made our Best Board Games for Beginners list — and for good…"
 ---
 
 Even if you are new to board games, chances are you've heard of Catan and Ticket to Ride. Both made our [Best Board Games for Beginners](/category/favourites-lists/) list — and for good reason. Ticket to Ride is a travelling game where you connect cities with trains and complete destination routes. Catan is a settling game where you grow your empire by building roads, settlements, and cities.

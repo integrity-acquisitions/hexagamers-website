@@ -20,6 +20,7 @@ tags:
   - "wits-and-wagers"
   - "would-you-rather"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-party-board-games_ngfjyl.png"
+description: "If you are done with board games you can play by yourself, and are ready to invite some people over, we have just the list of games for you to try. This…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-party-board-games_ngfjyl.png "Best party board games")

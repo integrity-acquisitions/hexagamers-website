@@ -10,6 +10,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/P1020785_qwkwu9.jpg"
+description: "You're a Renaissance merchant collecting gem tokens to buy development cards. Use cards to buy more powerful cards and attract noble visitors. First to 15…"
 ---
 
 ## Overview

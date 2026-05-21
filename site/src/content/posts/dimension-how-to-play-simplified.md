@@ -13,6 +13,7 @@ tags:
   - "how-to-play-simplified"
   - "puzzle-games"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312465/hexagamers-guides/dimension-how-to-play-simplified.jpg"
+description: "Dimension is a fast-paced puzzle game. Stack different coloured balls to match a randomly drawn set of rule cards — all against a ticking timer. It tests…"
 ---
 
 ![Dimension](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312465/hexagamers-guides/dimension-how-to-play-simplified.jpg)

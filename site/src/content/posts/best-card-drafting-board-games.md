@@ -42,6 +42,7 @@ tags:
   - "von-drachen-und-schafen"
   - "zman"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Card-Drafting-Board-Games_tmvodv.png"
+description: "(Click the image to jump to our comparison table)"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Card-Drafting-Board-Games_tmvodv.png "Best Card Drafting Board Games")

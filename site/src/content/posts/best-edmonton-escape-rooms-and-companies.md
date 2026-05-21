@@ -66,6 +66,7 @@ tags:
   - "x-realm"
   - "yeg"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20170218_145403_jghljp.jpg"
+description: "The escape room craze only continues to grow with new companies and new rooms appearing every few months. At their core, each concept is the same--solve…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170218_145403_jghljp.jpg)

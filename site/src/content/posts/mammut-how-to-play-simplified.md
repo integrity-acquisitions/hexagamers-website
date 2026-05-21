@@ -11,6 +11,7 @@ tags:
   - "simplified-rules"
   - "stealing"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png"
+description: "It's the prehistoric era and your tribe has just returned from a mammoth hunt. Now you must divide the spoils — but other tribe members can steal your…"
 ---
 
 ![Mammut – How To Play](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png)

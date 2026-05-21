@@ -7,8 +7,8 @@ const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 <Base
-  title="All Posts"
-  description="Every board game review, how-to-play guide, and best-of list on Hexagamers."
+  title="Board Game Reviews, Guides & Best-Of Lists"
+  description="Every board game review, how-to-play guide, and best-of list on Hexagamers. Over 100 games covered for every player count and skill level."
   pagefindIgnore
 >
   <section class="blog-index">

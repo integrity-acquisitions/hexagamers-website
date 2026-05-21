@@ -16,6 +16,7 @@ tags:
   - "strategy"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309429/hexagamers-reviews/agricola-review.jpg"
+description: "Your two meeples are settled into their wood house on their plot of land — but harvest is coming and they have no food. Place your meeples to grow crops,…"
 ---
 
 ## Overview

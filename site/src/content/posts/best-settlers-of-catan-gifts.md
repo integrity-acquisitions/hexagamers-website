@@ -95,6 +95,7 @@ tags:
   - "wood"
   - "wood-coaster"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Catan-Gifts_p9aic6.jpg"
+description: "Settlers of Catan (Catan) is one of the best-known and best-loved board games in circulation today. For many, it was and remains the gateway game: the…"
 ---
 
 ![Best Settlers of Catan Gifts](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Catan-Gifts_p9aic6.jpg)

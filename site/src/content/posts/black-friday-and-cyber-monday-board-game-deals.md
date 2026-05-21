@@ -11,6 +11,7 @@ tags:
   - "cyber-monday"
   - "discounts-on-board-games"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312829/hexagamers-articles/black-friday-and-cyber-monday-board-game-deals.jpg"
+description: "Looking for a new game over the holidays? Black Friday and Cyber Monday are prime weekends to pick one up — or find a great gift for someone on your list."
 ---
 
 Looking for a new game over the holidays? Black Friday and Cyber Monday are prime weekends to pick one up — or find a great gift for someone on your list.

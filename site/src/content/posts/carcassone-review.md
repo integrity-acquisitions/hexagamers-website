@@ -11,6 +11,7 @@ tags:
   - "strategy-board-game"
   - "tile-flipping-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309434/hexagamers-reviews/carcassone-review.jpg"
+description: "Carcassonne is a tile-placement game where you build the French countryside one tile at a time. Match roads, castles, and fields with existing tiles to…"
 ---
 
 ## Overview

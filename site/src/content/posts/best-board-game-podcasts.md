@@ -24,6 +24,7 @@ tags:
   - "the-long-view"
   - "the-secret-cabal"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Gamepodcasts_kjwy1w.png"
+description: "Do you listen to everything from how to better your life to bio-hacking your body and everything in between?"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Gamepodcasts_kjwy1w.png "Best Board Gamepodcasts")

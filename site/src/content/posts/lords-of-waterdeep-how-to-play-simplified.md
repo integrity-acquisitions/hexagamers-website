@@ -12,6 +12,7 @@ tags:
   - "lords-of-waterdeep"
   - "worker-placement-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Player-Cards_mxxbzs.jpg"
+description: "You are a powerful Lord vying for control of Waterdeep. Send your workers out to collect resources, use those resources to complete quests, and earn…"
 ---
 
 ![Lords of Waterdeep](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Player-Cards_mxxbzs.jpg)

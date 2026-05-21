@@ -12,6 +12,7 @@ tags:
   - "how-to-play-simplified"
   - "quick"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg"
+description: "The mysterious pictures taken in the ghost's house have some errors. In this fast-paced game you must figure out which item in the picture is correct — or…"
 ---
 
 ![Ghost Blitz](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg)

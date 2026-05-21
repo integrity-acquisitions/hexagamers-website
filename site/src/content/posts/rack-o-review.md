@@ -9,6 +9,7 @@ tags:
   - "family-game"
   - "rack-o"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310938/hexagamers-reviews/rack-o-review.jpg"
+description: "Get your rack of 10 cards sorted from lowest to highest. On each turn, swap one card in your rack with a card from the discard pile or deck. First to get…"
 ---
 
 ## Overview

@@ -113,6 +113,7 @@ tags:
   - "valley-of-the-kings"
   - "worker-placement"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Christmas-Gifts_eecg2k.png"
+description: "There are thousands of board games available to buy in all genres for all audiences. Games can take hours or minutes, be brain-draining or light and silly,…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Christmas-Gifts_eecg2k.png "Christmas Gifts")

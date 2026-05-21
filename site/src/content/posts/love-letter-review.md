@@ -9,6 +9,7 @@ tags:
   - "micro-game"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310494/hexagamers-reviews/love-letter-review.jpg"
+description: "The Princess is locked away in her tower. Suitors compete to get their letter to her first — using 16 cards and social deduction. Each turn you hold one…"
 ---
 
 ## Overview

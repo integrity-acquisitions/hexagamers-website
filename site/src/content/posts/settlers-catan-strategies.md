@@ -12,6 +12,7 @@ tags:
   - "strategy"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Game-Board_g1jbhf.jpg"
+description: "> Read our full thoughts: Ryan's Review of Settlers of Catan"
 ---
 
 ![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305654/Catan-1-244x300.jpg)

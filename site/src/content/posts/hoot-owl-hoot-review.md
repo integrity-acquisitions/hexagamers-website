@@ -10,6 +10,7 @@ tags:
   - "cooperative-board-games"
   - "hoot-owl-hoot"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310436/hexagamers-reviews/hoot-owl-hoot-review.jpg"
+description: "The sun is rising! Work together to fly all the owls back to the nest before daylight. Play colour cards to move owls forward, but if you draw a sun card,…"
 ---
 
 ## Overview

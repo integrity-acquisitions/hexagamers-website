@@ -10,6 +10,7 @@ tags:
   - "coloretto"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Coloretto-Box_g0d4xi.jpg"
+description: "Match chameleons of the same colour to score points. The more of one colour you collect, the more they're worth — but collecting too many different colours…"
 ---
 
 ## Overview

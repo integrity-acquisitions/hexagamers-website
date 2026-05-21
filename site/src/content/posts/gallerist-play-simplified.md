@@ -9,6 +9,7 @@ tags:
   - "how-to-play-simplified"
   - "worker-placement"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg"
+description: "You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and…"
 ---
 
 You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and sell works, and build your gallery's reputation to win.

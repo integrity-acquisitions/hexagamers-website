@@ -11,6 +11,7 @@ tags:
   - "party-game"
   - "spy"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309692/hexagamers-reviews/codenames-review.jpg"
+description: "Two rival spy teams race to make contact with their agents. The only clues are one-word hints from your Spymaster — they connect multiple agents, but one…"
 ---
 
 ## Overview

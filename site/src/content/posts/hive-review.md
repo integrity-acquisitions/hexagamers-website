@@ -9,6 +9,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305645/IMG_1436-2-300x295.jpg"
+description: "Two players face off with hexagonal bug tiles. Protect your Queen Bee while surrounding your opponent's — using ants, beetles, grasshoppers, and spiders…"
 ---
 
 ## Overview

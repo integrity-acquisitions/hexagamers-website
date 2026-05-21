@@ -8,6 +8,7 @@ tags:
   - "pandemic-legacy"
   - "cooperative"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-Blank_mzynoj.jpg"
+description: "> **Spoiler warning:** This post contains details about Pandemic Legacy Season 1. Don't read if you want to experience it fresh."
 ---
 
 > **Spoiler warning:** This post contains details about Pandemic Legacy Season 1. Don't read if you want to experience it fresh.

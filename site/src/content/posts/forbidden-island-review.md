@@ -9,6 +9,7 @@ tags:
   - "forbidden-island"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Box_iokoh1.jpg"
+description: "Four sacred treasures are hidden on a sinking island. Work together to retrieve all four, get back to Fool's Landing, and escape by helicopter before the…"
 ---
 
 ## Overview

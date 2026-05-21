@@ -8,6 +8,7 @@ tags:
   - "party-board-game"
   - "times-up"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311418/hexagamers-reviews/times-up-review.jpg"
+description: "Teams compete to guess famous, historical, and fictional names across three progressive rounds — describing, one-word cluing, and finally silent charades.…"
 ---
 
 ## Overview

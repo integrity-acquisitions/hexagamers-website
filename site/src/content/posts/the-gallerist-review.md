@@ -10,6 +10,7 @@ tags:
   - "the-gallerist"
   - "worker-placement"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214229_pe9d3x.jpg"
+description: "You're an art gallery owner in a competitive market. Discover artists, promote them to fame, acquire and sell works, manage your gallery's influence, and…"
 ---
 
 ## Overview

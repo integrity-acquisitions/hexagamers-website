@@ -10,6 +10,7 @@ tags:
   - "how-to-play-simplified"
   - "worker-placement-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg"
+description: "Your two Meeples are settled into a small wooden house with an empty plot of land — and harvest is coming. Place your Meeples on action spaces to grow…"
 ---
 
 ![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)

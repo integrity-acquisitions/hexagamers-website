@@ -43,6 +43,7 @@ tags:
   - "yeg"
   - "yyc"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Edmonton-Board-Game-Cafes_ufp4a3.png"
+description: "Board game enthusiasts have capitalized on the hobby's popularity explosion. One of the results? Board game cafes. Cafes have popped up all across the…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Edmonton-Board-Game-Cafes_ufp4a3.png "Edmonton Board Game Cafes")

@@ -10,6 +10,7 @@ tags:
   - "stock-market-game"
   - "trading"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310854/hexagamers-reviews/pit-review.jpg"
+description: "You're a trader trying to corner the market on a single commodity. Shout out how many cards you want to trade, swap blindly with anyone who matches your…"
 ---
 
 ## Overview

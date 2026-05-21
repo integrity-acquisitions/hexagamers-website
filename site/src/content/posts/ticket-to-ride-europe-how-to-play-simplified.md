@@ -13,6 +13,7 @@ tags:
   - "ticket-to-ride-europe-how-to-play"
   - "trains"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-Game-Board_cnyswt.jpg"
+description: "Connect cities across Europe with coloured trains to complete routes and score points. Longer routes are worth more points. But watch out — rivals may be…"
 ---
 
 ![Ticket to Ride: Europe](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-Game-Board_cnyswt.jpg)

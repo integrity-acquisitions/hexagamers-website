@@ -19,6 +19,7 @@ tags:
   - "strategy-board-game"
   - "zingo"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-3-year-olds_zhz5zh.png"
+description: "Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-3-year-olds_zhz5zh.png "Best Board Games For 3 year olds")

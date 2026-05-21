@@ -10,6 +10,7 @@ tags:
   - "virtual-reality"
   - "yeg"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311067/hexagamers-reviews/ss-tiberia-smartypantz-escape-room-review.jpg"
+description: "Canada's first VR escape room, made by local Edmontonians. Your team boards the SS Tiberia with 30 minutes to reactivate the space station and destroy an…"
 ---
 
 ## Overview

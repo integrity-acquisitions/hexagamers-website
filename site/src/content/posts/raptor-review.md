@@ -9,6 +9,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20180421_135028_o55u3k.jpg"
+description: "One player controls a mother raptor protecting her five babies. The other commands scientists trying to capture the babies and neutralize the mother. Only…"
 ---
 
 ## Overview

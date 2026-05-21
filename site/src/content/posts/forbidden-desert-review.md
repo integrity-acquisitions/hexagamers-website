@@ -9,6 +9,7 @@ tags:
   - "forbidden-desert"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg"
+description: "Your helicopter crashes in an ancient desert. Work together to excavate the parts of a legendary flying machine and escape before the storm overtakes you…"
 ---
 
 ## Overview

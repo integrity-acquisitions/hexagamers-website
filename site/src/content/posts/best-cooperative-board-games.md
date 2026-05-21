@@ -15,6 +15,7 @@ tags:
   - "pandemic"
   - "robinson-crusoe-adventure-on-the-cursed-island"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Cooperative_gyb8mb.png"
+description: "Cooperative Board Games! One of our favorite categories!"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cooperative_gyb8mb.png "Cooperative")

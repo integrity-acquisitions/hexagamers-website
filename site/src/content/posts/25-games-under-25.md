@@ -100,6 +100,7 @@ tags:
   - "what"
   - "work"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/25-Games_ohoiim.png"
+description: "Board games make a great gift for all occasions, and we chose 25 great games under $25 to suit every need: white elephant gift exchange, birthday,…"
 ---
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/25-Games_ohoiim.png "25 Games")

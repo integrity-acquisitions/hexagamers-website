@@ -11,6 +11,7 @@ tags:
   - "drinking-games"
   - "memes"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299544/battleship-beer-pong_qv2fzu.jpg"
+description: "Battleship Beer Pong — the mashup nobody asked for but everybody needs."
 ---
 
 ![Battleship Beer Pong](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299544/battleship-beer-pong_qv2fzu.jpg)

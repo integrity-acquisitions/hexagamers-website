@@ -69,6 +69,7 @@ tags:
   - "xxxopoloy"
   - "xxxopoly"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-Adults_pizuvp.jpg"
+description: "Are you celebrating an occasion? Valentine's Day? Christmas? A birthday or anniversary? Whatever it is, there's a board game to make the occasion…"
 ---
 
 ![Best Board Games for Adult couples](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-Adults_pizuvp.jpg "Best Board Games For Adults")

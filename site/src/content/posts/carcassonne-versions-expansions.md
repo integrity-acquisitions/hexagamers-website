@@ -86,6 +86,7 @@ tags:
   - "wheel-of-fortune"
   - "winter"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Abbey-Mayor-2007_xllgpa.jpg"
+description: "It's hard to keep track of all the Carcassonne versions. If you're looking for your next expansion or a different Carcassonne-style challenge, we've…"
 ---
 
 It's hard to keep track of all the Carcassonne versions. If you're looking for your next expansion or a different Carcassonne-style challenge, we've compiled everything we could find on the standalones and expansion along with a quick brief on each to help you decide. If you'd rather an easy visual, check out the Carcassonne infographic below. Otherwise, skip past it to see the descriptions of all the Carcassonne Expansions.

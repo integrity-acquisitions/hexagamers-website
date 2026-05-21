@@ -11,6 +11,7 @@ tags:
   - "party-game"
   - "spy"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312319/hexagamers-guides/codenames-how-to-play-simplified.jpg"
+description: "Two spy teams compete to contact all their agents first. Your Spymaster gives one-word clues linking multiple codenames on the grid — but guess wrong and…"
 ---
 
 Two spy teams compete to contact all their agents first. Your Spymaster gives one-word clues linking multiple codenames on the grid — but guess wrong and you might hand the game to your rivals, or hit the assassin and lose instantly.
