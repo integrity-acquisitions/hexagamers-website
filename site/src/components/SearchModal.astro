@@ -8,7 +8,7 @@
   </svg>
 </button>
 
-<div id="search-overlay" class="search-overlay" hidden>
+<div id="search-overlay" class="search-overlay" aria-hidden="true">
   <div class="search-backdrop"></div>
   <div class="search-modal" role="dialog" aria-modal="true" aria-label="Search">
     <div class="search-header">
@@ -40,7 +40,8 @@
   const backdrop = overlay.querySelector('.search-backdrop');
 
   function openSearch() {
-    overlay.hidden = false;
+    overlay.classList.add('is-open');
+    overlay.setAttribute('aria-hidden', 'false');
     document.body.style.overflow = 'hidden';
     window.__initPagefind();
     setTimeout(() => {
@@ -50,7 +51,8 @@
   }
 
   function closeSearch() {
-    overlay.hidden = true;
+    overlay.classList.remove('is-open');
+    overlay.setAttribute('aria-hidden', 'true');
     document.body.style.overflow = '';
   }
 
@@ -60,7 +62,7 @@
   document.addEventListener('keydown', (e) => {
     if ((e.key === 'k' && (e.metaKey || e.ctrlKey)) || e.key === '/') {
       e.preventDefault();
-      overlay.hidden ? openSearch() : closeSearch();
+      overlay.classList.contains('is-open') ? closeSearch() : openSearch();
     }
     if (e.key === 'Escape') closeSearch();
   });
@@ -88,13 +90,16 @@
 }
 
 .search-overlay {
+  display: none;
   position: fixed;
   inset: 0;
   z-index: 500;
-  display: flex;
   align-items: flex-start;
   justify-content: center;
   padding-top: 10vh;
+}
+.search-overlay.is-open {
+  display: flex;
 }
 .search-backdrop {
   position: absolute;
