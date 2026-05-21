@@ -585,18 +585,22 @@ const isListPost = categories?.includes('favourites-lists') ?? false;
   -webkit-overflow-scrolling: touch;
   padding: 0.25rem 0 0.75rem;
   margin: 1rem 0 1.5rem;
-  scrollbar-width: thin;
-  scrollbar-color: var(--amber-dim) transparent;
+  scrollbar-width: auto;
+  scrollbar-color: var(--amber, #f0a500) rgba(255,255,255,0.08);
 }
 .post-content :global(.img-gallery::-webkit-scrollbar) {
-  height: 4px;
+  height: 8px;
 }
 .post-content :global(.img-gallery::-webkit-scrollbar-track) {
-  background: transparent;
+  background: rgba(255,255,255,0.08);
+  border-radius: 4px;
 }
 .post-content :global(.img-gallery::-webkit-scrollbar-thumb) {
-  background: var(--amber-dim, rgba(240,165,0,0.25));
-  border-radius: 2px;
+  background: var(--amber, #f0a500);
+  border-radius: 4px;
+}
+.post-content :global(.img-gallery::-webkit-scrollbar-thumb:hover) {
+  background: var(--amber-light, #fbbf24);
 }
 .post-content :global(.img-gallery a) {
   flex: 0 0 auto;
