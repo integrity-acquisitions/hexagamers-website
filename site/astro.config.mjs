@@ -2,8 +2,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://integrity-acquisitions.github.io',
-  base: '/hexagamers-website',
+  site: 'https://hexagamers.com',
   output: 'static',
   trailingSlash: 'always',
 });

@@ -50,7 +50,7 @@ We hope you can find something you like here! We would also LOVE to hear your op
 
 # Best Board Game Podcasts
 
-## 1\. [The Dice Tower Podcast](http://www.dicetower.com/game-podcast/dice-tower)
+## 1. [The Dice Tower Podcast](http://www.dicetower.com/game-podcast/dice-tower)
 
 ![Dice Tower Podcast](https://res.cloudinary.com/dt4ujaczs/image/upload/Dice-Tower-Podcast_bfghkt.jpg "Dice Tower Podcast")
 
@@ -68,7 +68,7 @@ They reference other games very well so you can find other games you might like.
 
 This is the one stop for a lot of listeners, and we know why.
 
-## 2\. [Shut Up and Sit Down](https://www.shutupandsitdown.com/podcastle/)
+## 2. [Shut Up and Sit Down](https://www.shutupandsitdown.com/podcastle/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Shut-Up-and-Sit-Down_rxclwh.png "Shut Up and Sit Down")
 
@@ -86,23 +86,23 @@ If you think you are a little bit interested, go have look at their hilarious ep
 
 It’s one you can subscribe to and get excited when you see a new episode show up in your app every once in a while. It is one of the best podcasts about board games out there.
 
-## 3\. [The Secret Cabal](http://www.thesecretcabal.com/)
+## 3. [The Secret Cabal](http://www.thesecretcabal.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Secret-Cabal-Gaming-Podcast_qyeyns.png "The Secret Cabal Gaming Podcast")
 
-|   Frequency   |   Episodes   |   Length (Avg)​   |
+|   Frequency   |   Episodes   |   Length (Avg)   |
 | --- | --- | --- |
 |   Bi-weekly   |   150 +   |   2 h 15 m   |
 
 This may be the fastest growing podcast on our list of the best board game podcasts you can listen to. It has started to come up in discussions more and more often. It might be because of the fact that they put out an episode biweekly. Yes, you read that correct, plenty of content here.
 
-They are 5 old friends that all have very unique viewpoints and perspectives on board games. To add to that diversity, they also cover a huge range of genres. Everything from [Deck Building Board Games](http://hexagamers.com/best-deck-building-board-games) to [Cooperative Board Games](http://hexagamers.com/best-cooperative-board-games) to [Card Drafting Board Games](http://hexagamers.com/best-card-drafting-board-games).
+They are 5 old friends that all have very unique viewpoints and perspectives on board games. To add to that diversity, they also cover a huge range of genres. Everything from [Deck Building Board Games](/blog/best-deck-building-board-games/) to [Cooperative Board Games](/blog/best-cooperative-board-games/) to [Card Drafting Board Games](/blog/best-card-drafting-board-games/).
 
 The podcast is high quality, with over 150 episodes produced at the time of writing this post. We find it to be very entertaining, while at the same time thoughtful. It seems like you can find yourself sharing common thoughts/grounds with at least one person on the show.
 
 The Secret Cabal is your go to podcast if you want to fill your ears with lots of content. Not only are there a lot of episodes to choose from, but most of the episodes are fairly lengthy. We’re talking up to 3 hours, lengthy. Some may find this a bit too much, but if you just want something to listen to in the background while doing other stuff, this is the perfect fit.
 
-## 4\. [On Board Games](http://www.inversegenius.com/on-board-games/)
+## 4. [On Board Games](http://www.inversegenius.com/on-board-games/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/On-Board-Games-Podcast_exsts3.jpg "On Board Games Podcast")
 
@@ -122,7 +122,7 @@ They also have a regular posting schedule going of once per week, with the avera
 
 Check them out for some good consistent listening.
 
-## 5\. [Boardgames To Go](http://boardgamestogo.com/)
+## 5. [Boardgames To Go](http://boardgamestogo.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Board-Games-To-Go-Podcast_xzhfec.jpg "Board Games To Go Podcast")
 
@@ -140,7 +140,7 @@ Expect anywhere between 30 minutes to 2 hours per episode, with the average bein
 
 If you’re looking for a good board game podcast with history to it, this is the one. We hope with a few more subscribers he will start putting out shows more regularly.
 
-## 6\. [Heavy Cardboard](https://www.heavycardboard.com/)
+## 6. [Heavy Cardboard](https://www.heavycardboard.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Heavy-Cardboard-Podcast_wrc7jy.png "Heavy Cardboard Podcast")
 
@@ -160,7 +160,7 @@ Another plus for this podcast about board games is that they post on a regular b
 
 As with some of the other good boardgame podcasts, they bring on guests host to help keep conversations flowing, and multiple opinions. Check them out if heavy gaming is your thing or if you just want to try out something different.
 
-## 7\. [Blue Peg, Pink Peg](https://bluepegpinkpeg.com/)
+## 7. [Blue Peg, Pink Peg](https://bluepegpinkpeg.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Blue-Peg-Pink-Peg-Podcast_rzc7at.jpg "Blue Peg, Pink Peg Podcast")
 
@@ -168,7 +168,7 @@ As with some of the other good boardgame podcasts, they bring on guests host to 
 | --- | --- | --- |
 |   Bi-weekly   |   100 +   |   2 h 15 m   |
 
-If you are looking for something a little lighter and maybe a little more wholesome (we use this term loosely​), then Blue Peg, Pink Peg is a good place to try.
+If you are looking for something a little lighter and maybe a little more wholesome (we use this term loosely), then Blue Peg, Pink Peg is a good place to try.
 
 This cast used to feature two couples (hence the blue peg, pink peg), that discuss all things board games (not that unlike us here at Hexagamers). They will hit topics such as mini reviews of games, in depth reviews, news in the gaming industry, events, etc. in their bi-weekly shows. This group does a good job at staying consistent in their producing and are up over 100 episodes now.
 
@@ -182,7 +182,7 @@ They do his a few games per episode usually, as well as news, so they can run fo
 
 # Best Board Game Podcasts for Reviews and Beginners
 
-## 1\. [Dukes of Dice](http://www.dukesofdice.com/)
+## 1. [Dukes of Dice](http://www.dukesofdice.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Dukes-Of-Dice_ozikwu.png "The Dukes Of Dice")
 
@@ -190,9 +190,9 @@ They do his a few games per episode usually, as well as news, so they can run fo
 | --- | --- | --- |
 |   Weekly   |   150 +   |   1 h 30 m   |
 
-D​ukes of dice is a great board gaming podcast that has been around for a few years. They date back to 2014 and have over 150 episodes to their name.
+Dukes of dice is a great board gaming podcast that has been around for a few years. They date back to 2014 and have over 150 episodes to their name.
 
-These Dukes cover a good range of topics, but the majority of their time is focused on reviewing games, making it great for beginners (Check out our [Best Board Games for Beginners](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews) post for some of our suggestions). Now, if you think you are well versed and might not get anything out of this podcast, think again.
+These Dukes cover a good range of topics, but the majority of their time is focused on reviewing games, making it great for beginners (Check out our [Best Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) post for some of our suggestions). Now, if you think you are well versed and might not get anything out of this podcast, think again.
 
 These guys cover a big variety of games, good for any skill level, but not only that, they touch on board game news in almost every episode. This can range from kickstarter games to new expansions slated for release. They also tackle topics like the board game awards and much anticipated conventions.
 
@@ -202,7 +202,7 @@ The other things these guys do well is keep a regular schedule of weekly product
 
 Be sure to check these guys out, and head over to their website for some great supplemental information.
 
-## 2\. [The Five By](https://thefiveby.fireside.fm/)
+## 2. [The Five By](https://thefiveby.fireside.fm/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Five-By_vqk84c.jpg "The Five By")
 
@@ -218,11 +218,11 @@ When we mention short form, we mean that each review is about 5 minutes long, ma
 
 These well-spoken hosts are great at conveying their thoughts in a short amount of time. A quick heads up, they can be a bit tricky to find on iTunes since they are so new (at least at the time of publishing this list). They are worth the listen if you want to get through a lot of reviews in a little amount of time.
 
-## 3\. [The Long View](http://thelongviewpodcast.com/)
+## 3. [The Long View](http://thelongviewpodcast.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Long-View_vx40nn.jpg "The Long View")
 
-|   Frequency   |   Episodes   |   Length (Avg)​   |
+|   Frequency   |   Episodes   |   Length (Avg)   |
 | --- | --- | --- |
 |   Irregular (Weekly)   |   125 +   |   1 h20 m   |
 
@@ -236,7 +236,7 @@ Primarily they focus on one game per episode so that they can really dive into t
 
 The Long View is a nice change of pace from the “this is the new game we tried this week” podcasts that give you bad cases of FOMO. They might be a great fit to keep your mind occupied while mowing the lawn!
 
-## 4\. [Perfect Information](https://infoperfected.com/)
+## 4. [Perfect Information](https://infoperfected.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Perfect-Information-Podcast_v3hfqg.png "Perfect Information Podcast")
 
@@ -256,7 +256,7 @@ Expect episodes to vary widely in their lengths. Everything from 5 minutes to 2 
 
 Add this one into you rotation for something different, even if you’re not a beginner you will probably get something out of it. We did.
 
-## 5\. [Board Game Royale](https://www.bestplay.co/)
+## 5. [Board Game Royale](https://www.bestplay.co/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Board-Game-Royale_ivq9h4.jpg "Board Game Royale")
 
@@ -264,7 +264,7 @@ Add this one into you rotation for something different, even if you’re not a b
 | --- | --- | --- |
 |   Weekly   |   25 +   |   23 m   |
 
-The podcast, Board Game Royale,​ is another newer player on the block. Having only been around since the end of January 2017, they only have 26 episodes. Which is a lot less than some of the others on the list, but it doesn’t make it any less great.
+The podcast, Board Game Royale, is another newer player on the block. Having only been around since the end of January 2017, they only have 26 episodes. Which is a lot less than some of the others on the list, but it doesn’t make it any less great.
 
 This (almost) weekly podcast takes another different twist on the board game review podcast. What they do, is pit two games against each other in a head to head battle. They try to pick games that are similar in nature. Whether this is because they are both train games, or maybe they share the same game mechanics.
 
@@ -276,7 +276,7 @@ They do a good job of keeping things light and funny. This is a good one if you 
 
 # Best Board Game Podcasts for Designers and Developers
 
-## 1\. [Ludology](https://boardgamegeek.com/boardgamepodcast/9617/ludology)
+## 1. [Ludology](https://boardgamegeek.com/boardgamepodcast/9617/ludology)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ludology-Podcast_lvxw6n.jpg "Ludology Podcast")
 
@@ -296,7 +296,7 @@ They also look at specific games and analyze them, not so much from a review, bu
 
 Ludology has been around for more than 150 episodes, all of which are roughly an hour to an hour and a half in length. Plus they put one out every week, so check them out for some regular thoughts.
 
-## 2\. [Board Game Design Lab](http://www.boardgamedesignlab.com/)
+## 2. [Board Game Design Lab](http://www.boardgamedesignlab.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305594/Board-Game-Design-Lab-1024x1024.png "Board Game Design Lab")
 
@@ -314,7 +314,7 @@ Look for these episodes to be anywhere from 45 minutes to a little over an hour,
 
 This one is usually very informal in nature, and they don’t have a much for wasted time in them. We like the “Lesson’s Learned” portions.
 
-## 3\. [Breaking Into Board Games](http://breakingintoboardgames.libsyn.com/)
+## 3. [Breaking Into Board Games](http://breakingintoboardgames.libsyn.com/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Breaking-Into-Board-Games_zxz88x.jpg "Breaking Into Board Games")
 
@@ -334,7 +334,7 @@ The style of this one makes it very easy to put on in the back ground while you 
 
 Check this one out for some good information and to learn a little bit about some people in the industry.
 
-## 4\. [Board Game Business](https://boardgame.business/)
+## 4. [Board Game Business](https://boardgame.business/)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Board-Game-Business-Podcast_kghy6q.png "Board Game Business Podcast")
 
@@ -350,7 +350,7 @@ It is full of really useful information for anyone trying to make money with boa
 
 This one comes out semi-irregularly with episodes coming every 2-3 weeks usually. Sometimes they go once a week. The average for the shows is right around 20 min, and there is over 60 of them at the time of writing this post.
 
-So, if you are looking for some valuable tips on finding artists to pricing and distribution, and everything in between, then give the Board Game Business podcast a listen.​
+So, if you are looking for some valuable tips on finding artists to pricing and distribution, and everything in between, then give the Board Game Business podcast a listen.
 
 # Conclusion
 

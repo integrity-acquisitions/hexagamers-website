@@ -94,9 +94,9 @@ It's hard to keep track of all the Carcassonne versions. If you're looking for y
 
 ### Share this Image On Your Site
 
-<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='http://hexagamers.com/carcassonne-versions-expansions'><img src='http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
+<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='/blog/carcassonne-versions-expansions'><img src='http:https:/res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
 
-​Carcassonne (2-5 players, 30-45 mins.)
+Carcassonne (2-5 players, 30-45 mins./)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg "Carcassonne - Original - 2000")
 
@@ -106,7 +106,7 @@ Players draw and place tiles to build farms, cities, cloisters and roads so that
 
 This edition released in 2011 on Carcassonne's 10th anniversary. It's the same game but in a meeple-shaped box with a meeple-shaped scoreboard, coloured and see-through meeples and 10 new land tiles called "The Festival." These tiles all have their own rules.
 
-​Abbey & Mayor (2-6 players, 30 mins.)
+Abbey & Mayor (2-6 players, 30 mins.)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Abbey-Mayor-2007_xllgpa.jpg "Carcassonne - Abbey & Mayor -2007")
 
@@ -244,7 +244,7 @@ The Gold Mines (2-6 players)
 
 Another small expansion, eight land tiles have gold bars. A gold token is placed on the land tile and adjacent tiles it touches, then given to any players involved in the closing or completing of those features, clockwise from the current player. Gold is worth 1-4 points, depending on how many players collect.
 
-​Gold Rush (2-5 players, 35 mins.)**​**​​​​
+Gold Rush (2-5 players, 35 mins.)***
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Gold-Rush-2014_wdzzqj.png "Carcassonne - Gold Rush - 2014")
 
@@ -262,7 +262,7 @@ Hunters & Gatherers (2-5 players, 30-45 mins.)
 
 Forests, rivers, lakes and meadows replace cities, roads and farms. Meeples are hunters in the meadows, gatherers in the forest and fishermen on a river. Huts gather fish when placed on rivers and lakes. Completed forests grant one gold nugget and the benefit of placing one of 12 bonus tiles. Meadows grant two points for every animal on it except tigers. Rivers grant points per each tile in the segment, plus the number of fish in the lakes. Huts grant points for fish in the lakes connected by rivers.
 
-Inns & Cathedrals (2-6 players, 60 mins.)​
+Inns & Cathedrals (2-6 players, 60 mins.)
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Inns-Cathedrals-2002_h2jbkc.jpg "Carcassonne - Inns & Cathedrals - 2002")
 
@@ -407,7 +407,7 @@ A note here is that the Big Box sets (especially #6) usually give you the best b
 
 ext here...
 
-Conclusion
+## Conclusion
 
 Some of these versions and expansions may not be available everywhere, or available for a decent price. We tried to create a complete list but may have missed one or two--and if we did, let us know! We'd also love to hear from you about your favourite expansion or version! Happy playing!
 

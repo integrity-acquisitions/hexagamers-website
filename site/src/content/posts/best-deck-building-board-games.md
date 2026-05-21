@@ -21,14 +21,13 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.j
 ---
 
 
-
 As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you interested is Deck Building Games, and rightfully so. If you are unfamiliar with what we these are, they can be summarized as board games where you slowly improve your hand over the duration of the game, in order to use that hand to help you eventually win.
 
-Looking to learn more about Deck Building Board Games? Check out...[Our Guide to Deck Building Games Here​](https://hexagamers.com/guide-to-understanding-deck-building-games)
+Looking to learn more about Deck Building Board Games? Check out...[Our Guide to Deck Building Games Here](/blog/guide-to-understanding-deck-building-games/)
 
 Note: There are card constructing games that you must buy or collect cards before even playing, and then you construct your hand before the game even starts. Think of Yu-Gi-Oh or Magic The Gathering. We will NOT be looking at these types in this list.
 
-When looking for the best deck building game, there are a lot of different factors to consider. Some of these games are kingdoms style and some are market style (find out more about these styles here ---> [Guide To Deck Building Games](https://hexagamers.com/guide-to-understanding-deck-building-games) ). Some are good for 1 player, others for up to 4 or 5. Some involve a lot of interaction with other players, some not so much. There are even cooperative style games in this genre.
+When looking for the best deck building game, there are a lot of different factors to consider. Some of these games are kingdoms style and some are market style (find out more about these styles here ---> [Guide To Deck Building Games](/blog/guide-to-understanding-deck-building-games/) ). Some are good for 1 player, others for up to 4 or 5. Some involve a lot of interaction with other players, some not so much. There are even cooperative style games in this genre.
 
 There are styles that have a lot of randomization, and others that involve strategic direction right from the start. You’ll see that some are fast paced or quick games, and certain ones take more time. On top of all that, you have different artwork which might be important to you. And, if that wasn’t enough, there are different themes to these games if that is critical to your enjoyment.
 
@@ -44,23 +43,22 @@ Have a look at some of the highest rated games, with small reviews, according to
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](#dominion) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Dominion-2nd-Edition-Board-Game/dp/B01LYLIS2U/ref=as_at?creativeASIN=B01LYLIS2U&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=0)[Dominion](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1RoKh/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=0&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=1)   |   2-4   |   30 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg)](#starrealms) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/White-Wizard-Games-Realms-Deckbuilding/dp/B00HRGMPIU/ref=as_at?creativeASIN=B00HRGMPIU&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=2)[Star Realms](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntT02a/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=1&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=3)   |   2   |   20 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg)](#marvel) |   [Legendary: A Marvel Deck Building Game](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A4KHEK0/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=4&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A4KHEK0&linkId=2c02b573afd2fd5752b7bde4df994cc2)   |   1-5   |   45 min   |   $$$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg)](#ascension) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Stoneblade-Entertainment-GGS-001-Ascension/dp/B0040QE5YC/ref=as_at?creativeASIN=B0040QE5YC&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=5)[Ascension: Deckbuilding Game](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEjKh0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=2&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=6)   |   1-4   |   30 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](#friday) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Rio-Grande-Games-457RGG-Friday/dp/B006NCVC6A/ref=as_at?creativeASIN=B006NCVC6A&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=7)[Friday](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEoJy0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=3&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=8)   |   1   |   25 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg)](#valleyofthekings) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Alderac-Entertainment-Group-5381-Valley/dp/B00J1JLT3S/ref=as_at?creativeASIN=B00J1JLT3S&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=9)[Valley of the Kings](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJkc8O/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=4&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=10)   |   2-4   |   45 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg)](#eminentdomain) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Tasty-Minstrel-Games-1005TTT-Eminent/dp/0984155856/ref=as_at?creativeASIN=0984155856&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=11)[Eminent Domain](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEyJYk/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=5&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=12)   |   2-4   |   45 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg)](#clank) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Renegade-Game-Studios-0552RGS-Clank/dp/B01KAC6268/ref=as_at?creativeASIN=B01KAC6268&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=13)[Clank!](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1XQ3S/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=6&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=14)   |   2- 4   |   30-60 min   |   $$$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg)](#coreworlds) |   [Core Worlds](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0060K9W94/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=15&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0060K9W94&linkId=f153019d95d2513dbbaa4f0d1ff64456)   |   2-5   |   60-120 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg) |   Dominion   |   2-4   |   30 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg) |   Star Realms   |   2   |   20 min   |   $   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg) |   Legendary: A Marvel Deck Building Game   |   1-5   |   45 min   |   $$$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg) |   Ascension: Deckbuilding Game   |   1-4   |   30 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg) |   Friday   |   1   |   25 min   |   $   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg) |   Valley of the Kings   |   2-4   |   45 min   |   $   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg) |   Eminent Domain   |   2-4   |   45 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg) |   Clank!   |   2- 4   |   30-60 min   |   $$$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg) |   Core Worlds   |   2-5   |   60-120 min   |   $$$   |  |
 
-## 1\. [Dominion](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1RoKh/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=7&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=16) ([Full Review Here](https://hexagamers.com/dominion-review))
+## 1. Dominion ([Full Review Here](/blog/dominion-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1RoKh/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=8&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=17)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://amzn.to/2n1RoKh)
 
-This one is at the top of our list for a number of reasons. Not only did this game somewhat kickoff this genre when it was introduced back in 2008, but it is still highly regarded as the best in class. Dominion has very simple mechanics (can be broken down into ABC), so it is perfect for starting into the genre, no matter what your experience level is. In fact, it made our [Best Gateway Board Games](https://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews) for that reason.
+This one is at the top of our list for a number of reasons. Not only did this game somewhat kickoff this genre when it was introduced back in 2008, but it is still highly regarded as the best in class. Dominion has very simple mechanics (can be broken down into ABC), so it is perfect for starting into the genre, no matter what your experience level is. In fact, it made our [Best Gateway Board Games](/blog/best-gateway-board-games-for-beginners-with-reviews/) for that reason.
 
 All players begin the game with the same starting hand and slowly collect action cards, currency, and victory points. In this kingdom style game, you are able to see all of the available cards, and choose from them if you can afford them. This allows you to plan in advance what you want your strategy to be. You eventually switch from building your deck to collecting Victory Points to win the game. That being said, there isn’t a lot of luck to this game other than how your hand plays out after each shuffle.
 
@@ -74,15 +72,12 @@ The last point to make about this game is that it doesn’t have a lot of intera
 
 This is one is easy to get started with, and it is said that the other games in the genre are twists off of this one, so it is certainly one you want to add to your collection.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1RoKh/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=9&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=18)
+<a href="http://amzn.to/2n1RoKh" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Star Realms
 
-## 2\. [Star Realms](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntT02a/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=10&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=19)
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg)](http://amzn.to/2ntT02a)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntT02a/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=11&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=20)
-
-​
 
 This game is near the top of the list because of its accessibility and the fact that it’s good to see it as a contradiction to Dominion.
 
@@ -102,15 +97,12 @@ The game is mechanically sound, and can lead to some huge, devastating combos by
 
 One of the downsides to the game is the score cards aren’t the best. With the high variability in the score/HP you will find yourself writing the score on a piece of paper most times.Overall, it is quick, easy, and very affordable, which is why it came in as one of the highest rated here.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntT02a/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=12&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=21)
+<a href="http://amzn.to/2ntT02a" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Legendary: A Marvel Deck Building Game
 
-## 3\. [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Marvel-Legendary-Deck-Building-Board/dp/B00A01RZPM/ref=as_at?creativeASIN=B00A01RZPM&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=22)[Legendary: A Marvel Deck Building Game](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A4KHEK0/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=23&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A4KHEK0&linkId=2c02b573afd2fd5752b7bde4df994cc2)
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg)](https://www.amazon.com/dp/B00A4KHEK0/?tag=hexagamers-20)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A4KHEK0/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=24&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A4KHEK0&linkId=2c02b573afd2fd5752b7bde4df994cc2)
-
-​
 
 Looking for a fun theme, this is your game. In this game you get to build a deck based on the superheroes from the Marvel Universe!
 
@@ -126,17 +118,14 @@ A couple of the negative points to this game are the initial setup can be intimi
 
 This game is great, and kids love it too if you want to get them into the scene.
 
-If Marvel isn’t your cup of tea, then [Legendary Encounters: An Alien Deck Building Game](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00MU2DQAW/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=25&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00MU2DQAW&linkId=b220522bf771ce6432cf3dddaf08d89b) might be up your alley. It is a similar concept with a twist of an optional traitor. Again, some have said this is too easy for them.
+If Marvel isn’t your cup of tea, then Legendary Encounters: An Alien Deck Building Game might be up your alley. It is a similar concept with a twist of an optional traitor. Again, some have said this is too easy for them.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A4KHEK0/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=26&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A4KHEK0&linkId=2c02b573afd2fd5752b7bde4df994cc2)
+<a href="https://www.amazon.com/dp/B00A4KHEK0/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Ascension: Deckbuilding Game
 
-## 4. [Ascension: Deckbuilding Game](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEjKh0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=13&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=27)
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg)](http://amzn.to/2nEjKh0)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEjKh0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=14&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=28)
-
-​
 
 This game is made for 1-4 players (plays best with 2 or more players) and comes from _Magic: The Gathering_ Pro Tour champions. That said, you know this one is chock full of your fantasy needs, and this theme is a big premise of the game.
 
@@ -152,13 +141,11 @@ The negatives are small with this game, but we found ourselves wishing there was
 
 Otherwise, the game mechanics are good, and it’s very easy to enjoy this one.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEjKh0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=15&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=29)
+<a href="http://amzn.to/2nEjKh0" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Friday
 
-## 5\. [Friday](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEoJy0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=16&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=30)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEoJy0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=17&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=31)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://amzn.to/2nEoJy0)
 
 Feel like playing a game where the theme is being stranded on an island and have to survive against various dangers? This is the deck builder game is for you. This game take the theme a little bit further by being a 1 player game.
 
@@ -172,15 +159,12 @@ The downsides to this game are the math at the end when facing the pirates can r
 
 That said, though, there are different difficulty levels you can choose from (level 1-4), so it should keep you busy for a while. Not to mention, this one is pretty cheap relatively, so it is easy to add it to your collection if you want a game to play by yourself.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEoJy0/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=18&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=32)
+<a href="http://amzn.to/2nEoJy0" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 6. Valley of the Kings
 
-## 6\. [Valley of the Kings](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJkc8O/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=19&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=33)
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg)](http://amzn.to/2mJkc8O)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJkc8O/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=20&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=34)
-
-​
 
 In Valley of the Kings, you are set in ancient Egypt where you are trying to fill our tomb full of useful goods like food, amulets, statues, and other treasures. One of the twists with this game is that your deck is useless at the end of the game, and you only get points for the actual card that you entomb while playing.
 
@@ -196,13 +180,11 @@ This game is easy to learn, has some interesting moves in it, and is small (arou
 
 The theme is fun, and it has great artwork, plus some cool facts to learn. This one is worth checking out if you want a small portable deck builder, or want to try out some new mechanics.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJkc8O/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=21&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=35)
+<a href="http://amzn.to/2mJkc8O" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 7. Eminent Domain
 
-## 7\. [Eminent Domain](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEyJYk/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=22&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=36)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEyJYk/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=23&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=37)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg)](http://amzn.to/2nEyJYk)
 
 Another space themed deck building game has made it onto our list of highest rated games! This one is slightly different from the other, and is a great theme.
 
@@ -220,15 +202,12 @@ Eminent Domain has a little more strategy involved and is more complex than othe
 
 Check this one out if you are looking to have some more strategy base to your deck builder adventures.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEyJYk/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=24&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=38)
+<a href="http://amzn.to/2nEyJYk" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 8. Clank!
 
-## 8\. [](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Renegade-Game-Studios-0552RGS-Clank/dp/B01KAC6268/ref=as_at?creativeASIN=B01KAC6268&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=39)[Clank!](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1XQ3S/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=25&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=40)
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg)](http://amzn.to/2n1XQ3S)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1XQ3S/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=26&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=41)
-
-​
 
 Clank is a new, action filled, strategy based, fun, 2-4 player, deck building game (enough descriptors for you?). This one should probably be higher on the list, but we haven’t had enough time to thoroughly evaluate it yet (only played it a couple times as of writing).
 
@@ -242,15 +221,13 @@ Once set up is done, this one is easy to play and beginners can pick it up fairl
 
 You will find this one lighter and more fun than some of those taxing strategy games out there. It can be a bit tricky to find, and the price is a little higher than others, but it is worth checking out.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/Qn__cUEffm6TgNEQ2unHW1sAAAFfRldfbgEAAAFKAc2UEEw/http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1XQ3S/ref=as_at/?imprToken=dkflWakR5uaSHkBTpieAeQ&slotNum=27&linkCode=w61&imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=42)
-
+<a href="http://amzn.to/2n1XQ3S" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Honorable Mention
 
-## 1\. [Core Worlds](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0060K9W94/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=43&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0060K9W94&linkId=f153019d95d2513dbbaa4f0d1ff64456)
+## 1. Core Worlds
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0060K9W94/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=44&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0060K9W94&linkId=f153019d95d2513dbbaa4f0d1ff64456)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg)](https://www.amazon.com/dp/B0060K9W94/?tag=hexagamers-20)
 
 Core Worlds is a well-integrated space themed deck building game, and makes our top list as an honorable mention.
 
@@ -270,10 +247,9 @@ There are expansions to this one as well, which really add to the game, and are 
 
 As mentioned it takes a bit to learn, and there is lots going on each turn including all the planning. It makes it a little slower moving the first few times, so I wouldn’t recommend it as your first deck builder, but it is worth checking out, that’s why it is an honorable mention.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QukyyqrJFQah5zTxDuSJiscAAAFfRldfYQEAAAFKAbLANZ4/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0060K9W94/ref=as_at/?imprToken=T.T2NjDSu4umthl20aiy7w&slotNum=45&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0060K9W94&linkId=f153019d95d2513dbbaa4f0d1ff64456)
-
+<a href="https://www.amazon.com/dp/B0060K9W94/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 There are a lot of games in this fairly new genre, and it is expanded every year. It was hard for us to narrow down our picks for the best deck building games, so hopefully you found something that interests you in there. As always, your mileage may vary with these board games, since preferences are so subjective. Once you understand the concept of deck builder games, you can venture off into some of the different variations to see what really interests you.
 
-If you feel we missed a game or have some thoughts on the above list, feel free to let us (and other readers) know. As you know, the more information the better.​
+If you feel we missed a game or have some thoughts on the above list, feel free to let us (and other readers) know. As you know, the more information the better.

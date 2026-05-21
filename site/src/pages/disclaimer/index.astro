@@ -1,0 +1,130 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base
+  title="Disclaimer"
+  description="Affiliate disclosure, sponsored content policy, and accuracy disclaimer for Hexagamers."
+>
+  <div class="disclaimer-page">
+    <div class="container">
+
+      <header class="disclaimer-header fade-up">
+        <p class="section-label">Legal</p>
+        <h1>Disclaimer</h1>
+      </header>
+
+      <div class="disclaimer-body fade-up fade-up-1">
+
+        <div class="notice-card">
+          <p class="notice-label">Affiliate Notice</p>
+          <p>
+            This post may include affiliate links, including Amazon. This does not affect your viewing
+            or any pricing on the associated sites, but we make a commission on purchases. This is how
+            we help fund this site. Thanks!
+          </p>
+        </div>
+
+        <section class="disclaimer-section">
+          <h2>Advertising &amp; Monetization</h2>
+          <p>
+            <a href="https://hexagamers.com">hexagamers.com</a> is owned and operated by Hexagamers
+            and may contain advertisements, sponsored content, paid insertions, affiliate links, or
+            other forms of monetization.
+          </p>
+          <p>
+            <a href="https://hexagamers.com">hexagamers.com</a> abides by word of mouth marketing
+            standards. We believe in honesty of relationship, opinion, and identity. The compensation
+            received may influence the advertising content, topics, or posts made in this blog. That
+            content, advertising space, or post will be clearly identified as paid or sponsored content.
+          </p>
+        </section>
+
+        <section class="disclaimer-section">
+          <h2>Editorial Independence</h2>
+          <p>
+            Hexagamers is never directly compensated to provide opinion on products, services, websites,
+            and various other topics. The views and opinions expressed on this website are purely those
+            of the authors. If we claim or appear to be experts on a certain topic or product or service
+            area, we will only endorse products or services that we believe, based on our expertise, are
+            worthy of such endorsement. Any product claim, statistic, quote, or other representation
+            about a product or service should be verified with the manufacturer or provider.
+          </p>
+          <p>
+            This site does not contain any content which might present a conflict of interest.
+          </p>
+        </section>
+
+        <section class="disclaimer-section">
+          <h2>Accuracy</h2>
+          <p>
+            Hexagamers makes no representations, warranties, or assurances as to the accuracy, currency,
+            or completeness of the content contained on this website or any sites linked to or from
+            this site.
+          </p>
+        </section>
+
+        <section class="disclaimer-section">
+          <h2>Contact</h2>
+          <p>
+            If you have any questions regarding this policy or your dealings with our website, please
+            contact us at <a href="https://hexagamers.com/contact">hexagamers.com/contact</a>.
+          </p>
+        </section>
+
+      </div>
+    </div>
+  </div>
+</Base>
+
+<style>
+.disclaimer-page { padding: 4rem 0 6rem; }
+
+.disclaimer-header { margin-bottom: 3rem; }
+.disclaimer-header h1 { margin-top: 0.5rem; }
+
+.disclaimer-body { max-width: 740px; }
+
+.notice-card {
+  background: var(--amber-dim);
+  border: 1px solid rgba(240,165,0,0.25);
+  border-left: 3px solid var(--amber);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 3rem;
+}
+.notice-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.6rem;
+}
+.notice-card p:last-child {
+  color: var(--text-2);
+  line-height: 1.7;
+  margin: 0;
+}
+
+.disclaimer-section {
+  border-top: 1px solid var(--border);
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+}
+.disclaimer-section h2 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+.disclaimer-section p {
+  color: var(--text-2);
+  line-height: 1.75;
+  margin-bottom: 1rem;
+}
+.disclaimer-section p:last-child { margin-bottom: 0; }
+.disclaimer-section a {
+  color: var(--amber-light);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.disclaimer-section a:hover { color: var(--amber); }
+</style>

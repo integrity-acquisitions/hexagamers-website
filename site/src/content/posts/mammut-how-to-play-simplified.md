@@ -13,50 +13,89 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png"
 ---
 
-![Mamutt - How To Play](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png)
+![Mammut – How To Play](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png)
 
-Game Overview
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">~30 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">7+</span><span class="stat-label">Age</span></div>
+</div>
 
-Mammut is a game that brings you back to your roots of a good old fashioned Mammoth hunt. After returning from said hunt, you must distribute all the loot amongst the tribe (other players). You can take as much as you want when it’s your turn to pick, but other tribe members will have the option to steal your entire pot when it’s their turn. After 5 hunts you will determine who has the best collection for their family and thus being crowned the king/queen of the tribe (aka winner of the game).
+It's the prehistoric era and your tribe has just returned from a mammoth hunt. Now you must divide the spoils — but other tribe members can steal your entire haul when it's their turn. After 5 hunts, whoever has built the best collection for their family wins.
 
-[CHECK PRICE](http://amzn.to/2n1PCJp)
+> Our full review: [Mammut Review](/blog/mammut-review/)
 
-Looking for our full review of Mammut, click here...[Mammut Review](http://hexagamers.com/mammut-review)
+## Overview
 
-Rules Overview
+31 loot tiles are poured onto the board. Players take turns picking tiles from the pile, building up their personal haul. But here's the catch: on your turn, instead of picking from the pile, you can **steal the entire haul** (minus one tile) from any other player. Turns continue until every tile is claimed.
 
-At the start of the game (and each of the 5 total rounds), the loots is spilled onto the board. Players will take turns picking out what they want from the loot of the hunt (31 pieces), then passing the remaining to the next player.
+After each of the 5 rounds, scoring happens. Then everything resets and the hunt begins again.
 
-The next player can either steal the entire amount (minus one) from one of the previous players or pick from the pile. Turns continue until all tiles are gone.
+## Setup
 
-Scoring then occurs. Scoring is done based on what you have, and in many cases variable when compared to what the others have. Having the most of something usually gets you extra points, while having the least can get you negative points. More on this in a bit.
+<div class="steps">
+  <div class="step"><span class="step-num">1</span><div>Shuffle all 31 loot tiles (each is <strong>double-sided</strong>) and pour them face-down onto the game board.</div></div>
+  <div class="step"><span class="step-num">2</span><div>Give each player their <strong>action cards</strong> for the round.</div></div>
+  <div class="step"><span class="step-num">3</span><div>The <strong>scoring reference</strong> is printed on the game board — visible to everyone throughout the game.</div></div>
+</div>
 
-Variability between the rounds come as players can use ‘action cards’ to either change the scoring of their loot (9 different options) or using the action card to affect the pile of available cards in some way. Eg. Flipping cards over or seeing what’s on the back of ‘question mark cards’.
+## How a Round Works
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Action-card-1_fxdten.jpg)
+<div class="steps">
+  <div class="step"><span class="step-num">1</span><div>On your turn, choose to either <strong>pick tiles from the pile</strong> (as many as you want), or <strong>steal all but one tile</strong> from another player's haul.</div></div>
+  <div class="step"><span class="step-num">2</span><div>Before picking, you may play an <strong>action card</strong> to modify the pile or your scoring.</div></div>
+  <div class="step"><span class="step-num">3</span><div>Play continues until every tile is claimed. Then <strong>scoring occurs</strong>.</div></div>
+  <div class="step"><span class="step-num">4</span><div>After scoring, tiles are <strong>shuffled and repoured</strong> for the next round. Repeat for 5 rounds total.</div></div>
+</div>
 
-The tiles available will change every round since each is double sided, are shuffled and poured on to the game board for distribution.
+## Special Tiles
 
-Players will have different collection goals every round, so this will change the objects they are going for, but there are two other variables that come into play when selecting what you want.
+<div class="rule-cards">
+  <div class="rule-card">
+    <p class="rule-num">Tile Type</p>
+    <p class="rule-title">Question Mark Tiles</p>
+    <p>Face-down tiles with an unknown item on the back. You don't know what you're getting until it's yours — great for risk-takers.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Question-Mark-Tile-1_nzlcs1.jpg" alt="Question Mark Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
+  </div>
+  <div class="rule-card">
+    <p class="rule-num">Tile Type</p>
+    <p class="rule-title">The Shaman Tile</p>
+    <p>Determines tie-breakers. Whoever owns the Shaman tile (or is closest to it, clockwise or counter-clockwise depending on how it lands) wins any tied scoring category.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Shaman-Tile-1_dgbs3w.jpg" alt="Shaman Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
+  </div>
+</div>
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Question-Mark-Tile-1_nzlcs1.jpg)
+## Action Cards
 
-One is that there are “question mark” tiles that have an unknown object on the back which you get (this is good for those gamblers out there). And lastly, there is a ‘shaman’ tile.
+Each player has action cards that can be played on their turn. They either:
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Shaman-Tile-1_dgbs3w.jpg)
+- **Change how a loot category scores** (9 different options) — useful for tilting the final tally in your favour
+- **Affect the pile** — flip tiles, peek at question mark tiles, or otherwise manipulate what's available
 
-This tile is used to determine tie-breakers in the game. Simply put, whoever owns it or is closest to the shaman wins the tie breaker (could be closest clockwise or counter-clockwise depending on the way this tile lands).
+![Action Card](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Action-card-1_fxdten.jpg)
 
-SCORING
+## Scoring
 
-Like many games, the points you get from have lots of one thing, or many different types of one kind, can go up dramatically the more you have. Or, can hurt you significantly via negative points if you don’t have something.
+Scoring happens at the end of **each round** — except for animals, which score only at the **end of the game** based on the variety in your collection.
 
-There are many different areas you can try to collect: furs, different animals, victory points, fires, and of course meat.
+Scoring follows a classic "most gets bonus, least gets penalty" pattern across multiple categories:
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Furs-1_ck4qxb.jpg)![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Fire-1_oj9oz7.jpg)![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Tusk-Victory-Points-1_t8v7mk.jpg)
+| Category | Notes |
+|---|---|
+| **Furs** | More = better; fewest may get negative points |
+| **Animals** | Scored at game end based on variety |
+| **Fires** | Quantity scoring |
+| **Meat** | Quantity scoring |
+| **Victory Point tiles** | Tusks and other direct VP items |
 
-You score all points at the end of each of the 5 rounds except for animals, which are scored at the end of the game based on the variety that you have in your collection.
+The scoring table is printed right on the game board — no need to memorize anything.
 
-The nice thing about the scoring is that the game board has all the scoring on it in front of you the whole game, so you can reference it as you need to.
+<div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin:1rem 0">
+  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Furs-1_ck4qxb.jpg" alt="Furs" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Fire-1_oj9oz7.jpg" alt="Fire tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Tusk-Victory-Points-1_t8v7mk.jpg" alt="Victory Point tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+</div>
 
-Winner is the one with the most Victory Points at the end of the game.
+## Winning
+
+After 5 rounds, add up all Victory Points. The player with the most wins and is crowned king or queen of the tribe.

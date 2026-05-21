@@ -63,7 +63,7 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/king-of-tokyo_g4y0ja.jpg"
 ---
 
-Kon'nichiwa! East meets West in these board games. It doesn't really matter whether you've been to, lived in, are from, dream of or know nothing about Asia! Our list of **10 board games that incorporate Asian culture**, history and traditions has something for every player, whatever kind of game you like--[co-operative board games](https://hexagamers.com/best-cooperative-board-games), ​[two-player board games](https://hexagamers.com/best-two-player-board-games), strategy, cards, battle, group, tiles, or even if you don't know what you like and are just getting started. Our 10 favourites may not jive with yours, so if we're missing one of your favourites, let us know! There are so many out there to play. Now, onto the games... 
+Kon'nichiwa! East meets West in these board games. It doesn't really matter whether you've been to, lived in, are from, dream of or know nothing about Asia! Our list of **10 board games that incorporate Asian culture**, history and traditions has something for every player, whatever kind of game you like--[co-operative board games](/blog/best-cooperative-board-games/), [two-player board games](/blog/best-two-player-board-games/), strategy, cards, battle, group, tiles, or even if you don't know what you like and are just getting started. Our 10 favourites may not jive with yours, so if we're missing one of your favourites, let us know! There are so many out there to play. Now, onto the games... 
 
 # Best Asia-Themed Games
 
@@ -82,7 +82,6 @@ Kon'nichiwa! East meets West in these board games. It doesn't really matter whet
 
 ## 1\. [King of Tokyo](https://amzn.to/3a4Dgai)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/king-of-tokyo_g4y0ja.jpg "king of tokyo")](https://amzn.to/3a4Dgai)
 
@@ -92,13 +91,12 @@ King of Tokyo is a fun, battle royale-style game that's suitable for the whole f
 
 ## 2\. [Hanabi](https://amzn.to/2xhqNmk)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/hanabi_lwiwni.jpg "hanabi")](https://amzn.to/2xhqNmk)
 
 Hanabi is a **cooperative card game for 2-5 players**. Players work together to create an over-the-top fireworks show, impress the judges and win the game--but there's a bit of a twist: you can't see your own cards.
 
-\== See our list of other [Cooperative BoardGames here](https://hexagamers.com/best-cooperative-board-games) ==
+\== See our list of other [Cooperative BoardGames here](/blog/best-cooperative-board-games/) ==
 
 The deck contains cards numbered one through five in five colours. Each player gets five cards that face your teammates. On every turn, players have three choices: discard a card from his hand, play a card from his hand, or use one of eight tokens and give a teammate a piece of information. The information can only be about numbers or colours of the cards your teammate is holding (for example, pointing at similar cards and stating their colour or number). When favour tokens run out, players have to discard a card to earn a token back. If you think you have the right information, play a card but be sure it's the right one! Cards must be played in order from one through five in the same colour. Make a mistake, and you remove one of three fuse tokens. When all three tokens are gone, your fireworks explode and you lose!
 
@@ -106,7 +104,6 @@ Hanabi is a tough game, and it takes good communication, memory, logic and teamw
 
 ## 3\. [Lanterns](https://amzn.to/34wwuss)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/lanterns_xwu1j9.png "lanterns")](https://amzn.to/34wwuss)
 
@@ -118,7 +115,6 @@ It's quite simple to learn and easy to play, though strategy is big in this game
 
 ## 4\. [Tokaido](https://amzn.to/3efgfop)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/tokaido_vn2ido.jpg "tokaido")](https://amzn.to/3efgfop)
 
@@ -128,17 +124,15 @@ You can definitely learn this game in under five minutes, though it takes a coup
 
 ## 5\. [Sushi Go](https://amzn.to/34wrrbL)/[Sushi Go Party](https://amzn.to/2VlJptc)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305615/sushigo.jpg "sushigo")](https://amzn.to/2VlJptc)
 
-Sushi Go! is a fun and quick card drafting game for 2-5 players. Sushi Go! Party **plays up to eight people**. Both are great for newbies and seasoned players alike as it's easy to learn but still strategic and competitive. If you're a fan of card drafting and games like [7 Wonders](https://hexagamers.com/7-wonders-review), Sushi Go is an enjoyable, fun and lighter change of pace. It's a great intro for people intimidated by weightier games.
+Sushi Go! is a fun and quick card drafting game for 2-5 players. Sushi Go! Party **plays up to eight people**. Both are great for newbies and seasoned players alike as it's easy to learn but still strategic and competitive. If you're a fan of card drafting and games like [7 Wonders](/blog/7-wonders-review/), Sushi Go is an enjoyable, fun and lighter change of pace. It's a great intro for people intimidated by weightier games.
 
 Players are dealt a hand of cards and everyone simultaneously selects and reveals one before passing that hand to the next player. This is repeated until all cards are played, and repeated for two more rounds, calculating score after each round. The player with the most points at the end of the game wins. But! Every card is a bit different: some stack, some are punishments, some are bonuses and so on, so players have to pay attention to their cards and to what others are playing. The cards all tell you what they do and what they need so it makes it easier than having to refer constantly to rule books or ask questions. There are more rules and a greater ability to modify the game in Sushi Go! Party. The illustrations are adorable in both versions, and whether you love or hate sushi, this is a fun game to play with friends and family alike.
 
 ## 6a. [Hanamikoji](https://amzn.to/3b6UHrR)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/hanamikoji_jmervm.jpg "hanamikoji")](https://amzn.to/3b6UHrR)
 
@@ -152,7 +146,6 @@ It sounds confusing, but play it once and the game becomes clear. It's quite sim
 
 ## 6b. [Shadows in Kyoto](https://amzn.to/2VpiRHv)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/shadows-in-kyoto_huehlz.jpg "shadows in kyoto")](https://amzn.to/2VpiRHv)
 
@@ -162,7 +155,6 @@ There are two decks of cards: site cards move your agents and the tactics deck g
 
 ## 7\. [Lotus](https://amzn.to/2K3OgKs)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/lotus_ep315f.jpg "lotus")](https://amzn.to/2K3OgKs)
 
@@ -172,7 +164,6 @@ Lotus is quick and easy to learn and play. It's also small and compact so it's e
 
 ## 8\. [Kanagawa](https://amzn.to/2yZ3LRB)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/kanagawa_ocxr63.jpg "kanagawa")](https://amzn.to/2yZ3LRB)
 
@@ -180,11 +171,10 @@ In Kanagawa, you are a painting disciple, learning from the master, trying to pa
 
 With the cards you have, you can either add them to your panorama or your knowledge. Some cards need specific paint colours, so you have to choose wisely what goes where, and where you lay your cards. Bonuses are awarded for specific layouts and types of cards.
 
-Kanagawa is beautiful and more strategic so suitable for older game players. We like how challenging it can be and how strategic you have to think to help your game and hinder others', while being mindful of where you place cards and in what order you draft.  We do wish we could play with more than four players, though! If you like [deck building](https://hexagamers.com/best-deck-building-board-games) or [drafting games](https://hexagamers.com/best-card-drafting-board-games), Kanagawa would be a good addition to your collection. 
+Kanagawa is beautiful and more strategic so suitable for older game players. We like how challenging it can be and how strategic you have to think to help your game and hinder others', while being mindful of where you place cards and in what order you draft.  We do wish we could play with more than four players, though! If you like [deck building](/blog/best-deck-building-board-games/) or [drafting games](/blog/best-card-drafting-board-games/), Kanagawa would be a good addition to your collection. 
 
-## 9\. [Takenoko](https://amzn.to/3b9PVtU) ([See Our Review Here](https://hexagamers.com/takenoko-review))
+## 9\. [Takenoko](https://amzn.to/3b9PVtU) ([See Our Review Here](/blog/takenoko-review/))
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg "takenoko")](https://amzn.to/3b9PVtU)
 
@@ -196,11 +186,10 @@ Takenoko has some neat aspects that keep it fresh and different every time you p
 
 ## 10\. [Yamatai](https://amzn.to/34ySi6Q)
 
-Our Rating:
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/yamatai_jwzamq.jpg "yamatai")](https://amzn.to/34ySi6Q)
 
-Yamatai is a gorgeous **game for 2-4 players** made with durable, heavier cardboard pieces. Players are working to be the best builder in the land. The board game and tiles are laid out between players and everyone takes their meeple(s), money and buildings. [Meeples](https://hexagamers.com/everything-you-need-to-know-about-board-games#meeple) are randomly set out on the board to determine order, and each turn consists of five actions (choose a fleet tile, trade, place ships, store ships and recruit a specialist), though some are not mandatory. Fleet tiles grant special powers and also dictate player order for the next round. Ships move in continuous lines throughout the map, allowing players access to islands and the ability to take tokens and build on the islands. The game can end if a player builds all their buildings, if the ships of one colour run out, if the building tiles are gone or if the specialist tiles run out. There's a lot going on in Yamatai so it can be a longer game. There's also a lot to keep track of, a lot of options and many strategic moves to consider. Novices can play Yamatai, but its strategy, depth and weight don't make it ideal for a gateway or intro game for beginners. It's a truly beautiful game and we love how the designers worked hard to make options balanced and adapt the game for different numbers of players. Yamatai is a great addition to the collection and its replayability is great as every layout will be different with different challenges.
+Yamatai is a gorgeous **game for 2-4 players** made with durable, heavier cardboard pieces. Players are working to be the best builder in the land. The board game and tiles are laid out between players and everyone takes their meeple(s), money and buildings. [Meeples](/blog/everything-you-need-to-know-about-board-games#meeple/) are randomly set out on the board to determine order, and each turn consists of five actions (choose a fleet tile, trade, place ships, store ships and recruit a specialist), though some are not mandatory. Fleet tiles grant special powers and also dictate player order for the next round. Ships move in continuous lines throughout the map, allowing players access to islands and the ability to take tokens and build on the islands. The game can end if a player builds all their buildings, if the ships of one colour run out, if the building tiles are gone or if the specialist tiles run out. There's a lot going on in Yamatai so it can be a longer game. There's also a lot to keep track of, a lot of options and many strategic moves to consider. Novices can play Yamatai, but its strategy, depth and weight don't make it ideal for a gateway or intro game for beginners. It's a truly beautiful game and we love how the designers worked hard to make options balanced and adapt the game for different numbers of players. Yamatai is a great addition to the collection and its replayability is great as every layout will be different with different challenges.
 
 ## Conclusion
 

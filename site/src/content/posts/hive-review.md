@@ -5,75 +5,52 @@ categories:
   - "games"
   - "reviews"
 tags: 
-  - "board-game"
-  - "board-game-review"
-  - "board-games"
-  - "bugs"
   - "hive"
-  - "strategy"
   - "strategy-board-game"
-  - "table-top-board-games"
-  - "table-top-game"
   - "two-player"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305645/IMG_1436-2-300x295.jpg"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305645/IMG_1436-2-300x295.jpg "Hive")
+## Overview
 
-# OVERVIEW
+Two players face off with hexagonal bug tiles. Protect your Queen Bee while surrounding your opponent's — using ants, beetles, grasshoppers, and spiders that each move differently.
 
-Our Rating:
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">10–30 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
+</div>
 
-Protect your Queen Bee from the neighbouring other bugs that wish to over power your Queen. The only way to succeed in protecting her is to over power your neighbouring Queen Bee. Which army of bugs will seize victory? Black or white?
+> Featured on: [Best Two Player Board Games](/blog/best-two-player-board-games/)
 
-[CHECK PRICE](http://amzn.to/2yoa3J1)
+## Charlene's Review
 
-|   Number of Players   |   Time to Play   |   Ages   |
-| --- | --- | --- |
-|   2   |   10-30 min   |   8+   |
+### Likes
+- Fast rounds — great for multiple plays in one sitting
+- No setup, perfect for travel
+- Excellent two-player strategy game
 
-Looking for more two player games? Check out...[Our Best Two Player Board Games 2017](http://hexagamers.com/best-two-player-board-games) 
+### Dislikes
+- Wish there was an expansion for more than 2 players
 
-# CHARLENE'S REVIEW
+## First Impressions
 
-My Rating:
+When I first opened the box, I wasn't immediately hooked. Two sets of hexagon tiles — one black, one white — each printed with bugs. I wasn't sure this was going to do it for me. I was wrong.
 
-Likes
+I strongly prefer the original coloured version over the carbon edition. The distinct colours make identifying different bug types much easier at a glance.
 
-- 👍Fast Rounds
-- 👍Good for Travel 
-- 👍Great two player strategic game
+## Thoughts
 
-Dislikes
+**The theme is surprisingly well executed.** The pieces are hexagonal, forming a honeycomb structure. The Queen Bee is the piece you protect. Each bug moves in a way inspired by its real-world counterpart — Grasshoppers jump over other bugs, Beetles are slow (one space at a time) but can climb on top of others to pin them, Ants move freely around the outside of the hive. The thematic movement rules make the game feel coherent and are much easier to remember than arbitrary movement rules would be.
 
-- 👎Wish there was an expansion to make it possible to have more players 
+**This feels like Chess and Checkers combined.** Chess strategy depth, Checkers play speed. Every move can be critical — blocking an ant, repositioning your Queen, placing a piece that cuts off a vital path. The strategic surface is surprisingly deep for a game with so few components.
 
-Intr﻿﻿﻿o/First Impressions
+**Ant control is key.** Ants are the most mobile piece in the game and can surround your opponent's Queen faster than almost anything else. Stopping your opponent's ant from moving by cutting off its retreat path is one of the most effective defensive plays. Placing a Beetle on top of their ant pins it completely.
 
-When I first opened the box and took out the game pieces, I was unsure if I would like this game. I didn’t get that initial excited new game feeling. There are two sets of hexagon tiles, one set is black the other is white. Each tile has a bug on it. The object of the game is to protect your Queen Bee while also trying to surround or capture your opponents Queen. You have different bugs that move differently, and use them to succeed. I do prefer the original version with the bugs being in different colours over the carbon version. I find it adds a very small visual element. It helps me distinguish between the different types of bugs easier.
+**Don't be afraid to move your Queen.** It can reset the whole board state when your opponent has nearly surrounded her. It's a desperation move, but it works.
 
-Thoughts
+**No setup at all** — just place the bag down, pull out the pieces, and play. This makes Hive genuinely perfect for travel or impromptu games.
 
-The theme of bugs isn’t going to be a favourite amongst some people but it does fit the game really well. The pieces are shaped like hexagons so it looks like a honey comb. With the shape of the pieces it makes sense to have the tile each player needs to surround being the Queen Bee. So with those two concepts, it makes sense to follow that trend and have the tiles also be bugs. I enjoy the concept of bugs and feel it is done really well here. The way each bug moves corresponds to how they do in reality. For example a Grasshopper jumps over other bugs, while a beetle is slow (only moves one space) but can climb.
+## Conclusion
 
-The theme of bugs isn’t going to be a favourite amongst some people but it does fit the game really well. The pieces are shaped like hexagons so it looks like a honey comb. With the shape of the pieces it makes sense to have the tile each player needs to surround being the Queen Bee. So with those two concepts, it makes sense to follow that trend and have the tiles also be bugs. I enjoy the concept of bugs and feel it is done really well here. The way each bug moves corresponds to how they do in reality. For example a Grasshopper jumps over other bugs, while a beetle is slow (only moves one space) but can climb.
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305646/IMG_1439-300x225.jpg "Hive 4")
-
-The rounds go by quite quickly which makes this a game that is great to play when you are limited for time. It is also great if you do have the time because you can play multiple rounds. I do not get tried of playing this game over and over again in the same day. I have played 10 games of it in one sitting and still wanted to play it again. The fact that it is a fast game and is so strategic really appeals to me. Each move you make can be crucial to your game.
-
-Hive gives off the feeling of a mixture of chess and checkers to me. It has the strategy of chess and the quick play of checkers. Each different piece has a different way of moving. An ant moves around the outside of the hive, while a grasshopper jumps over other bugs. The first few rounds I played this game I was playing purely defence which was extremely unsuccessful. I started to win games when I started to play different bugs with different methods. The beetles I used for defence while the ants were offence. Ants are very useful in surrounding your opponents queen. I found that if you are capable in stopping your opponents ant in being able to move, this will help your game a lot. You can stop their ant from being able to move by placing a bug on a side of the ant that is not attached to the hive. By doing this they can not move the ant because then your tile will be detached from the hive. You can also stop the ant by placing a beetle on top of it. Do not be afraid to move your Queen. This can throw the other players next move out the window. They will basically have to start over trying to surround your Queen. With that being said, try and stop your opponents Queen from moving as soon as you can. The easiest way is by placing a bug on a side of the queen that is not attached to the hive. The Queen can then not move because it would leave your bug detached from the hive. As seen below, the black Queen can not move because of the white ant.
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305647/IMG_1438-300x225.jpg "Hive 3")
-
-Conclusion
-
-This is a great 2 player game. I may not have had the initial excited feeling when I opened the box, but now it is a game I can’t wait to grab and play. It is definitely one of my favourites. It is easy to learn, only challenge is in remembering how each bug moves. With there being nothing to set up, this game is perfect for traveling. Just find a place to sit down and you are good to start. Hive comes with a zippered bag for storing the game. The game also comes in a pocket size.
-
-This is a great 2 player game. I may not have had the initial excited feeling when I opened the box, but now it is a game I can’t wait to grab and play. It is definitely one of my favourites. It is easy to learn, only challenge is in remembering how each bug moves. With there being nothing to set up, this game is perfect for traveling. Just find a place to sit down and you are good to start. Hive comes with a zippered bag for storing the game. The game also comes in a pocket size.
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305648/IMG_1437-225x300.jpg "Hive 2")
-
-The rounds go by quite quickly which makes this a game that is great to play when you are limited for time. It is also great if you do have the time because you can play multiple rounds. I do not get tried of playing this game over and over again in the same day. I have played 10 games of it in one sitting and still wanted to play it again. The fact that it is a fast game and is so strategic really appeals to me. Each move you make can be crucial to your game.
-
-Hive gives off the feeling of a mixture of chess and checkers to me. It has the strategy of chess and the quick play of checkers. Each different piece has a different way of moving. An ant moves around the outside of the hive, while a grasshopper jumps over other bugs. The first few rounds I played this game I was playing purely defence which was extremely unsuccessful. I started to win games when I started to play different bugs with different methods. The beetles I used for defence while the ants were offence. Ants are very useful in surrounding your opponents queen. I found that if you are capable in stopping your opponents ant in being able to move, this will help your game a lot. You can stop their ant from being able to move by placing a bug on a side of the ant that is not attached to the hive. By doing this they can not move the ant because then your tile will be detached from the hive. You can also stop the ant by placing a beetle on top of it. Do not be afraid to move your Queen. This can throw the other players next move out the window. They will basically have to start over trying to surround your Queen. With that being said, try and stop your opponents Queen from moving as soon as you can. The easiest way is by placing a bug on a side of the queen that is not attached to the hive. The Queen can then not move because it would leave your bug detached from the hive. As seen below, the black Queen can not move because of the white ant.
+One of my favourite two-player games. It rewards repeated play and strategy development without ever feeling repetitive. I've played 10 games in a single sitting and wanted more. Easy to learn, endlessly deep — a must-own for anyone who enjoys two-player abstract games.

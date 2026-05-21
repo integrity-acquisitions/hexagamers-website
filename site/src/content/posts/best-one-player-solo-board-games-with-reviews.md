@@ -31,7 +31,7 @@ But what if you feel like playing by yourself? What if you like the challenge of
 
 There are so many of these solo board games that there is now a whole community (guild) dedicated to it on [Board Game Geek](https://boardgamegeek.com/guild/1303). Some of the information can take a lot of reading to sift through, so that’s why we made up a list of the best one player board games for you.
 
-Some of the games on the list are [cooperative board games](http://hexagamers.com/best-cooperative-board-games) (Pandemic), some are [deck building board games](http://hexagamers.com/best-deck-building-board-games) (Friday), some are strategy based (Mage Knight). Lots of the best solo board games can be played with more than one person, but all of them can be played by yourself. In certain scenarios this means playing by a specific set of rules outlined in the game box.
+Some of the games on the list are [cooperative board games](/blog/best-cooperative-board-games/) (Pandemic), some are [deck building board games](/blog/best-deck-building-board-games/) (Friday), some are strategy based (Mage Knight). Lots of the best solo board games can be played with more than one person, but all of them can be played by yourself. In certain scenarios this means playing by a specific set of rules outlined in the game box.
 
 The type of multiple player games that you like to play will highly correlate to the ones you enjoy individually in most cases, but often times these one player versions can feel like you are playing a video game style game so keep that in mind when venturing down this path…by yourself.
 
@@ -43,25 +43,24 @@ As always, you may or may not agree with the choices made on this list of the to
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg)](#mageknight) |   [Mage Knight Board Game](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/NECA-WZK-70495-Knight-Board/dp/B005S8KR6Q/ref=as_at?creativeASIN=B005S8KR6Q&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=0)   |   1-4   |   150 min   |   $$$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](#friday) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Rio-Grande-Games-457RGG-Friday/dp/B006NCVC6A/ref=as_at?creativeASIN=B006NCVC6A&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=1)[Friday](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEmk6G/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=0&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=2)   |   1   |   25 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](#robinsoncrusoe) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Robinson-Crusoe-Adventures-Cursed-Island/dp/B00CKRDMQU/ref=as_at?creativeASIN=B00CKRDMQU&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=3)[](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Robinson-Crusoe-2e-Board-Game/dp/B01HDYFCJO/ref=as_at?creativeASIN=B01HDYFCJO&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=4)[Robinson Crusoe: An Adventure On The Cursed Island](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nu1SFf/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=1&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=5)   |   1-4   |   90-180 min   |   $$$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](#agricola) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Mayfair-Games-MFG3515-Agricola-Game/dp/B01DREMT68/ref=as_at?creativeASIN=B01DREMT68&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=6)[Agricola](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n7G8Od/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=2&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=7)   |   1-5   |   30-150 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](#eldritchhorror) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Fantasy-Flight-Games-EH01-Eldritch/dp/1616617667/ref=as_at?creativeASIN=1616617667&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=8)[Eldritch Horror](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEwd4c/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=3&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=9)   |   1-8   |   120-240 min   |   $$$$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg)](#imperialsettlers) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Wydawnictwo-Portal-POP00340-Imperial-Settlers/dp/B00M9HUOK8/ref=as_at?creativeASIN=B00M9HUOK8&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=10)[Imperial Settlers](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJLwDI/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=4&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=11)   |   1-4   |   45-90 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#pandemic) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Z-Man-Games-ZMG-71100-Pandemic/dp/B00A2HD40E/ref=as_at?creativeASIN=B00A2HD40E&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=12)[Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n26akg/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=5&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=13)   |   2-4   |   45 min   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg)](#LOTR) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Fantasy-Flight-Games-MEC01-Rings/dp/1589949811/ref=as_at?creativeASIN=1589949811&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=14)[Lord Of The Rings: The Card Game](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2gJE9/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=6&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=15)   |   1-2   |   60 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg)](#SOTM) |   [](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Sentinels-Multiverse-Enhanced-Card-Game/dp/B0095ZFA5Q/ref=as_at?creativeASIN=B0095ZFA5Q&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=16)[Sentinels Of﻿﻿ The Multiverse](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ngcMOd/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=7&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=17)   |   1-5   |   30-60 min   |   $$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg) |   Mage Knight Board Game   |   1-4   |   150 min   |   $$$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg) |   Friday   |   1   |   25 min   |   $   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg) |   Robinson Crusoe: An Adventure On The Cursed Island   |   1-4   |   90-180 min   |   $$$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg) |   Agricola   |   1-5   |   30-150 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg) |   Eldritch Horror   |   1-8   |   120-240 min   |   $$$$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg) |   Imperial Settlers   |   1-4   |   45-90 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg) |   Pandemic   |   2-4   |   45 min   |   $$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg) |   Lord Of The Rings: The Card Game   |   1-2   |   60 min   |   $$$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg) |   Sentinels Of The Multiverse   |   1-5   |   30-60 min   |   $$   |  |
 
-## 1\. [Mage Knight Board Game](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntQV6g/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=8&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=18)
+## 1. Mage Knight Board Game
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntQV6g/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=9&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=19)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg)](http://amzn.to/2ntQV6g)
 
 You are a Mage Knight in this game that must level yourself up, build your army, and generally get stronger (cards in your deck) as the game progresses. You will explore dungeons, caves, and even try to conquer cities as you go. Trying to avoid getting hurt and thus making your deck weaker.
 
-This game has a great mix of a few different genres, including [deck building](http://hexagamers.com/guide-to-understanding-deck-building-games), Role Playing Game, and your traditional board game. This mix creates versatility to attract a number of players.
+This game has a great mix of a few different genres, including [deck building](/blog/guide-to-understanding-deck-building-games/), Role Playing Game, and your traditional board game. This mix creates versatility to attract a number of players.
 
 This game is also versatile since it can be played co-operatively with other people, as it is built for 1-4 players, with special rules for the single player game.
 
@@ -77,13 +76,11 @@ The components are great, with awesome miniatures, and a great theme to it that 
 
 This one is complex, so it might not be for everyone, but for someone who wants to sink right into a game by themselves, this is the one for you.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ntQV6g/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=10&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=20)
+<a href="http://amzn.to/2ntQV6g" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Friday
 
-## 2. [Friday](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEmk6G/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=11&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=21)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEmk6G/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=12&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=22)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://amzn.to/2nEmk6G)
 
 Looking for something a little less intense, maybe a little easier to set up? Friday, might be the game you looking for.
 
@@ -97,13 +94,11 @@ Friday is strictly made for 1 player games, so they have fine-tuned it to work 
 
 Other than pretending you are on a vacation on a (deserted) island, this game also has the benefit of being relatively inexpensive, so it is easy to add to your collection. Its mechanics are simple, so almost anyone can give it a go, yet built well enough to keep even experienced gamers intrigued.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEmk6G/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=13&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=23)
+<a href="http://amzn.to/2nEmk6G" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Robinson Crusoe: An Adventure On The Cursed Island
 
-## 3\. [Robinson Crusoe: An Adventure On The Cursed Island](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nu1SFf/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=14&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=24)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nu1SFf/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=15&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=25)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](http://amzn.to/2nu1SFf)
 
 Let’s stick with the deserted island theme for a bit, except let’s make it a little more cursed, you know, for fun…
 
@@ -121,13 +116,11 @@ It can be hard to introduce new players to the game (if you feel like playing wi
 
 This game has a lot of strategy, and definitely some luck involved with a bit of dice rolling and randomness of the cards. The games can be long, and the theme is immersive, so it that is why it ranks so highly on our top solo board game list!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nu1SFf/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=16&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=26)
+<a href="http://amzn.to/2nu1SFf" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Agricola ([Full Review Here](/blog/agricola-review/))
 
-## 4. [Agricola](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n7G8Od/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=17&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=27) ([Full Review Here](http://hexagamers.com/agricola-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n7G8Od/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=18&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=28)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://amzn.to/2n7G8Od)
 
 Ok enough of being on an island, let’s go do some farming!! Ok, maybe that’s not the first thing you would do when you got off a deserted island, but hey, maybe being that far from the ocean is the thing for you.
 
@@ -137,7 +130,7 @@ This people placing board game has you cultivating fields, planting crops, build
 
 This game is designed for 1-4 players, with a slight change to the rules for the solo variant. It is a very strategic game in that you will be constantly trying to decide where to put your meeples on the board in order to help develop your farm.
 
-The game can be a little intimidating the first time you play it, as there are a lot of rules and directions to take things. That said, however, once you understand the game, the mechanics make sense and it’s only a matter of figuring out what you want to do next. See [How To Play Agricola Simplified](http://hexagamers.com/agricola-how-to-play-simplified) here.
+The game can be a little intimidating the first time you play it, as there are a lot of rules and directions to take things. That said, however, once you understand the game, the mechanics make sense and it’s only a matter of figuring out what you want to do next. See [How To Play Agricola Simplified](/blog/agricola-how-to-play-simplified/) here.
 
 The farming theme of this game is fantastic through the whole game. Plus, we really see the benefit of having the point values of everything laid out right in front of you, helping your decision making.
 
@@ -145,15 +138,13 @@ As the game progresses there are more options available for you to do, but harve
 
 This game makes a great single player board game, but is also one of the best board games out there in general.
 
-As a note on this one, this game also has a big brother/sister in [Caverna](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG-3501-Caverna/dp/B00G3FV2TO/ref=as_at/?imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=29&s=toys-and-games&ie=UTF8&qid=1490056062&sr=1-1&keywords=caverna&linkCode=sl1&tag=hexagamers-20&linkId=7ce129c780092e52cdaba6a24c5d8378), where you farm and also go on adventures exploring caves, if that sounds more up your alley! We also have done a [Caverna vs Agricola](http://hexagamers.com/agricola-vs-caverna-which-game-should-you-buy) article if you are having trouble deciding!
+As a note on this one, this game also has a big brother/sister in Caverna, where you farm and also go on adventures exploring caves, if that sounds more up your alley! We also have done a [Caverna vs Agricola](/blog/agricola-vs-caverna-which-game-should-you-buy/) article if you are having trouble deciding!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n7G8Od/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=19&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=30)
+<a href="http://amzn.to/2n7G8Od" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Eldritch Horror
 
-## 5\. [Eldritch Horror](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEwd4c/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=20&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=31)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEwd4c/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=21&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=32)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](http://amzn.to/2nEwd4c)
 
 Looking to battle some evil that is coming to destroy the world? We have you covered with this mystery/horror themed board game.
 
@@ -167,19 +158,17 @@ If you are like us and leave your game set up on the table on occasion, the game
 
 The mechanics of this game are very good. There could be some unfairness, especially early in the game with the luck of the dice or cards, but fear not, they have that covered because you can take another character out of the box and start from scratch. A nice addition to the game.
 
-The theme and cards are tremendous in this one, and really adds to its predecessor, [Arkham Horror](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fantasy-Flight-Games-VA09-Arkham/dp/1589942108/ref=as_at/?imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=33&s=toys-and-games&ie=UTF8&qid=1490056023&sr=1-1&keywords=arkham+horror&linkCode=sl1&tag=hexagamers-20&linkId=14d37713a8450f05b92ac44f08aa2dc7).
+The theme and cards are tremendous in this one, and really adds to its predecessor, Arkham Horror.
 
-Some say it could get boring if you play it too much, but we certainly haven’t reached that point yet. Not even close. PLUS, there are [expansions](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2cqbJ/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=22&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=34) if that really is a concern.
+Some say it could get boring if you play it too much, but we certainly haven’t reached that point yet. Not even close. PLUS, there are expansions if that really is a concern.
 
 The game is intense, and be prepared to lose… a lot… but that’s what makes this one challenging and fun. Making it worth its hefty price tag. As far as solo board games go, this is one of the best, and doubles as a great co-op game. Worth checking out.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2nEwd4c/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=23&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=35)
+<a href="http://amzn.to/2nEwd4c" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 6. Imperial Settlers
 
-## 6\. [Imperial Settlers](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJLwDI/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=24&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=36)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJLwDI/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=25&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=37)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg)](http://amzn.to/2mJLwDI)
 
 In Imperial Settlers, as you might guess from the title of the game, you are going to choose 1 of 4 civilizations and try to be the fastest and best settler of a new land.
 
@@ -195,15 +184,13 @@ There can be a lot to keep track of by yourself (i.e. no one to point out if you
 
 There is good replay-ability with this choice, since you can use cards many different ways, choose different factions, and even ramp up/down the number of players involved.
 
-The other positives for Imperial Settlers are its price point, and the fact that it has very reasonably priced [expansions](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n7HCIq/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=26&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=38), if you do enjoy it. Both part of the reason why this has made it in as a top solo board game.
+The other positives for Imperial Settlers are its price point, and the fact that it has very reasonably priced expansions, if you do enjoy it. Both part of the reason why this has made it in as a top solo board game.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJLwDI/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=27&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=39)
+<a href="http://amzn.to/2mJLwDI" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 7. Pandemic ([Full Review Here](/blog/codenames-review/))
 
-## 7\. [Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n26akg/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=28&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=40) ([Full Review Here](http://hexagamers.com/codenames-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n26akg/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=29&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=41)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://amzn.to/2n26akg)
 
 You may have noticed that Pandemic is made for 2-4 players, yet it made the list for Top Solo Board Games. What gives?
 
@@ -219,17 +206,15 @@ This one is quick to set up and super easy to learn. You will find yourself gett
 
 There is the right amount of luck, and the perfect amount of strategy involved in this one. It is no wonder it a favourite among many board gamers.
 
-To top it off, there are multiple [expansions](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2mJsjlL/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=30&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=42) for this one, including [Pandemic: On The Brink](http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00CAG5LJ2/ref=as_at/?imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=43&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00CAG5LJ2&linkId=aa0374bf8d677902d6dcebcca723fc8d), which has its own single player variation!
+To top it off, there are multiple expansions for this one, including Pandemic: On The Brink, which has its own single player variation!
 
 Check this one out, it made this list and our best cooperative board games for a reason!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n26akg/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=31&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=44)
+<a href="http://amzn.to/2n26akg" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 8. Lord Of The Rings: The Card Game
 
-## 8. [Lord Of The Rings: The Card Game](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2gJE9/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=32&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=45)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2gJE9/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=33&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=46)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg)](http://amzn.to/2n2gJE9)
 
 Attention Lord of the Rings fans, and well anyone who likes a good fantasy themed board game. This card constructing/deck building game is built for 1-2 players in the base set, and is, of course, set in middle earth.
 
@@ -241,17 +226,15 @@ This game works well as a solo game (and as coop game as well) since you have to
 
 The game is challenging, yet simple enough to understand after reading through the rules. The artwork is great, and the scenarios immersive. There is some luck in the draw, but more strategy and skills that will get you through this one.
 
-Though this one is only for 1-2 players, there are [expansions](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n1YyhI/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=34&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=47) for it (up to 4 people) if you change your mind about playing by yourself. Also, this game is called Lord Of The Rings: LCR which stands for Living Card Game… which gets its name from the fact that there are new scenarios being released all the time!
+Though this one is only for 1-2 players, there are expansions for it (up to 4 people) if you change your mind about playing by yourself. Also, this game is called Lord Of The Rings: LCR which stands for Living Card Game… which gets its name from the fact that there are new scenarios being released all the time!
 
 If you are looking for a fantasy themed, adventure style board game to play by yourself, then this one is worth looking in to.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2gJE9/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=35&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=48)
+<a href="http://amzn.to/2n2gJE9" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 9. Sentinels Of The Multiverse
 
-## 9\. [Sentinels Of The Multiverse](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ngcMOd/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=36&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=49)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ngcMOd/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=37&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=50)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg)](http://amzn.to/2ngcMOd)
 
 In need of a futuristic, super hero themed solo player board game? Sentinels of the Multiverse should fill that void for you.
 
@@ -269,12 +252,11 @@ It plays a lot like a Role Playing Game (RPG) in that you have hit points, attac
 
 If that’s not enough a couple more big pluses are that there are difficulty scores associated with each villain, so you as you get better or bring in more heroes on your quest you can dial up the difficulty. The other being that if your character dies, they are not completely out of the game, as they have options for actions on the back of their card.
 
-This game works well as a solo player board game, and also with more players involved. It also has [expansions](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2n2a5Oh/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=38&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=51), so you can easily add more to the game if you so desire. Another reason why it has made our top rated single player games.
+This game works well as a solo player board game, and also with more players involved. It also has expansions, so you can easily add more to the game if you so desire. Another reason why it has made our top rated single player games.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsaN5FoLMDFgFuBpYvUp5pIAAAFfRk3hSQEAAAFKAQqRwBQ/http://aax-us-east.amazon-adsystem.com/x/c/QhdAbHAI2CdvGdpsSbhiEYEAAAFfRk3hWQEAAAFKAWSq1Uc/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2ngcMOd/ref=as_at/?imprToken=MAHsgM-tRRO9P.Zf5h6bDg&slotNum=39&linkCode=w61&imprToken=uWIbIdy1mLQmBC0vzA1q3w&slotNum=52)
-
+<a href="http://amzn.to/2ngcMOd" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 It was really tough narrowing down our top solo board games. I’m sure there are a number that could be on the list but aren’t. In fact we will update this list from time to time as new games come out and/or our thoughts change. Whether you are looking to battle, farm, survive, or simply collect victory points, hopefully you will find a game you love and can play by yourself. And as always, we like to hear your opinion on your favourite one player board games. It helps us, and your fellow readers find the game that is right for them.
 
-Looking to find some more Cooperative Board Games? Check out...[Our Top Coop Board Game List](http://hexagamers.com/best-cooperative-board-games)
+Looking to find some more Cooperative Board Games? Check out...[Our Top Coop Board Game List](/blog/best-cooperative-board-games/)

@@ -5,70 +5,48 @@ categories:
   - "games"
   - "reviews"
 tags: 
-  - "battle"
-  - "board-game"
-  - "board-games"
-  - "card-games"
-  - "game"
-  - "gamewright"
-  - "group"
-  - "monster"
-  - "monsters"
-  - "review"
+  - "card-game"
   - "squirmish"
-  - "table-top"
-  - "table-top-game"
+  - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Squirmish-Review-Cover_m00ohd.png"
 ---
 
-![](https:https://res.cloudinary.com/dt4ujaczs/image/upload/Squirmish-Review-Cover_m00ohd.png "Squirmish Review Cover")
+## Overview
 
-# OVERVIEW
+Draft ridiculous monster cards into a shared arena, position them strategically, then battle opponents' monsters using dice. First to defeat three enemy cards wins — but defeated cards can be stolen by anyone watching.
 
-Our Rating:
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">20–60 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
+</div>
 
-A game where a handful of ridiculous characters are drawn and then laid onto the board in a strategic fashion, in the hope of being able to beat other ridiculous characters in a battle. Each character has it's own strengths and weaknesses, so position them carefully... oh and hope for a little luck with your dice rolls!
+## Whitney's Review
 
-|   Number of Players   |   Time to Play   |   Ages   |
-| --- | --- | --- |
-|   2-4   |   20-60 mins.   |   10+   |
+### Likes
+- Constant player interaction throughout the game
+- You can capitalize on other players' battles even when it's not your turn
+- Playing characters in ridiculous voices is basically mandatory
 
-# WHITNEY'S REVIEW
+### Dislikes
+- Lots of reading on every card — not a tired-brain game
+- Many details to remember — play it earlier in the night
+- Works better with the right group
 
-My Rating:
+## First Impressions
 
-Likes
+Intimidated by the rulebook, pleasantly surprised by how quickly the game actually clicks. There's a lot to absorb up front, but once you're playing, most of it makes sense. This is not the game to pull out when everyone's had a few and wants something simple — save it for the start of the night.
 
-- Lots of player interaction
-- You can capitalize on other players' battles
-- Saying ridiculous things in ridiculous voices
+## Thoughts
 
-Dislikes
+**Every card is a different monster** from different colour-coded families with unique abilities and stats. Each character has attack and defense values, and some abilities trigger only in specific situations — adjacent cards, certain family matchups, or when a specific condition is met.
 
-- Lots of reading
-- Lots of details to remember--so play this one early in the night!
-- Have to play with the right people
+**The attack mechanic:** announce which of your cards is attacking which enemy card, then roll dice. If the attack succeeds, the defending card takes damage (googly-eye tokens mark wounds). Defeat a card and it goes in front of you as a trophy. But anyone can then place a new card adjacent to the defeated space and continue the fight.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180624_130839_w63nm9.jpg "20180624_130839")](https://amzn.to/3ekKsSM)
+**The best part: capitalization.** When one player weakens an enemy card, another player can sweep in on their turn to finish the kill and take the trophy. This creates moments where everyone is invested in every battle, watching to see who benefits from someone else's work.
 
-First Impression
+**A lot of reading is required.** Cards have detailed text and you need to process each one you play. Experience players and newcomers can hit different walls here.
 
-I was intimidated by the amount of reading in the rule book, but was pleasantly surprised how easy Squirmish is to learn. There's a lot of information to absorb and a ton of reading on the cards, so this isn't a game to play at the end of the night if your brains are fried. BUT, it is a lot of fun, especially if you're into competition and battle royale-style fighting (and as much as we love our friends, we're definitely no-holds-barred when it comes to wanting to win... Flash backs of [Avalon](https://hexagamers.com/the-resistance-avalon-review) nights).
+## Conclusion
 
-Thoughts
-
-Squirmish is an intensely interactive card game where you have to be on the defensive and offensive at all times. Every card is a different character within different colour-coded families, and each card has special abilities or traits that can be used on its initial fight or on any subsequent fight, depending on the card. On each turn, players decide whether to attack another player's card and with which card of their own. 
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180623_230639_y4sw64.jpg "20180623_230639")
-
-If they attack, the attacker announces the card they're using and what card it's attacking then roll the dice to see if the fight is successful. Choose carefully, though! All cards have different attack and defense abilities, sometimes hyped up depending on what other cards are in play. Googly eyes are placed on the injured card, or the card is removed from play if it's defeated and placed in front of the successful player. The player then can choose another card from their hand of five to place into the squirmish. Cards must be placed adjacent to another card and those special abilities make it important to read the cards you have and the cards you want to fight.
-
-Players are all working against each other to be the first to defeat three cards which isn't quite as easy as it seems. Even if you're successful in fighting against another player, you've weakened another card which makes it easier for the next player to defeat them. Squirmish is simultaneously easy and difficult, and like most games, it takes one play to get over the learning hump and get a good handle on it. Strategy and tactics are important, but so is your attention to detail. Throw in a little luck with some dice rolling, some obnoxious voices, and you have a challenging and fun game. 
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180623_233734_x4ttbf.jpg "20180623_233734")
-
-Cards in the squirmish. Cards face the players they belong to.
-
-Conclusion
-
-Don't worry too much about the reading. Play it once and you'll understand it. Play it twice and you'll have a lot of fun. Squirmish is Gamewright's first foray into this mechanic. While there is a lot of reading and there are a lot of details, it's a neat battle game where players are constantly engaged. We found we were never bored because we were either watching battles and screaming at the dice for specific rolls, or we were fighting against other players (and screaming at the dice for specific rolls). There's continual movement and moving in Squirmish, and we loved how interactive it is. If you haven't played Squirmish yet, you'll want to give this a try with your group. Let us know what you think of it and what cards you like best!
+Squirmish is interactive, entertaining, and different from most card games. The constant back-and-forth of battles and counter-moves keeps everyone engaged. Play it once to get over the learning hump, and the second game will click into place. Great for groups who enjoy tactical card combat and will commit to actually reading the cards.

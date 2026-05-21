@@ -4,75 +4,44 @@ date: 2018-02-25
 categories: 
   - "games"
 tags: 
-  - "board-game"
-  - "co-op"
-  - "co-operative"
-  - "coop"
-  - "cooperative"
-  - "game"
-  - "games"
-  - "infection"
-  - "legacy"
-  - "matt-leacock"
   - "pandemic"
   - "pandemic-legacy"
-  - "pandemic-shuffling"
-  - "quarantine"
-  - "researcher"
-  - "review"
-  - "scientist"
-  - "season-2"
-  - "season-one"
-  - "specialist"
-  - "strategy"
-  - "table-top"
-  - "tabletop"
-  - "z-man"
+  - "cooperative"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-Setting-Up_qvwyzu.jpg"
 ---
 
-# Pandemic Legacy S1 Logs: February
+> **Spoiler warning:** This post contains details about Pandemic Legacy Season 1. Don't read if you want to experience it fresh.
 
- 
+## From the Desk of V. Woolf — Researcher
 
-Please note this contains spoilers for Pandemic Legacy Season One. Do not read if you want to play the game!
+February starts with more ground than January. We have two research stations, a new Quarantine Specialist on the team, and McGee's adjacent-treatment ability. Red Death mutated last month — we can never cure it — but I'm staying optimistic.
 
-From the Desk of V. Woolf -- Researcher
+**February 1**
 
-I have to hope that February will be better. I think it will. We started fighting these diseases with only our basic skills and a research station in Atlanta, but now we have an additional research station in Istanbul. McGee figured out how to treat diseases in adjacent cities which is a head start for us. I know she's worried but I am trying to keep the optimism strong, and keep our morale up. We recruited a new teammate this month. He's a strong Quarantine Specialist, and we're going to send him out east to focus on Red Death. He and I have developed a strong relationship already, and sharing research I think will be a great benefit to us and the team--and our world.
+Red Death is locked into Shanghai and Ho Chi Minh City. Black Plague is starting to slip. I can't let it.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-Setting-Up_qvwyzu.jpg "Pandemic Legacy -- February Setting Up")
+**February 7**
 
-February 1
+Struggling more than January. We get a handle on Black Plague and it spreads again. Red Death and Black Plague are both cycling faster than we can contain. Our Quarantine Specialist is holding the east together but barely.
 
-Last month Red Death was out of control. It mutated and we can no longer find a cure for it. I am hoping we can contain it at the very least. It seems like Black Plague is starting to get out of hand, though, and I need to work harder to find a cure. I don't want to burn out, but I have to think about our future.
+**February 14**
 
-February 7
+Still no research station out east. That's going to cost us. Our Specialist is quarantining everything he can — it barely holds. I refuse to think this is fruitless.
 
-We are struggling this month, and more I think than we were in January. I was hoping the rest would do us good, but it seems there's been no benefit. We get a handle on Black Plague and then it spreads again. We get a handle on Red Death and it spread again. It's locked into Shanghai and Ho Chi Minh City, and we can't get it out. There's nothing we can do except quarantine. Thank god we have  . And Kiss is working himself to the bone as he's trying to keep Blueberry Rash from spreading so rapidly. Everywhere we look, something is getting worse.
+**February 20**
 
-February 14
+We cured Blueberry Rash. Late nights, quick thinking, Joshua finally got the information we needed. Progress.
 
-We have yet to build a research station out east, and that is going to be a mistake in our future. I would put money on it.  is staying out there and quarantining everything he can. It seems like he quarantines a disease, and then it breaks out again. I try not to believe this is all fruitless. At least we can keep some things under control...sometimes...
+**February 22**
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-KR-Playing_td04rm.jpg "Pandemic Legacy -- K&R Playing")
+Yellow Plague cured. Two cures this month. Our Scientist is out of action — we think she's been isolated as a precaution, not infected. We hope she's back in March.
 
-February 20
+**February 27**
 
-My optimism is holding out. We cured Blueberry Rash after some quick thinking and hard work from Joshua, Kiss and me. It's been tough. We're pulling late nights. But Joshua finally got the information he needed, and we're on the right path.
+Black Plague cured. Three out of four. I'm exhausted.
 
-February 22
+**February 28**
 
-Yellow Plague is cured. CURED. We are doing so well. There's been so much progress, and I can't believe how well it's going, especially as \[SCIENTIST\] is down this month. I do not believe she contracted any of these diseases, but we cannot be sure, and we had to keep her away from us and the research until we know. Maybe she'll come back next month. Until then, we keep focusing on the goal ahead: a cure for Black Plague.
+Ho Chi Minh is rioting. We couldn't treat Red Death fast enough. We pulled our people out before scarring, at least. Not the ending we wanted. But March is coming.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-End_ywsgch.jpg "Pandemic Legacy -- February End")
-
-February 27
-
-We did it. Black Plague is cured. I'm exhausted. I cannot even think of what else I need to do. I know we have so far to go, but I feel like this is a good sign.
-
-February 28
-
-I spoke too soon. Ho Chi Minh is rioting. We can't even treat Red Death, let alone cure it. On the positive, we did not build a research station in Ho Chi Minh and we pulled out our guys just in time to prevent scarring or injuries. But it doesn't seem like a good note to end the month on.
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-Rioting-Ho-Chi-Minh_kjzhe8.jpg "Pandemic Legacy -- February Rioting Ho Chi Minh")
+![Pandemic Legacy — February End](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-End_ywsgch.jpg)

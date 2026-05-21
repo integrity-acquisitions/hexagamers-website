@@ -1,5 +1,5 @@
 ---
-title: "The Resistance: Avalon: How To Play - Simplified"
+title: "The Resistance: Avalon: How To Play – Simplified"
 date: 2017-04-08
 categories: 
   - "games"
@@ -8,433 +8,94 @@ tags:
   - "avalon"
   - "avalon-how-to-play"
   - "bluffing-board-game"
-  - "how-to-play"
   - "how-to-play-simplified"
-  - "lying"
-  - "the-resistance-avalon"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312687/hexagamers-guides/the-resistance-avalon-how-to-play-simplified.jpg"
 ---
 
-*# OVERVIEW
-Our Rating:
-
-It is a battle of good versus evil to determine who will rule the future society! You must help your side win by either passing or failing the missions you go on. Make sure you choose who you want to go on the mission wisely or you risk helping the other team. Oh, and be sure to keep your identity secret throughout the game in order to gain favour among your fellow players!*
-  
- 
- CHECK PRICE 
- 
- 
- 
-Want to know what we thought about this game? Check out...
-[Our Full Review Of Avalon](https://hexagamers.com/the-resistance-avalon-review)
-
- 
- 
- 
- 
-  
- 
-# Rules Overview
- 
- 
- 
-  
- 
- 
-
-
- 
-The Resistance: Avalon (also known as Avalon) is a game of deception, deduction, and secret identities. Every player will be given a player card to determine which ‘side’ they are on, with their goal being to win three out of five rounds of the game by passing or failing missions.
-
-The rules for this game are somewhat difficult to summarize.​
- 
- 
- 
-
-
- 
-Note: These simplified rules for Avalon are to help you decide if the game is right for you and your group, or to help you get started quickly…not to be all encompassing.
- 
- 
- 
- 
-If you are on the ‘Good’ side, you will be trying to pass missions and figure out who the ‘evil’ players are along the way.
-
-If you are on the ‘Evil’ side, you will be trying to fail the missions and figure out who Merlin is along the way.
-  *Blue is the 'Good' team symbol and Red is the 'Evil' team symbol.We will base these simplified rules for Avalon on a 6 player game for ease of explanation (and will mention the variances along the way). We will also leave out all special role cards, but have an explanation of their ‘powers’ at the end.
-## How To Set Up Avalon
-Based on the number of players you have, you will find the corresponding game board (see picture below).You will set aside the number of “Minions of Mordred” (aka Evil players) as specified on the game board in the bottom right corner.You will also set aside Merlin, and 3 other “Loyal Servants of Arthur” (aka Good players).
-
-Note: The number of good/evil players will vary depending on the number of people involved. This is also the point where you can switch out Minion/Servants for other Evil/Good cards with special abilities (see the bottom of this post).
-
-Before dealing the cards out, you should find a starting player and give them the *Leader* Token. The player cards are shuffled and dealt to each player, who then looks at it and keeps their role secret!
-## How To Get Started
-Once everyone has their role memorized, you can start into the ‘Script’. The ‘Script’ is simply the dialogue you follow to help get things under way. In its most basic form it translates to the following:All players close their eyes with their hands in a fist in front of them. The Evil players open their eyes and look at each other (so they know who is on their team). Then they close their eyes. The Evil players now put their thumbs up and Merlin opens his eyes to see who is Evil. Merlin closes his eyes (everyone’s eyes closed at this point), and everyone puts their thumbs down… Finally, everyone opens their eyes.
-
-Note: The script, which is in the rule book in the box, changes as you add in the characters with Special Abilities.
-
-If you haven’t already done so, each player should be given one Approve Token and one Reject Token (see picture below), which are kept face down in front of them.
-## Game Play For Avalon
-The Leader will pick players to go on the first ‘mission’ by handing them a *Shield Token* (see below). Again the number of people on the ‘missions’ will vary based on the number of people involved.Now that the Leader has chosen people, everyone must vote on whether they want the chosen people to go on the ‘mission’. You cast your vote by picking either Approve/Reject and flipping over your vote (some people shuffle them and keep it secret) to reveal what everyone chose. This is where you have 2 different paths…If it is rejected (tied vote or more rejects than approves). You increase the vote track to the next number, you also move the *Leader Token* to the next person, and then you start the process again (I.e. at Game Play above). Note: If you get 5 rejected votes in a row, Evil wins that round!If the vote passes/is approved, you will hand out one Success Card and one Fail Card to each person on the mission.Now, people that are on the ‘mission’ will secretly decide to either pass it (succeed card) or fail it (fail card). They will hand in their decision to the leader (face down), the Leader will shuffle them and then reveal if it passed or failed!Note: Good players MUST succeed/pass a mission, whereas Evil players can choose to succeed or fail the mission.If there is ONE fail in all of the votes, the mission fails (with the exception of the 4th round in games with 7+ people, these need 2 fails).If the ‘mission’ succeeds, the good guys get a blue token on the game board for the round, if the mission fails, the Evil guys get a red token for the round.This ends the round. You will then move the *Leader Token* and start the next round (in this article from Game Play above).You continue on like this until one side has won 3 out of 5 rounds.If the ‘Good’ side ends up winning, the evil have one last shot to *Assassinate* Merlin and win the game!
-## Other Roles
-To help keep the balance in the game, if one side is winning too much, you can add in one or more of the following characters to balance things out. To simplify it, we summarized what they can do, and which side they help. Percival is the only Good character, the rest are Evil.Percival: Helps the Good side. He is able to see who Merlin is at the start.Mordred: Helps the Evil side. He is unknown to Merlin at the start.Oberon: Helps the Good side. He is unknown to the fellow Evils at the start.Morgana: Helps the Evil side. She appears as Merlin (to Percival) at the start.There are some additional rules and game plays available in the Rule Book such as the Lady of the Lake (pictured below) and Targeting.We have added a video explanation from the guys over at ShutupandSitdown.com to help you out.
-
-Related Posts
-
-Danger The Game – Review						
-
-
-May 01, 2019                        	                    		                    /
-By		                    
-Ryan		                    
-
-Best Party Board Games 2019 – Games You Can Play To Get That Party Going						
-
-
-Jan 17, 2019                        	                    		                    /
-By		                    
-HexaGamers		                    
-
-Cultural-Themed Board Games: Asia						
-
-
-Aug 12, 2018                        	                    		                    /
-By		                    
-HexaGamers		                    
-
-About the author
-
-#### HexaGamers
-
-
-We are the HexaGamers. Six good friends that love all things game related that gets us together to enjoy each other's company.			
-
-0comments
-
-Click here to add a comment
-
-#### Leave a comment:
-
-
-Name *
-
-
-Email *
-
-
-Website
-
-Comment
-
-					
-
-								
-
-		
-
-Popular Posts							
-
-Recent Posts							
-
-Best Murder Mystery Party Companies												
-
-
-22*
- 
-  
- 
-- [Best Custom (Settlers of) Catan Game Boards](https://hexagamers.com/best-custom-settlers-of-catan-game-boards)
-
-*4*
-
-- [Best Social Deduction Board Games](https://hexagamers.com/best-social-deduction-board-games)
-
-*2*
-
-- [Best Board Game Podcasts You Should Be Listening To – 2017](https://hexagamers.com/best-board-game-podcasts)
-
-*2*
-
-- [Best Board Games for Christmas Gifts](https://hexagamers.com/best-board-games-for-christmas-gifts)
-
-*2*
-
- 
- 
- 
- 
-- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review)
-
-*May 1, 2019*
-
-- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews)
-
-*January 17, 2019*
-
-- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia)
-
-*August 12, 2018*
-
-- [DreamEscape Gaming: Empress  Puzzler Review](https://hexagamers.com/dreamescape-review)
-
-*August 8, 2018*
-
-- [Raptor: Review](https://hexagamers.com/raptor-review)
-
-*August 7, 2018*
-
- 
- 
- 
- 
- 
-   
-Free Strategy Guide!
-   
-- ## Subscribe to our mailing list and get your FREE Strategy Guide PDF to help you win any board game!
-
-* indicates required
-
-First Name  *
-
-Last Name 
-
-Email Address  *
-
-Favourite Game 
-
-**How Often Do You Play Board Games?**
-Once a month
-
-- 1 - 5 times per month
-
-- More than 5 times per month
-
- 
- 
- 
-  
-  
-     
-   
-   
- 
- 
-
-  Leave this field empty if you're human:           
- 
- 
- 
-
-Other Posts You Might Like
-
- 
- 
-- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review)
-
-May 1, 2019
-
-- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews)
-
-January 17, 2019
-
-- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia)
-
-August 12, 2018
-
-- [Raptor: Review](https://hexagamers.com/raptor-review)
-
-August 7, 2018
-
- 
- 
- 
-  
- 
- 
-  
-
----
-
- 
-
-#### Latest posts
-
- 
- 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review) 
- 
-May 1, 2019            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 														 
-
- 
- 
-[Favourites Lists](https://hexagamers.com/category/favourites-lists)
- 
- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews) 
- 
-January 17, 2019            	        		        /
-By		        [HexaGamers](https://hexagamers.com/author/hexagamers)
- 
- 
- 														 
-
- 
- 
-[Favourites Lists](https://hexagamers.com/category/favourites-lists)
- 
- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia) 
- 
-August 12, 2018            	        		        /
-By		        [HexaGamers](https://hexagamers.com/author/hexagamers)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Raptor: Review](https://hexagamers.com/raptor-review) 
- 
-August 7, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Squirmish: Review](https://hexagamers.com/squirmish-review) 
- 
-July 1, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Uprise: Review](https://hexagamers.com/uprise-review) 
- 
-March 3, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Pandemic Legacy S1 Logs: February](https://hexagamers.com/pandemic-legacy-s1-logs-february) 
- 
-February 25, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Pandemic Legacy S1 Logs: January](https://hexagamers.com/pandemic-legacy-s1-logs-january) 
- 
-February 25, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Dimension: How To Play – Simplified](https://hexagamers.com/dimension-how-to-play-simplified) 
- 
-February 22, 2018            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Gloom: Review](https://hexagamers.com/gloom-review) 
- 
-February 18, 2018            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 							
- 
- 
- 
- 
- 
-  
- 
-
- 
- 
-  
- 
- 
- 
- 
-
-“We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.” Copyright 2017 by Hexagamers.
-
- - [Home](https://hexagamers.com/)
-
-- [Blog](https://hexagamers.com/blog)
-
-- [Games](https://hexagamers.com/games)
-
-- [Miscellaneous](https://hexagamers.com/category/miscellaneous)
-
-- [Favourites Lists](https://hexagamers.com/category/favourites-lists)
-
-- [Disclaimer](https://hexagamers.com/disclaimer)
-
-- [Privacy Policy](https://hexagamers.com/privacy-policy)
-
-- [About Us](https://hexagamers.com/about)
-
- 						  
- 
- 
- 
- 
- 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
- 
- 
-
-
-         
-
-![](https://hexagamers.com/wp-content/plugins/wpfront-scroll-top/images/icons/59.png)
+Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missions — but Evil players are hiding among them, trying to sabotage from within. Good wins if the missions succeed. Evil wins if they fail — or if they correctly identify and assassinate Merlin at the end.
+
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">5 – 10</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">30–60 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
+</div>
+
+> Our full review: [The Resistance: Avalon Review](/blog/the-resistance-avalon-review/)
+
+> **Note:** These simplified rules are based on a 6-player game. Number of players changes the Good/Evil ratio, mission sizes, and available roles.
+
+## Setup
+
+<div class="steps">
+  <div class="step"><span class="step-num">1</span><div>Select role cards based on player count. At minimum, include <strong>Merlin</strong> (Good) and the required number of <strong>Minions of Mordred</strong> (Evil). Fill remaining slots with Loyal Servants of Arthur.</div></div>
+  <div class="step"><span class="step-num">2</span><div>Shuffle and deal one role card to each player. Everyone reads their card secretly and memorizes their role.</div></div>
+  <div class="step"><span class="step-num">3</span><div>Give each player one <strong>Approve</strong> token and one <strong>Reject</strong> token.</div></div>
+  <div class="step"><span class="step-num">4</span><div>Randomly assign the first <strong>Leader Token</strong>.</div></div>
+</div>
+
+## The Opening Script (Night Phase)
+
+Everyone closes their eyes and puts a fist forward. Then:
+
+1. Evil players open their eyes and silently identify each other. Eyes closed.
+2. Evil players raise thumbs. **Merlin opens eyes** to see who is Evil. Merlin closes eyes.
+3. Everyone puts thumbs down. Everyone opens eyes.
+
+> Merlin knows who is Evil. The Evil team knows each other. Good players know nothing — except their own role.
+
+## How a Round Works
+
+<div class="steps">
+  <div class="step"><span class="step-num">1</span><div>The <strong>Leader</strong> proposes a mission team by handing Shield Tokens to their chosen players. Team size varies by round and player count — check the game board.</div></div>
+  <div class="step"><span class="step-num">2</span><div>All players simultaneously reveal their <strong>Approve or Reject</strong> tokens. If more Approve than Reject — the team goes on the mission. If tied or more Reject — the vote track advances and the Leader Token passes left. Start again. <strong>5 rejected votes in a row = Evil wins that round automatically.</strong></div></div>
+  <div class="step"><span class="step-num">3</span><div>If approved: each mission team member secretly plays a <strong>Success</strong> or <strong>Fail</strong> card. <strong>Good players must play Success.</strong> Evil players may play either. Cards are shuffled and revealed.</div></div>
+  <div class="step"><span class="step-num">4</span><div>Even one Fail card means the mission fails (Evil scores). All Successes means it passes (Good scores). Move the result token to the score track.</div></div>
+</div>
+
+> **Exception:** In games of 7+ players, the 4th mission requires 2 Fail cards to fail.
+
+## Winning
+
+- **Good wins** if 3 missions succeed — but then Evil gets one final chance to **Assassinate Merlin**.
+- If Evil correctly names Merlin after Good's 3rd win, Evil still wins.
+- **Evil wins** if 3 missions fail (or if they assassinate Merlin after a Good victory).
+
+## Special Roles
+
+<div class="rule-cards">
+  <div class="rule-card">
+    <p class="rule-num">GOOD SIDE</p>
+    <p class="rule-title">Percival</p>
+    <p>Sees who Merlin is at the start of the game. Helps protect Merlin's identity during the Assassination phase.</p>
+  </div>
+  <div class="rule-card">
+    <p class="rule-num">EVIL SIDE</p>
+    <p class="rule-title">Morgana</p>
+    <p>Appears as Merlin to Percival at the start. Creates doubt and protects the real Merlin by acting as a decoy.</p>
+  </div>
+  <div class="rule-card">
+    <p class="rule-num">EVIL SIDE</p>
+    <p class="rule-title">Mordred</p>
+    <p>Hidden even from Merlin — Merlin does not see Mordred during the night phase. Harder to identify.</p>
+  </div>
+  <div class="rule-card">
+    <p class="rule-num">MIXED</p>
+    <p class="rule-title">Oberon</p>
+    <p>Evil player who is unknown to other Evil players — they cannot identify Oberon as a teammate. Helps balance the Good team's disadvantage in larger games.</p>
+  </div>
+</div>
+
+<div class="faq">
+  <details class="faq-item">
+    <summary>Can Good players play Fail cards?</summary>
+    <p>No — the rules explicitly prohibit it. Good players must always play Success. Only Evil players choose whether to succeed or fail.</p>
+  </details>
+  <details class="faq-item">
+    <summary>What happens after Good wins 3 missions?</summary>
+    <p>Evil gets one Assassination attempt. The Evil team consults privately and names one player they believe is Merlin. If correct, Evil wins. If wrong, Good wins.</p>
+  </details>
+  <details class="faq-item">
+    <summary>Should Merlin pretend not to know who Evil is?</summary>
+    <p>Yes — if Merlin is too obvious about knowing information they shouldn't, Evil will identify them quickly. The challenge for Merlin is guiding the Good team subtly without revealing their knowledge.</p>
+  </details>
+</div>

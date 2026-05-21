@@ -13,4 +13,8 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Feeling-rolling-a-7-in-Catan-meme_pj8nmg.jpg"
 ---
 
-![catan rolling a 7 meme](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Feeling-rolling-a-7-in-Catan-meme_pj8nmg.jpg)
+<div class="meme-post">
+
+![Catan Rolling a 7 Meme](https://res.cloudinary.com/dt4ujaczs/image/upload/Feeling-rolling-a-7-in-Catan-meme_pj8nmg.jpg)
+
+</div>

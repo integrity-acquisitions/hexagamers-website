@@ -19,7 +19,6 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.j
 Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill tests, and memorization exercises. These make mathematics dull and kids end up shunning it. However, with a bit of effort and creativity, math can be very interesting if not the most interesting subject.
 
 
-
 How?
 
 Board games definitely. Kids love challenges, they love competing and winning, they love hands-on experiences and learn more from them. With board games, kids will get all the above and learn important math concepts such as planning, [pattern recognition](https://en.wikipedia.org/wiki/Pattern_recognition), relationships, multiplication, etc. along the way.
@@ -41,17 +40,16 @@ We didn’t want to fully assume that those learning math are young people, so m
 
 | Image | Game | Players | Ages | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](http://hexagamers.com/top-rated-board-games-that-teach-math-skills#rummikub) | [Rummikub](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rummikub-Original-Rummy-Tile-Game/dp/B00000IZJB/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=0&s=toys-and-games&ie=UTF8&qid=1490406687&sr=1-1&keywords=rummikub&linkCode=sl1&tag=hexagamers-20&linkId=a6b68cf47211e3d0fecc7a0ad19a69fc) | 2-4 | 8+ | 60 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](http://hexagamers.com/top-rated-board-games-that-teach-math-skills#cashflowforkids) | [Cashflow For Kids](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/CASHFLOW-Board-Exclusive-Strategy-Delivered/dp/B00M085AMI/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=1&s=toys-and-games&ie=UTF8&qid=1490406784&sr=1-3&keywords=cashflow+for+kids&linkCode=sl1&tag=hexagamers-20&linkId=4611d1e63966ab4e29bac1412aef17a6) | 2-6 | 6+ | 60 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](http://hexagamers.com/top-rated-board-games-that-teach-math-skills#qwirkle) | [Qwirkle](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/MindWare-MDS-32016W-Qwirkle-Board/dp/1933054395/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=2&s=toys-and-games&ie=UTF8&qid=1490406888&sr=1-2-spons&keywords=qwirkle&psc=1&linkCode=sl1&tag=hexagamers-20&linkId=d80fffdd4f6cc0575451bdb5f072d0ad) | 2-4 | 6+ | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](http://hexagamers.com/top-rated-board-games-that-teach-math-skills#sequence) | [Sequence Num6ers](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Jax-8012-Sequence-Numbers/dp/B001UEMQLQ/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=3&s=toys-and-games&ie=UTF8&qid=1490406964&sr=1-1&keywords=sequence+numbers&linkCode=sl1&tag=hexagamers-20&linkId=2d0d6e4c2ca384ce6591510e3362e43e) | 2-6 | 7+ | \-- | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](http://hexagamers.com/top-rated-board-games-that-teach-math-skills#sumswamp) | [Sum Swamp](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00004TDLD/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=4&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=ddbafdd871cb98dc43404fbb21613d66) | 2-4 | 5+ | 20 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](#1-rummikub) | Rummikub | 2-4 | 8+ | 60 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](#2-cashflow-for-kids) | Cashflow For Kids | 2-6 | 6+ | 60 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](#3-qwirkle) | Qwirkle | 2-4 | 6+ | 45 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](#4-sequence-num6ers) | Sequence Num6ers | 2-6 | 7+ | \-- | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](#5-sum-swamp) | Sum Swamp | 2-4 | 5+ | 20 min | $$$ |  |
 
-## 1\. [Rummikub](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rummikub-Original-Rummy-Tile-Game/dp/B00000IZJB/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=5&s=toys-and-games&ie=UTF8&qid=1490406687&sr=1-1&keywords=rummikub&linkCode=sl1&tag=hexagamers-20&linkId=a6b68cf47211e3d0fecc7a0ad19a69fc)
+## 1. Rummikub
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rummikub-Original-Rummy-Tile-Game/dp/B00000IZJB/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=6&s=toys-and-games&ie=UTF8&qid=1490406687&sr=1-1&keywords=rummikub&linkCode=sl1&tag=hexagamers-20&linkId=a6b68cf47211e3d0fecc7a0ad19a69fc)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](https://www.amazon.com/dp/B00000IZJB/?tag=hexagamers-20)
 
 This game makes it to our top rated math board games because of its manipulation and strategy requirements. It’s a classic game played by 2-4 players and suitable for kids above seven years. Rummikub is the invention of Mr. Efraim Hertzano. Mr. Hertzano came up with Rummikub after all cards had been outlawed in Romania back in the 40s. Through sheer determination and passion, it was an overnight success even in the USA.
 
@@ -77,7 +75,7 @@ Some strategies include:
 
 - Add-ons – tiles from your rack build on one or more sets on the table.
 - Add and split – add to a run and take what you can to create a new set.
-- ​Forming new sets – grab the fourth tile from any set and build a new set.
+- Forming new sets – grab the fourth tile from any set and build a new set.
 - Combined split and multiple splits.
 
 The jokers are your strong suit. They can represent any color or number in a set. However, there is a penalty of 30 points if you have the joker in your rack at the end of the game.
@@ -86,13 +84,11 @@ First to clear your tiles, shout “Rummikub”.
 
 Just to put some emphasis on how good it is, Rummikub has won 6 games of the year awards. This fun board game is great for helping your kids to learn pattern recognition and numbers, a great base for learning math!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rummikub-Original-Rummy-Tile-Game/dp/B00000IZJB/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=7&s=toys-and-games&ie=UTF8&qid=1490406687&sr=1-1&keywords=rummikub&linkCode=sl1&tag=hexagamers-20&linkId=a6b68cf47211e3d0fecc7a0ad19a69fc)
+<a href="https://www.amazon.com/dp/B00000IZJB/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Cashflow For Kids
 
-## 2\. [Cashflow For Kids](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rich-Dad-CASHFLOW-Kids-Education/dp/B00B8DOJLO/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=8&s=toys-and-games&ie=UTF8&qid=1490406784&sr=1-1&keywords=cashflow+for+kids&linkCode=sl1&tag=hexagamers-20&linkId=b81566fedb16e4dc66fb9c3e96d38098)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rich-Dad-CASHFLOW-Kids-Education/dp/B00B8DOJLO/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=9&s=toys-and-games&ie=UTF8&qid=1490406784&sr=1-1&keywords=cashflow+for+kids&linkCode=sl1&tag=hexagamers-20&linkId=b81566fedb16e4dc66fb9c3e96d38098)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](https://www.amazon.com/dp/B00M085AMI/?tag=hexagamers-20)
 
 Cashflow for Kids is the version of Cashflow by the Richdad group more suited for young kids. If you aren’t familiar with this board game, it is very business oriented, but don’t let that intimidate you.
 
@@ -110,15 +106,13 @@ This one is sort of similar to monopoly (can be also good for helping kids add a
 
 Cashflow for Kids will create a fun way for them to learn some math, and don’t be surprised if they end up wanting to set up a lemonade stand after playing it!
 
-For the older people that like the sound of this one, check out [Cashflow 101](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/CASHFLOW-Board-Exclusive-Strategy-Delivered/dp/B00M085AMI/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=10&s=toys-and-games&ie=UTF8&qid=1490406784&sr=1-3&keywords=cashflow+for+kids&linkCode=sl1&tag=hexagamers-20&linkId=4611d1e63966ab4e29bac1412aef17a6) and [our review of it](http://hexagamers.com/cashflow-review) here.
+For the older people that like the sound of this one, check out Cashflow 101 and [our review of it](/blog/cashflow-review/) here.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rich-Dad-CASHFLOW-Kids-Education/dp/B00B8DOJLO/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=11&s=toys-and-games&ie=UTF8&qid=1490406784&sr=1-1&keywords=cashflow+for+kids&linkCode=sl1&tag=hexagamers-20&linkId=b81566fedb16e4dc66fb9c3e96d38098)
+<a href="https://www.amazon.com/dp/B00M085AMI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Qwirkle
 
-## 3\. [Qwirkle](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/MindWare-MDS-32016W-Qwirkle-Board/dp/1933054395/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=12&s=toys-and-games&ie=UTF8&qid=1490406888&sr=1-2-spons&keywords=qwirkle&psc=1&linkCode=sl1&tag=hexagamers-20&linkId=d80fffdd4f6cc0575451bdb5f072d0ad)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/MindWare-MDS-32016W-Qwirkle-Board/dp/1933054395/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=13&s=toys-and-games&ie=UTF8&qid=1490406888&sr=1-2-spons&keywords=qwirkle&psc=1&linkCode=sl1&tag=hexagamers-20&linkId=d80fffdd4f6cc0575451bdb5f072d0ad)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](https://www.amazon.com/dp/1933054395/?tag=hexagamers-20)
 
 Qwirkle is a 2-4 player game that has a scrabble hereditary only that instead of literacy skills, Qwirkle will test your kids’ pattern recognition skills and once you delve deeper into the game strategy comes into play.
 
@@ -132,13 +126,11 @@ This game appeals to kids because of its simplicity. It is their very own versio
 
 Suitable for kids above 6 years.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/MindWare-MDS-32016W-Qwirkle-Board/dp/1933054395/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=14&s=toys-and-games&ie=UTF8&qid=1490406888&sr=1-2-spons&keywords=qwirkle&psc=1&linkCode=sl1&tag=hexagamers-20&linkId=d80fffdd4f6cc0575451bdb5f072d0ad)
+<a href="https://www.amazon.com/dp/1933054395/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Sequence Num6ers
 
-## 4. [Sequence Num6ers](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Jax-8012-Sequence-Numbers/dp/B001UEMQLQ/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=15&s=toys-and-games&ie=UTF8&qid=1490406964&sr=1-1&keywords=sequence+numbers&linkCode=sl1&tag=hexagamers-20&linkId=2d0d6e4c2ca384ce6591510e3362e43e)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Jax-8012-Sequence-Numbers/dp/B001UEMQLQ/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=16&s=toys-and-games&ie=UTF8&qid=1490406964&sr=1-1&keywords=sequence+numbers&linkCode=sl1&tag=hexagamers-20&linkId=2d0d6e4c2ca384ce6591510e3362e43e)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](https://www.amazon.com/dp/B001UEMQLQ/?tag=hexagamers-20)
 
 Sequence numbers is a great board game where kids try to attain 5 chips in a row while stopping others kids from doing it.
 
@@ -152,13 +144,11 @@ This game will not only help the kids learn math, but will also instil team work
 
 There is a bit of luck of the draw involved in this one, so keep an eye out for frustration levels when playing. Again, this is an opportunity to teach patience and even probability if you really want to get eager!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Jax-8012-Sequence-Numbers/dp/B001UEMQLQ/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=17&s=toys-and-games&ie=UTF8&qid=1490406964&sr=1-1&keywords=sequence+numbers&linkCode=sl1&tag=hexagamers-20&linkId=2d0d6e4c2ca384ce6591510e3362e43e)
+<a href="https://www.amazon.com/dp/B001UEMQLQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Sum Swamp
 
-## 5. [Sum Swamp](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00004TDLD/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=18&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=ddbafdd871cb98dc43404fbb21613d66)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00004TDLD/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=19&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=ddbafdd871cb98dc43404fbb21613d66)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](https://www.amazon.com/dp/B00004TDLD/?tag=hexagamers-20)
 
 Honestly, some kid games can be boring for an adult to play. However, this is not the case with sum swamp. This is one engaging game that teaches kids addition, subtraction, speed drills and mental maths. Sum Swamp has some great reviews and had to make it on to our best board games that teach math skills list.
 
@@ -178,8 +168,7 @@ This is a really good game to directly teach math based on equations. Yes, it ha
 
 The only downside is that in the new version, the endless loop is proving impossible to exit. This can be a bit frustrating.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QjwdvIqz0HgpD0n2xCnvxp0AAAFfRkhmhAEAAAFKAVtU5Gs/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00004TDLD/ref=as_at/?imprToken=T.77qmX8hgQQzzPmFIZz5Q&slotNum=20&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=ddbafdd871cb98dc43404fbb21613d66)
-
+<a href="https://www.amazon.com/dp/B00004TDLD/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 So, there you have it. The top-rated board games that teach math skills. It is important to note that the above games have been compiled according to how they help kids develop strategy skills that are vital in maths. Depending on where you or your child is at on the development level, you should be able to find a game (or adapt one) that suits your needs.

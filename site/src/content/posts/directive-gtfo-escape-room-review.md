@@ -4,37 +4,31 @@ date: 2017-09-17
 categories: 
   - "escape-rooms"
 tags: 
-  - "alberta"
-  - "best"
-  - "companies"
-  - "company"
-  - "directive"
-  - "downtown"
   - "edmonton"
-  - "escape-room"
   - "escape-room-review"
   - "gtfo"
-  - "heist"
-  - "night-fall"
-  - "nightfall"
-  - "puzzle"
-  - "top"
-  - "visiting-hour"
   - "yeg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310005/hexagamers-reviews/directive-gtfo-escape-room-review.jpg"
 ---
 
-# The Directive
+## Overview
 
-Rating:
+GTFO's hardest room. A 45-minute mission to infiltrate, complete an objective, and escape undetected. Recommended for 6 players and experienced teams only.
 
-(Side note: we completed this room after we compiled our [Best Edmonton Escape Rooms](http://hexagamers.com/best-edmonton-escape-rooms-and-companies?tve=true) list. We'll be refreshing that list soon! In the meantime, make sure you tell GTFO that the Hexagamers sent you!)
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
 
-We're huge fans of [GTFO](http://www.letsgtfo.ca) and had been waiting excitedly for them to release a new room when they had a fire. When GTFO was back up and running, and The Directive was finally announced, two of our Hexagamers had a baby, so our play was paused again. GTFO recently invited us out to challenge the room, and our long wait was 100% worth it.
+## Our Experience
 
-In The Directive, you are helping an elite group fight a threat against the world. The mission is secret, but you have only 45 minutes to get in and get out, completing the mission and escaping undetected.
+We'd been waiting for this room since GTFO announced it — then had to wait longer after a fire delayed the opening, and again after a new baby pushed our plans back. When GTFO finally invited us out, the wait was completely worth it.
 
-We knew little about The Directive except that it is GTFO's hardest room and that they recommend six players. We fully agree on both counts. It can be done with less than six, but we don't recommend it. We also don't recommend doing this room as a first or second room. You'll want experience and familiar teammates. There are parts of the room that would be extremely difficult without a partner. Even though we were familiar with a couple of the room concepts, they still presented a challenge for us that required teamwork, solid communication and precision.
+The Directive is GTFO's hardest room, and they recommend 6 players for good reason. We fully agree — some sections require a partner to work through, and the room uses every team member meaningfully. Nobody was idle.
 
-In fact, everything about this room required teamwork, and every one of us was used, useful and involved. There are some really cool puzzles in this room and great use of technology, all of which challenges your brains, your logic and your creativity.  Nothing in The Directive is extra; everything has purpose and connects. These connections are what we love most about GTFO. It's like the room reveals itself little by little as you progress through it, telling you its own story, requiring you to pay attention. We had a lot of fun with this room and left pumped up, knowing we'd earned the win. This room is everything an escape room should be, and one to add to your list.
+The puzzle design is exceptional. Everything connects — the room reveals itself incrementally, rewarding attention and teamwork. Several puzzles made smart use of technology without gimmickry. The design philosophy here is that nothing is decoration: every element has purpose and ties into the solution.
 
-A huge thanks to GTFO and the amazing staff for inviting us out to take on The Directive!
+**Do not do this as your first or second room.** You need experience, familiar teammates, and strong communication. This is an earned room.
+
+## Conclusion
+
+The Directive is everything an escape room should be — challenging, cohesive, and deeply satisfying to complete. One of GTFO's best. Add it to your list.
+
+*Thanks to GTFO and their staff for the invite. Tell them Hexagamers sent you.*

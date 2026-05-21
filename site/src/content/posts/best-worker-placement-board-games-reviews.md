@@ -24,11 +24,11 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Worker-Repla
 
 If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the more popular genres (or mechanics), and have a look at the best Worker Placement board games.
 
-These games play quite differently than [Deck Building board games](http://hexagamers.com/best-deck-building-board-games) or [Card Drafting board games](http://hexagamers.com/best-card-drafting-board-games), but are quite fun in their own regard.
+These games play quite differently than [Deck Building board games](/blog/best-deck-building-board-games/) or [Card Drafting board games](/blog/best-card-drafting-board-games/), but are quite fun in their own regard.
 
 If you haven’t ventured down this path, or want a quick refresher, let’s start with a quick explanation of what a worker (or people) placing game is.
 
-A worker placement game is a board game in which players have a number of workers/people/[Meeples](http://hexagamers.com/everything-you-need-to-know-about-board-games) that they will place on ‘action spaces’ in order for them to do some sort of ‘work’ or gain some sort of benefit for the player.
+A worker placement game is a board game in which players have a number of workers/people/[Meeples](/blog/everything-you-need-to-know-about-board-games/) that they will place on ‘action spaces’ in order for them to do some sort of ‘work’ or gain some sort of benefit for the player.
 
 An action space can be an assortment of things. It could be a space to help you collect a resource, or a space to allow you to build something, or gain another Meeple, or even gain the first player token, etc. Some games have the same action space the entire time, while others add new action spaces as the game progresses.
 
@@ -48,26 +48,25 @@ There are a bunch of different worker placement board games out there, so narrow
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#lords) | [Lords of Waterdeep](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=0&ie=UTF8&qid=1499319049&sr=8-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=56709de8e0e2bb3b90d1ae42a0151b99) | 2-5 | 60 - 120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#caylus) | [Caylus](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-281RGG-Caylus/dp/B000BNFHBI/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=1&ie=UTF8&qid=1499319112&sr=8-1&keywords=caylus&linkCode=sl1&tag=hexagamers-20&linkId=77a865170a72c994d0440f90916fc49c) | 2-5 | 60 - 150 min | $$$ |  |
-| [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#agricola) | [Agricola](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3515-Agricola-Game/dp/B01DREMT68/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=2&ie=UTF8&qid=1499319167&sr=8-1&keywords=agricola&linkCode=sl1&tag=hexagamers-20&linkId=23bf915e50e976c2e56a2aad016b77d1) | 1-5 | 30 - 150 min | $$$ |  |
-| [![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#caverna) | [Caverna](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG-3501-Caverna/dp/B00G3FV2TO/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=3&ie=UTF8&qid=1499319250&sr=8-1&keywords=caverna&linkCode=sl1&tag=hexagamers-20&linkId=9a24be0ba1bb10c4dea5c447e860016d) | 1-7 | 30 - 210 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#tzolkin) | [Tzolk'in](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-RGG-490/dp/B009XBA390/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=4&ie=UTF8&qid=1499319313&sr=8-1&keywords=tzolkin&linkCode=sl1&tag=hexagamers-20&linkId=872a9fa337e24b776ece332e89ab33bb) | 2-4 | 90 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](http://hexagamers.com/best-worker-placement-board-games-reviews#alien) | [Alien Frontiers](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Alien-Frontiers-5th-Edition/dp/B06W9M6YML/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=5&ie=UTF8&qid=1499319377&sr=8-1&keywords=alien+frontiers&linkCode=sl1&tag=hexagamers-20&linkId=3deab596119e7a1dc1b1f81f90d3caad) | 2-4 | 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#manhattan) | [The Manhattan Project](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/The-Manhattan-Project-Board-Game/dp/B007GC2R6K/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=6&ie=UTF8&qid=1499319451&sr=8-3&keywords=manhattan+project&linkCode=sl1&tag=hexagamers-20&linkId=ec50abfbbc76d41d8cad9d4351e8404e) | 2-5 | 120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#stoneage) | [Stone Age](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-71260ZMG-Stone-Board/dp/B00CF4G7OW/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=7&ie=UTF8&qid=1499319507&sr=8-1&keywords=stone+age+board+game&linkCode=sl1&tag=hexagamers-20&linkId=6d1b8af6ac4f85b26d325b958e1383ee) | 2-4 | 60 - 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#viti) | [Viticulture](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Viticulture-Essential-Edition-Board-Game/dp/B018GRSLK4/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=8&ie=UTF8&qid=1499319577&sr=8-1&keywords=viticulture&linkCode=sl1&tag=hexagamers-20&linkId=c6b55b9ee5042dad64586bdaadac3666) | 2-6 | 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](http://hexagamers.com/best-worker-placement-board-games-reviews#lehavre) | [Le Havre](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3518-Le-Havre/dp/B01N17W07Y/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=9&ie=UTF8&qid=1499319636&sr=8-1&keywords=le+havre&linkCode=sl1&tag=hexagamers-20&linkId=5075588f75fa8e6f784504965e6f52d8) | 1-5 | 30 - 150 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](#1-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2-5 | 60 - 120 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](#2-caylus) | Caylus | 2-5 | 60 - 150 min | $$$ |  |
+| [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](/blog/best-worker-placement-board-games-reviews#agricola/) | Agricola | 1-5 | 30 - 150 min | $$$ |  |
+| [![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](/blog/best-worker-placement-board-games-reviews#caverna/) | Caverna | 1-7 | 30 - 210 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](#5-tzolkin) | Tzolk'in | 2-4 | 90 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](#6-alien-frontiers) | Alien Frontiers | 2-4 | 90 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](#7-the-manhattan-project) | The Manhattan Project | 2-5 | 120 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](#8-stone-age-full-review-here) | Stone Age | 2-4 | 60 - 90 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](#9-viticulture-essentials-edition) | Viticulture | 2-6 | 90 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](#10-le-havre) | Le Havre | 1-5 | 30 - 150 min | $$$$ |  |
 
 ## Best Worker Placement Board Games
 
-## 1\. [Lords of Waterdeep](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=10&ie=UTF8&qid=1499319049&sr=8-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=56709de8e0e2bb3b90d1ae42a0151b99) ([Full Review Here](http://hexagamers.com/lords-of-waterdeep-review))
+## 1. Lords of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=11&ie=UTF8&qid=1499319049&sr=8-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=56709de8e0e2bb3b90d1ae42a0151b99)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
-Lords of Waterdeep makes it to the top of our worker placement board game list for a few reasons. First off it is a fairly simple game, which makes it very accessible to almost everyone. The rules may seem overwhelming at first, but once the basics are understood, it becomes very easy to play. We even included this one in our [Best Gateway Board Games](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews).
+Lords of Waterdeep makes it to the top of our worker placement board game list for a few reasons. First off it is a fairly simple game, which makes it very accessible to almost everyone. The rules may seem overwhelming at first, but once the basics are understood, it becomes very easy to play. We even included this one in our [Best Gateway Board Games](/blog/best-gateway-board-games-for-beginners-with-reviews/).
 
 Some say there is nothing crazy unique about this game in terms of mechanics/game play, however, we found that the way it incorporates the game style with the areas of concentration almost flawless.
 
@@ -87,13 +86,11 @@ Also, the number of Meeples changes depending on the number of players involved,
 
 Not that you need it, but the topper to all the awesomeness mentioned above is that the game components are very well done, and it comes in an awesome box, with a great organizer built in!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=12&ie=UTF8&qid=1499319049&sr=8-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=56709de8e0e2bb3b90d1ae42a0151b99)
+<a href="https://www.amazon.com/dp/0786959916/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Caylus
 
-## 2\. [Caylus](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-281RGG-Caylus/dp/B000BNFHBI/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=13&ie=UTF8&qid=1499319112&sr=8-1&keywords=caylus&linkCode=sl1&tag=hexagamers-20&linkId=77a865170a72c994d0440f90916fc49c)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-281RGG-Caylus/dp/B000BNFHBI/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=14&ie=UTF8&qid=1499319112&sr=8-1&keywords=caylus&linkCode=sl1&tag=hexagamers-20&linkId=77a865170a72c994d0440f90916fc49c)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](https://www.amazon.com/dp/B082FS51D9/?tag=hexagamers-20)
 
 Caylus is considered by some as the granddaddy of all these type of games. We thought about having it as overall best worker placement game, but decided that because of its complexity, it might not be the game for everyone.
 
@@ -113,15 +110,13 @@ It is a very well thought out mechanic that creates great amounts of balance, in
 
 It is an older game, but don’t let that deter you, since this one is fundamentally very strong in so many aspects. If you are a hard core board gamer (who doesn’t get analysis paralysis), this is probably the one for you. There is a reason this is such a highly rated worker placement board game.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-281RGG-Caylus/dp/B000BNFHBI/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=15&ie=UTF8&qid=1499319112&sr=8-1&keywords=caylus&linkCode=sl1&tag=hexagamers-20&linkId=77a865170a72c994d0440f90916fc49c)
+<a href="https://www.amazon.com/dp/B082FS51D9/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Agricola ([Full Review Here](/blog/agricola-review/))
 
-## 3\. [Agricola](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3515-Agricola-Game/dp/B01DREMT68/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=16&ie=UTF8&qid=1499319167&sr=8-1&keywords=agricola&linkCode=sl1&tag=hexagamers-20&linkId=23bf915e50e976c2e56a2aad016b77d1) ([Full Review Here](http://hexagamers.com/agricola-review))
 
-Our Rating:
+[![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
 
-[![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3515-Agricola-Game/dp/B01DREMT68/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=17&ie=UTF8&qid=1499319167&sr=8-1&keywords=agricola&linkCode=sl1&tag=hexagamers-20&linkId=23bf915e50e976c2e56a2aad016b77d1)
-
-Agricola (and Caverna which is next) came in high on our top rated worker placement games. We thought about combining them into one spot on the list, but ultimately decided they each deserve their own spot. If you haven’t played these games before, they are from the same designer and play somewhat similar, check out our [Agricola Vs Caverna Post](http://hexagamers.com/agricola-vs-caverna-which-game-should-you-buy) to help you decide which one is best for you.
+Agricola (and Caverna which is next) came in high on our top rated worker placement games. We thought about combining them into one spot on the list, but ultimately decided they each deserve their own spot. If you haven’t played these games before, they are from the same designer and play somewhat similar, check out our [Agricola Vs Caverna Post](/blog/agricola-vs-caverna-which-game-should-you-buy/) to help you decide which one is best for you.
 
 In this one you will set out to grow and expand your farm yard. You will acquire animals (Animeeples), harvest crops, and improve your farm house, while feeding your family and working your way to the most Victory Points as possible.
 
@@ -135,13 +130,11 @@ Though this is a heavily strategic game, there is some randomness in the game. Y
 
 It also plays great with anywhere from 1-5 people.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3515-Agricola-Game/dp/B01DREMT68/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=18&ie=UTF8&qid=1499319167&sr=8-1&keywords=agricola&linkCode=sl1&tag=hexagamers-20&linkId=23bf915e50e976c2e56a2aad016b77d1)
+<a href="https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Caverna
 
-## 4\. [Caverna](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG-3501-Caverna/dp/B00G3FV2TO/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=19&ie=UTF8&qid=1499319250&sr=8-1&keywords=caverna&linkCode=sl1&tag=hexagamers-20&linkId=9a24be0ba1bb10c4dea5c447e860016d)
 
-Our Rating:
-
-[![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG-3501-Caverna/dp/B00G3FV2TO/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=20&ie=UTF8&qid=1499319250&sr=8-1&keywords=caverna&linkCode=sl1&tag=hexagamers-20&linkId=9a24be0ba1bb10c4dea5c447e860016d)
+[![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](https://www.amazon.com/dp/B00G3FV2TO/?tag=hexagamers-20)
 
 Caverna, like Agricola, is made by Uwe Rosenberg, and plays somewhat similar. In this game, you still have a farmyard which you must develop, but you also have the option to go and explore some caves!
 
@@ -153,13 +146,11 @@ This game is able to be played by a good number of people (6), so that can add t
 
 The shear volume of rules/actions you can take with this game is one of the reasons it has made it one as one of the best worker placement board games. It would be overwhelming to those who haven’t played strategy board games before, so keep that in mind.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG-3501-Caverna/dp/B00G3FV2TO/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=21&ie=UTF8&qid=1499319250&sr=8-1&keywords=caverna&linkCode=sl1&tag=hexagamers-20&linkId=9a24be0ba1bb10c4dea5c447e860016d)
+<a href="https://www.amazon.com/dp/B00G3FV2TO/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Tzolk'in
 
-## 5\. [Tzolk'in](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-RGG-490/dp/B009XBA390/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=22&ie=UTF8&qid=1499319313&sr=8-1&keywords=tzolkin&linkCode=sl1&tag=hexagamers-20&linkId=872a9fa337e24b776ece332e89ab33bb)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-RGG-490/dp/B009XBA390/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=23&ie=UTF8&qid=1499319313&sr=8-1&keywords=tzolkin&linkCode=sl1&tag=hexagamers-20&linkId=872a9fa337e24b776ece332e89ab33bb)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](https://www.amazon.com/dp/B009XBA390/?tag=hexagamers-20)
 
 Tzolk’in: The Mayan Calendar is a good worker placement game for those that like to plan ahead. Its theme, as you guessed, is set during the Mayan times, and you are trying to win the favor of the gods.
 
@@ -181,13 +172,11 @@ Beware of analysis paralysis with this one as there are many paths to victory. T
 
 Tzolk’in can be an unforgiving game with a lot of tension in it, but it is still a great worker placement game… Just don’t lose favor with the gods!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Rio-Grande-Games-RGG-490/dp/B009XBA390/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=24&ie=UTF8&qid=1499319313&sr=8-1&keywords=tzolkin&linkCode=sl1&tag=hexagamers-20&linkId=872a9fa337e24b776ece332e89ab33bb)
+<a href="https://www.amazon.com/dp/B009XBA390/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 6. Alien Frontiers
 
-## 6\. [Alien Frontiers](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Alien-Frontiers-5th-Edition/dp/B06W9M6YML/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=25&ie=UTF8&qid=1499319377&sr=8-1&keywords=alien+frontiers&linkCode=sl1&tag=hexagamers-20&linkId=3deab596119e7a1dc1b1f81f90d3caad)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Alien-Frontiers-5th-Edition/dp/B06W9M6YML/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=26&ie=UTF8&qid=1499319377&sr=8-1&keywords=alien+frontiers&linkCode=sl1&tag=hexagamers-20&linkId=3deab596119e7a1dc1b1f81f90d3caad)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](https://www.amazon.com/dp/B0BVRV6C1M/?tag=hexagamers-20)
 
 If you and your group like yatzee, space themes, and good worker placement board games, then this is the one for you!
 
@@ -203,13 +192,11 @@ The board itself adjusts depending on the number of people playing which is nice
 
 This one has a great theme, some interesting mechanics, a bit of luck, and some good replay-ability. Some of us Hexagamers aren’t normally fans of dice rolling type of games, but we still decided this should be on the list!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Alien-Frontiers-5th-Edition/dp/B06W9M6YML/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=27&ie=UTF8&qid=1499319377&sr=8-1&keywords=alien+frontiers&linkCode=sl1&tag=hexagamers-20&linkId=3deab596119e7a1dc1b1f81f90d3caad)
+<a href="https://www.amazon.com/dp/B0BVRV6C1M/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 7. The Manhattan Project
 
-## 7\. [The Manhattan Project](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/The-Manhattan-Project-Board-Game/dp/B007GC2R6K/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=28&ie=UTF8&qid=1499319451&sr=8-3&keywords=manhattan+project&linkCode=sl1&tag=hexagamers-20&linkId=ec50abfbbc76d41d8cad9d4351e8404e)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/The-Manhattan-Project-Board-Game/dp/B007GC2R6K/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=29&ie=UTF8&qid=1499319451&sr=8-3&keywords=manhattan+project&linkCode=sl1&tag=hexagamers-20&linkId=ec50abfbbc76d41d8cad9d4351e8404e)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](https://www.amazon.com/dp/B007GC2R6K/?tag=hexagamers-20)
 
 The Manhattan Project is another highly rated Euro style worker or people placement board game. The theme of this one is pretty different compared to many of the other games that come across our tables.
 
@@ -225,13 +212,11 @@ The theme of this one is well done, even if building bombs isn’t your thing. T
 
 If you are looking for more of a “Take That” style of game, The Manhattan Project comes in as one of the best worker placement games for that.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/The-Manhattan-Project-Board-Game/dp/B007GC2R6K/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=30&ie=UTF8&qid=1499319451&sr=8-3&keywords=manhattan+project&linkCode=sl1&tag=hexagamers-20&linkId=ec50abfbbc76d41d8cad9d4351e8404e)
+<a href="https://www.amazon.com/dp/B007GC2R6K/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 8. Stone Age ([Full Review Here](/blog/stone-age-review/))
 
-## 8\. [Stone Age](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-71260ZMG-Stone-Board/dp/B00CF4G7OW/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=31&ie=UTF8&qid=1499319507&sr=8-1&keywords=stone+age+board+game&linkCode=sl1&tag=hexagamers-20&linkId=6d1b8af6ac4f85b26d325b958e1383ee) ([Full Review Here](http://hexagamers.com/stone-age-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-71260ZMG-Stone-Board/dp/B00CF4G7OW/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=32&ie=UTF8&qid=1499319507&sr=8-1&keywords=stone+age+board+game&linkCode=sl1&tag=hexagamers-20&linkId=6d1b8af6ac4f85b26d325b958e1383ee)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
 
 Stone Age is another really good worker placement games. This one is a little lighter than some of the others, on par with a game like Lords of Waterdeep, but that doesn’t mean it is any less fun than the other games listed here. One of the reasons it is further down on the list is due to how hard it can be to find since (at the time of writing) they aren't printing any more of these.
 
@@ -249,13 +234,11 @@ There are a number of paths to victory in this game with the tools, artifacts, b
 
 If you want a game that is quick to understand and get playing, this one is a good choice. It also doesn’t take long to set up and has good replay-ability. Which is why it is one of the top people placing board games
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-71260ZMG-Stone-Board/dp/B00CF4G7OW/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=33&ie=UTF8&qid=1499319507&sr=8-1&keywords=stone+age+board+game&linkCode=sl1&tag=hexagamers-20&linkId=6d1b8af6ac4f85b26d325b958e1383ee)
+<a href="https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 9. Viticulture Essentials Edition
 
-## 9\. [Viticulture Essentials Edition](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Viticulture-Essential-Edition-Board-Game/dp/B018GRSLK4/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=34&ie=UTF8&qid=1499319577&sr=8-1&keywords=viticulture&linkCode=sl1&tag=hexagamers-20&linkId=c6b55b9ee5042dad64586bdaadac3666)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Viticulture-Essential-Edition-Board-Game/dp/B018GRSLK4/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=35&ie=UTF8&qid=1499319577&sr=8-1&keywords=viticulture&linkCode=sl1&tag=hexagamers-20&linkId=c6b55b9ee5042dad64586bdaadac3666)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
 
 Feel like drinking some wine while playing a board game about making wine in Tuscany?! Gotcha covered! Viticulture does just that in this [Stonemaier Game](https://stonemaiergames.com/).
 
@@ -271,13 +254,11 @@ There are a few mechanics here that are different from other games. Most notably
 
 The game plays well with any number of people. In fact, the number of available spaces per action changes accordingly. You’ll feel like you have a lot of options, yet want to do so much more every time, which is the makings of a good worker placement game. You don’t have to drink wine to enjoy this game, but we’ll let you make that decision.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Viticulture-Essential-Edition-Board-Game/dp/B018GRSLK4/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=36&ie=UTF8&qid=1499319577&sr=8-1&keywords=viticulture&linkCode=sl1&tag=hexagamers-20&linkId=c6b55b9ee5042dad64586bdaadac3666)
+<a href="https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 10. Le Havre
 
-## 10\. [Le Havre](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3518-Le-Havre/dp/B01N17W07Y/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=37&ie=UTF8&qid=1499319636&sr=8-1&keywords=le+havre&linkCode=sl1&tag=hexagamers-20&linkId=5075588f75fa8e6f784504965e6f52d8)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3518-Le-Havre/dp/B01N17W07Y/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=38&ie=UTF8&qid=1499319636&sr=8-1&keywords=le+havre&linkCode=sl1&tag=hexagamers-20&linkId=5075588f75fa8e6f784504965e6f52d8)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](https://www.amazon.com/dp/B01N17W07Y/?tag=hexagamers-20)
 
 Le Havre is one of the best worker placement board games around. We were going to put this one higher on the list, but we already had two games by [Uwe Rosenberg](https://en.wikipedia.org/wiki/Uwe_Rosenberg) on the list (Agricola and Caverna). This one follows some of same principles and mechanics that the other two have, yet is unique enough to be on the list and to be on our shelves as well. Plus, at the time of writing this article, this game is in short supply and can be a bit hard to find.
 
@@ -295,8 +276,7 @@ You won’t always move your worker every turn, since you might be spending that
 
 Lastly, this game has some good replay-ability because the buildings, ships, and order of goods is randomized every game, so you will have to shift your strategy accordingly. Not to mention it has a very strong theme! All reasons why this game has made it in as one of the top worker placement board games.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QmypxP_v3iulVewDF4vkLcAAAAFfRe38tAEAAAFKASK-hYE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Mayfair-Games-MFG3518-Le-Havre/dp/B01N17W07Y/ref=as_at/?imprToken=BWxu.EL5Q6oKVKGP5CviJA&slotNum=39&ie=UTF8&qid=1499319636&sr=8-1&keywords=le+havre&linkCode=sl1&tag=hexagamers-20&linkId=5075588f75fa8e6f784504965e6f52d8)
-
+<a href="https://www.amazon.com/dp/B01N17W07Y/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 The genre of worker placement games is one that gained popularity very quickly, and rightfully so. The idea of sending out your Meeples to do some work for you in order to accomplish your goals is a pretty fun concept to get behind. There are some similarities amongst the games, but we tried to find some that we loved that were a slightly different take on the same thing in order to find something for everyone. We like that these games have a good interactive quality to them in that it really matters what your neighbor decides they want to do. They have good themes which is important to us, and usually have an element or two that helps in randomness and replay-ability.

@@ -170,3 +170,56 @@ h4 { font-size: 1.1rem; }
 .fade-up-3 { animation-delay: 0.3s; }
 .fade-up-4 { animation-delay: 0.4s; }
 .fade-up-5 { animation-delay: 0.5s; }
+
+/* ── Check Price button (affiliate link) ── */
+.check-price-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  color: var(--amber);
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.5rem 1.1rem;
+  border-radius: var(--radius-lg);
+  border: 2px solid var(--amber);
+  text-decoration: none;
+  margin: 0.75rem 0 1.25rem;
+  transition: background 0.15s, color 0.15s, transform 0.15s;
+}
+.check-price-btn:hover {
+  background: var(--amber);
+  color: #0d0d0e;
+  transform: translateY(-1px);
+}
+.check-price-btn::after {
+  content: '→';
+  font-size: 0.9rem;
+}
+
+/* ── Best-of list images: table thumbnails ── */
+.post-content :global(table img) {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  display: inline-block;
+}
+/* Table thumbnail links — make clickable thumbnail obvious */
+.post-content :global(table a) {
+  display: inline-block;
+  border-radius: var(--radius);
+  transition: opacity 0.15s, transform 0.15s;
+}
+.post-content :global(table a:hover) {
+  opacity: 0.85;
+  transform: scale(1.05);
+}
+/* Images that appear as standalone game headers in list posts — cap them */
+.post-page.is-list-post .post-content :global(img:not(.coverImage)) {
+  max-width: 300px;
+  max-height: 220px;
+  object-fit: contain;
+}

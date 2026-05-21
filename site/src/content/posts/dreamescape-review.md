@@ -4,72 +4,33 @@ date: 2018-08-08
 categories: 
   - "escape-rooms"
 tags: 
-  - "alberta"
-  - "area"
-  - "best"
-  - "board-games"
-  - "buy"
-  - "cafe"
-  - "casino"
-  - "cold-case"
-  - "companies"
-  - "downtown"
-  - "dream"
-  - "dream-escape"
   - "edmonton"
-  - "empress-hotel"
-  - "escape"
-  - "escape-room"
-  - "fun"
-  - "games"
-  - "gathering"
-  - "heist"
-  - "leduc"
-  - "magic"
-  - "play"
-  - "puzzler"
-  - "review"
-  - "rooms"
-  - "sherwood-park"
-  - "table-top-games"
-  - "tabletop"
-  - "whyte-ave"
+  - "escape-room-review"
+  - "dreamescape"
   - "yeg"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20180702_170638_ycjl29.jpg"
 ---
 
-# DreamEscape 
+## Overview
 
-Rating:
+DreamEscape is an escape room company based in Leduc, Alberta, that also hosts board games and events. We reviewed two of their rooms: Escape The Puzzler and Empress Hotel.
 
- 
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
 
-Intro/First Impressions
+## The Venue
 
-DreamEscape opened in Leduc in 2017, and we were super excited to have another escape room company to play and review. We have crazy busy schedules, so getting us together can be difficult, but our wait to try DreamEscape's rooms was well worth it.
+DreamEscape has a comfortable setup with tables and board games available before or after your room. Staff are friendly and the space feels welcoming — they run regular Magic: The Gathering events and have a solid game selection. Worth arriving early to browse.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180702_170638_ycjl29.jpg "20180702_170638")
+## Escape The Puzzler
 
-The Storefront
+Strongly thematic, immersive, and demanding. With four players, we were all fully occupied — switching puzzles midway through to get fresh eyes on stubborn problems.
 
-DreamEscape has tables, board games and events so you and your friends can play some games. They do quite a bit of Magic: The Gathering nights, too. We were pretty pleased with some of their board game offerings and the staff are friendly and chatty, making it a comfortable place to hang out.
+The strongest aspects: consistent theming, purposeful clues, and a non-linear design that didn't frustrate us the way non-linear rooms sometimes do. Every clue tied together logically. The room surprised us — we expected to be annoyed by non-linearity and ended up loving it. Strong recommendation.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180702_170457_c9di85.jpg "20180702_170457")
+## Empress Hotel
 
-Escape The Puzzler
+Different tone, different style. We'll update this section after a return visit.
 
-We booked ourselves for Escape The Puzzler first and were sufficiently impressed and creeped out by its start.  The Puzzler is a strong thematic room with a lot going on and a lot of clues to work out. There were four of us playing and we were all busy, sometimes even switching challenges and hints to get fresh eyes and brains on a puzzle. We enjoyed the consistency of the clues and the props, how everything tied together and made sense, and how immersive the experience was. The Puzzler is somewhat non-linear, and full disclosure: we're pretty linear as a group. We tend to get annoyed and frustrated with non-linear rooms, but we loved The Puzzler. It set itself apart from the rest, and we were pleasantly surprised.
+## Conclusion
 
-It's difficult to review The Puzzler without giving anything away, so let's just say it was awesome and it is worth the trip out to Leduc to play it. Just make sure to give yourself extra time to do another room, because you'll want to. We sure did!
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20180702_170532_yb3i2m.jpg "20180702_170532")
-
-**Cold Case: Empress Hotel**
-
-We played this room immediately after The Puzzler because we were so impressed and had so much fun. We had more difficulties with Cold Case, mainly due to our miscommunication and assumptions. While we like The Puzzler better, Cold Case is a great room you shouldn't miss. It's challenging for your brain and mixes some linear and non-linear puzzles together. Details are important in this room, both big and little, so don't set anything aside until you're sure you're done (and you'll know when you are). There are also a ton of components and pieces to Cold Case and everything has purpose and fits together.
-
-Cold Case isn't as immersive as The Puzzler but the props are cool and it has a great theme that carries through its clues. We'd recommend starting this way and working your way up--last stop, Casino Heist.
-
-We love love love escape rooms, and if you do, too, you definitely need to get to DreamEscape Gaming in Leduc and play their rooms. Thanks for hosting us, guys! We'll be back!
-
-Have you been to DreamEscape? Loved it? Hated it? Let us know!
+DreamEscape delivers well-crafted rooms with strong thematic execution. The Puzzler especially stands out for its cohesion and immersion. If you're in the Edmonton or Leduc area, these rooms are worth the trip.

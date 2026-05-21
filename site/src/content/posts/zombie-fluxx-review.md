@@ -5,70 +5,50 @@ categories:
   - "games"
   - "reviews"
 tags: 
-  - "2-6-players"
-  - "board-game"
-  - "board-game-review"
-  - "board-games"
-  - "card-drafting"
   - "card-game"
-  - "chance"
-  - "fluxx"
-  - "luck"
-  - "review"
-  - "table-top-board-games"
-  - "table-top-games"
-  - "two-player"
   - "zombie-fluxx"
   - "zombies"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/ZF.box__mdxagi.jpg"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/ZF.box__mdxagi.jpg "Zombie Fluxx")
+## Overview
 
-# OVERVIEW
+The rules constantly change mid-game. Draw a card, play a card — but rule cards alter how many you draw and play, goal cards change the win condition, and zombie creepers arrive uninvited. Whoever satisfies the current goal when their turn ends wins.
 
-Our Rating:
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 6</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">10–40 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
+</div>
 
-The dead are amongst us! Zombies are everywhere! Grab a shotgun, some zombie repellent, or perhaps make a baseball team consisting only of Zombies. Compete with other members of the living to achieve a goal and survive the Zombies.  
+## Charlene's Review
 
-[CHECK PRICE](http://amzn.to/2xXggKq)
+### Likes
+- Very high replayability — no two games are the same
+- Extremely fast to teach and learn
+- Short games
 
-|   Number of Players   |   Time to Play   |   Ages   |
-| --- | --- | --- |
-|   2-6   |   10-40 min   |   8+   |
+### Dislikes
+- Luck is by far the dominant factor
+- Very little meaningful strategy
+- The zombie theme doesn't add much beyond cosmetics
 
-# CHARLENE'S REVIEW
+## First Impressions
 
-My Rating:
+The game name says it all: it's always in flux. Zombie Fluxx is the classic Fluxx system with creeper cards added — zombie cards that follow you around and can prevent you from winning. The layout is clear and visually easy to parse. The zombie art on the creeper cards is the most distinctive element; the rest of the card art is minimal.
 
-Likes
+## Thoughts
 
-- 👍High Replayability
-- 👍Short Games_​_
-- 👍Fast to Learn
+**The basic rules never change: draw one card, play one card.** Everything else can. Rule cards can set hand limits, change draw counts, force zombie-groaning on every pickup, or alter almost anything else. Goal cards change what combination of keeper cards you need to win. The goal in play when you satisfy it is the only thing that matters.
 
-Dislikes
+**Teaching takes under two minutes.** Start with the basic rules, let the rule cards explain themselves as they come out. This makes Fluxx genuinely excellent for introducing non-gamers or mixed groups to game nights.
 
-- 👎Luck is a Big Factor
-- 👎Little Strategy
-- 👎Theme has little affect 
+**The strategy problem:** you can build toward a goal, only to have the goal change on the next card played. You might accumulate the exact keepers needed to win, then be forced to play them against yourself. Planning more than one turn ahead is rarely possible and rarely rewarded.
 
-Intr﻿﻿﻿o/First Impressions
+**The luck problem:** outcomes depend almost entirely on draw order and which rule/goal cards appear. Good players and new players have roughly equal win rates. This is fine for casual play — it's a genuine problem for competitive groups.
 
-​The game Zombie Fluxx is always changing, hence the name. No two games are the same nor do they have the same rules. The rules won’t even be the same for the whole game, maybe not even till your next turn. It is the classic game of fluxx with the addition of zombies. There are creeper cards that have the zombies or multiple zombies. The basic rules are the same as classic Fluxx. There are many different types of cards, such as goal, rule, action, keeper and creeper. The lay out is done really well that it is easy to visually tell the difference. Other then the creeper Zombies, the artwork on the cards is very minimal.
+**The zombie theme is cosmetic.** The Fluxx system works the same with any theme. If you're a Fluxx fan, any version scratches the itch.
 
-Thoughts
+## Conclusion
 
-For Zombie Fluxx, the basic rules remain constant, draw a card and play a card. The neat thing is that as you play the game you can add rule cards that alter the game. Something like a one card hand limit, and that you must groan like a zombie when you pick one up. Also your objective changes as well, there are many goal cards so do not expect the goal to stay the same for long. In general, in order to win you need to collect keeper cards that are associated with the current goal card in play. You may also need zombies, a certain number of zombies or you may need to have no zombies. 
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305659/91Z6CL3bgL._SL1500_-300x300.jpg "Zombie Fluxx")
-
-It is very fast to teach, maybe one of the fastest games to teach that I have played. This is great when you have individuals at a game night and need to slowly introduce them to strategic games. With there being so many different versions, if you like Fluxx there will probably be a version that interests you. Each of these versions has a slightly different element involved in the game. There are many versions ranging from adventure time to monty python.
-
-With the game constantly changing, it can be a good thing or a bad thing. Good in that its always a new game, so replayability is high. Bad in that it is hard to have a strategy in Zombie Fluxx. You will have a strategy picked out and then a new rule comes up that changes it or the goal to win changes. You may even have to play these against yourself. You may also be holding onto a card that would have an opponent win, then someone changes a rule so you have to play it. This can get really frustrating. You may need to collect 9 zombies and you only need one more. Then suddenly another player changes the goal card and now you have to have zero zombies to win. There is a lot of luck involved. It depends strictly on what cards you draw, in what order and what rules are currently in play.
-
-Conclusion
-
-This game is fun in a mindless sort of way. I personally prefer more strategy to be involved and less luck though. Zombie fluxx is a good starter game for a board game night. You may play a few rounds but not likely more then that.
-
-This game is fun in a mindless sort of way. I personally prefer more strategy to be involved and less luck though. Zombie fluxx is a good starter game for a board game night. You may play a few rounds but not likely more then that.
+Zombie Fluxx is fun in a mindless, anything-can-happen way. It's not a game to anchor your evening to — it's a warm-up, a break, or an intro game for new players. Play a few rounds, enjoy the chaos, and move on to something with more strategy. For what it is, it delivers consistently.

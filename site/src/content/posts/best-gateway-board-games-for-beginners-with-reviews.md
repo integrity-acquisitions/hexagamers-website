@@ -22,12 +22,11 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Eu
 ---
 
 
-
 If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are the most popular board games among players. Yes, those are some great games, but nowadays there is a lot more to choose from when it comes to board games.
 
-[Click here to jump to the comparison table...](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#table)
+[Click here to jump to the comparison table...](/blog/best-gateway-board-games-for-beginners-with-reviews#table/)
 
-There are all sorts of different genres, difficulty/strategy levels, and styles of games. If you are looking to learn more about the current state of board games, you might be interested in [Everything you need to know about board games](http://hexagamers.com/everything-you-need-to-know-about-board-games).
+There are all sorts of different genres, difficulty/strategy levels, and styles of games. If you are looking to learn more about the current state of board games, you might be interested in [Everything you need to know about board games](/blog/everything-you-need-to-know-about-board-games/).
 
 If, however, you are a beginner looking to get started into gaming, we have compiled a list of the best board games for beginners that is perfect for people just like you.
 
@@ -43,7 +42,7 @@ We should further define what we consider a gateway board game, so you have an i
 
 We define these as games that are very easy to get into. What do we mean by that? Well, for one they are very easy to set up out of the box. This could mean that there are very few components, or the components are easy to understand where they would go, or maybe there is a very good set up guide included in the box.
 
-Another way these games are easy to get into for newbies is that they have very few rules or very straight forward rules. Just to give you a frame of reference, there are games like [Agricola](http://hexagamers.com/agricola-review) that have a 12 page rule book and a 12 page appendix… for a beginner, it is possible to read this and understand, but wouldn’t lead to a good first impression into strategy board games. More or less, you will be able to play these games once and totally get it.
+Another way these games are easy to get into for newbies is that they have very few rules or very straight forward rules. Just to give you a frame of reference, there are games like [Agricola](/blog/agricola-review/) that have a 12 page rule book and a 12 page appendix… for a beginner, it is possible to read this and understand, but wouldn’t lead to a good first impression into strategy board games. More or less, you will be able to play these games once and totally get it.
 
 In order to make our list, we also want to make sure these games have an overall good theme, as that can be an important factor in making a game a good one. As partially mentioned earlier, we also wanted to make sure these games were accessible to everyone. Both in the fact that anyone of any skill level can jump in, understand it, and have a good time.
 
@@ -65,24 +64,23 @@ It would be almost impossible to cover every game in our best gateway board game
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Catan) | [Catan](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Catan-Studios-MFG-3071-Edition/dp/B00U26V4VQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=0&s=toys-and-games&ie=UTF8&qid=1493161044&sr=1-1&keywords=catan&linkCode=sl1&tag=hexagamers-20&linkId=822d969877ce944f7ec26bf522f549ee) | 3-4 | 60-120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Ticket) | [Ticket To Ride: Europe](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Days-of-Wonder-DOW-7202/dp/B000809OAO/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=1&s=toys-and-games&ie=UTF8&qid=1493161105&sr=1-1&keywords=ticket+to+ride+europe&linkCode=sl1&tag=hexagamers-20&linkId=ff6076a6d0c99813d7e4c2e74c88f8cd) | 2-5 | 30-60 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Carcassonne) | [Carcassonne](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-78000ZMG-Carcassonne-Classic/dp/B008ULAMSG/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=2&s=toys-and-games&ie=UTF8&qid=1493161164&sr=1-1-spons&keywords=carcassonne&psc=1&smid=A3L2KOXEXJZT5E&linkCode=sl1&tag=hexagamers-20&linkId=ea682eddfc312f146f37054da7a1e3e0) | 2-5 | 30-45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Lords) | [Lords Of Waterdeep](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=3&s=toys-and-games&ie=UTF8&qid=1493161217&sr=1-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=7b399549299ed9e7ca17dc774178dd13) | 2-5 | 60-120 | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Sushi) | [Sushi Go!](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Sushi-Go-Pick-Pass-Card/dp/B00J57VU44/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=4&s=toys-and-games&ie=UTF8&qid=1493161271&sr=1-1&keywords=sushi+go&linkCode=sl1&tag=hexagamers-20&linkId=9052f161320701577a74cd8a991c8ccc) | 2-5 | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Dominion) | [Dominion](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Dominion-2nd-Edition-Board-Game/dp/B01LYLIS2U/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=5&s=toys-and-games&ie=UTF8&qid=1493161332&sr=1-1&keywords=dominion&linkCode=sl1&tag=hexagamers-20&linkId=660fcc3e05642ff46fd67569fc3df76e) | 2-4 | 30 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Pandemic) | [Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-ZMG-71100-Pandemic/dp/B00A2HD40E/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=6&s=toys-and-games&ie=UTF8&qid=1493161409&sr=1-1&keywords=pandemic&linkCode=sl1&tag=hexagamers-20&linkId=3366b8152957de55e4d8ae91a5863bbb) | 2-4 | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Takenoko) | [Takenoko](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Asmodee-TAK01USASM-Takenoko-Board-Game/dp/B0049H9NVW/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=7&s=toys-and-games&ie=UTF8&qid=1493161458&sr=1-1&keywords=takenoko&linkCode=sl1&tag=hexagamers-20&linkId=a4b80edd70bc9cd0d08976625563a1e1) | 2-4 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Coup) | [Coup](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Indie-Boards-Cards-COU1IBC-Dystopian/dp/B00GDI4HX4/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=8&s=toys-and-games&ie=UTF8&qid=1493161505&sr=1-1&keywords=coup&linkCode=sl1&tag=hexagamers-20&linkId=305a04473b743818fd96ac848587d07e) | 2-6 | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews#Camel) | [Camel Up](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Pegasus-Spiele-PEG54541G-Camel-Board/dp/B00ICF0OZQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=9&s=toys-and-games&ie=UTF8&qid=1493161573&sr=1-1&keywords=camel+up&linkCode=sl1&tag=hexagamers-20&linkId=8c87ac669bf6abb8699739b24f5b6865) | 2-8 | 20+30 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-catan-full-review-here) | Catan | 3-4 | 60-120 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](#2-ticket-to-ride-europe-full-review-here) | Ticket To Ride: Europe | 2-5 | 30-60 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](#3-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](#4-lords-of-waterdeep-full-review-here) | Lords Of Waterdeep | 2-5 | 60-120 | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#5-sushi-go) | Sushi Go! | 2-5 | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](#6-dominion-full-review-here) | Dominion | 2-4 | 30 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#7-pandemic-full-review-here) | Pandemic | 2-4 | 45 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](#8-takenokofull-review-here) | Takenoko | 2-4 | 45 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](#9-coup-full-review-here) | Coup | 2-6 | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](#10-camel-up-full-review-here) | Camel Up | 2-8 | 20+30 min | $$$ |  |
 
 ## Top Ten Gateway Board Games For Beginners Reviews
 
-## 1\. [Catan](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Catan-Studios-MFG-3071-Edition/dp/B00U26V4VQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=10&s=toys-and-games&ie=UTF8&qid=1493161044&sr=1-1&keywords=catan&linkCode=sl1&tag=hexagamers-20&linkId=822d969877ce944f7ec26bf522f549ee) ([Full Review Here](http://hexagamers.com/catan-review))
+## 1. Catan ([Full Review Here](/blog/catan-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Catan-Studios-MFG-3071-Edition/dp/B00U26V4VQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=11&s=toys-and-games&ie=UTF8&qid=1493161044&sr=1-1&keywords=catan&linkCode=sl1&tag=hexagamers-20&linkId=822d969877ce944f7ec26bf522f549ee)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20)
 
 The most common and probably the most popular gateway game out there is Catan (formerly Settlers of Catan). This game has been played on popular TV shows like Big Bang Theory, has been frequently featured in memes, and if you ask some of your friends, chances are they have played it or heard of it.
 
@@ -100,13 +98,11 @@ The rules for this game can be taught to new players in about 5 minutes, with th
 
 The concept of collecting some sort of resource and then managing it is a mechanic that is wildly popular within the board game world, and something that should be learned early on as it transfers into so many other games. Where the term of ‘resource’ is used loosely here as it could range from the wood and sheep in Catan to the Gems of Splendor or something along those lines. Likewise ‘managing’ could be dividing for purchases, or trade, or to help you build something.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Catan-Studios-MFG-3071-Edition/dp/B00U26V4VQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=12&s=toys-and-games&ie=UTF8&qid=1493161044&sr=1-1&keywords=catan&linkCode=sl1&tag=hexagamers-20&linkId=822d969877ce944f7ec26bf522f549ee)
+<a href="https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Ticket To Ride: Europe ([Full Review Here](/blog/ticket-to-ride-europe-review/))
 
-## 2\. [Ticket To Ride: Europe](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Days-of-Wonder-DOW-7202/dp/B000809OAO/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=13&s=toys-and-games&ie=UTF8&qid=1493161105&sr=1-1&keywords=ticket+to+ride+europe&linkCode=sl1&tag=hexagamers-20&linkId=ff6076a6d0c99813d7e4c2e74c88f8cd) ([Full Review Here](http://hexagamers.com/ticket-to-ride-europe-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Days-of-Wonder-DOW-7202/dp/B000809OAO/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=14&s=toys-and-games&ie=UTF8&qid=1493161105&sr=1-1&keywords=ticket+to+ride+europe&linkCode=sl1&tag=hexagamers-20&linkId=ff6076a6d0c99813d7e4c2e74c88f8cd)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
 
 The Ticket to Ride Series are great board games for anyone from beginners to experts. One of our favourites in the series is the Europe version, which is why we put it on the list, but any of them are pretty good.
 
@@ -124,13 +120,11 @@ There is also something about they cute little trains that gets people excited a
 
 Within our group alone, we played this game with 4 other couples that have run out and bought it the next day, and we still aren’t tired of playing it!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Days-of-Wonder-DOW-7202/dp/B000809OAO/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=15&s=toys-and-games&ie=UTF8&qid=1493161105&sr=1-1&keywords=ticket+to+ride+europe&linkCode=sl1&tag=hexagamers-20&linkId=ff6076a6d0c99813d7e4c2e74c88f8cd)
+<a href="https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Carcassonne ([Full Review Here](/blog/carcassone-review/))
 
-## 3\. [Carcassonne](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-78000ZMG-Carcassonne-Classic/dp/B008ULAMSG/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=16&s=toys-and-games&ie=UTF8&qid=1493161164&sr=1-1-spons&keywords=carcassonne&psc=1&smid=A3L2KOXEXJZT5E&linkCode=sl1&tag=hexagamers-20&linkId=ea682eddfc312f146f37054da7a1e3e0) ([Full Review Here](http://hexagamers.com/carcassone-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-78000ZMG-Carcassonne-Classic/dp/B008ULAMSG/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=17&s=toys-and-games&ie=UTF8&qid=1493161164&sr=1-1-spons&keywords=carcassonne&psc=1&smid=A3L2KOXEXJZT5E&linkCode=sl1&tag=hexagamers-20&linkId=ea682eddfc312f146f37054da7a1e3e0)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
 
 Carcassonne is a tile flipping board game that is set in the old French city of its namesake. The point of the game is to build out the landscape, while placing your Meeples along the way in order to score the most points and win the game.
 
@@ -150,13 +144,11 @@ It also has a bunch of versions/expansions if you find that you really like it, 
 
 Another tip for the beginner gamers with this one is to play the first couple of rounds without the farmers to help minimize confusion and also add a tiny bit of longevity to your board game.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-78000ZMG-Carcassonne-Classic/dp/B008ULAMSG/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=18&s=toys-and-games&ie=UTF8&qid=1493161164&sr=1-1-spons&keywords=carcassonne&psc=1&smid=A3L2KOXEXJZT5E&linkCode=sl1&tag=hexagamers-20&linkId=ea682eddfc312f146f37054da7a1e3e0)
+<a href="https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Lords Of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
 
-## 4\. [Lords Of Waterdeep](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=19&s=toys-and-games&ie=UTF8&qid=1493161217&sr=1-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=7b399549299ed9e7ca17dc774178dd13) ([Full Review Here](http://hexagamers.com/lords-of-waterdeep-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=20&s=toys-and-games&ie=UTF8&qid=1493161217&sr=1-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=7b399549299ed9e7ca17dc774178dd13)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
 Lords of Waterdeep (aka Lords or Waterdeep), is a great gateway board game into worker placement type of games. This game comes in as one of our favourite worker (or people) placement games in fact. If you are unfamiliar with what we mean by this term, to simplify it, you start the game with a number of ‘workers’ or Meeples that you will place on the game board. Depending on where you place them, you will get resources, or buildings, or some other thing that will help you to achieve your goals in the game.
 
@@ -170,13 +162,11 @@ This one is played over 8 rounds, and games go fairly quick. It is a good intro 
 
 It is a really fun gateway board game that will test your ability to think, plan, and adapt on the spot. Even if it’s not your first game, we highly recommend this one.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Lords-Waterdeep-Dungeons-Dragons-Board/dp/0786959916/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=21&s=toys-and-games&ie=UTF8&qid=1493161217&sr=1-1&keywords=lords+of+waterdeep&linkCode=sl1&tag=hexagamers-20&linkId=7b399549299ed9e7ca17dc774178dd13)
+<a href="https://www.amazon.com/dp/0786959916/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Sushi Go!
 
-## 5\. [Sushi Go!](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Sushi-Go-Pick-Pass-Card/dp/B00J57VU44/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=22&s=toys-and-games&ie=UTF8&qid=1493161271&sr=1-1&keywords=sushi+go&linkCode=sl1&tag=hexagamers-20&linkId=9052f161320701577a74cd8a991c8ccc)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Sushi-Go-Pick-Pass-Card/dp/B00J57VU44/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=23&s=toys-and-games&ie=UTF8&qid=1493161271&sr=1-1&keywords=sushi+go&linkCode=sl1&tag=hexagamers-20&linkId=9052f161320701577a74cd8a991c8ccc)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 Sushi Go! is your gateway into the card drafting genre of board games. We have an article coming soon with the top rated card drafting games. To summarize what these games are, in general everyone will get a hand of cards each, each person will take one out of their respective decks and (once everyone is ready) play it. Then you take your remaining cards and pass them to the person next to you (direction is determined by the individual game rules). This process continues until all the cards are used.
 
@@ -190,15 +180,13 @@ There is an aspect of planning to this game, but you can only plan so far in adv
 
 It is a game that is accessible by nearly everyone, can be played anywhere, and introduces some important concepts. Plus, you’ll find that a game will end and people will “want to try it again right now”. All components of a top gateway game for beginners.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Sushi-Go-Pick-Pass-Card/dp/B00J57VU44/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=24&s=toys-and-games&ie=UTF8&qid=1493161271&sr=1-1&keywords=sushi+go&linkCode=sl1&tag=hexagamers-20&linkId=9052f161320701577a74cd8a991c8ccc)
+<a href="https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 6. Dominion ([Full Review Here](/blog/dominion-review/))
 
-## 6\. [Dominion](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Dominion-2nd-Edition-Board-Game/dp/B01LYLIS2U/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=25&s=toys-and-games&ie=UTF8&qid=1493161332&sr=1-1&keywords=dominion&linkCode=sl1&tag=hexagamers-20&linkId=660fcc3e05642ff46fd67569fc3df76e) ([Full Review Here](http://hexagamers.com/dominion-review))
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Dominion-2nd-Edition-Board-Game/dp/B01LYLIS2U/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=26&s=toys-and-games&ie=UTF8&qid=1493161332&sr=1-1&keywords=dominion&linkCode=sl1&tag=hexagamers-20&linkId=660fcc3e05642ff46fd67569fc3df76e)
-
-Dominion is a good gateway board game that falls into the [Deck Builder](http://hexagamers.com/guide-to-understanding-deck-building-games) genre. In fact it is one of the, if not the [best deck building games](http://hexagamers.com/best-deck-building-board-games) out there.
+Dominion is a good gateway board game that falls into the [Deck Builder](/blog/guide-to-understanding-deck-building-games/) genre. In fact it is one of the, if not the [best deck building games](/blog/best-deck-building-board-games/) out there.
 
 This game has a great medieval theme too it which can be found on the many cards. The point of the game is to build out your deck so that you are able to purchase victory points and thus win the game.
 
@@ -214,17 +202,15 @@ This game is still fun for us years after buying it, so if you are worried about
 
 You will understand how to play in your first game, but it will take you a few to really understand the best way to build your deck. This is part of the beauty of the game. Check this one out for something a little different in your gateway game collection.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Dominion-2nd-Edition-Board-Game/dp/B01LYLIS2U/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=27&s=toys-and-games&ie=UTF8&qid=1493161332&sr=1-1&keywords=dominion&linkCode=sl1&tag=hexagamers-20&linkId=660fcc3e05642ff46fd67569fc3df76e)
+<a href="https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 7. Pandemic ([Full Review Here](/blog/pandemic-review/))
 
-## 7\. [Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-ZMG-71100-Pandemic/dp/B00A2HD40E/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=28&s=toys-and-games&ie=UTF8&qid=1493161409&sr=1-1&keywords=pandemic&linkCode=sl1&tag=hexagamers-20&linkId=3366b8152957de55e4d8ae91a5863bbb) ([Full Review Here](http://hexagamers.com/pandemic-review))
 
-Our Rating:
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-ZMG-71100-Pandemic/dp/B00A2HD40E/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=29&s=toys-and-games&ie=UTF8&qid=1493161409&sr=1-1&keywords=pandemic&linkCode=sl1&tag=hexagamers-20&linkId=3366b8152957de55e4d8ae91a5863bbb)
+Pandemic is a game in which all players get to work together against a common enemy, in this case it is the board, which is breaking out in different diseases that you must contain. This type of game is called a cooperative game (or co-op), and pandemic is one of the [best co-op board games](/blog/best-cooperative-board-games/) there is.
 
-Pandemic is a game in which all players get to work together against a common enemy, in this case it is the board, which is breaking out in different diseases that you must contain. This type of game is called a cooperative game (or co-op), and pandemic is one of the [best co-op board games](http://hexagamers.com/best-cooperative-board-games) there is.
-
-This game has a few more rules that you must know before starting than some of the others, but by no means is it harder to understand or harder to play. We have [simplified the rules of Pandemic here](http://hexagamers.com/pandemic-how-to-play-simplified) to help you understand game play more.
+This game has a few more rules that you must know before starting than some of the others, but by no means is it harder to understand or harder to play. We have [simplified the rules of Pandemic here](/blog/pandemic-how-to-play-simplified/) to help you understand game play more.
 
 Essentially, though, this game start with a few diseases (colored cubes) spread across the map/game board in varying densities of cubes. Each player is assigned a random role (there are more roles than players so it will be different most games you play), which will help you to battle against the diseases.
 
@@ -236,13 +222,11 @@ This is a great gateway game for new player because everyone is working together
 
 Again, this game has some good longevity, as we still play the original years later without even using the expansions! It is a perfect game for someone who might be intimidated about their individual skill level since they get to work with others along the way. Check this one out.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Z-Man-Games-ZMG-71100-Pandemic/dp/B00A2HD40E/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=30&s=toys-and-games&ie=UTF8&qid=1493161409&sr=1-1&keywords=pandemic&linkCode=sl1&tag=hexagamers-20&linkId=3366b8152957de55e4d8ae91a5863bbb)
+<a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 8. Takenoko ([Full Review Here](/blog/takenoko-review/))
 
-## 8\. [Takenoko](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Asmodee-TAK01USASM-Takenoko-Board-Game/dp/B0049H9NVW/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=31&s=toys-and-games&ie=UTF8&qid=1493161458&sr=1-1&keywords=takenoko&linkCode=sl1&tag=hexagamers-20&linkId=a4b80edd70bc9cd0d08976625563a1e1) ([Full Review Here](http://hexagamers.com/takenoko-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Asmodee-TAK01USASM-Takenoko-Board-Game/dp/B0049H9NVW/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=32&s=toys-and-games&ie=UTF8&qid=1493161458&sr=1-1&keywords=takenoko&linkCode=sl1&tag=hexagamers-20&linkId=a4b80edd70bc9cd0d08976625563a1e1)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20)
 
 Takenoko is a game which is set in imperial Japan and you are tasked with job of looking after a panda and some bamboo fields. As you can imagine the theme of this game is awesome! It even includes little figurines of the panda, the gardener, and the bamboo, something that will surely draw in new board gamers.
 
@@ -256,17 +240,15 @@ The other things that makes this game great are its mechanics and genre. The mec
 
 This one is fun for people of all ages. It is competitive, but not cutthroat, which is something we look for in a good gateway game. Its price can be has come down dramatically since its release, and is easily worth its price. It is one of those games that you can confidently take off the shelf and play with anyone after taking the 5 minutes to explain the rules!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Asmodee-TAK01USASM-Takenoko-Board-Game/dp/B0049H9NVW/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=33&s=toys-and-games&ie=UTF8&qid=1493161458&sr=1-1&keywords=takenoko&linkCode=sl1&tag=hexagamers-20&linkId=a4b80edd70bc9cd0d08976625563a1e1)
+<a href="https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 9. Coup ([Full Review Here](/blog/coup-review/))
 
-## 9\. [Coup](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Indie-Boards-Cards-COU1IBC-Dystopian/dp/B00GDI4HX4/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=34&s=toys-and-games&ie=UTF8&qid=1493161505&sr=1-1&keywords=coup&linkCode=sl1&tag=hexagamers-20&linkId=305a04473b743818fd96ac848587d07e) ([Full Review Here](http://hexagamers.com/coup-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Indie-Boards-Cards-COU1IBC-Dystopian/dp/B00GDI4HX4/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=35&s=toys-and-games&ie=UTF8&qid=1493161505&sr=1-1&keywords=coup&linkCode=sl1&tag=hexagamers-20&linkId=305a04473b743818fd96ac848587d07e)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is your gateway game into the bluffing and social deduction board game genre. A social deduction game is one in which the players have secret identities and the object of the game (or part of it anyways).
 
-This is a game of survival, where each player is dealt 2 cards (aka influences) and must be the last person with cards in their hand in order to win the game. We have a [simplified how to play for coup](http://hexagamers.com/coup-how-to-play-simplified) which is a quick read if you are interested in this game.
+This is a game of survival, where each player is dealt 2 cards (aka influences) and must be the last person with cards in their hand in order to win the game. We have a [simplified how to play for coup](/blog/coup-how-to-play-simplified/) which is a quick read if you are interested in this game.
 
 In this one, players can chose to tell the truth or bluff (or some combination of both) about which character cards they are holding. Other players must try to decipher if you are telling the truth or not as one of the means of eliminating one of your influences. As the game progresses (and cards are eliminated), players will deduct which roles each other has in order to gain advantage and ultimately win the game.
 
@@ -276,13 +258,11 @@ Coup takes around 5 minutes to learn, and way less to set up the game. That coup
 
 We have played this game with a variety of age groups and demographics, and it is constantly a hit. This genre has a lot of fun games if you like deception and possibly lying to your friends, which is why it made it on our list of highest rated gateway board games.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Indie-Boards-Cards-COU1IBC-Dystopian/dp/B00GDI4HX4/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=36&s=toys-and-games&ie=UTF8&qid=1493161505&sr=1-1&keywords=coup&linkCode=sl1&tag=hexagamers-20&linkId=305a04473b743818fd96ac848587d07e)
+<a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 10. Camel Up ([Full Review Here](/blog/camel-up-review/))
 
-## 10\. [Camel Up](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Pegasus-Spiele-PEG54541G-Camel-Board/dp/B00ICF0OZQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=37&s=toys-and-games&ie=UTF8&qid=1493161573&sr=1-1&keywords=camel+up&linkCode=sl1&tag=hexagamers-20&linkId=8c87ac669bf6abb8699739b24f5b6865) ([Full Review Here](http://hexagamers.com/camel-up-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Pegasus-Spiele-PEG54541G-Camel-Board/dp/B00ICF0OZQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=38&s=toys-and-games&ie=UTF8&qid=1493161573&sr=1-1&keywords=camel+up&linkCode=sl1&tag=hexagamers-20&linkId=8c87ac669bf6abb8699739b24f5b6865)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20)
 
 While we focused mainly on strategy games for this list of the top board games for beginners, we did want to include one that is a little lighter and has a lot less thinking. This way you can see that these new board games aren’t always about pitting your mental strength against your friends. Camel Up is just that type of game. It comes close to being a party board game, but didn’t quite hit all the qualifications for it in our opinion.
 
@@ -294,10 +274,9 @@ This game has a fun theme, and is really easy to set up and get into. It also ha
 
 There is a lot of luck in this game in the dice rolling and the order they come out of the pyramid, but you still have to make strategic decisions/guesses in order to gain coins. It is a calculated risk vs reward type of game which will allow beginners to realize board games are fun again. They won’t be intimidated by their skill level or ability to plan in advance, and will probably be begging for another round or even “what other games are like this?”.
 
-There are a lot of lighter board games, including some party games like [Codenames](http://hexagamers.com/codenames-review), which will be right up their alley if they don’t want the more intense games.
+There are a lot of lighter board games, including some party games like [Codenames](/blog/codenames-review/), which will be right up their alley if they don’t want the more intense games.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QrxmDeXrE7g51qDMbTsdjncAAAFfRj2mjwEAAAFKAWdjiWI/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Pegasus-Spiele-PEG54541G-Camel-Board/dp/B00ICF0OZQ/ref=as_at/?imprToken=GrM5-QpR6nzxkoWo7Rnz0g&slotNum=39&s=toys-and-games&ie=UTF8&qid=1493161573&sr=1-1&keywords=camel+up&linkCode=sl1&tag=hexagamers-20&linkId=8c87ac669bf6abb8699739b24f5b6865)
-
+<a href="https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 We tried to vary our top gateway games across many different genres so that beginner board gamers will be able to get a taste of the variety and depth of the games in this world. Some have more strategy than others and some are longer duration than others. The best thing about these games is that they don’t expire, you can put them on your shelf and try them with different groups from your parents to your co-workers. What they do have in common is that they should make the people who play them get a taste of new board games and have them asking for more.

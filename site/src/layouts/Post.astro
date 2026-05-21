@@ -1,5 +1,6 @@
 ---
 import Base from './Base.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -23,9 +24,10 @@ const categoryLabel: Record<string, string> = {
   'games': 'Games',
 };
 const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
+const isListPost = categories?.includes('favourites-lists') ?? false;
 ---
 <Base title={title} description={description ?? title} image={coverImage}>
-  <article class="post-page">
+  <article class={`post-page${isListPost ? ' is-list-post' : ''}`}>
     <header class="post-header">
       <div class="container">
         <div class="post-meta fade-up">
@@ -39,6 +41,7 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
     <div class="container post-body-wrap">
       <div class="post-content fade-up fade-up-2">
         <slot />
+        <RelatedPosts currentPost={post} />
       </div>
 
       <aside class="post-sidebar">
@@ -131,10 +134,13 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.post-content :global(a[href*="amazon"]),
-.post-content :global(a[href*="amzn"]) {
+.post-content :global(a[href*="amazon"]:not(.check-price-btn)),
+.post-content :global(a[href*="amzn"]:not(.check-price-btn)) {
   color: var(--amber);
   font-weight: 500;
+}
+.post-content :global(.check-price-btn:hover) {
+  color: #0d0d0e;
 }
 .post-content :global(strong) { color: var(--text); font-weight: 600; }
 .post-content :global(blockquote) {
@@ -170,6 +176,332 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
   border: none;
   border-top: 1px solid var(--border);
   margin: 2.5rem 0;
+}
+
+/* ── Comparison table ── */
+.post-content :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.9rem;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.post-content :global(th) {
+  background: var(--surface-2);
+  color: var(--amber);
+  padding: 0.75rem 1.1rem;
+  text-align: left;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--border);
+}
+.post-content :global(th:first-child) { color: var(--text-3); }
+.post-content :global(td) {
+  padding: 0.7rem 1.1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-2);
+  vertical-align: top;
+  line-height: 1.5;
+}
+.post-content :global(td:first-child) {
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+}
+.post-content :global(tr:last-child td) { border-bottom: none; }
+.post-content :global(tr:nth-child(even) td) { background: rgba(255,255,255,0.02); }
+.post-content :global(tr:hover td) { background: rgba(240,165,0,0.04); }
+
+/* ── Conclusion callout boxes (bold text paragraphs like "Choose Catan if:") ── */
+.post-content :global(p:has(strong:first-child)) {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--amber);
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  padding: 0.9rem 1.25rem;
+  margin-bottom: 0.75rem;
+}
+.post-content :global(p:has(strong:first-child) strong) {
+  color: var(--amber);
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+/* ── How-to-play components ── */
+
+/* Game stats bar */
+.post-content :global(.game-stats) {
+  display: flex;
+  gap: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin: 1.75rem 0 2rem;
+}
+.post-content :global(.stat) {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.1rem 1rem;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  gap: 0.25rem;
+}
+.post-content :global(.stat:last-child) { border-right: none; }
+.post-content :global(.stat-value) {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: var(--amber);
+  line-height: 1;
+}
+.post-content :global(.stat-label) {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+/* Numbered steps */
+.post-content :global(.steps) {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+.post-content :global(.step) {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1rem 1.25rem;
+}
+.post-content :global(.step-num) {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  background: var(--amber);
+  color: #0d0d0e;
+  font-weight: 900;
+  font-size: 0.8rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.1em;
+}
+.post-content :global(.step div) {
+  color: var(--text-2);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.post-content :global(.step strong) { color: var(--text); }
+
+/* Scenario rule cards */
+.post-content :global(.rule-cards) {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+.post-content :global(.rule-card) {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.post-content :global(.rule-num) {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin: 0;
+}
+.post-content :global(.rule-title) {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0;
+  line-height: 1.3;
+}
+.post-content :global(.rule-card p) {
+  font-size: 0.88rem;
+  color: var(--text-2);
+  line-height: 1.6;
+  margin: 0;
+}
+.post-content :global(.rule-example) {
+  border-left: 2px solid var(--amber);
+  padding-left: 0.75rem;
+  font-style: italic;
+  color: var(--text-3) !important;
+  font-size: 0.82rem !important;
+  margin-top: 0.25rem !important;
+}
+
+/* FAQ accordion */
+.post-content :global(.faq) {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+.post-content :global(.faq-item) {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+.post-content :global(.faq-item[open]) {
+  border-color: rgba(240,165,0,0.3);
+}
+.post-content :global(.faq-item summary) {
+  padding: 1rem 1.25rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: color 0.15s;
+  user-select: none;
+}
+.post-content :global(.faq-item summary::-webkit-details-marker) { display: none; }
+.post-content :global(.faq-item summary::after) {
+  content: '+';
+  color: var(--amber);
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+.post-content :global(.faq-item[open] summary::after) {
+  transform: rotate(45deg);
+}
+.post-content :global(.faq-item summary:hover) { color: var(--amber-light); }
+.post-content :global(.faq-item p) {
+  padding: 0 1.25rem 1.1rem;
+  color: var(--text-2);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  margin: 0;
+  border-top: 1px solid var(--border);
+  padding-top: 0.9rem;
+}
+
+@media (max-width: 640px) {
+  .post-content :global(.rule-cards) { grid-template-columns: 1fr; }
+  .post-content :global(.game-stats) { flex-wrap: wrap; }
+  .post-content :global(.stat) { min-width: 33%; }
+}
+
+/* ── Likes / Dislikes pro-con cards ── */
+.post-content :global(h3:has(+ ul)) {
+  margin-bottom: 0;
+}
+
+/* Likes heading + its list */
+.post-content :global(h3[id="likes"]),
+.post-content :global(h3[id="likes"] ~ ul:first-of-type) {
+  display: block;
+}
+
+.post-content :global(h3[id="likes"]),
+.post-content :global(h3[id="dislikes"]) {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 0.4em 0.85em;
+  border-radius: var(--radius) var(--radius) 0 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.post-content :global(h3[id="likes"]) {
+  background: rgba(34,197,94,0.12);
+  color: #4ade80;
+  border: 1px solid rgba(34,197,94,0.2);
+  border-bottom: none;
+}
+.post-content :global(h3[id="likes"])::before { content: '✓'; }
+
+.post-content :global(h3[id="dislikes"]) {
+  background: rgba(239,68,68,0.1);
+  color: #f87171;
+  border: 1px solid rgba(239,68,68,0.18);
+  border-bottom: none;
+}
+.post-content :global(h3[id="dislikes"])::before { content: '✕'; }
+
+/* The ul immediately following Likes or Dislikes */
+.post-content :global(h3[id="likes"] + ul),
+.post-content :global(h3[id="dislikes"] + ul) {
+  list-style: none;
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 1.25rem;
+  border-radius: 0 var(--radius-lg) var(--radius-lg) var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.post-content :global(h3[id="likes"] + ul) {
+  background: rgba(34,197,94,0.06);
+  border: 1px solid rgba(34,197,94,0.15);
+}
+.post-content :global(h3[id="dislikes"] + ul) {
+  background: rgba(239,68,68,0.06);
+  border: 1px solid rgba(239,68,68,0.13);
+}
+
+.post-content :global(h3[id="likes"] + ul li),
+.post-content :global(h3[id="dislikes"] + ul li) {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-size: 1rem;
+  color: var(--text-2);
+  line-height: 1.5;
+  margin: 0;
+  padding-left: 0;
+}
+
+.post-content :global(h3[id="likes"] + ul li)::before {
+  content: '✓';
+  color: #4ade80;
+  font-size: 0.8rem;
+  flex-shrink: 0;
+  margin-top: 0.1em;
+  font-weight: 700;
+}
+.post-content :global(h3[id="dislikes"] + ul li)::before {
+  content: '✕';
+  color: #f87171;
+  font-size: 0.8rem;
+  flex-shrink: 0;
+  margin-top: 0.1em;
+  font-weight: 700;
 }
 
 /* ── Sidebar ── */
@@ -220,5 +552,27 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
     grid-template-columns: 1fr;
   }
   .post-sidebar { position: static; }
+}
+
+/* ── Best-of list image sizing ── */
+/* Standalone game images in list posts — cap at a thumbnail size */
+:global(.is-list-post) .post-content :global(img) {
+  max-width: 280px;
+  max-height: 200px;
+  object-fit: contain;
+}
+/* Table thumbnail images stay small */
+:global(.is-list-post) .post-content :global(table img) {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 4px;
+  max-width: none;
+  max-height: none;
+}
+/* Cover image at top of list posts can be a bit larger */
+:global(.is-list-post) .post-content :global(img:first-child) {
+  max-width: 480px;
+  max-height: 280px;
 }
 </style>

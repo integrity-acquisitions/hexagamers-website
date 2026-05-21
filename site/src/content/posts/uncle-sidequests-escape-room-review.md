@@ -3,43 +3,32 @@ title: "UNCLE: SideQuests Escape Room Review"
 date: 2017-10-20
 categories: 
   - "escape-rooms"
-  - "miscellaneous"
 tags: 
-  - "alberta"
-  - "best"
-  - "company"
-  - "downtown"
   - "edmonton"
-  - "escape"
-  - "escape-room"
-  - "expedition"
-  - "prison-break"
-  - "review"
-  - "room"
-  - "rooms"
-  - "side-quest"
-  - "side-quests"
-  - "sidequest"
+  - "escape-room-review"
   - "sidequests"
-  - "top-10"
-  - "uncle"
   - "yeg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311522/hexagamers-reviews/uncle-sidequests-escape-room-review.jpg"
 ---
 
-Intro
+## Overview
 
-Check out our [best Edmonton escape rooms](http://hexagamers.com/best-edmonton-escape-rooms-and-companies) list! It's going to need a refresher after this room... When you visit SideQuests, make sure you tell them the Hexagamers sent you!
+A puzzle-heavy prison break room from SideQuests. Linear and non-linear sections, heavy clue density, and a high challenge floor. Not for beginners.
 
-We challenged the UNCLE room hoping to capitalize on [SideQuest's](https://sidequests.ca/adventures.html) October prison break special (if you win, your next room is free; if you lose, you still get $5 off next time). After our exceptional experience with Expedition, we were pretty jazzed to give this room a try. The only thing we were disappointed in? Ourselves.
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
 
-Thoughts
+## Our Experience
 
-We left this room feeling like someone had taken a sledgehammer to our brains. UNCLE is puzzle-heavy, and we squeezed out every last ounce of brainpower to get through this room. There are a lot of clues to find, a lot of links to make and a lot of tasks to execute. We blasted through the first chunk pretty quickly and then stalled, big time, on something that probably shouldn't have stalled us. Then we kept stalling. We took on this room as a team of four (two of us are busy keeping an infant alive), and if we'd had all six, we're confident we would have made it out. We relied heavily on each other and ended up trading tasks a few times to put fresh brains on a puzzle. It ended up working (with a hint thrown in), but it was only a couple of epiphanies at the end that spurred us into full panic mode, racing to beat the clock.
+We tackled UNCLE with four people (down from our usual six — two teammates were keeping a newborn alive). We're confident those two extra brains would have made the difference.
 
-UNCLE is the first room in months that has challenged and stumped us so hard we actually failed. If we'd had another 30-ish seconds, we would have won (we completed the last piece of the room as the host was giving us the "you failed" spiel!). We were considerably frustrated with our outcome (which, really, isn't a bad thing as we definitely needed a challenge like this), but we were thrilled with the room. UNCLE was a lot of fun and it made us work. We worked our brains, strategies, creativity and our team skills. This is a tough room. It is not a room we'd recommend for newbies. Get some experience under your belt. Bring in friends who think creatively, who like puzzles, who work well in teams. You need all of it. Oh, and pay attention. PAY ATTENTION.
+The room destroyed us — in the best way. We blazed through the first section and then stalled hard on something we probably shouldn't have. We swapped tasks multiple times to get fresh perspectives, burned through a hint, and finally had two back-to-back epiphanies in the final minutes that launched us into full panic mode.
 
-Thematically, UNCLE isn't as beautiful as Expedition and some of the other rooms we've played, but it makes sense and it works well for what it is. There are some neat little tools and surprises throughout the room that kept the theme and execution strong. UNCLE flows really well, even as a it shifted between linear and non-linear. We loved that it kept going and kept giving us more. SideQuests puts a lot of effort in their rooms and it shows. There are plenty of puzzles with a bit of a different twist and everything is well maintained. We really enjoy this company, these rooms and the staff (and owners!).
+We failed. By approximately 30 seconds. We were completing the final piece as the host delivered the "you failed" speech.
 
-Conclusion
+**Pay attention. PAY ATTENTION.** That's our only real advice. This room rewards focus and punishes inattention.
 
-So yes, we failed. Yes, we're a little bummed and humbled. But, failing so close to the end of this room? It speaks volumes about how well it's executed, how challenging it is and how worthwhile it was for us. We highly recommend it for escape room enthusiasts, especially for those who have yet to try SideQuests and/or those whose brains need a workout.
+The theming is functional rather than beautiful — it works for what the room is, and the execution is clean. Linear and non-linear sections both flow well. Tools and surprises throughout kept things interesting without gimmickry. SideQuests puts genuine effort into their rooms and it's evident.
+
+## Conclusion
+
+We failed. We're mildly humbled. But failing that close to the finish line on a room this well-crafted only speaks to how good it is. UNCLE is for escape room enthusiasts who want a real challenge. Bring your best team, your most creative thinkers, and leave your ego at the door.

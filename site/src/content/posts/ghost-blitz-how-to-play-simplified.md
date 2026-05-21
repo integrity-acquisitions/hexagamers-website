@@ -14,436 +14,86 @@ tags:
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg"
 ---
 
-*# OVERVIEW
-Our Rating:
+![Ghost Blitz](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg)
 
-The mysterious pictures taken in the ghost's house have some errors to them. In this fast paced game you must try to figure out which items in the picture have been left out, or are completely correct. This game will test your ability to think quickly as well as your reflexes. Figure it out first and you get a point, get it wrong and your opponent gets it.*
-  
- 
- CHECK PRICE 
- 
- 
-      
-Number of Players
-  
-Time to Play
-  
-Ages
-      
-2 - 8
-  
-30 min
-  
-8+
-     
-Looking for our thoughts on the game? Check out...
-[Our Full Review of Ghost Blitz](https://hexagamers.com/ghost-blitz-review)
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">30 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
+</div>
 
- 
- 
-  
-  
- 
+The mysterious pictures taken in the ghost's house have some errors. In this fast-paced game you must figure out which item in the picture is correct — or which one is completely missing. Test your reflexes and your brain at the same time. Figure it out first and grab the right item to score a point. Grab the wrong one and your opponent scores instead.
 
-# Rules Overview
- 
- 
- 
-  
- 
- 
+> Want our thoughts on the game? Read our [Full Ghost Blitz Review](/blog/ghost-blitz-review/).
 
+## Overview
 
- 
-In their simplest form, Ghost Blitz 1 & 2 are games of racing your friends to decipher which item you need to grab (based on playing cards), and then of course, snatching it before them.
+Ghost Blitz 1 & 2 are racing games. Everyone plays simultaneously — flip a card, decode it as fast as possible, grab the right physical item from the centre of the table. First to grab correctly scores. We've combined both games in this guide since they play almost identically, with Ghost Blitz 2 adding a few optional extra rules.
 
-The setup and game play are very simple, which we will get into next, but figuring out which item to grab is the tricky part.
+## Setup
 
-We have decided to do both games in one How to Play Ghost Blitz guide because they play very similarly, with #2 having a few extra (optional) rules.
+<div class="steps">
+  <div class="step"><span class="step-num">1</span><div><strong>Place all items in the centre</strong> of the table within reach of every player. Note: Ghost Blitz 1 and 2 have different physical items.</div></div>
+  <div class="step"><span class="step-num">2</span><div><strong>Shuffle all the cards</strong> and place them face-down in an accessible spot in the middle.</div></div>
+  <div class="step"><span class="step-num">3</span><div><strong>You're ready to play.</strong> No other setup needed.</div></div>
+</div>
 
-# Setup
+## How to Play
 
-Setup couldn’t be easier. You place all the items (yes, they are different for each game) in the middle of the table or group. You also shuffle all the cards and place them face down in an accessible spot.
-  [*# Game Play
-To play the game you start by flipping over one of the cards, then simultaneously everyone playing tries to figure out the proper item to grab. Figure it out and grab the right one to get the card/point.Replace the item in the center, and continue through the whole deck.
-# How do you know which item to grab in Ghost Blitz?
-On the cards in Ghost Blitz, there are images of the physical items that are in front of you. The problem is, there are issues with the pictures. On all of the cards there are pictures of 2 of them items, and each of those items are colored.There will be 2 options on the cards.On some of the cards there will be a correct item. As in, one of the items will be the correct color, and another one incorrect.Your goal here is to be the first to grab the correct item.Eg. Red Frog and a blue brush on the card --> You grab the brush.2. On some of the cards, both of the items will be the wrong color. What is happening here is that 4 out of the 5 items are ‘represented’ in one way, with one item totally missing.- Your goal here is to grab the item that is totally missing.Eg. A white towel and a green brush on the card --> You grab the Grey Tub.
-# How Do You Win Ghost Blitz?
-After you have gone through all the cards, all you have to do is count them up. The person/team with the most cards (aka points) wins the game.
+On each turn, one player flips over the top card. **Everyone plays at the same time** — there are no individual turns. Your goal is to be the first to grab the correct item.
 
+### How Do You Know Which Item to Grab?
 
-# Additional Rules
-As mentioned there are additional rules for Ghost Blitz 2. We use these as optional rules (actually we found them to be a bit much…). Here they are, courtesy of Board Game Geek:If the frog appears, you have to call out the item.If the frog or the other item is in its original color, you have to call out the correct item in a foreign language.If the towel appears on a card, the item of the towel's color is the one to grab for.
+Each card shows two items, each coloured. There are two possible scenarios:
 
+<div class="rule-cards">
+  <div class="rule-card">
+    <p class="rule-num">Scenario 1</p>
+    <p class="rule-title">One item is the correct colour</p>
+    <p>One of the two items on the card matches its real-life colour. The other item is shown in the wrong colour. Grab the <strong>correctly coloured item</strong>.</p>
+    <p class="rule-example">Example: Red frog + blue brush on the card → the brush is its correct colour in real life → grab the brush.</p>
+  </div>
+  <div class="rule-card">
+    <p class="rule-num">Scenario 2</p>
+    <p class="rule-title">Both items are the wrong colour</p>
+    <p>Neither item on the card is shown in its real colour. This means one item is completely unrepresented on the card. Grab the <strong>missing item</strong>.</p>
+    <p class="rule-example">Example: White towel + green brush on the card → the grey tub isn't shown at all → grab the grey tub.</p>
+  </div>
+</div>
 
-# Here are some Frequently Asked Questions about Ghost Blitz
+### Scoring Each Round
 
-# Can Ghost Blitz 1 & 2 be combined?
-Simple answer: Yes! You have to put all the items in the middle, so things get a little confusing. Otherwise, simply shuffle up all the cards together.
-# Which Ghost Blitz is the better one?
-We found the Original Ghost Blitz to be the better one. The coloring on the cards was a little better, and we liked the items better as well. Though personal preference will vary, both are good games.
-# What age groups are best for Ghost Blitz?
-We found this game works with any one from age 7 and up. At that age they can grasp the concept easily. Though some younger people will still get it. We also played this with people 60+ and they still enjoyed it. Just make sure you play with people of similar abilities for fair matches.
+- **Grab the right item first** → you keep the card as a point.
+- **Grab the wrong item** → the player who was wronged (or the fastest correct player) takes the card instead.
+- Replace the item in the centre and flip the next card.
 
-Related Posts
+## How to Win
 
-Best Party Board Games 2019 – Games You Can Play To Get That Party Going						
+Play through the entire deck. Count up your cards at the end. **Most cards wins.**
 
+## Additional Rules (Ghost Blitz 2)
 
-Jan 17, 2019                        	                    		                    /
-By		                    
-HexaGamers		                    
+These rules are optional — we found them a bit much for casual play, but they add a layer for experienced groups:
 
-Raptor: Review						
-
-
-Aug 07, 2018                        	                    		                    /
-By		                    
-Whitney		                    
-
-Dimension: How To Play – Simplified						
-
-
-Feb 22, 2018                        	                    		                    /
-By		                    
-Ryan		                    
-
-About the author
-
-#### HexaGamers
-
-
-We are the HexaGamers. Six good friends that love all things game related that gets us together to enjoy each other's company.			
-
-0comments
-
-Click here to add a comment
-
-#### Leave a comment:
-
-
-Name *
-
-
-Email *
-
-
-Website
-
-Comment
-
-					
-
-								
-
-		
-
-Popular Posts							
-
-Recent Posts							
-
-Best Murder Mystery Party Companies												
-
-
-22*](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg)
- 
- 
-
-[Best Custom (Settlers of) Catan Game Boards](https://hexagamers.com/best-custom-settlers-of-catan-game-boards)
-
-*4*
- 
-  
- 
-- [Best Social Deduction Board Games](https://hexagamers.com/best-social-deduction-board-games)
-
-*2*
-
-- [Best Board Game Podcasts You Should Be Listening To – 2017](https://hexagamers.com/best-board-game-podcasts)
-
-*2*
-
-- [Best Board Games for Christmas Gifts](https://hexagamers.com/best-board-games-for-christmas-gifts)
-
-*2*
-
- 
- 
- 
- 
-- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review)
-
-*May 1, 2019*
-
-- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews)
-
-*January 17, 2019*
-
-- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia)
-
-*August 12, 2018*
-
-- [DreamEscape Gaming: Empress  Puzzler Review](https://hexagamers.com/dreamescape-review)
-
-*August 8, 2018*
-
-- [Raptor: Review](https://hexagamers.com/raptor-review)
-
-*August 7, 2018*
-
- 
- 
- 
- 
- 
-   
-Free Strategy Guide!
-   
-- ## Subscribe to our mailing list and get your FREE Strategy Guide PDF to help you win any board game!
-
-* indicates required
-
-First Name  *
-
-Last Name 
-
-Email Address  *
-
-Favourite Game 
-
-**How Often Do You Play Board Games?**
-Once a month
-
-- 1 - 5 times per month
-
-- More than 5 times per month
-
- 
- 
- 
-  
-  
-     
-   
-   
- 
- 
-
-  Leave this field empty if you're human:           
- 
- 
- 
-
-Other Posts You Might Like
-
- 
- 
-- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review)
-
-May 1, 2019
-
-- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews)
-
-January 17, 2019
-
-- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia)
-
-August 12, 2018
-
-- [Raptor: Review](https://hexagamers.com/raptor-review)
-
-August 7, 2018
-
- 
- 
- 
-  
- 
- 
-  
+- If the **frog** appears on a card, you must **call out** the item rather than grab it.
+- If the frog or the other item is shown in its **original colour**, you must call out the correct item in a **foreign language**.
+- If the **towel** appears on a card, grab the item that matches the towel's colour.
 
 ---
 
- 
+## Frequently Asked Questions
 
-#### Latest posts
-
- 
- 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Danger The Game – Review](https://hexagamers.com/danger-the-game-review) 
- 
-May 1, 2019            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 														 
-
- 
- 
-[Favourites Lists](https://hexagamers.com/category/favourites-lists)
- 
- [Best Party Board Games 2019 – Games You Can Play To Get That Party Going](https://hexagamers.com/best-party-board-games-with-reviews) 
- 
-January 17, 2019            	        		        /
-By		        [HexaGamers](https://hexagamers.com/author/hexagamers)
- 
- 
- 														 
-
- 
- 
-[Favourites Lists](https://hexagamers.com/category/favourites-lists)
- 
- [Cultural-Themed Board Games: Asia](https://hexagamers.com/cultural-themed-board-games-asia) 
- 
-August 12, 2018            	        		        /
-By		        [HexaGamers](https://hexagamers.com/author/hexagamers)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Raptor: Review](https://hexagamers.com/raptor-review) 
- 
-August 7, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Squirmish: Review](https://hexagamers.com/squirmish-review) 
- 
-July 1, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Uprise: Review](https://hexagamers.com/uprise-review) 
- 
-March 3, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Pandemic Legacy S1 Logs: February](https://hexagamers.com/pandemic-legacy-s1-logs-february) 
- 
-February 25, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Pandemic Legacy S1 Logs: January](https://hexagamers.com/pandemic-legacy-s1-logs-january) 
- 
-February 25, 2018            	        		        /
-By		        [Whitney](https://hexagamers.com/author/whitney)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Dimension: How To Play – Simplified](https://hexagamers.com/dimension-how-to-play-simplified) 
- 
-February 22, 2018            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 														 
-
- 
- 
-[Games](https://hexagamers.com/category/games)
- 
- [Gloom: Review](https://hexagamers.com/gloom-review) 
- 
-February 18, 2018            	        		        /
-By		        [Ryan](https://hexagamers.com/author/ryan)
- 
- 
- 							
- 
- 
- 
- 
- 
-  
- 
-
- 
- 
-  
- 
- 
- 
- 
-
-“We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.” Copyright 2017 by Hexagamers.
-
- - [Home](https://hexagamers.com/)
-
-- [Blog](https://hexagamers.com/blog)
-
-- [Games](https://hexagamers.com/games)
-
-- [Miscellaneous](https://hexagamers.com/category/miscellaneous)
-
-- [Favourites Lists](https://hexagamers.com/category/favourites-lists)
-
-- [Disclaimer](https://hexagamers.com/disclaimer)
-
-- [Privacy Policy](https://hexagamers.com/privacy-policy)
-
-- [About Us](https://hexagamers.com/about)
-
- 						  
- 
- 
- 
- 
- 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
- 
- 
-
-
-         
-
-![](https://hexagamers.com/wp-content/plugins/wpfront-scroll-top/images/icons/59.png)
+<div class="faq">
+  <details class="faq-item">
+    <summary>Can Ghost Blitz 1 & 2 be combined?</summary>
+    <p>Yes! Put all items from both games in the centre and shuffle all the cards together. Things get more chaotic — which is half the fun.</p>
+  </details>
+  <details class="faq-item">
+    <summary>Which Ghost Blitz version is better?</summary>
+    <p>We prefer the original Ghost Blitz. The card colouring is a little clearer and we liked the item set better. That said, both are great games — personal preference will vary.</p>
+  </details>
+  <details class="faq-item">
+    <summary>What age groups work best for Ghost Blitz?</summary>
+    <p>Age 7 and up can typically grasp the concept. We've also played it with people 60+ who loved it. For the fairest and most fun games, match players of similar reaction speeds.</p>
+  </details>
+</div>

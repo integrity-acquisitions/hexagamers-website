@@ -23,7 +23,7 @@ Cooperative Board Games! One of our favorite categories!
 
 While there are some exceptions to the rule a coop game basically means everyone is working together against the board (or deck) to achieve the end goal. They are perfect for starting out, or for introducing someone to strategy board games, since they will get you in the mindset of planning and strategizing, but you won't be on your own. We also love coop games for experienced gamers since they bring everyone together on the same team and halt the 'everyone for themselves' battle for a little while.
 
-As mentioned there are exceptions to the 'all for one' mindset of coop games. Some games (eg. [Betrayal at House on the Hill](http://hexagamers.com/betrayal-at-house-on-the-hill-review)) involve a traitor, where at some point one player turns on the others and it becomes all against one.
+As mentioned there are exceptions to the 'all for one' mindset of coop games. Some games (eg. [Betrayal at House on the Hill](/blog/betrayal-at-house-on-the-hill-review/)) involve a traitor, where at some point one player turns on the others and it becomes all against one.
 
 Another type of co-op game is where someone has a secret objective to achieve that may not be for the good of the group. A couple games involving this mechanic are BattleStar Galactica: The Boardgame and Dead of Winter : A Crossroads Game. Most coop games you encounter however will be straight forward all on one team.
 
@@ -31,7 +31,7 @@ For the purpose of this article we wanted to take a couple of things into accoun
 
 Another issue is the experienced player advantage. This problem can lead to the aforementioned dominant player problem, since they know the most effective way to play. One thing we noticed is that in games with high replay-ability you will encounter this problem a lot less so we tried to make sure all of our games ranked high in this area as well.
 
-We also looked at things like the theme of the game, player interactions throughout the game,​ the mechanics of the play (obviously), and a few other factors like artwork, set up time, ease to learn.
+We also looked at things like the theme of the game, player interactions throughout the game, the mechanics of the play (obviously), and a few other factors like artwork, set up time, ease to learn.
 
 As with the other board game genres, there are a ton of options for top cooperative board games. While these are our favorites, we know there are many other great ones. There are some really good games that didn't make our list, because we didn't feel they ranked high enough in all of the areas we took into account. Feel free to comment down below and let us know what you think about the games we chose and what you think should have made the cut!
 
@@ -41,19 +41,18 @@ Click the thumbnail to jump down to the game write up
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#pandemic) | [Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A2HD40E/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=0&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A2HD40E&linkId=51c42faa7c8a63889ae18ede280410da) | 2-4 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](#robinsoncrusoe) | [Robinson Crusoe: Adventure on the Cursed Island](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B01HDYFCJO/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=1&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B01HDYFCJO&linkId=722c3172b0512d1c39bdc0c1ca5f646d) | 1-4 | 90-180 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](#mysterium) | [Mysterium](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B013TJ5P80/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=2&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B013TJ5P80&linkId=6181e8e6b5e0363085ebbe73f4a5ff98) | 2-7 | 42 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](#flashpoint) | [Flash Point: Fire Rescue](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0084M8UEE/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=3&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0084M8UEE&linkId=1f2eede22289601564fdb53f3b9256e9) | 1-6 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](#eldritchhorror) | [Eldritch Horror](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/1616617667/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=4&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1616617667&linkId=5c8543f6c8862c2506d8e5fda7ba2b62) | 1-8 | 120-240 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](#forbiddendesert) | [Forbidden Desert](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00B4ECHJI/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=5&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00B4ECHJI&linkId=5203de2a3cf0d07896f0a59db52f67b1) | 2-5 | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](#betrayalathouseonthehill) | [Betrayal at House on the Hill](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B003HC9734/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=6&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B003HC9734&linkId=a205fe96b0da68aff2a53b9094da5365) | 3-6 | 60 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#1-pandemicfull-review-here) | Pandemic | 2-4 | 45 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](#2-robinson-crusoe-adventure-on-the-cursed-island) | Robinson Crusoe: Adventure on the Cursed Island | 1-4 | 90-180 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](#3-mysterium) | Mysterium | 2-7 | 42 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](#4-flash-point-fire-rescuefull-review-here) | Flash Point: Fire Rescue | 1-6 | 45 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](#5-eldritch-horror) | Eldritch Horror | 1-8 | 120-240 min | $$$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](#6-forbidden-desertfull-review-here) | Forbidden Desert | 2-5 | 45 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](#7-betrayal-at-house-on-the-hillfull-review-here) | Betrayal at House on the Hill | 3-6 | 60 min | $$ |  |
 
-## 1\. [Pandemic](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A2HD40E/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=7&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A2HD40E&linkId=51c42faa7c8a63889ae18ede280410da) ([Full Review Here](http://hexagamers.com/codenames-review))
+## 1. Pandemic ([Full Review Here](/blog/codenames-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A2HD40E/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=8&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A2HD40E&linkId=51c42faa7c8a63889ae18ede280410da)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is by far our favorite co-operative board game. In this game you and your teammates (2-4 players) are battling against the board to cure and eradicate (wipe out) diseases before they take over the world.
 
@@ -63,19 +62,17 @@ We love the high replay ability factor of Pandemic. Some games are impossible to
 
 You can increase the difficulty of this game by adding more epidemic cards (these increase the spreading of disease), making the win rate pretty low, we appreciate this factor since we love the challenge of this game and can adjust it depending on the skill level of players.
 
-Pandemic is easy to teach and one of those games you can pick up on as you go, if fact it made our [Best Gateway Board Game For Beginners](http://hexagamers.com/best-gateway-board-games-for-beginners-with-reviews) list because of that fact. Our only complaint is that it is only for up to 4 players unless you buy an expansion. That being said, we have played with 6 players before and just partnered up, since it's a team game anyways.
+Pandemic is easy to teach and one of those games you can pick up on as you go, if fact it made our [Best Gateway Board Game For Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) list because of that fact. Our only complaint is that it is only for up to 4 players unless you buy an expansion. That being said, we have played with 6 players before and just partnered up, since it's a team game anyways.
 
 Whether you own a coop game already or are looking to add one to your collection Pandemic is our top choice, you won't be disappointed.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00A2HD40E/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=9&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00A2HD40E&linkId=51c42faa7c8a63889ae18ede280410da)
+<a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+\== For a simplified version of How to Play Pandemic, [CLICK HERE](/blog/pandemic-how-to-play-simplified/) ==
 
-\== For a simplified version of How to Play Pandemic, [CLICK HERE](http://hexagamers.com/pandemic-how-to-play-simplified) ==
+## 2. Robinson Crusoe: Adventure on the Cursed Island
 
-## 2\. [Robinson Crusoe: Adventure on the Cursed Island](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B01HDYFCJO/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=10&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B01HDYFCJO&linkId=722c3172b0512d1c39bdc0c1ca5f646d)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B01HDYFCJO/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=11&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B01HDYFCJO&linkId=722c3172b0512d1c39bdc0c1ca5f646d)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](https://www.amazon.com/dp/B01HDYFCJO/?tag=hexagamers-20)
 
 Robinson Crusoe takes place on a deserted island. You and your friends have been shipwrecked and must complete one of the 6 game scenarios to make it off the island!
 
@@ -85,13 +82,11 @@ If you are an experienced gamer who is looking for a very challenging game to fu
 
 For this reason the dominant player issue can come up, but with Robinson Crusoe there is so much going on, and teamwork is completely necessary for survival so we don't really find this to be too big of an issue. This game topped our 'must buy' list for quite a while and we are so glad we took the plunge it is truly a fantastic game for experienced gamers!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B01HDYFCJO/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=12&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B01HDYFCJO&linkId=722c3172b0512d1c39bdc0c1ca5f646d)
+<a href="https://www.amazon.com/dp/B01HDYFCJO/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Mysterium
 
-## 3\. [Mysterium](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B013TJ5P80/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=13&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B013TJ5P80&linkId=6181e8e6b5e0363085ebbe73f4a5ff98)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B013TJ5P80/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=14&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B013TJ5P80&linkId=6181e8e6b5e0363085ebbe73f4a5ff98)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](https://www.amazon.com/dp/B013TJ5P80/?tag=hexagamers-20)
 
 Welcome to the haunted mansion of Mysterium. This one made our list of top cooperative boards games because we love its unique twist. One player, while still part of the team, plays the role of the ghost and doesn't get to talk the entire time. The remaining players are the investigators.
 
@@ -103,13 +98,11 @@ This game is strong in player interaction and teamwork which is why we like it c
 
 If we had one complaint it would be that although it says 2-7 players it plays best with at least 4. One final random bit of information for Mysterium is that if you already have Dixit (a non coop game that has been compared to Mysterium) in your collection you can use the cards from it as a free expansion!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B013TJ5P80/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=15&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B013TJ5P80&linkId=6181e8e6b5e0363085ebbe73f4a5ff98)
+<a href="https://www.amazon.com/dp/B013TJ5P80/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Flash Point: Fire Rescue ([Full Review Here](/blog/flash-point-fire-rescue-review/))
 
-## 4\. [Flash Point: Fire Rescue](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0084M8UEE/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=16&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0084M8UEE&linkId=1f2eede22289601564fdb53f3b9256e9) ([Full Review Here](http://hexagamers.com/flash-point-fire-rescue-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0084M8UEE/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=17&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0084M8UEE&linkId=1f2eede22289601564fdb53f3b9256e9)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](https://www.amazon.com/dp/B0084M8UEE/?tag=hexagamers-20)
 
 Flash Point fire rescue is often compared to Pandemic. It is set in a burning building and your team's objective as firefighters is to rescue occupants from the building before it collapses.
 
@@ -119,13 +112,11 @@ Similar to Pandemic the fire spreads and new victims are added after each player
 
 Theme wise, Flash Point is excellent, it's more realistic than Pandemic since you are taking on the roll of a firefighter. We love that when playing Flash Point you will lose more games than you win, this keeps us coming back for more. Its intense, it's fun, and it's a game you need in your collection!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B0084M8UEE/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=18&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B0084M8UEE&linkId=1f2eede22289601564fdb53f3b9256e9)
+<a href="https://www.amazon.com/dp/B0084M8UEE/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Eldritch Horror
 
-## 5\. [Eldritch Horror](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/1616617667/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=19&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1616617667&linkId=5c8543f6c8862c2506d8e5fda7ba2b62)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/1616617667/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=20&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1616617667&linkId=5c8543f6c8862c2506d8e5fda7ba2b62)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](https://www.amazon.com/dp/1616617667/?tag=hexagamers-20)
 
 Eldritch Horror takes place around the world. You and 7 friends (but we prefer it with 4 players), are working together as a team of investigators trying to prevent the end of the world by keeping the Ancient One from awakening.
 
@@ -137,17 +128,15 @@ A unique aspect of this game is that if your player dies you are not out; you do
 
 Our one complaint is that this game can be really long which is part of why we prefer it with fewer players, but that shouldn't dissuade you from buying it. That being said Eldritch Horror also plays great as a single player game which makes it really versatile. This is a really good cooperative game, and should definitely be added to your list!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/1616617667/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=21&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1616617667&linkId=5c8543f6c8862c2506d8e5fda7ba2b62)
-
-Looking for more Board Games you can play solo? Check out...[Best Single Player Board Games](http://hexagamers.com/best-one-player-solo-board-games-with-reviews)
+<a href="https://www.amazon.com/dp/1616617667/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+Looking for more Board Games you can play solo? Check out...[Best Single Player Board Games](/blog/best-one-player-solo-board-games-with-reviews/)
 
 ## Honorable Mentions
 
-## 6. [Forbidden Desert](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00B4ECHJI/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=22&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00B4ECHJI&linkId=5203de2a3cf0d07896f0a59db52f67b1) ([Full Review Here](http://hexagamers.com/forbidden-desert-review))
+## 6. Forbidden Desert ([Full Review Here](/blog/forbidden-desert-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00B4ECHJI/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=23&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00B4ECHJI&linkId=5203de2a3cf0d07896f0a59db52f67b1)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
 
 Similar to Robinson Crusoe, Forbidden Desert also has you stranded, but this time in the Desert. Your plane has crashed and you need to scour the desert to find the pieces so that you can rebuild, and eventually escape.
 
@@ -155,17 +144,15 @@ To find the pieces you need to explore the desert by flipping over tiles. If a t
 
 As with most coop games each player has a different set of special skills. One thing we really like is that after each player's turn the storm moves the tiles and parts around. You may have located where a piece of your plane is, but on your way to get it, the wind could move it in the complete opposite direction and or bury it under the sand. This keeps things interesting.
 
-Forbidden desert is the follow up game to [Forbidden Island](http://hexagamers.com/forbidden-island-review), they have made it a bit more complicated than Forbidden Island and while we do appreciate that, it only made it onto our list as an Honorable Mention because it's still a bit too simple for our tastes. It also plays like a less intense version of Pandemic and since we prefer Pandemic we couldn't give Forbidden Island an official spot on our list.
+Forbidden desert is the follow up game to [Forbidden Island](/blog/forbidden-island-review/), they have made it a bit more complicated than Forbidden Island and while we do appreciate that, it only made it onto our list as an Honorable Mention because it's still a bit too simple for our tastes. It also plays like a less intense version of Pandemic and since we prefer Pandemic we couldn't give Forbidden Island an official spot on our list.
 
 That being said, the game is very well done it requires a lot of teamwork and it would be a perfect starter into the world of coop/strategy board games. Also, the price tag is quite low in comparison making it a great buy!
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00B4ECHJI/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=24&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B00B4ECHJI&linkId=5203de2a3cf0d07896f0a59db52f67b1)
+<a href="https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 7. Betrayal at House on the Hill ([Full Review Here](/blog/betrayal-at-house-on-the-hill-review/))
 
-## 7\. [Betrayal at House on the Hill](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B003HC9734/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=25&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B003HC9734&linkId=a205fe96b0da68aff2a53b9094da5365) ([Full Review Here](http://hexagamers.com/betrayal-at-house-on-the-hill-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B003HC9734/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=26&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B003HC9734&linkId=a205fe96b0da68aff2a53b9094da5365)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](https://www.amazon.com/dp/B08Q44HS82/?tag=hexagamers-20)
 
 For our final coop board game Honorable Mention we have the most disputed game of our collection.
 
@@ -177,14 +164,11 @@ We got sucked into the hype for Betrayal and were so excited to give it a shot, 
 
 With that being said the reviews on Amazon, board game geek, and basically anywhere else you look, are outstanding so we couldn't leave it off our list. We love that there are so many different scenarios, that you never know when the haunt (traitor) will be triggered, and that it has such a big twist on your traditional coop board game.
 
-Also, with the randomness of the board and the cards, this game has a lot of replay-ability, despite it's semi-limited scenarios (semi... as in 50 different scenarios).​
+Also, with the randomness of the board and the cards, this game has a lot of replay-ability, despite it's semi-limited scenarios (semi... as in 50 different scenarios).
 
 What we dislike is that in the haunts we have played the traitor has been unbeatable. We aren't ready to give up on Betrayal yet. It will remain on our shelf and we will give it some more tries so stay tuned for our update on our review page.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsmKsGaVAQfR4xcEZzOIxBMAAAFfRlGDkQEAAAFKAZXyBHk/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B003HC9734/ref=as_at/?imprToken=MpC3Ec3HlDdjxRcmDyEbzw&slotNum=27&ie=UTF8&tag=hexagamers-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B003HC9734&linkId=a205fe96b0da68aff2a53b9094da5365)
-
+<a href="https://www.amazon.com/dp/B08Q44HS82/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 Well there you have it, our list of best cooperative board games! As mentioned, there are a ton of coop games out there. Which means that some really great ones didn't make the list because they didn't quite receive top scores in all the areas we took into account. Feel free to hit the comment section and let us know what you think should make this list. Also make sure you check back as we are avid gamers, who are always searching for new favorites!
-
-​

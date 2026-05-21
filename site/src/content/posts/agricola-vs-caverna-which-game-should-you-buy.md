@@ -24,17 +24,17 @@ We get that.
 
 That’s why today we are going to help you decide which one is the right one for you.
 
-When we first started researching these games, we spent lots of time reading comments on [Re﻿﻿ddi﻿﻿t](http://reddit.com), [Board Game Geek](http://boardgamegeek.com), and other sites to try and see which game was the one we should buy.
+When we first started researching these games, we spent lots of time reading comments on [Reddit](http://reddit.com), [Board Game Geek](http://boardgamegeek.com), and other sites to try and see which game was the one we should buy.
 
 The internet was split on which was the game for us, so we went to a Board Game Café to try them out for ourselves.
 
-NOTE: You can read our [F﻿ull Review of Agricola](http://hexagamers.com/agricola-review) here.
+NOTE: You can read our [Full Review of Agricola](/blog/agricola-review/) here.
 
 We will preface this by saying we have played both (base) games, and really enjoyed each one. They are both great games, with fairly similar mechanics used in them…
 
-In both games, you start with 2 workers/people/Meeples (and usually aim to get more), which you will have to feed every harvest. You also must gather ‘materials’ to help pay for improvements to your life/farm by placing your _[Meeples](http://hexagamers.com/everything-you-need-to-know-about-board-games#meeple)_ on the game board. Which, the number of places available for placing the Meeples grows every round. This is all done while simultaneously getting points for a variety of things, over a set number of rounds to the game.
+In both games, you start with 2 workers/people/Meeples (and usually aim to get more), which you will have to feed every harvest. You also must gather ‘materials’ to help pay for improvements to your life/farm by placing your _[Meeples](/blog/everything-you-need-to-know-about-board-games#meeple/)_ on the game board. Which, the number of places available for placing the Meeples grows every round. This is all done while simultaneously getting points for a variety of things, over a set number of rounds to the game.
 
-NOTE: It wouldn't hurt to read the [How To Play Agricola Simplified Edition](http://hexagamers.com/agricola-how-to-play-simplified) to get a better understanding of the game play.
+NOTE: It wouldn't hurt to read the [How To Play Agricola Simplified Edition](/blog/agricola-how-to-play-simplified/) to get a better understanding of the game play.
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)
 
@@ -52,8 +52,7 @@ Let’s get started… but first a quick comparison chart…
 |   Time To Play   |   30-150 min   |   30-210 min   |
 |   Cost   |   $$$   |   $$$$   |
 |   Ages   |   12+   |   12+   |
-|   Price   | [CHECK PRICE](http://amzn.to/2prWvnd) | [CHECK PRICE](http://amzn.to/2oxx1ri) |
-
+|   Price   | 
 ## Number of Players
 
 We’ll start off with the lowest hanging fruit, since this might make your choice easy. As you can see in the chart above.
@@ -274,4 +273,4 @@ If you’ve come this far, you are probably leaning towards one. Think back to w
 
 Good luck and let us know in the comments, which one you prefer and also if there is something you think we missed.
 
-[CHECK PRICE OF AGRICOLA](http://amzn.to/2onKiAr)[CHECK PRICE OF CAVERNA](http://amzn.to/2oxx1ri)
+[<a href="http://amzn.to/2prWvnd" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a> OF AGRICOLA](http://amzn.to/2onKiAr)[<a href="http://amzn.to/2oxx1ri" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a> OF CAVERNA](http://amzn.to/2oxx1ri)

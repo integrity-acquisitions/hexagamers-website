@@ -83,7 +83,7 @@ Click the room name for a direct link.
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/gtfo_ho0lgd.jpg) |   [The Heist (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ec2_nkvhtz.png) |   [Keller's Magic Emporium (Escape City)](https://www.escapecity.ca/adventures/)   |   2-6   |   45 min.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ll_zvlufn.png) |   [Warehouse of Thieves (Logic Lock)](http://logiclock.ca/rooms/)   |   2-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/SQ_eaauei.png) |   [Expedition ﻿(SideQuests)](https://sidequests.ca/adventures.html)   |   2-8   |   45 min.   |   $$   |  |
+| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/SQ_eaauei.png) |   [Expedition (SideQuests)](https://sidequests.ca/adventures.html)   |   2-8   |   45 min.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/gtfo_ho0lgd.jpg) |   [Nightfall (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ec2_nkvhtz.png) |   [Neurological (Escape City)](https://www.escapecity.ca/adventures/)   |   4-10   |   60 min.   |   $$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ee_tlispj.png) |   [Division 37 (Exit)](http://e-exit.ca/edmonton/)   |   2-6   |   60 min.   |   $$   |  |
@@ -93,11 +93,10 @@ Click the room name for a direct link.
 
 Our reviews are based on our experiences with Logic Lock, GTFO, EEscape, Exit, Breakout, GTFO, Thrillscape, SmartyPantz, SideQuests and X-Realm. Side note: We have yet to attempt Sherlock Holmes and The Gallery (Logic Lock), The Inheritance (Escape City), Uncle and Abduction (SideQuests) and any at Time Escape, Escape Emporium and now Dream Escape (Leduc).
 
-After we posted this, we've gone back and completed [The Directive (GTFO)](https://hexagamers.com/directive-gtfo-escape-room-review) and [SS Tiberia (SmartyPantz)](https://hexagamers.com/ss-tiberia-smartypantz-escape-room-review). We had a blast at both! SS Tiberia definitely makes it into our top five.
+After we posted this, we've gone back and completed [The Directive (GTFO)](/blog/directive-gtfo-escape-room-review/) and [SS Tiberia (SmartyPantz)](/blog/ss-tiberia-smartypantz-escape-room-review/). We had a blast at both! SS Tiberia definitely makes it into our top five.
 
-## 1\. The Heist
+## 1. The Heist
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/hei_pwvufm.png)
 
@@ -107,9 +106,8 @@ Our surprise, excitement and enjoyment kept escalating with each piece revealed 
 
 Lastly, the staff at [GTFO](http://www.letsgtfo.ca) are the best. They're enthusiastic, happy and dedicated to their trade, and they're always on the ball if you need help. They watch from screens so they know how you're doing, what you're doing and where you need to go--no need to waste time catching them up if you need a hint. The best part? They're as excited for your successes as you are, and are almost always waiting for you with a huge smile. If you have time, you can sit and have complimentary cookies and play games. GTFO is at the top of their game in every way.
 
-## 2\. Keller's Magic Emporium
+## 2. Keller's Magic Emporium
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/kellers_cvbene.jpg)
 
@@ -119,9 +117,8 @@ Like Heist, it kept going and kept giving. Keller's had a ton of different eleme
 
 We loved this room (we still do), and it's still our favourite at EC. Our one complaint with EC is that staff aren't always as enthusiastic as the participants, so when we busted out of Keller's, nobody was waiting for us, and the staff member at the front gave us a lackluster reception then sent us on our way. Still, EC does a fantastic job with its rooms and they're worth the time and money.
 
-## 3\. Warehouse of Thieves
+## 3. Warehouse of Thieves
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/wotll_n1ces6.jpg)
 
@@ -131,31 +128,28 @@ Warehouse of Thieves was a lot of fun for us. As part of an elite task force, yo
 
 In Warehouse of Thieves, there were some really cool and unique elements that challenged our thinking, and we were thrilled with the answer. There's a lot going on  so a good team and teamwork is critical for success. When we thought we'd finished, there was more, and it was a pleasant surprise for us--though a bit of a panic, as we had to scramble to finish in the limited time we had left. We can't wait to come back and try Sherlock and The Gallery!
 
-## 4\. Expedition
+## 4. Expedition
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/expsq_jixw3m.jpg)
 
 This room is so pretty and so thematically strong. We walked in and said, "Wow!" There's a LOT to look at and a lot to marvel at. It may feel a bit cramped with eight people, but we can certainly see the benefit of having more heads to work on the many (many) puzzles throughout this room. We've done a few Egyptian-themed rooms and this one was by far the best. It even has sound effects and hieroglyphics, and best of all--no key locks. Each lock in this room keeps with the theme, and the entire room demands excellent teamwork to keep your momentum going. Everything is connected, and heads-up: you're split up, so communication is essential. We made a silly mistake in this room which cost us time, so remember to take everything in and know that everything counts.
 
-Expedition was introduced by an in-character staffer, and it's great to have the human interaction. It's hard to pay attention (if you're us, anyway) because you're so excited about the room and just want to go, but it's important. The timer is tucked away so you can keep track, but aren't distracted by it. As mentioned, there are a ton of puzzles that use all different techniques to get the solution. They split into two paths, and it's a little overwhelming at first, but if you get stuck, you can switch to the opposite path and work through those puzzles. It's a great room that demands attention, precision and teamwork. ​
+Expedition was introduced by an in-character staffer, and it's great to have the human interaction. It's hard to pay attention (if you're us, anyway) because you're so excited about the room and just want to go, but it's important. The timer is tucked away so you can keep track, but aren't distracted by it. As mentioned, there are a ton of puzzles that use all different techniques to get the solution. They split into two paths, and it's a little overwhelming at first, but if you get stuck, you can switch to the opposite path and work through those puzzles. It's a great room that demands attention, precision and teamwork. 
 
-We loved our experience with SideQuests. When you start out, they give you the waiver spiel, then ask if you want them to check in with your progress (via walkie-talkie) or if you want to be left alone and ask for help at your own pace. They let you take in your phone (but ask you not to use it), and as parents of small kids, we really appreciate this.​ Like GTFO, SideQuests has a welcoming lobby and a lot of great board games to play. We took advantage of this and Jonathan, a co-owner, was cheerful and helpful in teaching us new games. It's a relaxed atmosphere, and their dedication and enthusiasm to games of all kinds is clear. We have yet to try out the other rooms, but we are pumped for them!
+We loved our experience with SideQuests. When you start out, they give you the waiver spiel, then ask if you want them to check in with your progress (via walkie-talkie) or if you want to be left alone and ask for help at your own pace. They let you take in your phone (but ask you not to use it), and as parents of small kids, we really appreciate this. Like GTFO, SideQuests has a welcoming lobby and a lot of great board games to play. We took advantage of this and Jonathan, a co-owner, was cheerful and helpful in teaching us new games. It's a relaxed atmosphere, and their dedication and enthusiasm to games of all kinds is clear. We have yet to try out the other rooms, but we are pumped for them!
 
-## 5\. Nightfall
+## 5. Nightfall
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/nfgtfo_rbmy6k.png)
 
-If you get creeped out easily or jump at every manner of small noise (Kaitlyn...Whitney...), Nightfall may not be your cup of tea--but it's still 100% worth your unease. [](www.letsgtfo.ca)[G﻿TFO](http://letsgtfo.ca) does an amazing job of setting their rooms up so they are themeatically attractive, but Nightfall is stunning. They brought the outdoors in to immerse you in the story. You and your friends are part of a rescue mission. Hikers have gone missing and the townspeople are convinced the legend of the creature has come true. Nothing good happens to those who are outside when night falls, and you need to hustle to find the hikers (or discover their outcome), and break into the cabin before you meet the same fate.
+If you get creeped out easily or jump at every manner of small noise (Kaitlyn...Whitney...), Nightfall may not be your cup of tea--but it's still 100% worth your unease. [](www.letsgtfo.ca)[GTFO](http://letsgtfo.ca) does an amazing job of setting their rooms up so they are themeatically attractive, but Nightfall is stunning. They brought the outdoors in to immerse you in the story. You and your friends are part of a rescue mission. Hikers have gone missing and the townspeople are convinced the legend of the creature has come true. Nothing good happens to those who are outside when night falls, and you need to hustle to find the hikers (or discover their outcome), and break into the cabin before you meet the same fate.
 
 While there is only one room, it makes sense and it works really well. We broke out (or broke in) with six people and it never felt like too much or like we were cramped for space. In fact, there were some tough puzzles that stumped a few of us, so we benefited from other players' thinking. The props and puzzles are fantastic, and again, there are some insanely cool puzzles that we haven't seen elsewhere. While they take precision and creativity to figure out, the results are SO satisfying. One of the final puzzles is truly spectacular in its execution, but we can't say more lest we give something away. While the creepiness factor is high, Nightfall is still a lot of fun and a great challenge for new and seasoned groups.
 
-## 6\. Neurological
+## 6. Neurological
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/neuroEC_z64kxi.png)
 
@@ -165,9 +159,8 @@ You're the patient's brain, and you have 45 minutes to get the two sides of the 
 
 Neurological is challenging in so many ways on so many levels, both puzzle-wise and thinking-wise. Knowing your teammates, teamwork and communication skills are critical--CRITICAL--for success. This is not a room we would recommend for newbies, nor is it a room we'd recommend for tiny or huge groups. Things can get scattered, people can get lost and it can be difficult with too many people. Too few people and you may struggle with too few brains (ha) to work out the puzzles. That said, it is not a room you want to miss, so bone up and step up. You won't be sorry.
 
-## 7\. Division 37
+## 7. Division 37
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/division37_dzrzrk.jpg)
 
@@ -177,9 +170,8 @@ Division 37 is one of their easiest rooms, and while it isn't as immersive as th
 
 If you're new to escape rooms, this is a good one to try. Don't expect the prettiest room or the most challenging, but still expect a room that's fun, well laid-out, uses different technologies and gets you thinking.
 
-## 8\. Visiting Hour
+## 8. Visiting Hour
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/vhgtfo_yulbcb.jpg)
 
@@ -187,19 +179,17 @@ Visiting Hour was our first experience with being split up, so it added an extra
 
 Similar to other [GTFO](http://www.letsgtfo.ca) rooms, Visiting Hour kept going and kept challenging us when we thought we'd finished. This amped us up, and our escape from this room was done yelling at an all-out run to beat the countdown. You can't ask for better than that. We were pumped, and so were the staff. There are several surprises in this room and everything is linked which we didn't expect, but it was well-done and kept us on our toes. We stalled in a few places but when we figured out the solution, we were pleased with our progress and the process to get there. The only part of this room that didn't make sense thematically was the piece where we hit a hiccup, especially as it can really only be done by one person. It wasn't so exciting to stand around and wait while our teammate finished. But, overall, this room is a fun one and good to do when your team has some escape room experience.
 
-## 9\. Thirst for Murder
+## 9. Thirst for Murder
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/thirstSP_g4abyx.jpg)
 
-If [S﻿﻿martyPant﻿﻿z](http://edmonton.smartypantz.ca) has a bloopers reel, we're on it. We had a disagreement about our starting move, and moved into the first challenge as a team. (SmartyPantz, if you have us on tape, please let us know. We want to see our lunacy in action.) The setup and theme for this room are both awesome. Props and staging are fantastic and the puzzles fit with the creepy theme. There's great flow to the room, but it isn't linear, so that can be frustrating and challenging for some. SmartyPantz uses walkie-talkies (and doesn't have clocks) to keep you as immersed as possible.
+If [SmartyPantz](http://edmonton.smartypantz.ca) has a bloopers reel, we're on it. We had a disagreement about our starting move, and moved into the first challenge as a team. (SmartyPantz, if you have us on tape, please let us know. We want to see our lunacy in action.) The setup and theme for this room are both awesome. Props and staging are fantastic and the puzzles fit with the creepy theme. There's great flow to the room, but it isn't linear, so that can be frustrating and challenging for some. SmartyPantz uses walkie-talkies (and doesn't have clocks) to keep you as immersed as possible.
 
 As vets, this room is easier than many we've tried, but we enjoyed the puzzles and we were certainly stumped in a few places. It took us time to solve a few puzzles, and we used at least one hint. When we got it, we immediately said, "DUH!" so pay attention in this room. Everything is important! There weren't any blow-our-mind moments or unique elements we hadn't seen before, but we still enjoyed ourselves and relied on everyone in our group to ensure we were progressing. There's more space in this room, so you won't feel cramped with a larger group, but be aware, it's a creepy theme and very creepy room!
 
-## 10\. Morning Never Comes
+## 10. Morning Never Comes
 
-Our Rating:
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/morningSP_kqyyzo.jpg)
 
@@ -209,9 +199,9 @@ SmartyPantz has a lot of fun with its rooms, using characters, lighting and even
 
 Honourable Mentions 
 
-Catacombs ([Exit](http://e-exit.ca/edmonton/)) This was a challenging and interesting room with great theme and execution. We didn't escape, but the staff let us work through the last pieces until we solved the room. We only gave it an HM, however, because there were some logistical problems with the room that cost us a lot of time before we called for a hint, only for the staff to realize the piece we were trying to solve was broken. Additionally, there was a puzzle that was extraordinarily finicky and difficult, and it took a precision that only the staff had because they knew how the puzzle worked. It shouldn't have been quite as particular as it was, and this drew away from our enjoyment.​
+Catacombs ([Exit](http://e-exit.ca/edmonton/)) This was a challenging and interesting room with great theme and execution. We didn't escape, but the staff let us work through the last pieces until we solved the room. We only gave it an HM, however, because there were some logistical problems with the room that cost us a lot of time before we called for a hint, only for the staff to realize the piece we were trying to solve was broken. Additionally, there was a puzzle that was extraordinarily finicky and difficult, and it took a precision that only the staff had because they knew how the puzzle worked. It shouldn't have been quite as particular as it was, and this drew away from our enjoyment.
 
-National Security ([E-Escape](http://www.eescape.ca))​ National Security has nothing on the above mentioned companies when it comes to staging and immersion. Their room felt like a room with puzzles, not the scene of a high-stakes plot you've infiltrated. Some of the decorations and props were falling apart and looking worse for wear, taking away from ambiance. So why is it on our list? The room is a challenge, and it demanded we work as a team through several parts. If we hadn't, we would have struggled to the point of being completely crippled. We needed teamwork to progress. When we do escape rooms, we want to all feel like we're needed and that we're working towards the solution together, and National Security delievered. There were several unique elements of this room we hadn't seen elsewhere, and the theme carried throughout. It was a neat room even though the design and immersion left something to be desired.
+National Security ([E-Escape](http://www.eescape.ca)) National Security has nothing on the above mentioned companies when it comes to staging and immersion. Their room felt like a room with puzzles, not the scene of a high-stakes plot you've infiltrated. Some of the decorations and props were falling apart and looking worse for wear, taking away from ambiance. So why is it on our list? The room is a challenge, and it demanded we work as a team through several parts. If we hadn't, we would have struggled to the point of being completely crippled. We needed teamwork to progress. When we do escape rooms, we want to all feel like we're needed and that we're working towards the solution together, and National Security delievered. There were several unique elements of this room we hadn't seen elsewhere, and the theme carried throughout. It was a neat room even though the design and immersion left something to be desired.
 
 ## Conclusion
 

@@ -5,84 +5,54 @@ categories:
   - "games"
   - "reviews"
 tags: 
-  - "coop"
-  - "coop-board-games"
-  - "cooperative"
   - "cooperative-board-games"
   - "forbidden-island"
-  - "strategy"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Box_iokoh1.jpg"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Box_iokoh1.jpg)
+## Overview
 
-# OVERVIEW
+Four sacred treasures are hidden on a sinking island. Work together to retrieve all four, get back to Fool's Landing, and escape by helicopter before the island goes under.
 
-Our Rating:
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">30 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
+</div>
 
-You and your fellow explorers are on a do or die mission to discover the the ancient mystical empire of The Archeans. Hidden in the empire are 4 sacred treasures the Crystal of fire, Statue of the land, Oceans chalice, and Earth stone. The treasures are very enticing but beware, the island can tell when intruders enter and is designed to sink. Can you and your team recover all four treasures, get back to fools landing and escape by helicopter before the island is underwater?
+> See also: [Forbidden Desert Review](/blog/forbidden-desert-review/) · [Pandemic Review](/blog/pandemic-review/)
 
-[CHECK PRICE](http://amzn.to/2hPGus4)
+## Kaitlyn's Review
 
-|   Number of Players   |   Time to Play   |   Ages   |
-| --- | --- | --- |
-|   2-4   |   30 mins   |   10+   |
-
-# KAITLYN'S REVIEW
-
-My Rating:
-
-Likes
-
-- Inexpensive
-- Well done tiles
-- Can change difficulty level
+### Likes
+- Inexpensive and great value
+- Beautiful, durable tile design
+- Adjustable difficulty level
 - Great starter cooperative game
 
-Dislikes
+### Dislikes
+- Not challenging enough for experienced players
+- Pandemic does the formula better
 
-- Too simple
-- Not as much fun as Pandemic
+## First Impressions
 
-Intr﻿﻿﻿o/First Impressions
+Cooperative games are at the heart of why I love board gaming — the conversation, the shared strategy, everyone working toward one goal. Forbidden Island delivers most of what I want in a co-op and is one I'd recommend without hesitation to newer or younger players.
 
-Cooperative games are a huge part of my love of board games. I love the conversation they require and that for at least part of the night everyone is working together. Forbidden Island is a game that lives up to many of my expectations of co-op games and is one I would recommend to any younger or inexperienced board gamers.
+## Thoughts
 
-Thoughts
+Forbidden Island is the entry-level Matt Leacock cooperative experience. The same designer made Pandemic (2008) and Forbidden Desert (2013), and all three share a core DNA. Of the three, Forbidden Island is the most accessible and the least intense.
 
-Forbidden Island is a relatively easy game to learn. Commonly compared to [Forbidden Desert](http://hexagamers.com/forbidden-desert-review), I consider Forbidden Island to be the easier of the 2 games. The two games are almost the same other than a couple of different elements of play and differing story lines. Another common comparison is my personal favorite co-op game, [Pandemic](http://hexagamers.com/pandemic-review). They are by different gaming companies but are often compared because they too have very similar game play.
+**The random tile setup changes every game.** The board is built by laying out tiles randomly — so every play creates different distances between treasures and flood risk patterns. The adjustable water meter lets you dial in difficulty before you start.
 
-The goal of Forbidden Island is to recover the four treasures of the empire of the Archeans, get back to Fools Landing, and catch your helicopter out of there. If that sounds easy then you should know that the island is designed to sink, and if you can’t do all those things quickly, then you and your team won't make it out.
+**Adventurer roles add variety.** Six role cards are shuffled and randomly dealt. Each player has a special ability — the Navigator can move others, the Engineer can shore up two tiles per action, the Diver can move through flooded tiles. These roles encourage different approaches and force communication.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Items_drubty.jpg)
+**Why it's a great starter co-op:** knowledge players have of the game doesn't create a huge advantage. The random setup means you can't fully plan ahead. And because you win and lose together, it softens the impact of mistakes — new players don't feel like they ruined the game for everyone.
 
-The first step for the game is to set up the “board” which is built by laying out the tiles. The tiles are random so the game is different each time you play. This is one my favorite parts of Forbidden Island, the challenge is ever changing. After that you set your water metre (difficulty level). Each time you play you can either up or lower the difficulty to suit the ability (or confidence because you never really know how a game will go) levels of players.
+**The challenge ceiling is low.** Even at maximum difficulty, Forbidden Island rarely creates the genuine nail-biting tension of Pandemic. Each treasure has two locations it can be recovered from, which acts as a safety buffer. We've won at high difficulty more consistently than we'd like. It doesn't fail to entertain, but experienced co-op players will outgrow it quickly.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Water-level_iwzxwz.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Water-level_iwzxwz.jpg)
+**The tin packaging is genuinely great.** Compact, sturdy, perfect for travel. The tiles are well made and hold up to heavy use.
 
-Throughout the game you will be moving between tiles to retrieve the ruins. Each player will have a different Adventurer card (role), and the roles have different special abilities. I love this aspect because it adds a fun element to play. The roles are shuffled and randomly dealt to each player which forces you to adapt your play style depending on which of the 6 Adventurer cards are in play.
+## Conclusion
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Roles_rhy2t4.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Roles_rhy2t4.jpg)
-
-Those three random or changeable elements of the game are a lot of fun. They make the replayability of Forbidden Island very high. This was very surprising to me considering the low price tag. It makes me super excited to be able to recommend a game to people that won't cost them and arm and a leg.
-
-Game wright put a lot of thought into this game and the tin it comes in as well. I appreciate a game that doesn't come in a box that is way too big. For that reason Forbidden Island would be an awesome and easy game to travel with. I also love the quality of the tiles. They look very nice and are also sturdy.
-
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Tiles_t7lwwp.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Tiles_t7lwwp.jpg)
-
-The downside of Forbidden Island for me is that it's not challenging enough. Pandemic seems to come down to the last couple turns and we have stressful decisions to make. Forbidden Island on the other hand is a little less intense than I would like, even when we up the difficulty.
-
-Looking to learn more about Pandemic? Check out...[Our Pandemic Review Here](http://hexagamers.com/pandemic-review)
-
-I do think it is the perfect starter cooperative game for those that are new to gaming or for if you are playing with younger players because of its more relaxed vibe. If you lower the difficulty you are less likely to have games where the board beats you straight away than with a game like Pandemic. Especially since each treasure has two tiles that you can recover it on. That way if one sinks it's not game over.
-
-Cooperative games are great for starting out and younger gamers because they allow for everyone to work together. This takes some of the stress off because you have other players to bounce your ideas off of. I love introducing people to co-op board games and letting them fall in love with board games in an everyone against the board situation. Forbidden Island is a great example of everything I love about cooperative games. 
-
-Looking to learn more about Cooperative Board Games? Check out...[Our Best Cooperative Board Games List​](http://hexagamers.com/best-cooperative-board-games)[](http://hexagamers.com/guide-to-understanding-deck-building-games)
-
-Conclusion
-
-Forbidden Island is immersive, fun and gets everyone working together. The story behind the game is well thought out and game play is hiccup free. It isn’t my favorite co-op because I don't find it challenging enough for myself and the other Hexagamers but it is still one that I would highly recommend. 
-
-Are you looking for a bit more of a challenge? Check out...[Our Review On Forbidden Desert Here](http://hexagamers.com/forbidden-desert-review)
+Forbidden Island is an excellent first cooperative game — especially for families and newer gamers. At its low price point, the production quality and replayability are impressive. Once you've played it a few times and want more challenge, step up to Forbidden Desert and eventually Pandemic. Each is a meaningful upgrade in complexity and tension.

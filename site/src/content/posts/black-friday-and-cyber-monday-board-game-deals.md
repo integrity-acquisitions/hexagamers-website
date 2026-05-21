@@ -10,121 +10,95 @@ tags:
   - "cheap-board-games"
   - "cyber-monday"
   - "discounts-on-board-games"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312829/hexagamers-articles/black-friday-and-cyber-monday-board-game-deals.jpg"
 ---
 
-Looking for a new game to play over the holidays?
+Looking for a new game over the holidays? Black Friday and Cyber Monday are prime weekends to pick one up — or find a great gift for someone on your list.
 
-Well, this weekend is one of your prime (no Amazon pun intended) weekends to pick up a new game. Maybe even find a great gift for someone on your list.
+We compiled deals from the sites we frequent most. Prices change constantly and vary by region, so we've listed what was confirmed at the time — always shop around, since a "deal" somewhere might be regular price elsewhere.
 
-We tried to compile a bunch of the board games on sale from across the web, but this was no easy task. Not only are the deals constantly changing, but that are also a tonne of deals out there. Listing them all, and all the discounted board games was going to be impossible. We don't like putting prices in our posts since we don't want to give you misinformation, but most of these sites will give you the original price of the game anyways.
+> **Heads up:** We're not affiliates for most of these sites. We're just trying to help our readers find good games at good prices.
 
-What we have decided to do instead is to list some of the websites that we frequent and highlight some of their deals. That said, be sure to look around the sites to see if there is something else of interest. No, we aren't affiliates for most of these sites (some we are), but want to try to help out our readers as much as possible. I mean, the more you are playing games, the better we can have discussions about it!
+## Canada
 
-There are also different deals for different areas of the world you live in, so we'll try to segment by those too so that you can speed things up. As always, we encourage you to shop around, since some 'deals' may still be more than regular price elsewhere.
+### [401Games.ca](http://401games.ca)
+- 13% off all board games (excluding pre-orders)
+- Additional deals on other merchandise
 
-Ok enough talk, you came here for the deals... and I'm sure you have a bunch of shopping to do!
+### [BoardGameBliss.com](https://www.boardgamebliss.com/collections/black-friday-cyber-weekend-sale-2017)
+- 7–12% off orders over $100 or $250
+- Some games over 50% off
 
-# Canada
+### [GreatBoardGames.ca](https://www.greatboardgames.ca/)
+- Average 20–25% off games
+- Limit of 1 deal per order unless noted
+- Selected titles include: Assault of the Giants, Clank in Space, Cyclades, Dark Souls, Eclipse, First Martians, Massive Darkness, Scythe Organizer, Ticket to Ride Germany, and more
 
-## 1\. [401Games.ca](http://401games.ca)
+### [MeepleMart.com](https://www.meeplemart.com/blog/MEEPLEMART-S-2017-INVENTORY-EXTERMINATION-SALE)
+- 12% off all inventory (some exclusions)
+- 20% off all "Great Deals" products
+- Promo code: **exterminate**
 
-- 13 % off all board games (excluding pre-orders).
-- Deals on other merchandise.
-
-## 2\. [BoardGameBliss.com](https://www.boardgamebliss.com/collections/black-friday-cyber-weekend-sale-2017)
-
--  7%-12% off for order reaches $100 or $250.
-- Some games are over 50% off.
-
-## 3\. [GreatBoardGames.ca](https://www.greatboardgames.ca/)
-
--  Average of 20-25% off games.
-- Limit of 1 deal per order unless otherwise noted.
-- List of some of the games: Assault of the Giants (very minor damage); Capture; Cash n’ Guns More Guns exp; Clank in Space; The Climbers; Cyclades; Dark Souls; D&D Assault of the Giants; Eclipse; Escape Zombie City Big Box; Everest; First Martians; Flick ‘em up DOW; Great Heartland Hauling Co; Holmes Sherlock & Mycroft; Knit Wit; Letters Whitechapel Dear Boss; MoM (Recurring); Marvel Legendary Civil War; Massive Darkness; Nomads; Ogre 6th edit; Pathogenesis; Scythe Organizer; Sons Anarchy; SW Destiny (Empire at War/Spirit Rebellion); TTR Germany; Tokaido Deluxe (slight box damage); Tragedy Looper (+Midnight exp); TI 4th slight box damage (no bonus).
-
-## 4\. [MeepleMart.com](https://www.meeplemart.com/blog/MEEPLEMART-S-2017-INVENTORY-EXTERMINATION-SALE)
-
-- 12% OFF all store inventory (some exclusions apply).
-- 20% OFF all "Great Deals" products.
-- Promocode: exterminate
-
-## 5\. [MrDiceGuy.com](https://mrdiceguy.com/collections/all-games?instock=1)
-
+### [MrDiceGuy.com](https://mrdiceguy.com/collections/all-games?instock=1)
 - 10% off all in-stock games and accessories
-- Promocode: BLACKFRIDAY2017
+- Promo code: **BLACKFRIDAY2017**
 
-# USA
+---
 
-## 1\. [](https://www.meeplemart.com/blog/MEEPLEMART-S-2017-INVENTORY-EXTERMINATION-SALE)Amazon.com
+## USA
 
-- Lots of games on sale here... 50% off or more on some games.
-- Some Examples: [Planes Board Game](http://aax-us-east.amazon-adsystem.com/x/c/QvU4rPV-qK6Ff81rj0L7AXoAAAFgEFqoIQEAAAFKAcKI65s/http://aax-us-east.amazon-adsystem.com/x/c/QuZyhSJZZl2jtULTtKI8rykAAAFgEFqoJwEAAAFKAUc9bKs/http://aax-us-east.amazon-adsystem.com/x/c/QrEuh_CEWvfonIhpgfIS4CUAAAFf738I_wEAAAFKAStTP14/http://aax-us-east.amazon-adsystem.com/x/c/QvD8CTmkN0stTQ8rQ6ghaLoAAAFf738IZwEAAAFKAY_e79g/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2Bjg73w/ref=as_at/?imprToken=8rjLcsNCLOZDaeUx3Td8Vw&slotNum=0&imprToken=HwesCNsMXzGEClRyc6zgAw&slotNum=0&imprToken=oV0Jg47wlByewMeEOYAA.g&slotNum=0&linkCode=w61&imprToken=HCm9IEwAytZtSeC3HZyzEw&slotNum=0), [Ex Libris](http://aax-us-east.amazon-adsystem.com/x/c/QvU4rPV-qK6Ff81rj0L7AXoAAAFgEFqoIQEAAAFKAcKI65s/http://aax-us-east.amazon-adsystem.com/x/c/QuZyhSJZZl2jtULTtKI8rykAAAFgEFqoJwEAAAFKAUc9bKs/http://aax-us-east.amazon-adsystem.com/x/c/QrEuh_CEWvfonIhpgfIS4CUAAAFf738I_wEAAAFKAStTP14/http://aax-us-east.amazon-adsystem.com/x/c/QvD8CTmkN0stTQ8rQ6ghaLoAAAFf738IZwEAAAFKAY_e79g/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2zjQPB8/ref=as_at/?imprToken=8rjLcsNCLOZDaeUx3Td8Vw&slotNum=1&imprToken=HwesCNsMXzGEClRyc6zgAw&slotNum=1&imprToken=oV0Jg47wlByewMeEOYAA.g&slotNum=1&linkCode=w61&imprToken=HCm9IEwAytZtSeC3HZyzEw&slotNum=1), [Patchwork](http://aax-us-east.amazon-adsystem.com/x/c/QvU4rPV-qK6Ff81rj0L7AXoAAAFgEFqoIQEAAAFKAcKI65s/http://aax-us-east.amazon-adsystem.com/x/c/QuZyhSJZZl2jtULTtKI8rykAAAFgEFqoJwEAAAFKAUc9bKs/http://aax-us-east.amazon-adsystem.com/x/c/QrEuh_CEWvfonIhpgfIS4CUAAAFf738I_wEAAAFKAStTP14/http://aax-us-east.amazon-adsystem.com/x/c/QvD8CTmkN0stTQ8rQ6ghaLoAAAFf738IZwEAAAFKAY_e79g/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2zk5sUV/ref=as_at/?imprToken=8rjLcsNCLOZDaeUx3Td8Vw&slotNum=2&imprToken=HwesCNsMXzGEClRyc6zgAw&slotNum=2&imprToken=oV0Jg47wlByewMeEOYAA.g&slotNum=2&linkCode=w61&imprToken=HCm9IEwAytZtSeC3HZyzEw&slotNum=2), [Broom Service](http://aax-us-east.amazon-adsystem.com/x/c/QvU4rPV-qK6Ff81rj0L7AXoAAAFgEFqoIQEAAAFKAcKI65s/http://aax-us-east.amazon-adsystem.com/x/c/QuZyhSJZZl2jtULTtKI8rykAAAFgEFqoJwEAAAFKAUc9bKs/http://aax-us-east.amazon-adsystem.com/x/c/QrEuh_CEWvfonIhpgfIS4CUAAAFf738I_wEAAAFKAStTP14/http://aax-us-east.amazon-adsystem.com/x/c/QvD8CTmkN0stTQ8rQ6ghaLoAAAFf738IZwEAAAFKAY_e79g/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2zmnNRp/ref=as_at/?imprToken=8rjLcsNCLOZDaeUx3Td8Vw&slotNum=3&imprToken=HwesCNsMXzGEClRyc6zgAw&slotNum=3&imprToken=oV0Jg47wlByewMeEOYAA.g&slotNum=3&linkCode=w61&imprToken=HCm9IEwAytZtSeC3HZyzEw&slotNum=3), [Cry Havoc](http://aax-us-east.amazon-adsystem.com/x/c/QvU4rPV-qK6Ff81rj0L7AXoAAAFgEFqoIQEAAAFKAcKI65s/http://aax-us-east.amazon-adsystem.com/x/c/QuZyhSJZZl2jtULTtKI8rykAAAFgEFqoJwEAAAFKAUc9bKs/http://aax-us-east.amazon-adsystem.com/x/c/QrEuh_CEWvfonIhpgfIS4CUAAAFf738I_wEAAAFKAStTP14/http://aax-us-east.amazon-adsystem.com/x/c/QvD8CTmkN0stTQ8rQ6ghaLoAAAFf738IZwEAAAFKAY_e79g/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2A30XkQ/ref=as_at/?imprToken=8rjLcsNCLOZDaeUx3Td8Vw&slotNum=4&imprToken=HwesCNsMXzGEClRyc6zgAw&slotNum=4&imprToken=oV0Jg47wlByewMeEOYAA.g&slotNum=4&linkCode=w61&imprToken=HCm9IEwAytZtSeC3HZyzEw&slotNum=4).
+### [Amazon.com](https://amazon.com)
+- 50%+ off on select titles
+- Examples: Planes Board Game, Ex Libris, Patchwork, Broom Service, Cry Havoc
 
-## 2\. [CoolStuffInc.com](https://www.coolstuffinc.com/main_saleItems.php?p=1&s=5)
+### [CoolStuffInc.com](https://www.coolstuffinc.com/main_saleItems.php)
+- 50%+ off on select titles
+- Examples: Pandemic Legacy S2, Betrayal at Baldur's Gate, Codenames Duet, King of Tokyo: Power Up, Medici, Sheriff of Nottingham Merry Men Expansion, Stockpile
 
-- Again, lots to choose from and over 50% off or more on some games.
-- Some Examples: Pandemic Legacy S2Betrayal at Baldur's GateCodenames DuetKanagawaKing of Tokyo: Power Up (2nd Ed)MediciShakespeare BackstageSheriff of Nottingham Merry Men expansionSmash-Up: Big in JapanStockpileThief's Market
+### [Cardhaus.com](http://www.cardhaus.com)
+- 10% off sitewide plus clearance items
 
-## 3\. [Cardhaus.com](http://www.cardhaus.com)
+### [BoardGames.com](https://boardgames.com/)
+- 25% off all games — Today Only
+- Code: **blackfriday25**
+- Note: prices here tend to run higher than competitors — compare before buying
 
-- 10% off sitewide.
-- Other clearance items on sale.
+### [TheBrokenToken.com](http://www.thebrokentoken.com/black-friday-2017)
+- Up to 20% off game organizers and accessories
+- Sale through Monday November 27
 
-## 4\. [BoardGames.com](https://boardgames.com/)
+### [TheGameSteward.com](https://www.thegamesteward.com/collections/black-friday-sale)
+- Up to ~30% off games
+- 170 Kickstarter games in stock
 
-- 25% Off all games... Today Only.
-- CODE: blackfriday25
-- Note here: We have never used this company, and many say their prices are higher than most competitors, use your own judgement here.
+### [InkedGaming.com](https://www.inkedgaming.com/)
+- 35% off all weekend
+- Code: **GIVING17**
+- Artwork and gaming mats — not games, but worth a look
 
-## 5\. [TheBrokenToken.com](http://www.thebrokentoken.com/black-friday-2017)
+### [NorseFoundry.com](http://mailchi.mp/norsefoundry/the-norse-foundry-black-friday-sale-is-here-30-off-everything)
+- 30% off everything
+- Code: **BlackFriday**
+- Dice and coins — expensive but gorgeous
 
-- Up to 20% Game Organizers and Accessories.
-- Sale until Monday November 27 night.
+### [Go7Gaming.com](https://go7gaming.com/)
+- 15% off all items — Today Only
+- Code: **GO7-BLACK-FRIDAY-2017**
 
-## 6\. [TheGameSteward.com](https://www.thegamesteward.com/collections/black-friday-sale)
+---
 
-- Up to ~30% games
-- 170 Kickstarter Games in stock
+## Mobile Board Games
 
-## 7\. [InkedGaming.com](https://www.inkedgaming.com/)
+For those with a long road trip ahead:
 
-- 35% off all weekend.
-- Promocode: GIVING17
-- Cool artwork and gaming mats here. Not games.
+- **[Android Black Friday Deals](https://play.google.com/store/apps/collection/promotion_3002c9a_gamesPremium_cyberweek2017)** — includes Ticket to Ride among others
+- **Kingdom Builder** — [Android](https://play.google.com/store/apps/details?id=de.brettspielwelt.kingdombuilder&hl=en) · [Apple (iPad)](https://itunes.apple.com/us/app/kingdom-builder/id581197776)
+- **Treasure Hunter** — [Android](https://play.google.com/store/apps/details?id=de.brettspielwelt.schatzjaeger) · [Apple](https://itunes.apple.com/us/app/treasurehunter-by-r-garfield/id1151763578?mt=8)
 
-## 8\. [NorseFoundry.com](http://mailchi.mp/norsefoundry/the-norse-foundry-black-friday-sale-is-here-30-off-everything)
+---
 
-- 30% off everything today.
-- Promocode: BlackFriday
-- Mainly dice and coins here, not games. This stuff is expensive but pretty cool.
+## Conclusion
 
-## 9\. [Go7Gaming.com](https://go7gaming.com/)
+That's everything we found. New deals pop up throughout the weekend, so keep checking back. If you spot a great deal we missed, drop it in the comments — we'd love to know, and so would our readers.
 
-- 15% Off all items... Today Only.
-- CODE: GO7-BLACK-FRIDAY-2017
-
-# MOBILE
-
-We don't claim to know much about mobile board games (yet), but we know that some of our readers enjoy this type of thing. Maybe you have a long road trip to the holiday dinner. Here are a couple we found.
-
-## 1\. [Android Black Friday Deals](https://play.google.com/store/apps/collection/promotion_3002c9a_gamesPremium_cyberweek2017)
-
-- [](https://play.google.com/store/apps/details?id=de.brettspielwelt.kingdombuilder&hl=en)Have to sift through some other random games/apps here to find games. Ticket to Ride is in there.
-
-## 2\. Kingdom Builder
-
-- [Android](https://play.google.com/store/apps/details?id=de.brettspielwelt.kingdombuilder&hl=en)
-- [Apple](https://itunes.apple.com/us/app/kingdom-builder/id581197776) (iPad only)
-
-## 3\. Treasure Hunter
-
-- [Android](https://play.google.com/store/apps/details?id=de.brettspielwelt.schatzjaeger)
-- [Apple](https://itunes.apple.com/us/app/treasurehunter-by-r-garfield/id1151763578?mt=8)
-
-# Conclusion
-
-Well there you have it, all of the Black Friday and Cyber Monday Board Game Deals we could find. There may be more popping up here and there, so keep your eye out.
-
-We would love to know if you found a great deal on board games somewhere. Let us know in the comments. We are also curious about what your budget usually is for big deal days like today.
-
-Thanks, and good luck!
+Happy hunting!

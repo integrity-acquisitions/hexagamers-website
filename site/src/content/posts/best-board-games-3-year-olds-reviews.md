@@ -23,9 +23,9 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-3-year-olds_zhz5zh.png "Best Board Games For 3 year olds")
 
-Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we couldn’t wait to get our kids started. Not only that but they can [learn so much through playing board games](http://hexagamers.com/why-are-board-games-important-for-kids).
+Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we couldn’t wait to get our kids started. Not only that but they can [learn so much through playing board games](/blog/why-are-board-games-important-for-kids/).
 
-If you think your child may be too young for board games think again! Our [best board games for 2 year old list](http://hexagamers.com/best-board-games-2-year-olds-reviews) has a game for tots as young as 18 months. Most games for young kids are fairly simple, which makes them great starter games. They are a great way to build language, fine motor skills, sportsmanship, and much more.
+If you think your child may be too young for board games think again! Our [best board games for 2 year old list](/blog/best-board-games-2-year-olds-reviews/) has a game for tots as young as 18 months. Most games for young kids are fairly simple, which makes them great starter games. They are a great way to build language, fine motor skills, sportsmanship, and much more.
 
 Most importantly, they are fun! Your kids will love playing and exploring these games with you. We made sure that our list included games that are not only favorites of our kids, but ones we love playing with them!
 
@@ -37,17 +37,16 @@ Trying to find a new game for the tot on your list can be super overwhelming. Th
 
 | Image | Game | Players | Age | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](http://hexagamers.com/best-board-games-3-year-olds-reviews#hoot) | [Hoot Owl Hoot](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B004HVKAAI/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=0&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=9f393fe5f941fe310dafb5813c1a69ea) | 2-4 | 4+ | 15 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](http://hexagamers.com/best-board-games-3-year-olds-reviews#zingo) | [Zingo](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Think-Fun-97700-Zingo-Bingo/dp/B01DY818JG/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=1&s=toys-and-games&ie=UTF8&qid=1490896653&sr=1-1&keywords=Zingo&linkCode=sl1&tag=hexagamers-20&linkId=082746e576c8ccdbd1af0cff644dc0fc) | 2-7 | 4+ | 5 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](http://hexagamers.com/best-board-games-3-year-olds-reviews#chickens) | [Count Your Chickens](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Chickens-Winning-Cooperative/dp/B004HVKAAS/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=2&s=toys-and-games&ie=UTF8&qid=1490896814&sr=1-1&keywords=count+your+chickens&linkCode=sl1&tag=hexagamers-20&linkId=a9c4cdbf1090d6e4fb3e501e008a86fe) | 2-4 | 3+ | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](http://hexagamers.com/best-board-games-3-year-olds-reviews#candy) | [Candy Land](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Candy-World-Sweets-Amazon-Exclusive/dp/B00000DMF5/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=3&s=toys-and-games&ie=UTF8&qid=1490896901&sr=1-1&keywords=candyland&linkCode=sl1&tag=hexagamers-20&linkId=69ea44228155f7b07d991700d15e04f0) | 2-4 | 3+ | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](http://hexagamers.com/best-board-games-3-year-olds-reviews#hiho) |   [Hi Ho Cherry-O](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Hi-Cherry-O-Game-Amazon-Exclusive/dp/B00000IWGQ/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=4&s=toys-and-games&ie=UTF8&qid=1490896993&sr=1-1&keywords=hi+ho+cherry+o&linkCode=sl1&tag=hexagamers-20&linkId=99b7dfa60c19eaaba1925c04eade493a)   | 2-4 | 3-6 | 5-10 | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](#1-hoot-owl-hootfull-review-here) | Hoot Owl Hoot | 2-4 | 4+ | 15 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](#2-zingo) | Zingo | 2-7 | 4+ | 5 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](#3-count-your-chickensfull-review-here) | Count Your Chickens | 2-4 | 3+ | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](#4-candy-land) | Candy Land | 2-4 | 3+ | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](#5-hi-ho-cherry-o) |   Hi Ho Cherry-O   | 2-4 | 3-6 | 5-10 | $ |  |
 
-## 1\. [Hoot Owl Hoot](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B004HVKAAI/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=5&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=9f393fe5f941fe310dafb5813c1a69ea) ([Full Review Here](http://hexagamers.com/hoot-owl-hoot-review))
+## 1. Hoot Owl Hoot ([Full Review Here](/blog/hoot-owl-hoot-review/))
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B004HVKAAI/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=6&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=9f393fe5f941fe310dafb5813c1a69ea)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](https://www.amazon.com/dp/B004HVKAAI/?tag=hexagamers-20)
 
 Quick baby owls! The night is almost over, let's get you back to your nest before the sun rises!
 
@@ -75,13 +74,11 @@ Great for working on:
 - Counting
 - Teamwork
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B004HVKAAI/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=7&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=9f393fe5f941fe310dafb5813c1a69ea)
+<a href="https://www.amazon.com/dp/B004HVKAAI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Zingo
 
-## 2\. [Zingo](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Think-Fun-97700-Zingo-Bingo/dp/B01DY818JG/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=8&s=toys-and-games&ie=UTF8&qid=1490896653&sr=1-1&keywords=Zingo&linkCode=sl1&tag=hexagamers-20&linkId=082746e576c8ccdbd1af0cff644dc0fc)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Think-Fun-97700-Zingo-Bingo/dp/B01DY818JG/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=9&s=toys-and-games&ie=UTF8&qid=1490896653&sr=1-1&keywords=Zingo&linkCode=sl1&tag=hexagamers-20&linkId=082746e576c8ccdbd1af0cff644dc0fc)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](https://www.amazon.com/dp/B01DY818JG/?tag=hexagamers-20)
 
 Match up the picture tiles coming out of the Zingo Zinger with the images on your board. Be the first to fill up all your squares and shout Zingo!
 
@@ -95,7 +92,7 @@ It is versatile in that you could just lay out the tiles and some boards and let
 
 The object of the game is simple, the games are quick (about five minutes), it's versatile, and most importantly fun. There is a reason Zingo made our top board games for 3 year old list, and is one you definitely want to add to your toddlers collection!
 
-​Great for working on:
+Great for working on:
 
 - Turn Taking
 - Sportsmanship
@@ -105,15 +102,13 @@ The object of the game is simple, the games are quick (about five minutes), it's
 - Vocabulary
 - Letters and site words
 
-Be sure to check out [Zingo Word Builder](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Zingo-Word-Builder-Board-Game/dp/B00GRV5JMU/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=10&s=toys-and-games&ie=UTF8&qid=1490896653&sr=1-3&keywords=Zingo&linkCode=sl1&tag=hexagamers-20&linkId=7c5fffb118d9ae1711b05662e00df18b) on our Best Board Games For 4 Year Olds Article (coming soon).
+Be sure to check out Zingo Word Builder on our Best Board Games For 4 Year Olds Article (coming soon).
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Think-Fun-97700-Zingo-Bingo/dp/B01DY818JG/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=11&s=toys-and-games&ie=UTF8&qid=1490896653&sr=1-1&keywords=Zingo&linkCode=sl1&tag=hexagamers-20&linkId=082746e576c8ccdbd1af0cff644dc0fc)
+<a href="https://www.amazon.com/dp/B01DY818JG/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Count Your Chickens ([Full Review Here](/blog/count-your-chickens-review/))
 
-## 3\. [Count Your Chickens](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Chickens-Winning-Cooperative/dp/B004HVKAAS/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=12&s=toys-and-games&ie=UTF8&qid=1490896814&sr=1-1&keywords=count+your+chickens&linkCode=sl1&tag=hexagamers-20&linkId=a9c4cdbf1090d6e4fb3e501e008a86fe) ([Full Review Here](http://hexagamers.com/count-your-chickens-review))
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Chickens-Winning-Cooperative/dp/B004HVKAAS/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=13&s=toys-and-games&ie=UTF8&qid=1490896814&sr=1-1&keywords=count+your+chickens&linkCode=sl1&tag=hexagamers-20&linkId=a9c4cdbf1090d6e4fb3e501e008a86fe)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](https://www.amazon.com/dp/B004HVKAAS/?tag=hexagamers-20)
 
 Uh oh, Mama Hen is on her way back to the coop and all the baby chicks are out in the field. Can you help get all 40 baby chicks home before their Mama returns?
 
@@ -133,13 +128,11 @@ Great for working on:
 - Animal Recognition and Sounds
 - Teamwork
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Chickens-Winning-Cooperative/dp/B004HVKAAS/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=14&s=toys-and-games&ie=UTF8&qid=1490896814&sr=1-1&keywords=count+your+chickens&linkCode=sl1&tag=hexagamers-20&linkId=a9c4cdbf1090d6e4fb3e501e008a86fe)
+<a href="https://www.amazon.com/dp/B004HVKAAS/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. Candy Land
 
-## 4\. [Candy Land](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Candy-World-Sweets-Amazon-Exclusive/dp/B00000DMF5/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=15&s=toys-and-games&ie=UTF8&qid=1490896901&sr=1-1&keywords=candyland&linkCode=sl1&tag=hexagamers-20&linkId=69ea44228155f7b07d991700d15e04f0)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Candy-World-Sweets-Amazon-Exclusive/dp/B00000DMF5/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=16&s=toys-and-games&ie=UTF8&qid=1490896901&sr=1-1&keywords=candyland&linkCode=sl1&tag=hexagamers-20&linkId=69ea44228155f7b07d991700d15e04f0)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](https://www.amazon.com/dp/B00000DMF5/?tag=hexagamers-20)
 
 Race your gingerbread man along the rainbow path to try to be the first to reach King Kandy's Castle!
 
@@ -155,19 +148,17 @@ Candy land falls on the low end of the price spectrum though so it is well worth
 
 Great for working on:
 
-- ​Turn Taking
+- Turn Taking
 - Sportsmanship
 - Colors
 - Fine Motor Skills
 - Basic Counting
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Candy-World-Sweets-Amazon-Exclusive/dp/B00000DMF5/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=17&s=toys-and-games&ie=UTF8&qid=1490896901&sr=1-1&keywords=candyland&linkCode=sl1&tag=hexagamers-20&linkId=69ea44228155f7b07d991700d15e04f0)
+<a href="https://www.amazon.com/dp/B00000DMF5/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Hi Ho Cherry O
 
-## 5\. [Hi Ho Cherry O](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Hi-Cherry-O-Game-Amazon-Exclusive/dp/B00000IWGQ/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=18&s=toys-and-games&ie=UTF8&qid=1490896993&sr=1-1&keywords=hi+ho+cherry+o&linkCode=sl1&tag=hexagamers-20&linkId=99b7dfa60c19eaaba1925c04eade493a)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Hi-Cherry-O-Game-Amazon-Exclusive/dp/B00000IWGQ/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=19&s=toys-and-games&ie=UTF8&qid=1490896993&sr=1-1&keywords=hi+ho+cherry+o&linkCode=sl1&tag=hexagamers-20&linkId=99b7dfa60c19eaaba1925c04eade493a)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](https://www.amazon.com/dp/B00000IWGQ/?tag=hexagamers-20)
 
 The cherries are ripe, it's time to pick them! Be the first to pick all the cherries off of your tree and win the game.
 
@@ -196,8 +187,7 @@ Great for working on:
 - Basic Counting
 - Colors
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QsdcIDYFfmLiKsIQeiOQiHEAAAFfRkY0NgEAAAFKAXMIquY/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Hi-Cherry-O-Game-Amazon-Exclusive/dp/B00000IWGQ/ref=as_at/?imprToken=5XiSe3g39UypJzyTR-3XbQ&slotNum=20&s=toys-and-games&ie=UTF8&qid=1490896993&sr=1-1&keywords=hi+ho+cherry+o&linkCode=sl1&tag=hexagamers-20&linkId=99b7dfa60c19eaaba1925c04eade493a)
-
+<a href="https://www.amazon.com/dp/B00000IWGQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 Well there you have it, our favorite board games for three year olds. These games have been tried, tested, and have stuck with our families over the years. They are great games for introducing kids to the world of board gaming and also great games to grow with. We hope you found a new game to bring to your family board game nights, or the perfect gift for the little one on your list.

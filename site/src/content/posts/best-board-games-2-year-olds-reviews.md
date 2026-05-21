@@ -23,13 +23,13 @@ coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dos
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dospuv.png "Two Year Olds")
 
-Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our article on [Why Board Games are Important for Kids](http://hexagamers.com/why-are-board-games-important-for-kids)). We compiled our list of the best board games for two year olds to help you find some new exciting ways to spend time with your toddlers.
+Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our article on [Why Board Games are Important for Kids](/blog/why-are-board-games-important-for-kids/)). We compiled our list of the best board games for two year olds to help you find some new exciting ways to spend time with your toddlers.
 
 If you are looking for ways to build your tots fine motor skills, color recognition, counting abilities, patience and more, play can be a great way to do it. When introducing them at such a young age, they can start to learn the technique of strategy. All of these things will be skills that your toddler can use beyond the board for their entire lives.
 
 We love that board games offer a way to work on these skills through play, keeping things fun and exciting. Your child will be learning and building skills in an organic nature.
 
-As avid gamers, we couldn’t wait to get started playing with our kids. As our collection of games grows, so has theirs. Some have grown with our children and have stood the test of time, others are growing cobwebs on the back of the shelf. To help you to find the perfect games to play with your family we have also created a list of the [best board games for three year olds](http://hexagamers.com/best-board-games-3-year-olds-reviews). Check it out!
+As avid gamers, we couldn’t wait to get started playing with our kids. As our collection of games grows, so has theirs. Some have grown with our children and have stood the test of time, others are growing cobwebs on the back of the shelf. To help you to find the perfect games to play with your family we have also created a list of the [best board games for three year olds](/blog/best-board-games-3-year-olds-reviews/). Check it out!
 
 ## Best Board Games For 2 Year Olds Comparison Table
 
@@ -37,18 +37,17 @@ As avid gamers, we couldn’t wait to get started playing with our kids. As our 
 
 | Image | Game | Players | Age | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Roll-and-Play_kiitm7.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#rollandplay) | [Roll and Play](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Thinkfun-Roll-Play-Board-Game/dp/B0070A9OUA/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=0&s=toys-and-games&ie=UTF8&qid=1491928437&sr=1-2&keywords=roll+and+play&linkCode=sl1&tag=hexagamers-20&linkId=cf878f673e4a3832d80d48aee2ceb41f) | 2+ | 18 Months+ | 10-15 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Memory-Board-Game_yowogh.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#memory) | [Hasbro Original Memory Game](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00000IWDD/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=1&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=d1aa3d29e331f5410a48e6bd8a33f0df) | 1+ | 2+ | 15 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Bunny-Bedtime_nqhnwr.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#bedtime) | [Bunny Bedtime](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Bunny-Bedtime-Choice/dp/B06X6H9S5K/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=2&s=toys-and-games&ie=UTF8&qid=1491928500&sr=1-1&keywords=bedtime+bunny&linkCode=sl1&tag=hexagamers-20&linkId=e94fbc3112360cc003bab89656fac557) | 2-3 | 2+ | 10 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/First-Orchard_vq3k8t.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#orchard) | [First Orchard](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/HABA-Very-First-Games-Cooperative/dp/B004BW8TYC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=3&s=toys-and-games&ie=UTF8&qid=1491928565&sr=1-1&keywords=first+orchard+game&linkCode=sl1&tag=hexagamers-20&linkId=872d21922468e660c629132ca036ed3f) | 1-4 | 2+ | 10 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Snails-Pace-Race_fzt55r.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#snail) | [Snails Pace Race](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Ravensburger-Snails-Pace-Race-Childrens/dp/B004KZ8P2Q/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=4&s=toys-and-games&ie=UTF8&qid=1491928616&sr=1-1&keywords=snails+pace+race&linkCode=sl1&tag=hexagamers-20&linkId=c47da89fff831bfdc1b92c5d3a2a9ac8)    | 2-6 | 3+ | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Go-away-monster_agisus.jpg)](http://hexagamers.com/best-board-games-2-year-olds-reviews#monster) | [Go Away Monster](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Go-Away-Monster-Board-Game/dp/B01EB2SRPC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=5&s=toys-and-games&ie=UTF8&qid=1491928667&sr=1-1&keywords=go+away+monster&linkCode=sl1&tag=hexagamers-20&linkId=2eedb837f17d2b1e44975981d5a185d1) | 2-4 | 3+ | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Roll-and-Play_kiitm7.jpg)](#1-roll-and-play) | Roll and Play | 2+ | 18 Months+ | 10-15 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Memory-Board-Game_yowogh.jpg)](#2-hasbro-original-memory-game) | Hasbro Original Memory Game | 1+ | 2+ | 15 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Bunny-Bedtime_nqhnwr.jpg)](#3-bunny-bedtime) | Bunny Bedtime | 2-3 | 2+ | 10 min | $$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/First-Orchard_vq3k8t.jpg)](#4-first-orchard) | First Orchard | 1-4 | 2+ | 10 min | $$$ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Snails-Pace-Race_fzt55r.jpg)](#5-snails-pace-race) | Snails Pace Race    | 2-6 | 3+ | 15 min | $ |  |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Go-away-monster_agisus.jpg)](#6-go-away-monster) | Go Away Monster | 2-4 | 3+ | 15 min | $ |  |
 
-## 1\. [Roll and Play](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Thinkfun-Roll-Play-Board-Game/dp/B0070A9OUA/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=6&s=toys-and-games&ie=UTF8&qid=1491928437&sr=1-2&keywords=roll+and+play&linkCode=sl1&tag=hexagamers-20&linkId=cf878f673e4a3832d80d48aee2ceb41f)
+## 1. Roll and Play
 
-Our Rating:
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Roll-and-Play_kiitm7.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Thinkfun-Roll-Play-Board-Game/dp/B0070A9OUA/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=7&s=toys-and-games&ie=UTF8&qid=1491928437&sr=1-2&keywords=roll+and+play&linkCode=sl1&tag=hexagamers-20&linkId=cf878f673e4a3832d80d48aee2ceb41f)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Roll-and-Play_kiitm7.jpg)](https://www.amazon.com/dp/B08JPY5XZW/?tag=hexagamers-20)
 
 [Thinkfun](http://www.thinkfun.com/) has created a game that is fantastic for kids aged 18 months and up. We have included Roll and Play in our best board games for 2 year olds because it's the only game on the market that we feel is great for such a young age. The other reason we included it is because it's a great game to grow with. While you can start with young kids, their understanding of the game will grow as they get older therefore, the ways in which you can play will as well.
 
@@ -66,7 +65,7 @@ All in all we love that Roll and Play has no small pieces, teaches a wide variet
 
 Great for working on:
 
-- ​Turn Taking
+- Turn Taking
 - Language Development
 - Gross Motor SKills
 - Colors
@@ -75,15 +74,13 @@ Great for working on:
 - Counting
 - Emotions
 
-​Another option is the [Move and Groove](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Think-Fun-1830-A-Move-Groove/dp/B00HWV6LZS/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=8&s=toys-and-games&ie=UTF8&qid=1491929171&sr=1-1&keywords=move+and+groove+game&linkCode=sl1&tag=hexagamers-20&linkId=6bab0b76340197aa44c346539962ca34) game also by Thinkfun. It’s the same concept and price but is geared towards children that are a bit older (in our opinion, but the company does still say 18 months and up). Move and groove involves more dance and movement skills than Roll and Play, making them both great options, but Roll and Play wins for us.
+Another option is the Move and Groove game also by Thinkfun. It’s the same concept and price but is geared towards children that are a bit older (in our opinion, but the company does still say 18 months and up). Move and groove involves more dance and movement skills than Roll and Play, making them both great options, but Roll and Play wins for us.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Thinkfun-Roll-Play-Board-Game/dp/B0070A9OUA/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=9&s=toys-and-games&ie=UTF8&qid=1491928437&sr=1-2&keywords=roll+and+play&linkCode=sl1&tag=hexagamers-20&linkId=cf878f673e4a3832d80d48aee2ceb41f)
+<a href="https://www.amazon.com/dp/B08JPY5XZW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 2. Hasbro Original Memory Game
 
-## 2\. [Hasbro Original Memory Game](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00000IWDD/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=10&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=d1aa3d29e331f5410a48e6bd8a33f0df)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Memory-Board-Game_yowogh.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00000IWDD/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=11&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=d1aa3d29e331f5410a48e6bd8a33f0df)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Memory-Board-Game_yowogh.jpg)](https://www.amazon.com/dp/B00000IWDD/?tag=hexagamers-20)
 
 There are a million different versions of memory or matching games on the market. We started playing them with our kids from a very young age.
 
@@ -99,20 +96,18 @@ One last tip we have is that if you laminate the cards they will be much more du
 
 Great for working on:
 
-- ​Turn Taking
+- Turn Taking
 - Sportsmanship
 - Matching
 - Memorization
 - Vocabulary
 - Fine Motor Skills
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/gp/product/B00000IWDD/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=12&ie=UTF8&linkCode=sl1&tag=hexagamers-20&linkId=d1aa3d29e331f5410a48e6bd8a33f0df)
+<a href="https://www.amazon.com/dp/B00000IWDD/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 3. Bunny Bedtime
 
-## 3\. [Bunny Bedtime](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Bunny-Bedtime-Choice/dp/B06X6H9S5K/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=13&s=toys-and-games&ie=UTF8&qid=1491928500&sr=1-1&keywords=bedtime+bunny&linkCode=sl1&tag=hexagamers-20&linkId=e94fbc3112360cc003bab89656fac557)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Bunny-Bedtime_nqhnwr.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Bunny-Bedtime-Choice/dp/B06X6H9S5K/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=14&s=toys-and-games&ie=UTF8&qid=1491928500&sr=1-1&keywords=bedtime+bunny&linkCode=sl1&tag=hexagamers-20&linkId=e94fbc3112360cc003bab89656fac557)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Bunny-Bedtime_nqhnwr.jpg)](https://www.amazon.com/dp/B06X6H9S5K/?tag=hexagamers-20)
 
 It's time for bunny to get ready for bed, can you help her make choices while she goes through her bedtime routine. Bunny bedtime is a great game by Peaceable Kingdom. In this game you and your children) work cooperatively to help bunny get ready for bed.
 
@@ -136,17 +131,15 @@ Great for working on:
 - Fine Motor Skills
 - Pre-Reading Skills
 - Game Play Progression
-- Shapes​
+- Shapes
 
-​We have played quite a lot of [Peaceable Kingdom](http://www.peaceablekingdom.com/) games with our families, and they are always fantastic! Their ability to make games kids love while also focusing on their development makes their games favorites in our household. To check out our reviews on more Peaceable Kingdom games, visit our [best board games for 3 year olds](http://hexagamers.com/best-board-games-3-year-olds-reviews) article.
+We have played quite a lot of [Peaceable Kingdom](http://www.peaceablekingdom.com/) games with our families, and they are always fantastic! Their ability to make games kids love while also focusing on their development makes their games favorites in our household. To check out our reviews on more Peaceable Kingdom games, visit our [best board games for 3 year olds](/blog/best-board-games-3-year-olds-reviews/) article.
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Peaceable-Kingdom-Bunny-Bedtime-Choice/dp/B06X6H9S5K/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=15&s=toys-and-games&ie=UTF8&qid=1491928500&sr=1-1&keywords=bedtime+bunny&linkCode=sl1&tag=hexagamers-20&linkId=e94fbc3112360cc003bab89656fac557)
+<a href="https://www.amazon.com/dp/B06X6H9S5K/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 4. First Orchard
 
-## 4\. [First Orchard](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/HABA-Very-First-Games-Cooperative/dp/B004BW8TYC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=16&s=toys-and-games&ie=UTF8&qid=1491928565&sr=1-1&keywords=first+orchard+game&linkCode=sl1&tag=hexagamers-20&linkId=872d21922468e660c629132ca036ed3f)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/First-Orchard_vq3k8t.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/HABA-Very-First-Games-Cooperative/dp/B004BW8TYC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=17&s=toys-and-games&ie=UTF8&qid=1491928565&sr=1-1&keywords=first+orchard+game&linkCode=sl1&tag=hexagamers-20&linkId=872d21922468e660c629132ca036ed3f)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/First-Orchard_vq3k8t.jpg)](https://www.amazon.com/dp/B004BW8TYC/?tag=hexagamers-20)
 
 Oh No! A hungry raven is hoping down the path towards the fruit trees. Can you work together to get all the fruit off the trees before he gets there? Haba has created a super fun, simpler version of their original Orchard game, this one being a great board game for two year olds.
 
@@ -160,7 +153,7 @@ Toddlers will also enjoy helping you set the game up which is a great opportunit
 
 While geared towards younger children, we find that our older children still enjoy playing First Orchard. They wouldn’t pick to play if it wasn’t for their younger siblings, but it’s their favorite of the 2 year old games.
 
-While similar to the original Orchard, and also to Hi Ho Cherry O that we have on our [Best games for 3 year olds](http://hexagamers.com/best-board-games-3-year-olds-reviews) list, First Orchard doesn't involve setbacks such as the spilled basket. At 2 years old we are trying to teach the beginning steps of playing games and appreciate that they don't lose their hard earned fruit.
+While similar to the original Orchard, and also to Hi Ho Cherry O that we have on our [Best games for 3 year olds](/blog/best-board-games-3-year-olds-reviews/) list, First Orchard doesn't involve setbacks such as the spilled basket. At 2 years old we are trying to teach the beginning steps of playing games and appreciate that they don't lose their hard earned fruit.
 
 The fact that it is a cooperative game is another one of our favorite things, winning and losing as a team is much more fun than having one person win when you are two. First Orchard has stood the test of time in our families. If you are looking for a high quality game that your kids will love playing then look no further!
 
@@ -173,13 +166,11 @@ Great for working on:
 - Organization
 - Sportsmanship
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/HABA-Very-First-Games-Cooperative/dp/B004BW8TYC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=18&s=toys-and-games&ie=UTF8&qid=1491928565&sr=1-1&keywords=first+orchard+game&linkCode=sl1&tag=hexagamers-20&linkId=872d21922468e660c629132ca036ed3f)
+<a href="https://www.amazon.com/dp/B004BW8TYC/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 5. Snails Pace Race
 
-## 5\. [Snails Pace Race](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Ravensburger-Snails-Pace-Race-Childrens/dp/B004KZ8P2Q/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=19&s=toys-and-games&ie=UTF8&qid=1491928616&sr=1-1&keywords=snails+pace+race&linkCode=sl1&tag=hexagamers-20&linkId=c47da89fff831bfdc1b92c5d3a2a9ac8)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Snails-Pace-Race_fzt55r.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Ravensburger-Snails-Pace-Race-Childrens/dp/B004KZ8P2Q/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=20&s=toys-and-games&ie=UTF8&qid=1491928616&sr=1-1&keywords=snails+pace+race&linkCode=sl1&tag=hexagamers-20&linkId=c47da89fff831bfdc1b92c5d3a2a9ac8)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Snails-Pace-Race_fzt55r.jpg)](https://www.amazon.com/dp/B004KZ8P2Q/?tag=hexagamers-20)
 
 Snails pace race is a super quick and easy game that you can introduce to the two year olds in your life. There are 6 different colored snails on the starting line and two dice with colored spots on each side matching the different colors of snails. Players roll the dice and move those two snails forward one square each. The first snail to get to the end is the winner.
 
@@ -200,15 +191,13 @@ Great for working on:
 - Colors
 - Counting
 - Fine Motor Skills
-- Dice Rolling​
+- Dice Rolling
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Ravensburger-Snails-Pace-Race-Childrens/dp/B004KZ8P2Q/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=21&s=toys-and-games&ie=UTF8&qid=1491928616&sr=1-1&keywords=snails+pace+race&linkCode=sl1&tag=hexagamers-20&linkId=c47da89fff831bfdc1b92c5d3a2a9ac8)
+<a href="https://www.amazon.com/dp/B004KZ8P2Q/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+## 6. Go Away Monster
 
-## 6\. [Go Away Monster](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Go-Away-Monster-Board-Game/dp/B01EB2SRPC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=22&s=toys-and-games&ie=UTF8&qid=1491928667&sr=1-1&keywords=go+away+monster&linkCode=sl1&tag=hexagamers-20&linkId=2eedb837f17d2b1e44975981d5a185d1)
 
-Our Rating:
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Go-away-monster_agisus.jpg)](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Go-Away-Monster-Board-Game/dp/B01EB2SRPC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=23&s=toys-and-games&ie=UTF8&qid=1491928667&sr=1-1&keywords=go+away+monster&linkCode=sl1&tag=hexagamers-20&linkId=2eedb837f17d2b1e44975981d5a185d1)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Go-away-monster_agisus.jpg)](https://www.amazon.com/dp/B01EB2SRPC/?tag=hexagamers-20)
 
 Go Away Monster is one of our favorite games for 2 year olds. While it is recommended for ages 3+ we find that two year olds can play as well.
 
@@ -233,8 +222,7 @@ Great for working on:
 - Colors
 - Basic Counting
 
-[CHECK PRICE](http://aax-us-east.amazon-adsystem.com/x/c/QlxRpY0YdTQFDrSDegmsYhQAAAFfRkHAzAEAAAFKAd30pb0/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Go-Away-Monster-Board-Game/dp/B01EB2SRPC/ref=as_at/?imprToken=sQ0KH0SSNslKSqJ-E-THSQ&slotNum=24&s=toys-and-games&ie=UTF8&qid=1491928667&sr=1-1&keywords=go+away+monster&linkCode=sl1&tag=hexagamers-20&linkId=2eedb837f17d2b1e44975981d5a185d1)
-
+<a href="https://www.amazon.com/dp/B01EB2SRPC/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion
 
 We hope you enjoyed our list of the best games for 2 year olds, and found some new games for your family. Board games are a fantastic way to spend time together, and can be started on from a young age. They are a great way to work on motor skills, language development, and so much more. If we forgot any of your families favorite games, leave them in the comment section below so we can check them out!

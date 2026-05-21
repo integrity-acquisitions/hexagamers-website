@@ -5,99 +5,56 @@ categories:
   - "games"
   - "reviews"
 tags: 
-  - "1-4-player-board-game"
-  - "art"
-  - "artist-colony"
-  - "artists-colony"
-  - "artwork"
-  - "auction"
-  - "bid-on-artwork"
-  - "board-game"
-  - "board-game-review"
-  - "board-games"
-  - "celebrity"
-  - "euro"
   - "eurogame"
-  - "fame"
-  - "four-player"
-  - "gallerist"
-  - "heavy"
-  - "hire-an-assistant"
-  - "hire-assistants"
-  - "how-to"
-  - "influence"
-  - "international-market"
-  - "introduction"
-  - "masterpiece"
-  - "media-center"
-  - "media-centre"
-  - "one-player"
-  - "promote-an-artist"
-  - "review"
-  - "sales-center"
-  - "simple"
-  - "solitaire"
-  - "solo"
-  - "strategy"
-  - "table-top"
-  - "tabletop-board-game"
-  - "tabletop-board-games"
-  - "tabletop-game"
+  - "strategy-board-game"
   - "the-gallerist"
-  - "three-player"
-  - "two-player"
-  - "vital-lacerda"
   - "worker-placement"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214229_pe9d3x.jpg"
 ---
 
-# WHITNEY'S REVIEW
+## Overview
 
-My Rating:
+You're an art gallery owner in a competitive market. Discover artists, promote them to fame, acquire and sell works, manage your gallery's influence, and convert everything into money. The richest gallerist at game end wins.
 
-Likes
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">1 – 4</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">60–150 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
+</div>
 
-- 👍Every action area is important.
-- 👍Everything in the game is linked.​
-- 👍Even if it's not your turn, you may end up getting an additional turn due to being kicked out.
-- 👍Lots of player interaction.
+> See also: [How To Play The Gallerist – Simplified](/blog/gallerist-play-simplified/)
 
-Dislikes
+## Whitney's Review
 
-- 👎The rules are lengthy, wordy and sometimes confusing.
-- 👎Influence can top out, so you may waste it.
-- 👎Like any worker placement, it can take a long time to play.
+### Likes
+- Every action area matters — nothing can be ignored
+- Everything connects to everything else; the game is tightly designed
+- The kick-out mechanic gives you turns even when it's not your turn
+- Strong player interaction throughout
 
-First Impressions
+### Dislikes
+- Rules are lengthy, wordy, and sometimes contradictory
+- Influence can max out and get wasted if you're not careful
+- Long first plays — budget 3+ hours for your learning game
 
-I knew nothing about this game, and had never heard of it, when I borrowed it from a [local board game cafe](http://hexagamers.com/edmonton-board-game-cafes). The cafe owner told me the few players who'd chanced it thought it boring and long. (Spoiler alert: it's long but it's not boring. I think those guys weren't playing correctly.) I was a little overwhelmed with all the pieces, and a _lot_ overwhelmed when I started reading the rules. It actually took Wes and I a few days to figure out setup and starting play between kids, work and life duties. It was so intimidating to me, I started wondering why the H we were playing. However, once we got past the "I hate myself" phase, things clicked into place and we really enjoyed ourselves. 
+## First Impressions
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214229_pe9d3x.jpg "The Gallerist in play.")
+I borrowed this from a local board game café. The café owner told me the few players who'd tried it thought it boring and long. I suspected they weren't playing it correctly. Starting the rules, I understood the intimidation — it's a lot to absorb. It took Wes and I several sessions (around children, work, and general life chaos) to work through setup and first play. Once it clicked: I immediately wanted to play again.
 
-We love how beautiful this game is.
+## Thoughts
 
-The Quick and Dirty
+**The Gallerist is a heavy Eurogame** and should be approached as one. The learning curve is real — your first game will be slow. By the second game, you'll be making meaningful strategic decisions.
 
-After you've setup the game, each player takes a gallerist pawn and the assistants (meeples) and player board in the matching colour. The starting player places their pawn on any action centre (and takes the bonus tile) and decides which of the two actions to take. When your turn is done, the next player goes, and so on. Even though you need to increase influence and fame, everything comes back to or converts to money, and that's how you'll win. (As the saying goes, "Money makes the world go 'round.") There are many ways to do this, and we did our best to [simplify the rules](http://hexagamers.com/gallerist-play-simplified) to help you hit the ground running.
+**Every action centre matters.** To win, you need to discover artists, promote them, acquire works, sell to collectors, hire assistants, and manage your lobby. Ignoring any of these areas puts you at a disadvantage. The game is a machine where all parts connect.
 
-An important note: one of the actions you can take is to hire assistants. These assistants start in the office but can be placed anywhere with a corresponding action. If your gallerist pawn moves from an action centre, you can leave an assistant behind in that action centre. If another player moves to that action centre, your assistant is kicked out and can take special kicked-out actions. It's pretty awesome.
+**The kick-out mechanic is excellent.** When you place your gallerist in an action centre, you leave an assistant behind. If another player moves to that same space, your assistant is kicked out — and kicked-out assistants take special Executive Actions. This means you're always engaged, even during other players' turns. More players means more kick-out opportunities.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214255_dggvvv.jpg "Gallerist Player Board")
+**Everything converts to money.** Influence and fame are important, but they're ultimately pathways to generating wealth. Understanding this early helps you prioritize your turns.
 
-Kicked-out assistants taking an Executive Action.
+**The theme is strong.** Discovering artists, promoting them to celebrity status, acquiring masterpieces, managing your gallery's reputation — every mechanic is thematically consistent. You don't need to care about art to enjoy this. The theme serves the mechanics, not the other way around.
 
-Thoughts
+**The rules are the weakest part.** They're dense, wordy, and occasionally unclear. Watch a setup video before your first play — it'll save hours of confusion.
 
-This is a heavy game, without a doubt. It's a classic worker placement [Eurogame](https://en.wikipedia.org/wiki/Eurogame) and as is typical, it takes time to learn and play, especially the first time. Wes and I played it first together before introducing it to our fellow Hexagamers, and while we were doubtful at first, the more we played, the more we enjoyed it. It took us hours (see reasons: children, tantrums--ours and theirs--cooking, cleaning, work...) but when we finally wrapped up, we exclaimed, "I want to play again!" That's saying something for me, as I am generally not a worker placement fangirl. 
+## Conclusion
 
-The Gallerist is spectacular. Even if they don't like it, board gamers will appreciate The Gallerist for its intricacies, beauty, creativity, challenge and the way it connects every piece of the game. There's no skipping over one of the actions if you want to succeed in becoming a renowned gallerist, and this is what I really appreciate about the game. Everything is important, and the turn count isn't limited so there's no frantic pressure as you watch rounds tick down. The game ends when two or more are true: there are no more tickets, no more visitors in the bag and/or two artists become celebrities. One of my favourite aspects of the game is the player interaction. With some board games, it takes forever for friends to take their turn or for your turn to come up. Not so with The Gallerist, thanks to those lovely kicked-out actions. And, the more players you have, the more chance you have of getting those opportunities. 
-
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305658/20170829_214241-e1506549803173-225x300.jpg "The Gallerist Artists Colony")
-
-Tickets and the Artists Colony.
-
-The theme of becoming the best gallerist is strong throughout the game, from discovering artists, promoting them and buying art, to selling art, hiring assistants and more, the actions you take run true to what you'd imagine an art dealer does. The art on the tiles are meticulously drawn and beautiful, and even the terminology (lobby, plaza, gallery, auction, masterpiece) increases game immersion. Even if you're not big into art, this is still a fun, engaging and challenging game. You don't need to know anything about or even enjoy art to enjoy The Gallerist.
-
-Conclusion
-
-What else can I say but I really love this game? It's not something I could play all the time or every day; I think my brain would fry with the longevity and depth, but it's certainly one I'd play repeatedly, and enjoy as every game would be different. [The Gallerist](http://amzn.to/2xfkVDG) is expensive, so it might be a try-before-you-buy. Most of our [local board game cafes](http://hexagamers.com/edmonton-board-game-cafes) have it, and if the staff don't know it, you can watch one of many videos to help you through. Let us know if you've played and what you think! We hear more and more about this game on social media, and would love to hear your thoughts, too. We hope you like it as much as we do!
+The Gallerist is a spectacular heavy game for players who want to commit to something with real depth. It's expensive — try it at a board game café first. Every game is meaningfully different, and the interconnected systems reward players who invest in learning it. Not for everyone, but if it's for you, you'll love it.

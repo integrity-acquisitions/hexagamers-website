@@ -1,94 +1,59 @@
 ---
-title: "Dragon’s Hoard: Review"
+title: "Dragon's Hoard: Review"
 date: 2017-09-09
 categories: 
   - "games"
   - "reviews"
 tags: 
-  - "2-4-players"
-  - "artwork"
-  - "board-game-review"
-  - "board-games"
   - "card-drafting"
   - "card-game"
-  - "cards"
-  - "double-sided-cards"
-  - "dragons"
-  - "dragons-hoards"
+  - "dragons-hoard"
   - "fantasy"
-  - "fantasy-board-gamess"
-  - "four-player"
-  - "review"
-  - "sheep"
-  - "stealing"
-  - "strategy"
   - "strategy-board-game"
-  - "table-top"
-  - "three-player"
-  - "travel-game"
-  - "two-player"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/1500935167191_d9ijbk.png"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/1500935167191_d9ijbk.png "Dragon's Hoard")
+## Overview
 
-# OVERVIEW
+You're a dragon collecting treasure — coins, princes, wishing trees, and more. Steal sheep from farmers and spend them to buy treasure for your lair. Race your opponents to build the most valuable hoard while sending angry mobs and thieves to slow them down.
 
-Our Rating:
+<div class="game-stats">
+  <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">20–45 min</span><span class="stat-label">Play Time</span></div>
+  <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
+</div>
 
-You are a dragon craving anything valuable. Coins, princes, wishing trees and more. Steal sheep from the farmers field and use them to get your treasure. Its a race to see which dragon can collect the most items and put them in their lairs. Slow down other dragons by sending angry mobs, wizards and thief's their way. Are you going to be the richest and baddest dragon?
+> Featured on: [Best Card Drafting Board Games](/blog/best-card-drafting-board-games/)
 
-[CHECK PRICE](http://amzn.to/2eXhICn)
+## Charlene's Review
 
-| Number of Players | Time to Play | Ages |
-| --- | --- | --- |
-| 2-4 | 20-45 min | 8+ |
+### Likes
+- Stunning artwork
+- Genuinely intense gameplay
+- Double-sided cards — a mechanic that works brilliantly
+- Zero setup time
 
-This game recently made it onto one of our Top Board Game Lists! Check out...[The Best Card Drafting Board Games](http://hexagamers.com/best-card-drafting-board-games)
+### Dislikes
+- No expansion to add more players or cards
 
-# CHARLENE'S REVIEW
+## First Impressions
 
-My Rating:
+Just looking at Dragon's Hoard leaves me mesmerized. The artwork is captivating — you immediately feel immersed in the dragon theme. The sheep come in five colours (yellow, red, purple, blue, orange), each with distinct shapes to accommodate colour-blind players. I've played this game many times and still find myself admiring the cards.
 
-Likes
+The theme is strong, the games move at a great pace, and it's easy to teach. A standout.
 
-- 👍Artwork
-- 👍Intensity
-- 👍Double Sided Cards
-- 👍No Setup
+## Thoughts
 
-Dislikes
+**The double-sided card mechanic is the game's best feature.** Each card has sheep on one side and a treasure, lair, or action card on the other. Only you can see your own treasure side — other players see your sheep. This means you're constantly managing two sets of information: the sheep you need to buy treasure, and the treasure value of those sheep if you haven't spent them.
 
-- 👎Wish there was an expansion to add more players and cards
+This creates real tension. You might finally have enough red sheep to buy that 8-point treasure — but one of those red sheep has a unicorn action card on its back that could protect you later. Do you spend it now or hold on?
 
-Intro/First Impressions
+**Other players can see your sheep colour counts.** If I'm collecting red sheep and I see my neighbour has several red cards, I might play a thief to steal two of them. You can also bluff — hold onto a low-value card to make others think it's valuable. Watch them waste a thief card stealing it. This is quietly one of the most satisfying moments in the game.
 
-Each player is a dragon hunting for treasure, and in order to win the game you want to have the highest amount of points. To get points, you have to buy treasure cards and place them in your lairs. In order to buy treasures for your lairs, you must collect sheep from the farmers field. The higher valued the item, the more sheep you must collect. Other players can send angry mobs, knights, wizards and more to slow you down. The battle quickly can get heated and intense. This card drafting game can last about 20-45 minutes and are between 2-4 players. It is easy to learn and easy to teach.
+**Lair cards reward focus.** You score bonus points for collecting 2, 3, or 4 treasures of the same colour. With 2 players, you can commit to a colour strategy. With 3–4, you often have to compromise and grab lower-value cards just to score something.
 
-Thoughts
+**Two viable strategic approaches:** go heads-down collecting your colours, or study what your opponents need and deny it to them. The second approach usually generates more conflict — and more entertainment.
 
-Just looking at Dragon’s Hoard leaves me mesmerized. The artwork is so captivating, that it will leave you feeling completely submersed in the dragon theme. The sheep are amusing, with different appereances for each colour. There are 5 colours, yellow, red, purple, blue and orange. Each colour has a specific shape on the card so that it is friendly for colour blind players. I have played this game a lot and I still find myself admiring the artwork. But with that being said, the artwork is not what makes Dragon’s Hoard an amazing game.
+## Conclusion
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/IMG_1115-1_vo1ic2.jpg "Dragon's Hoard Cards")
-
-The cards are double sized with one side having the sheep and the other side having the treasure, lair, or action. This is the first game I have played that has incorporated double sided cards. I am surprised at how well it works here and how much I like it. The side of the card that is facing the other players in your hand is the sheep side, while only you can see the other side which is the treasure/lair/action card side. 
-
- 
-
-Having the cards double sided forces you to have to make difficult decisions. You many have finally collected enough sheep of a certain colour to finally buy your treasure that is worth 8 points. But the sheep you need to use to buy it, has a treasure that is pretty good that you could buy later. Another sheep has a unicorn on the other side that is always nice to have on hand incase another player looks like they are ready to play an action card against you. Do you spend the sheep and buy the treasure or do you hold out till you get more sheep? Other players are able to see how many sheep of each colour you have. So if I am collecting red sheep and I look at the player beside me and see that they have a few red cards, I may want to use my thief action card and steal 2 red cards. Sometimes I will see that an opponent is desperate to collect sheep of a certain colour, so I will deliberately hold on to a card of that colour. The other player may then think the card is of high value, when its not. Sometimes the other player will then waste a thief card to steal it. This is very satisfying for me, and a bit evil but hey, we are playing as dragons. If you do by chance pick a card that is of high value but you don't need that colour but one of your opponents does, you may what to spend this card to buy a treasure card. The card will then get placed in the discard pile and will be out of play till the card pile in the field gets depleted. The discard pile then gets shuffled and becomes the card pile in the field. 
-
- 
-
-In order to collect the most points, you will want to collect treasures of the same colour. A lair card allows you to receive extra points when you have  2, 3 or 4 of the same colour. Two or three different colours of lairs will give you the most points. For strategy, I like to either focus on my colours to collect and not pay attention to the other players or I like to see what the other players are going for and start collecting those to stop them from collecting points. The second strategy usually ends in at least one player getting frustrated with me.
-
-​
-
-What strategy you take will greatly depend on how many players are playing. In a two player game, it is easy to say ok I will go for blue and red. The other player will notice this and typically start collecting different colours. In a 3-4 player game it is pretty much impossible to be the only player collecting one specific colour. You may need to collect treasures only worth 1 or 2 points, where as in a two player game  it is typically best to wait for ones worth more. 
-
-Conclusion
-
-Dragon's Hoard is a wow game in more ways then one. Its beautiful and a surprisingly intense card game. We always grab this game when we don't feel like spending anytime setting a game up, and when we are craving a strategy game that isn't really long. Would be a great game to take traveling!
-
-​
-
-This is definitely one of my all time favourite games. I was so upset when they stopped making the game pretty soon after it was launched on Kickstarter. They did end up making the game in German with the new tarot sized cards and new box artwork. I grabbed this version right away afraid that when my Kickstarter english version wore out I wouldn't be able to replace it. But good news!!! The game is going to be made in English in the tarot sized cards and will be **released** **Fall 2017**.
+Dragon's Hoard is one of my all-time favourites. Beautiful, fast, and surprisingly strategic for a card game. Pull it out when you want something with no setup and an intense card-drafting experience. The Kickstarter English edition and a later German version both exist; an updated English version with tarot-sized cards was announced. If you can find a copy — grab it.
