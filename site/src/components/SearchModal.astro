@@ -1,0 +1,170 @@
+---
+---
+<button id="search-btn" class="search-btn" aria-label="Search">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="11" cy="11" r="8"/>
+    <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+  </svg>
+</button>
+
+<div id="search-overlay" class="search-overlay" hidden>
+  <div class="search-backdrop"></div>
+  <div class="search-modal" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="search-header">
+      <div id="search-widget"></div>
+      <button id="search-close" class="search-close" aria-label="Close search">✕</button>
+    </div>
+    <div id="search-results"></div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+
+<script is:inline>
+  window.__initPagefind = function () {
+    if (window.__pagefindReady) return;
+    window.__pagefindReady = true;
+    new PagefindUI({
+      element: '#search-widget',
+      showImages: true,
+      showSubResults: false,
+      resetStyles: false,
+    });
+  };
+
+  const overlay = document.getElementById('search-overlay');
+  const openBtn = document.getElementById('search-btn');
+  const closeBtn = document.getElementById('search-close');
+  const backdrop = overlay.querySelector('.search-backdrop');
+
+  function openSearch() {
+    overlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+    window.__initPagefind();
+    setTimeout(() => {
+      const input = overlay.querySelector('input[type=text]');
+      if (input) input.focus();
+    }, 80);
+  }
+
+  function closeSearch() {
+    overlay.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  openBtn.addEventListener('click', openSearch);
+  closeBtn.addEventListener('click', closeSearch);
+  backdrop.addEventListener('click', closeSearch);
+  document.addEventListener('keydown', (e) => {
+    if ((e.key === 'k' && (e.metaKey || e.ctrlKey)) || e.key === '/') {
+      e.preventDefault();
+      overlay.hidden ? openSearch() : closeSearch();
+    }
+    if (e.key === 'Escape') closeSearch();
+  });
+</script>
+
+<style>
+.search-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  border-radius: var(--radius);
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  flex-shrink: 0;
+}
+.search-btn:hover {
+  color: var(--amber);
+  border-color: var(--amber);
+  background: var(--amber-dim);
+}
+
+.search-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 500;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 10vh;
+}
+.search-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  backdrop-filter: blur(4px);
+}
+.search-modal {
+  position: relative;
+  width: min(640px, 94vw);
+  background: var(--bg-2, #1a1a1b);
+  border: 1px solid var(--border);
+  border-radius: calc(var(--radius) * 2);
+  box-shadow: 0 24px 64px rgba(0,0,0,0.6);
+  overflow: hidden;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+.search-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+}
+.search-header #search-widget {
+  flex: 1;
+}
+.search-close {
+  background: none;
+  border: none;
+  color: var(--text-2);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 4px 8px;
+  border-radius: var(--radius);
+  transition: color 0.15s, background 0.15s;
+  flex-shrink: 0;
+}
+.search-close:hover { color: var(--text); background: var(--surface); }
+
+/* Pagefind UI overrides */
+:global(#search-widget .pagefind-ui__form) { width: 100%; }
+:global(#search-widget .pagefind-ui__search-input) {
+  background: var(--surface, #242425) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+  border-radius: var(--radius) !important;
+  font-size: 1rem !important;
+  padding: 0.6em 1em !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+:global(#search-widget .pagefind-ui__search-input:focus) {
+  border-color: var(--amber) !important;
+  outline: none !important;
+}
+:global(#search-widget .pagefind-ui__search-clear) { color: var(--text-2) !important; }
+:global(#search-widget .pagefind-ui__results-area) {
+  padding: 0.5rem 1rem 1rem;
+  overflow-y: auto;
+  max-height: 55vh;
+}
+:global(.pagefind-ui__result) {
+  border-bottom: 1px solid var(--border) !important;
+  padding: 0.85rem 0 !important;
+}
+:global(.pagefind-ui__result-title a) { color: var(--amber) !important; font-weight: 600 !important; }
+:global(.pagefind-ui__result-excerpt) { color: var(--text-2) !important; font-size: 0.85rem !important; }
+:global(.pagefind-ui__result-image) { border-radius: var(--radius) !important; }
+:global(.pagefind-ui__message) { color: var(--text-2) !important; font-size: 0.85rem !important; padding: 1rem !important; }
+</style>
