@@ -1,0 +1,116 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base
+  title="Search Results"
+  description="Search board game reviews, guides, and articles on Hexagamers."
+  pagefindIgnore
+>
+  <section class="search-page">
+    <div class="container">
+      <header class="page-header fade-up">
+        <p class="section-label">Search</p>
+        <h1>Search Results</h1>
+      </header>
+      <div id="search-page-widget"></div>
+    </div>
+  </section>
+</Base>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function () {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q') || '';
+
+    const ui = new PagefindUI({
+      element: '#search-page-widget',
+      showImages: true,
+      showSubResults: false,
+      resetStyles: false,
+      pageSize: 20,
+    });
+
+    if (q) {
+      ui.triggerSearch(q);
+    }
+  });
+</script>
+
+<style>
+.search-page {
+  padding: 4rem 0 5rem;
+  min-height: 60vh;
+}
+.page-header {
+  margin-bottom: 2rem;
+}
+.page-header h1 { margin: 0.5rem 0; }
+
+/* Pagefind UI overrides — full-page layout */
+:global(#search-page-widget .pagefind-ui__form) { margin-bottom: 2rem; }
+:global(#search-page-widget .pagefind-ui__search-input) {
+  background: var(--surface, #242425) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+  border-radius: var(--radius) !important;
+  font-size: 1.1rem !important;
+  padding: 0.75em 1.2em !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  max-width: 600px !important;
+}
+:global(#search-page-widget .pagefind-ui__search-input:focus) {
+  border-color: var(--amber) !important;
+  outline: none !important;
+}
+:global(#search-page-widget .pagefind-ui__search-clear) { color: var(--text-2) !important; }
+:global(#search-page-widget .pagefind-ui__results-area) { margin-top: 0; }
+:global(#search-page-widget .pagefind-ui__results) {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  gap: 1.5rem !important;
+  list-style: none !important;
+  padding: 0 !important;
+}
+:global(#search-page-widget .pagefind-ui__result) {
+  background: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: calc(var(--radius) * 2) !important;
+  padding: 1rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem !important;
+}
+:global(#search-page-widget .pagefind-ui__result-thumb) {
+  width: 100% !important;
+  margin: 0 0 0.5rem 0 !important;
+}
+:global(#search-page-widget .pagefind-ui__result-image) {
+  width: 100% !important;
+  height: 160px !important;
+  object-fit: cover !important;
+  border-radius: var(--radius) !important;
+}
+:global(#search-page-widget .pagefind-ui__result-title a) {
+  color: var(--amber) !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+}
+:global(#search-page-widget .pagefind-ui__result-title a:hover) { text-decoration: underline !important; }
+:global(#search-page-widget .pagefind-ui__result-excerpt) { color: var(--text-2) !important; font-size: 0.85rem !important; }
+:global(#search-page-widget .pagefind-ui__message) { color: var(--text-2) !important; padding: 0 !important; margin-bottom: 1.5rem !important; }
+:global(#search-page-widget .pagefind-ui__button) {
+  background: var(--amber) !important;
+  color: #000 !important;
+  border: none !important;
+  border-radius: var(--radius) !important;
+  padding: 0.6em 1.5em !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  margin-top: 2rem !important;
+}
+:global(#search-page-widget .pagefind-ui__button:hover) { opacity: 0.88 !important; }
+</style>

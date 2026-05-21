@@ -8,6 +8,7 @@ interface Props {
   description?: string;
   image?: string;
   canonicalUrl?: string;
+  pagefindIgnore?: boolean;
 }
 
 const {
@@ -15,6 +16,7 @@ const {
   description = 'In-depth board game reviews, how-to-play guides, and curated lists for tabletop enthusiasts.',
   image = '/og-default.jpg',
   canonicalUrl,
+  pagefindIgnore = false,
 } = Astro.props;
 
 const siteUrl = 'https://hexagamers.com';
@@ -51,7 +53,7 @@ const canonical = canonicalUrl ?? siteUrl + Astro.url.pathname;
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 </head>
-<body>
+<body data-pagefind-ignore={pagefindIgnore ? "all" : undefined}>
   <Header />
   <main id="main-content">
     <slot />

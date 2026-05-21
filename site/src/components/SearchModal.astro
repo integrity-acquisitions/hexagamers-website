@@ -56,6 +56,21 @@
     document.body.style.overflow = '';
   }
 
+  function getCurrentQuery() {
+    const input = overlay.querySelector('input[type=text]');
+    return input ? input.value.trim() : '';
+  }
+
+  // Intercept "Load more" — navigate to full search results page instead
+  overlay.addEventListener('click', (e) => {
+    const btn = e.target.closest('.pagefind-ui__button');
+    if (btn) {
+      e.preventDefault();
+      const q = getCurrentQuery();
+      window.location.href = q ? `/search/?q=${encodeURIComponent(q)}` : '/search/';
+    }
+  });
+
   openBtn.addEventListener('click', openSearch);
   closeBtn.addEventListener('click', closeSearch);
   backdrop.addEventListener('click', closeSearch);

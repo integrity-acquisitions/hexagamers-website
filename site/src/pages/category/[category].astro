@@ -33,6 +33,7 @@ const meta = CATEGORIES.find(c => c.slug === category) ?? { label: category, des
 <Base
   title={meta.label}
   description={meta.description}
+  pagefindIgnore
 >
   <section class="category-page">
     <div class="container">
