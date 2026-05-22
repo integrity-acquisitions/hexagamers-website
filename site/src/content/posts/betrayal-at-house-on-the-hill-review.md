@@ -12,8 +12,8 @@ tags:
   - "strategy-board-game"
   - "traitor"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458043/hexagamers-reviews/betrayal-at-house-on-the-hill-review.jpg"
-lastModified: 2025-01-01
-description: "Betrayal at House on the Hill is a semi-cooperative game set in a haunted house. Players explore and expand the house together, discovering items and…"
+lastModified: 2026-05-22
+description: "Betrayal at House on the Hill is a semi-cooperative game set in a haunted house. Three reviewers, three very different takes — one loves it, one hates it, one sold their copy."
 ---
 
 ![Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)
@@ -93,6 +93,42 @@ I acknowledge the concept is amazing, the tile artwork is beautiful, and clearly
 
 ---
 
+## Ryan's Review
+
+### Likes
+- The concept is genuinely great — exploring together and then having someone flip evil mid-game doesn't get old
+- Flipping tiles to reveal new rooms keeps everyone engaged; the house grows differently every time
+- 50 haunt scenarios means you can play this many times before repeating
+- Artwork and board components hold up well for a game in this price range
+- Each character has different stat builds, and reading your haunt booklet to figure out strategy is legitimately fun
+
+### Dislikes
+- We only won a couple of times across many plays — and even those wins felt hollow
+- Hard to shake the feeling that we were missing something, but we gave it a real shot
+- One of the few games our group sold rather than shelved
+- Turns ran long; movement is slow and waiting for each player to take their actions drags
+- Games can stretch well past the 90-minute mark without much warning
+
+### Ryan's Thoughts
+
+I'd heard about Betrayal for years before we actually played it. The pitch — cooperative exploration that turns into a traitor game halfway through — is the kind of thing that sounds almost too clever. When we finally cracked it open, the first thing that hit me was how much was in the box. Tiles, cards, characters, two separate rulebooks. We spent a while just sorting it out.
+
+The first Haunt we drew put one player against the rest as a cultist. Nobody knew the rules well enough yet. We lost, and it wasn't close. We played again. Lost again. By the third game I started to wonder if winning was even the point.
+
+**The exploration half is the best part.** Before the Haunt triggers, everyone is moving through the house, flipping room tiles, picking up items, and building stats. It feels genuinely collaborative — you're all figuring out the house together, deciding whether to push deeper or stay near the entrance. That phase has a real tension to it, and the tile reveals keep things moving.
+
+**Then the Haunt starts, and the game shifts completely.** One player gets sent out of the room to read the traitor booklet while everyone else reads the survivors' version. The scenario you get is random, determined by which omen card triggered the Haunt and which room you were in. Some haunts are well-balanced. Others feel almost unwinnable from the survivors' side, and there's no way to know until you're already in it.
+
+**The difficulty is the honest sticking point.** We won a couple of times. Neither felt earned — more like the haunt happened to go our way than anything we figured out. I really wanted to like this game. We gave it more chances than we give most games, partly because so many people swear by it. Friends have called it their all-time favorite. I kept thinking we must be playing it wrong, missing some rule that makes it click. Maybe we were. But after enough sessions of the same frustration, we stopped going back. It's one of the few games we ended up selling.
+
+**Pacing inside the Haunt drags.** With 5 or 6 players, waiting for everyone to move their character, roll dice, and resolve their actions adds up. The house is big. Movement feels slow. A 90-minute estimate can easily become two hours, and not in a way that feels earned.
+
+**Worth buying?** At its typical price point, you're getting a lot of content — 50 haunts is genuinely substantial. If you have a group that loves thematic horror games and is patient with longer turns, there's a lot here. If your group gets frustrated when outcomes feel out of your control, try it at someone else's house first.
+
+<a href="https://www.amazon.com/dp/B003HC9734/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+
+---
+
 ## The Bottom Line
 
-Two reviews, two very different relationships with this game. If you're drawn to the concept — exploratory co-op that flips into traitor vs. survivors — Betrayal at House on the Hill delivers that experience unlike anything else on the market. Just go in knowing the component quality doesn't match the ambition of the design, download the app before you play, and accept that some haunts will feel winnable and some won't. The ones that do are genuinely memorable.
+Three reviews, three very different relationships with this game. Kaitlyn loves it. Whitney hates it. Ryan sold his copy. If that spread doesn't tell you something about Betrayal at House on the Hill, nothing will. If you're drawn to the concept — exploratory co-op that flips into traitor vs. survivors — it delivers that experience unlike anything else on the market. Just go in knowing the component quality doesn't match the ambition of the design, download the app before you play, and accept that some haunts will feel winnable and some won't. The ones that do are genuinely memorable.
