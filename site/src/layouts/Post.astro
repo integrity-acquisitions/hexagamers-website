@@ -308,11 +308,39 @@ const itemListSchema = listItems?.length ? {
   min-width: 0;
   color: var(--text);
 }
-.post-content :global(h2),
-.post-content :global(h3),
+
+/* Tone down heading sizes inside article body */
+.post-content :global(h1) {
+  font-size: clamp(1.35rem, 2.5vw, 1.7rem);
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--amber-light);
+  letter-spacing: -0.01em;
+}
+.post-content :global(h2) {
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  font-weight: 700;
+  margin-top: 2.25rem;
+  margin-bottom: 0.6rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--amber);
+}
+.post-content :global(h3) {
+  font-size: clamp(0.95rem, 1.5vw, 1.1rem);
+  font-weight: 600;
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-2);
+}
 .post-content :global(h4) {
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-2);
 }
 .post-content :global(p) { margin-bottom: 1.5rem; }
 .post-content :global(ul),
