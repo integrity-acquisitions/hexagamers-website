@@ -36,7 +36,7 @@ const postUrl = `${siteUrl}/blog/${post.id}/`;
 
 const author = {
   "@type": "Person",
-  "name": "Ryan Sebastianelli",
+  "name": "Ryan",
   "url": `${siteUrl}/about/`,
 };
 
@@ -141,7 +141,7 @@ const itemListSchema = listItems?.length ? {
         <div class="post-meta fade-up">
           <a href={`${base}/category/${mainCategory}/`} class="cat-badge">{catDisplay}</a>
           <time datetime={date.toISOString()} class="post-date">{formattedDate}</time>
-          <span class="post-byline">by <a href={`${base}/about/`}>Ryan Sebastianelli</a></span>
+          <span class="post-byline">by <a href={`${base}/about/`}>Ryan</a></span>
           {lastModified && (
             <span class="post-updated">
               Updated <time datetime={lastModified.toISOString()}>{formattedLastModified}</time>
@@ -155,6 +155,9 @@ const itemListSchema = listItems?.length ? {
     <div class="container post-body-wrap">
       <div class="post-content fade-up fade-up-2">
         <slot />
+        {coverImage && (
+          <p class="thumbnail-disclaimer">Thumbnail image artificially generated for illustrative purposes.</p>
+        )}
         <RelatedPosts currentPost={post} />
       </div>
 
@@ -737,6 +740,21 @@ const itemListSchema = listItems?.length ? {
   border-color: rgba(240,165,0,0.3);
   background: var(--amber-dim);
 }
+.thumbnail-disclaimer {
+  font-size: 0.72rem;
+  color: var(--text-3);
+  font-style: italic;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  border-top: 1px solid var(--border);
+  padding-top: 0.75rem;
+  background: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-radius: 0 !important;
+  padding-left: 0 !important;
+}
+
 .affiliate-note p:not(.sidebar-label) {
   font-size: 0.78rem;
   color: var(--text-3);
