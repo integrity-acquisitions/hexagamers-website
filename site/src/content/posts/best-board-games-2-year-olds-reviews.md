@@ -18,7 +18,7 @@ tags:
   - "snails-pace-race"
   - "strategy"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dospuv.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461214/hexagamers-articles/best-board-games-2-year-olds-reviews.jpg"
 description: "Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our…"
 ---
 

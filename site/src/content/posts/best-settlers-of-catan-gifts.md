@@ -94,7 +94,7 @@ tags:
   - "wine-charm"
   - "wood"
   - "wood-coaster"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Catan-Gifts_p9aic6.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461193/hexagamers-articles/best-settlers-of-catan-gifts.jpg"
 description: "Settlers of Catan (Catan) is one of the best-known and best-loved board games in circulation today. For many, it was and remains the gateway game: the…"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - "mysterium"
   - "pandemic"
   - "robinson-crusoe-adventure-on-the-cursed-island"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Cooperative_gyb8mb.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461176/hexagamers-articles/best-cooperative-board-games.jpg"
 lastModified: 2025-01-01
 description: "Cooperative Board Games! One of our favorite categories!"
 ---

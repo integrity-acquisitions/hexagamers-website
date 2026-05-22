@@ -20,7 +20,7 @@ tags:
   - "sentinels-of-the-multiverse"
   - "single-player-games"
   - "solo-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-solo_nrxo7i.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461289/hexagamers-articles/best-one-player-solo-board-games-with-reviews.jpg"
 lastModified: 2025-01-01
 description: "When you think of board games, you think of getting together with friends and family, having some fun, arguing with one another maybe, and generally…"
 ---

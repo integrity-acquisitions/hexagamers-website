@@ -72,7 +72,7 @@ tags:
   - "z-man-games"
   - "zombie"
   - "zombies"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Social-Deduction-Board-Games-2_ckqi7r.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461210/hexagamers-articles/best-social-deduction-board-games.jpg"
 lastModified: 2025-01-01
 description: "In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who.…"
 ---

@@ -17,7 +17,7 @@ tags:
   - "tzolkin"
   - "uwe-rosenberg"
   - "viticulture"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Worker-Replacement-Board-Games_uej59o.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461193/hexagamers-articles/best-worker-placement-board-games-reviews.jpg"
 lastModified: 2025-01-01
 description: "If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the…"
 ---

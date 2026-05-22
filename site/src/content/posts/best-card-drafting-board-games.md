@@ -41,7 +41,7 @@ tags:
   - "treasure-hunter"
   - "von-drachen-und-schafen"
   - "zman"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Card-Drafting-Board-Games_tmvodv.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461260/hexagamers-articles/best-card-drafting-board-games.jpg"
 lastModified: 2025-01-01
 description: "(Click the image to jump to our comparison table)"
 ---

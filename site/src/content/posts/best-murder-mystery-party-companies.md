@@ -9,7 +9,7 @@ tags:
   - "best-murder-mystery-party"
   - "murder-mystery"
   - "party-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/My-Mystery-Party_zo5iyh.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461201/hexagamers-articles/best-murder-mystery-party-companies.jpg"
 description: "> **Disclaimer:** We haven't played every game on this list — this is a consolidated research guide. As we play more, we'll update it with first-hand…"
 ---
 

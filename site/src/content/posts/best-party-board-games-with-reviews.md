@@ -19,7 +19,7 @@ tags:
   - "times-up"
   - "wits-and-wagers"
   - "would-you-rather"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Best-party-board-games_ngfjyl.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461178/hexagamers-articles/best-party-board-games-with-reviews.jpg"
 lastModified: 2025-01-01
 description: "If you are done with board games you can play by yourself, and are ready to invite some people over, we have just the list of games for you to try. This…"
 ---

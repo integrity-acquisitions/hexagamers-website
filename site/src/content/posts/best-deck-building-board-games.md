@@ -17,7 +17,7 @@ tags:
   - "legendary-a-marvel-deck-building-game"
   - "star-realms"
   - "valley-of-the-kings"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461264/hexagamers-articles/best-deck-building-board-games.jpg"
 lastModified: 2025-01-01
 description: "As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you…"
 ---

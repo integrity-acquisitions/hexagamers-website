@@ -112,7 +112,7 @@ tags:
   - "two-player"
   - "valley-of-the-kings"
   - "worker-placement"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Christmas-Gifts_eecg2k.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461226/hexagamers-articles/best-board-games-for-christmas-gifts.jpg"
 lastModified: 2025-01-01
 description: "There are thousands of board games available to buy in all genres for all audiences. Games can take hours or minutes, be brain-draining or light and silly,…"
 ---
