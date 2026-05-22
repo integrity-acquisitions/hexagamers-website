@@ -123,21 +123,26 @@ Start 'em young! We love the simple design and super cute saying, "I wouldn't tr
 
 ## [Catan Map Cross-Stitch Pattern](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F290828591%2Fsettlers-of-catan-cross-stitch-pattern)
 
-\[gallery columns="4" size="medium" ids="3554,3555,3556,3557"\]
+![Catan Map Cross-Stitch Pattern 1](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299685/Catan-Cross-Stictch-1_vqiyv7.jpg)
+![Catan Map Cross-Stitch Pattern 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299686/Catan-Cross-Stictch-2_icjsv3.jpg)
+![Catan Map Cross-Stitch Pattern 3](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299687/Catan-Cross-Stictch-3_pvrdlu.jpg)
 
 Even though crafts aren't for everyone, this idea is twofold: one, your giftee (or you) like to craft, and will have fun recreating the Catan board--in any pattern you want. Bonus! Or, two, you can stitch the pattern and give it to someone as a gift. The pattern includes instructions and a list of colors. It's a cute idea and a good way to pass some time while your opponents are bartering over resource trade ratios. 
 
 
 ## ["We Built This City" Catan Messenger Bag](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F466127335%2Fwe-built-this-city-on-wheat-and-ore)
 
-\[gallery columns="2" ids="1984,2012"\]
+![We Built This City Catan Messenger Bag](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299542/bag_daftCatInk_bkb8vd.jpg)
 
 Great for students and commuters alike, this bag is spacious and has tons of pockets (three inside the bag, one outside) for pens, books, your laptop, and everything you need for your day. The shoulder strap is fully adjustable and the bag measures 15"x11"x4".
 
 
 ## ["Save Some Resources" Reusable Canvas Bag](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F221721498%2Fsave-some-resources-reusable-tote-bag)
 
-\[gallery columns="4" ids="2039,2038,2037,2036"\]
+![Save Some Resources Canvas Bag 1](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299681/Catan-Canvas-Bag-1_zoeqp2.jpg)
+![Save Some Resources Canvas Bag 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299682/Catan-Canvas-Bag-2_b17uv3.jpg)
+![Save Some Resources Canvas Bag 3](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299683/Catan-Canvas-Bag-3_s0cu7u.jpg)
+![Save Some Resources Canvas Bag 4](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299684/Catan-Canvas-Bag-4_yjmacs.jpg)
 
 This canvas tote bag is perfect for groceries, errands and hauling games around. It measures 15"x15.5" so it's fairly roomy, and it can be washed and dried. We're big fans of conservation and saving resources, so this bag is an easy pick for our top Catan gifts.
 
@@ -162,7 +167,6 @@ Do you have gamers in your life who are always running late (Tito, Whitney)? Thi
 
 ## [Catan Pillow](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F488769442%2Fsettlers-of-catan-pillow-longest-road)
 
-\[gallery ids="2022,2018,1983"\]
 
 Need a little shut-eye before a long games night? Sprucing up your games room? We love the quality of the fabric panels and the size of the pillow. The pillow takes The Longest Road and The Largest Army cards and turns them into a two-sided exact replica pillow, complete with card details. It's high-quality, detailed and softer to throw than, say, the game board if you're rage-quitting. 
 
@@ -182,7 +186,6 @@ Add a bit of class to game nights and be sure your friends aren't indulging in y
 
 ## [Catan Resources Rocks Glasses](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F222887728%2Fsettlers-of-catan-resources-soc-old)
 
-\[gallery ids="2006,2005,2004"\]
 
 Whether throwing a party, having a games night or lounging in the summer sun with a Cuba Libre, your Catan giftee will love the practicality and whimsy of these rocks glasses. They are sandblasted, dishwasher safe and available individually or as a complete set. Each glass is about 4" tall and holds 11 oz., the perfect accompaniment for your upcoming Catan battle. Coupled with the coasters below, these glasses are one of our favourite Catan gift ideas.
 
@@ -195,17 +198,17 @@ We love pretty much all of them, but our favourites are from...
 
 [RocketmanProps](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F399257483%2Fsettlers-of-catan-coaster-set) 
 
-\[gallery columns="2" ids="1971,1996"\]
+![Catan Coasters by RocketmanProps](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299720/coasters_RocketmanProps_ccnxpe.jpg)
 
 
 [CARismaVinylandLaser](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F510026697%2Fsettlers-of-catan-coaster-set)
 
-\[gallery ids="1995,1990,1989"\]
+![Catan Coasters by CARisma Vinyl and Laser](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299720/coasters_CARismaVinylAndLaser_y9i5yb.jpg)
 
 
  and [woodnshop](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F237696058%2Fsettlers-of-catan-coaster-set-8-piece)
 
-\[gallery ids="2001,2003,2002"\]
+![Catan Coasters by woodnshop](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299721/coasters_woodnshop_ljmt9z.jpg)
 
 
 All of these made to withstand use and abuse and will make a great accent to any games night and any table. 
@@ -249,21 +252,20 @@ Not only that, but there are some pretty cool storage solutions, carrying case, 
 
 ## [3D Catan Board](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F216710446%2F3d-settlers-of-catan-resource-tiles)
 
-\[gallery ids="1790,1791,1792,1793,1794"\]
+![3D Catan Board](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299641/Catan-Game-Box-Organizer-3_wvam6s.jpg)
 
  We LOVE this 3D board. It is well-crafted with each hexagon tile beautifully representing its resource. Every tile has a spot for the number token, and each vertex is carefully cut out so there's no issue placing settlements, cities and even roads along the path to victory. It even has a 5-6 player expansion option. At $279+, it's a rich investment, but if you love your giftee (or you love yourself a lot), you'll delight with this purchase. 
 
 
 ## [Portable Game Board and Storage Case](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)
 
-\[gallery columns="5" ids="2026,2025,2024,1967,1966"\]
 
 We love this, and the idea of it, and at $199, you'll have to love your giftee a whole lot. It's beautifully made, though, and we are big fans of having compartments and storage for our game cards and pieces. This case has a spot for everything and what's best--the tiles fit snugly in the cutout board, ensuring the tiles won't slide around during play. There's even an option to purchase a larger case to accommodate 5-6 player expansions. 
 
 
 ## [](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)[Wooden Catan Board (With Expansion)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o)
 
-\[gallery columns="5" ids="1873,1872,1871,1870,1869"\]
+![Wooden Catan Board](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300638/woodenboardcolour_el6sex.jpg)
 
 In the same vein, this board is extremely expensive, but it's beautiful, made of hardwood, each tile is laser cut and everything interlocks. The design ensures the border fits easily together so the tiles don't slide around. The number pieces fit in their customized holes, a unique element we love. This design is gorgeous, and with the detail and work that went in, you can see why it's such a pricey item. 
 
@@ -279,14 +281,15 @@ You can even add your own name to the tile at the time of purchase (for a little
 
 ## [Game Box Organizer](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F213549378%2Fcatan-box-organizer-insert)
 
-\[gallery columns="2" ids="2062,2061"\]
+![Catan Game Box Organizer](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299690/Catan-Game-Box-Organizer-2_ucc4nu.jpg)
+![Catan Game Box Organizer 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299641/Catan-Game-Box-Organizer-3_wvam6s.jpg)
 
 Made specifically for the original Catan, this insert holds all Catan pieces and the 5-6 player expansion. It won't accommodate odd-sized pieces like what's found in Cities & Knights and Rivers of Catan, but if you only need an organizer for the original game, this is the one you need.
 
 
 ## [3D Printed Catan Hexagon Tiles](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F522908041%2F3d-printed-settlers-of-catan-tiles)
 
-\[gallery columns="2" ids="2064,1982"\]
+![3D Printed Catan Hexagon Tiles](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299381/3D-Catan-Tiles_y1mw0s.jpg)
 
 Last but not least, a slightly more affordable version of the Catan board. Each piece is 3D printed with a space for the number token. These hexes look really neat but it's a little irksome that we have to buy each one individually. That said, if you want to add some visual interest to your board without breaking the bank, or start your giftee's collection with a stocking stuffer, these tiles are the way to do it. 
 
@@ -311,7 +314,7 @@ Make sure the Catan lover in your life shows up on time for games night by prote
 
 ## [Resource Tokens (Replacing Cards)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F77015647%2Fcatan-resource-tokens-set-of-120-wheat)
 
-\[gallery columns="2" ids="2020,2021"\]
+![Catan Resource Tokens](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300521/resourceholders_Build3D_nkf4lw.jpg)
 
 For fun game play, replace resource cards with these polymer clay tokens. There are 120 total, so enough to play Catan with up to six people. This Etsy store even has a Robber token, and suggestions of how to play with the tokens vs. the cards. 
 
