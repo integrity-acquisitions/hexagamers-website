@@ -46,9 +46,9 @@ We pulled from BoardGameGeek community polls, Reddit recommendations, and severa
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](#5-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#6-codenames) | Codenames | 2–8 | 15–30 min | $ |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#7-azul) | Azul | 2–4 | 30–45 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479945/hexagamers-box-art/scythe.jpg)](#8-scythe) | Scythe | 1–5 | 90–120 min | $$$ |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486115/hexagamers-box-art/scythe.jpg)](#8-scythe) | Scythe | 1–5 | 90–120 min | $$$ |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#9-wingspan) | Wingspan | 1–5 | 40–70 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479945/hexagamers-box-art/viticulture.jpg)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486117/hexagamers-box-art/viticulture.jpg)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ |
 
 ---
 
@@ -166,7 +166,7 @@ The physical components deserve a specific mention. The tiles are thick, heavy, 
 
 ## 8. Scythe
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479945/hexagamers-box-art/scythe.jpg)](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486115/hexagamers-box-art/scythe.jpg)](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
 
 Scythe looks like a war game. Giant mechs on the cover, asymmetric factions, territory control on a dieselpunk 1920s map of Eastern Europe. It is not, primarily, a war game. Combat is possible and matters strategically, but the core is an engine-building, resource-management game where every player races to complete six achievements across a set of objectives. Territory and military presence influence your score, but the player who fights the most doesn't usually win.
 
@@ -198,7 +198,7 @@ Wingspan is lower-conflict than most games on this list — there's no direct at
 
 ## 10. Viticulture Essential Edition
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479945/hexagamers-box-art/viticulture.jpg)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486117/hexagamers-box-art/viticulture.jpg)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
 
 Viticulture is a worker placement game set in a Tuscan vineyard. You plant vines, harvest grapes, age wine, and fill orders to earn victory points. Each year runs summer and winter phases, and your workers can only be in one place at a time — with a limited number of action spaces shared across all players, the competition for the spots you need is constant. Someone will always get to the cellar upgrade before you. Someone will always fill the wine order you needed.
 
