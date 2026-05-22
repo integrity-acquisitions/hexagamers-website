@@ -10,7 +10,7 @@ tags:
   - "board-games-for-kids"
   - "count-your-chickens"
   - "counting"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens-Spinner_njysv6.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458212/hexagamers-reviews/count-your-chickens-review.jpg"
 description: "Mama Hen's baby chicks have gotten loose. Work together to spin the spinner, count your spaces, and collect chicks back into the coop before Mama Hen…"
 ---
 

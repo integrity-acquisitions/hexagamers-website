@@ -9,7 +9,7 @@ tags:
   - "gateway-games"
   - "lords-of-waterdeep"
   - "worker-placement-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Player-Card-Full_abbcgh.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458968/hexagamers-reviews/lords-of-waterdeep-review.jpg"
 lastModified: 2025-01-01
 description: "You are a powerful Lord sending workers across the city of Waterdeep to collect resources, complete quests, and build your influence. The Lord with the…"
 ---

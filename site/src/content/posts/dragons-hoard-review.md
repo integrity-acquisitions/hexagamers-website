@@ -10,7 +10,7 @@ tags:
   - "dragons-hoard"
   - "fantasy"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/1500935167191_d9ijbk.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458619/hexagamers-reviews/dragons-hoard-review.jpg"
 description: "You're a dragon collecting treasure — coins, princes, wishing trees, and more. Steal sheep from farmers and spend them to buy treasure for your lair. Race…"
 ---
 

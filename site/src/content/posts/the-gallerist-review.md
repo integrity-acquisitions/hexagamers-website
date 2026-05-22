@@ -9,7 +9,7 @@ tags:
   - "strategy-board-game"
   - "the-gallerist"
   - "worker-placement"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214229_pe9d3x.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458970/hexagamers-reviews/the-gallerist-review.jpg"
 description: "You're an art gallery owner in a competitive market. Discover artists, promote them to fame, acquire and sell works, manage your gallery's influence, and…"
 ---
 

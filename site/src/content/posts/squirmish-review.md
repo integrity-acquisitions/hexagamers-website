@@ -8,7 +8,7 @@ tags:
   - "card-game"
   - "squirmish"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Squirmish-Review-Cover_m00ohd.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458916/hexagamers-reviews/squirmish-review.jpg"
 description: "Draft ridiculous monster cards into a shared arena, position them strategically, then battle opponents' monsters using dice. First to defeat three enemy…"
 ---
 

@@ -1,0 +1,201 @@
+{
+  "_readme": "Master library of per-game Kie.ai thumbnail prompts for Hexagamers review posts. Each entry has a 'visual' description of the game's components and aesthetic used to generate 16:9 editorial thumbnails. When adding a new game, research components and theme first, then write a 'visual' field. The batch script uses these automatically; if a slug is missing it falls back to web search.",
+  "_prompt_template": "16:9 editorial thumbnail for a board game review. {visual} Very dark near-black background (#0d0d0e) with warm amber-gold dramatic side lighting. Subtle vignette. Bold text overlay in the lower third: '{label}' set in Playfair Display serif font, amber-gold color (#f0a500), with a soft dark gradient behind it for legibility. Sharp, high-contrast product photography aesthetic.",
+  "_negative_prompt": "blurry, distorted typography, watermark, people, hands, faces, cluttered background, neon colors, AI smoothing, stock photo feel, white background, stretched image, sans-serif font, text errors, misspelled words",
+  "7-wonders-review": {
+    "title": "7 Wonders",
+    "visual": "Age cards fanned out in rich jewel tones — brown resource cards, grey manufactured goods, red military shields, green science symbols, blue civic buildings, gold commerce cards, purple guild cards — surrounding an ancient wonder board showing a half-built Egyptian pyramid. Scattered gold coins worth 1 and 3. The tableau evoking ancient Mediterranean civilizations."
+  },
+  "agricola-review": {
+    "title": "Agricola",
+    "visual": "A wooden farmyard board with tiny shaped wooden resources arranged artfully — miniature sheep, boars, and cattle alongside cubes of wood, clay, reed, and stone. Small wooden people markers on action spaces, fences forming a pen, a thatched-roof farmhouse tile. Earthy warm tones of brown, tan, and green evoking 17th century European farm life."
+  },
+  "bang-the-dice-game-review": {
+    "title": "Bang! The Dice Game",
+    "visual": "Five custom dice showing Wild West icons — sheriff stars, bullets, arrows, beer mugs, and dynamite — scattered dramatically. Colorful character cards with illustrated cowboys, outlaws, and sheriffs fanned around the dice. Arrow tokens and bullet tokens spread across a worn saloon-table surface. Dusty amber and sepia tones evoking the American frontier."
+  },
+  "camel-up-review": {
+    "title": "Camel Up",
+    "visual": "Chunky wooden camel meeples in five bright colors stacked on top of each other mid-race, surrounding the iconic cardboard pyramid dice dispenser. Gold Egyptian pound coins scattered nearby, colorful betting tickets fanned out. The board showing a circular desert race track with pyramid icons. Bright warm desert colors — sandy yellows, turquoise, and vibrant camel hues."
+  },
+  "carcassone-review": {
+    "title": "Carcassonne",
+    "visual": "A sprawling arrangement of illustrated landscape tiles forming medieval roads, walled cities, green fields, and stone monasteries. Small wooden meeple figures in yellow, red, blue, green, and black placed as knights, thieves, and monks across the tiles. The scene evoking a bird's-eye view of medieval southern France, in warm earthy greens, stone greys, and terracotta."
+  },
+  "cards-against-humanity-review": {
+    "title": "Cards Against Humanity",
+    "visual": "Stark contrast of matte black answer cards and white question cards fanned dramatically, the bold white Helvetica typography crisp against the black. A hand of white cards held up against the dark background. Minimalist, edgy, graphic design aesthetic — pure black and white with no ornamentation."
+  },
+  "cash-n-guns-review": {
+    "title": "Cash 'n Guns",
+    "visual": "Eight bright orange foam pistols pointed inward around a pile of colorful loot cards — stacks of painted money, diamonds, and paintings. Bullet cards (Bang! and Click!) fanned on the table. A gold Godfather token on a miniature desk. Vivid comic-book palette of orange, gold, and green evoking a heist movie standoff."
+  },
+  "cashflow-review": {
+    "title": "Cashflow",
+    "visual": "A large circular game board with two tracks — the inner Rat Race loop in greens, blues, and reds, and the outer Fast Track — surrounded by stacks of paper money in multiple denominations, accounting sheets, profession cards, and plastic rat game pieces. Gold coins and deal cards scattered nearby. Rich financial tones of green, gold, and burgundy."
+  },
+  "catan-review": {
+    "title": "Catan",
+    "visual": "A honeycomb island of 19 hexagonal terrain tiles — forest green lumber, golden grain fields, red brick hills, grey ore mountains, fluffy sheep pastures, and the tan desert — surrounded by blue ocean tiles with white ports. Red and white settlement pieces, wooden roads, and the black robber pawn on the desert. Number tokens scattered across the hexes. Bright, inviting colors."
+  },
+  "catch-phrase-review": {
+    "title": "Catch Phrase",
+    "visual": "The round electronic Catch Phrase disc held up, its LCD screen glowing, buttons visible. Bright colorful party-game aesthetic with the device as the hero prop against a dark background, suggesting a lively social gathering. Bold colors of red, white, and blue evoking the classic party game brand."
+  },
+  "codenames-review": {
+    "title": "Codenames",
+    "visual": "A 5x5 grid of white word cards laid out on a dark table, red and blue agent tiles covering some words, a black assassin tile on another. A codename key card held upright by a card stand in the background. Spymaster-meets-word-game aesthetic — clean white cards, bold red and blue blocks, striking graphic design evoking Cold War espionage."
+  },
+  "coup-review": {
+    "title": "Coup",
+    "visual": "Character cards face-down in front of player positions, a few flipped over showing illustrated Duke, Assassin, Captain, Contessa, and Ambassador cards with regal sci-fi futuristic artwork. Gold coins stacked in a central treasury. The intimate deduction aesthetic of a dystopian political thriller — jewel-toned card artwork against dark surfaces."
+  },
+  "danger-the-game-review": {
+    "title": "Danger! The Game",
+    "visual": "Brightly colored cards spread out — yellow Danger cards, blue Skill cards, red Tool cards, and orange Plot Twist cards — each with bold warning-sign iconography similar to traffic symbols. Clean, graphic, flat-design aesthetic with vivid primary colors against a dark surface, evoking absurd survival scenarios."
+  },
+  "dominion-review": {
+    "title": "Dominion",
+    "visual": "Ten piles of Kingdom cards arranged in two rows — ornately illustrated medieval action cards in rich painted artwork showing villages, smithies, markets, and militia — flanked by stacks of copper, silver, and gold treasure cards and green victory point estate, duchy, and province cards. Lush medieval fantasy palette of deep greens, golds, and purples."
+  },
+  "exploding-kittens-review": {
+    "title": "Exploding Kittens",
+    "visual": "A hand of colorful cards with bold cartoonish illustrations — laser cats, goats in trees, tacocat — fanned dramatically. An Exploding Kitten card face-up showing a cartoon cat with a lit fuse. Defuse cards, Nope cards, and Skip cards scattered around. Playful, anarchic illustration style in bright pinks, yellows, and teals on a dark background."
+  },
+  "flash-point-fire-rescue-review": {
+    "title": "Flash Point: Fire Rescue",
+    "visual": "A building floor plan game board with orange and red fire markers spreading through rooms, black smoke damage cubes on walls, and bright yellow firefighter figures rushing through corridors. Hazmat markers and victim tokens scattered through the rooms. Dramatic emergency lighting aesthetic — deep blacks with vivid orange fire glow and emergency yellow."
+  },
+  "ghost-blitz-review": {
+    "title": "Ghost Blitz",
+    "visual": "Five chunky wooden pieces arranged on a table — a white ghost, a green bottle, a grey mouse, a blue book, and a red chair — with illustrated cards fanned nearby showing the pieces in intentionally wrong colors. Charming, whimsical children's game aesthetic in bright primary colors against a clean dark surface."
+  },
+  "hoot-owl-hoot-review": {
+    "title": "Hoot Owl Hoot",
+    "visual": "Cheerful wooden owl tokens in six bright colors arranged on an illustrated circular board showing a winding forest path leading to a nest. Colorful sun and color cards fanned nearby. A glowing sun token at the end of the track. Soft, warm illustrated art style in friendly greens, oranges, and blues designed to appeal to young children."
+  },
+  "love-letter-review": {
+    "title": "Love Letter",
+    "visual": "A small fan of just a few elegantly illustrated cards showing Princess, Countess, King, Prince, and Guard characters in detailed watercolor-style royal artwork. Small red wooden cube tokens scattered nearby for scoring. A red velvet drawstring pouch in the background. Intimate, refined aesthetic — rich reds, golds, and cream tones evoking Renaissance-era royal courts."
+  },
+  "one-night-ultimate-werewolf-review": {
+    "title": "One Night Ultimate Werewolf",
+    "visual": "Role cards face-down in a semicircle, a few flipped to reveal the Werewolf (glowing red eyes), Seer, Troublemaker, and Villager in vivid illustrated fantasy-horror artwork. Circular role tokens matching each card arranged beside them. Dark moonlit forest atmosphere — deep navy blues, blood reds, and silver moonlight tones."
+  },
+  "pandemic-review": {
+    "title": "Pandemic",
+    "visual": "A world map game board covered in colored disease cubes — red in Asia, black in the Middle East, blue across Europe and North America, yellow across Africa — with white research station pieces in key cities. Player role cards and infection cards fanned nearby, colored pawns on the board. Urgent, clinical color-coding against a bluescale world map."
+  },
+  "pit-review": {
+    "title": "Pit",
+    "visual": "A spread of commodity trading cards — wheat, corn, barley, rye, flax, hay, oats — in multiple sets fanned across the table, with a polished silver metal bell as the centrepiece hero prop. Bull and Bear special cards visible. Energetic, trading-floor aesthetic evoking the chaos of a commodity exchange, in warm golds, greens, and cream."
+  },
+  "rack-o-review": {
+    "title": "Rack-O",
+    "visual": "Four colorful plastic card racks holding numbered cards 1-60 in rainbow-coded slots, the cards visible from the front showing the players' progress toward sequential order. A draw pile and discard pile of rainbow-colored number cards beside them. Clean, retro 1950s game aesthetic in cheerful primary colors on a dark surface."
+  },
+  "stone-age-review": {
+    "title": "Stone Age",
+    "visual": "A richly illustrated prehistoric village game board with wooden worker figures placed on resource locations — a forest for wood, a clay pit, a quarry, and a river for gold. Tiny shaped wooden resources — logs, bricks, stones, gold nuggets — piled nearby alongside miniature sheep, boars, and cattle. A leather dice cup with wooden dice. Warm earthy ochres, browns, and terracottas."
+  },
+  "the-resistance-avalon-review": {
+    "title": "The Resistance: Avalon",
+    "visual": "Character cards fanned face-down, a few revealed showing Merlin, the Assassin, Morgana, and Percival in dramatic Arthurian medieval artwork — blue Good cards and red Evil cards. Quest success and failure tokens, vote tokens, and the Lady of the Lake token arranged on a dark surface. Rich royal blues, deep reds, and gold evoking Camelot mythology."
+  },
+  "ticket-to-ride-europe-review": {
+    "title": "Ticket to Ride: Europe",
+    "visual": "A sepia-toned early 1900s European map game board with colored plastic train cars — blue, red, green, yellow, and black — claiming routes between illustrated city nodes. Colorful train cards fanned in a hand, destination ticket cards showing European city pairs. The map covering from Lisbon to Moscow. Vintage travel-poster aesthetic in warm sepia, forest green, and rich burgundy."
+  },
+  "times-up-review": {
+    "title": "Time's Up!",
+    "visual": "A large fan of celebrity and character name cards spread across the table — historical figures, entertainers, fictional characters — with a 30-second sand timer dramatically centered, its sand mid-fall. Score pad and pencil nearby. Energetic party-game aesthetic in bright primary colors, evoking the excitement of a charades showdown."
+  },
+  "uprise-review": {
+    "title": "Uprise",
+    "visual": "Cards and tokens from this strategic card game arranged dramatically on a dark surface, with bold graphic design and striking artwork. Game components spread to suggest tactical decision-making and player conflict. Deep jewel tones and strong graphic contrasts."
+  },
+  "wits-and-wagers-review": {
+    "title": "Wits and Wagers",
+    "visual": "A 28-inch green felt betting mat on the table with colorful poker chips stacked in red, blue, and green — 90 chips total — arranged around seven small dry-erase answer boards and markers. Trivia question cards fanned nearby. The entire setup evoking a casino poker table. Rich casino greens, gold chips, and bold betting-mat typography."
+  },
+  "wingspan-review": {
+    "title": "Wingspan",
+    "visual": "Beautifully illustrated bird cards fanned to show field-guide-quality artwork of diverse species, surrounding a wooden birdfeeder dice tower with custom food dice inside. Pastel-colored egg miniatures in nests on a player habitat board showing forest, grassland, and wetland zones. The art lavish and nature-documentary in feel — soft pastels, warm browns, and vivid bird plumage colors."
+  },
+  "betrayal-at-house-on-the-hill-review": {
+    "title": "Betrayal at House on the Hill",
+    "visual": "The haunted mansion game board showing a sprawling floor plan of creepy rooms, omen cards featuring ravens, books, and crystal balls, character cards for six explorers, and red/white/blue plastic figures on the board. Gothic horror atmosphere with aged parchment textures."
+  },
+  "coloretto-review": {
+    "title": "Coloretto",
+    "visual": "Colorful chameleon cards in seven vivid colors — blue, orange, yellow, green, purple, red, and multicolor — fanned out on a dark surface, with wooden chameleon meeples in matching colors arranged beside them. Playful and vibrant illustration style."
+  },
+  "count-your-chickens-review": {
+    "title": "Count Your Chickens",
+    "visual": "Cheerful children's game components — bright spinner with farm animals, colorful illustrated game board showing a winding path to a chicken coop, and small plastic chick pieces in yellow. Warm and friendly primary colors, farmyard artwork."
+  },
+  "dimension-review": {
+    "title": "Dimension",
+    "visual": "Translucent colored spheres in five colors — blue, red, orange, green, and black — stacked in a pyramid formation on the circular game platform. Clean, minimalist aesthetic with smooth glass-like balls catching dramatic light."
+  },
+  "dragons-hoard-review": {
+    "title": "Dragon's Hoard",
+    "visual": "Fantasy card game components showing treasure cards with illustrated gold coins, gems, and artifacts in rich medieval illustration style, dragon-themed cards with fire and scale motifs, arranged in a scattered hoard pattern suggesting a dragon's treasure pile."
+  },
+  "dreamescape-review": {
+    "title": "DreamEscape",
+    "visual": "Escape room puzzle elements — coded locks, hidden clue envelopes, magnifying glass, mysterious maps and cipher wheels — arranged dramatically on a dark surface. Atmospheric investigation aesthetic with aged paper textures and cryptic symbols."
+  },
+  "forbidden-desert-review": {
+    "title": "Forbidden Desert",
+    "visual": "Desert expedition tile grid showing shifting sand tiles, excavation markers, and ancient flying machine parts — propeller, engine, hull, compass, gem — scattered across a modular sandy landscape. Warm amber tones with ancient Egyptian-inspired hieroglyph iconography."
+  },
+  "forbidden-island-review": {
+    "title": "Forbidden Island",
+    "visual": "Modular island tiles arranged in a diamond formation showing temple ruins, cave entrances, and jungle paths, with four treasure figurines — crystal of fire, ocean chalice, earth stone, wind statue — and blue flood cards encroaching on the sinking island tiles."
+  },
+  "gloom-review": {
+    "title": "Gloom",
+    "visual": "Transparent plastic cards layered over illustrated gothic family portraits, showing stackable misery and happiness modifiers in morbid cartoonish art style. Victorian funeral aesthetics with skeletal figures, weeping characters, and dark humor iconography."
+  },
+  "hive-review": {
+    "title": "Hive",
+    "visual": "Black and white Bakelite hex tiles depicting insects — queen bee, beetle, grasshopper, soldier ant, spider — interlocked in an abstract honeycomb formation on a dark surface. Tactile, minimalist two-tone aesthetic with insect silhouette engravings."
+  },
+  "lords-of-waterdeep-review": {
+    "title": "Lords of Waterdeep",
+    "visual": "Dungeons & Dragons-themed worker placement board showing the city of Waterdeep map, colored wooden agent cubes, Lord cards with masked noble portraits, and quest cards for Warriors, Rogues, Clerics, and Wizards. Rich fantasy tavern aesthetic with parchment textures."
+  },
+  "mammut-review": {
+    "title": "Mammut",
+    "visual": "Prehistoric-themed cards and tiles showing woolly mammoth illustrations, cave painting art style with earthy ochre and brown tones, tribal hunting symbols, and chunky wooden tokens. Stone Age aesthetic with rough-hewn textures and primitive iconography."
+  },
+  "raptor-review": {
+    "title": "Raptor",
+    "visual": "Jungle scenario board showing dense foliage terrain tiles with sleeping raptors and baby dinosaurs, action cards featuring scientist figures and velociraptors, and wooden raptor/scientist meeples. Tense prehistoric hunter-hunted atmosphere with lush green terrain."
+  },
+  "sheriff-of-nottingham-review": {
+    "title": "Sheriff of Nottingham",
+    "visual": "Medieval market components — linen merchant pouches filled with colored goods cards, the official Sheriff badge, contraband cards showing weapons and crossbows alongside legal goods like cheese, apple, and bread, with gold coin tokens scattered about. Playful medieval market atmosphere."
+  },
+  "splendor-review": {
+    "title": "Splendor",
+    "visual": "Gleaming gem poker chips in six colors — green emerald, white diamond, blue sapphire, black onyx, red ruby, yellow gold — stacked and scattered beside illustrated Renaissance jeweler development cards showing mines, transport routes, and merchant shop illustrations. Luxurious gem-merchant aesthetic."
+  },
+  "squirmish-review": {
+    "title": "Squirmish",
+    "visual": "Quirky monster card game components showing hand-drawn creatures with absurd names and special attack abilities, chunky illustrated cards in a loose chaotic pile suggesting an all-out monster brawl. Indie art style with bold outlines and irreverent cartoon monster designs."
+  },
+  "takenoko-review": {
+    "title": "Takenoko",
+    "visual": "Lush green hexagonal bamboo garden tiles arranged in an expanding pattern, with a large adorable panda figurine and gardener figurine, stacks of green/yellow/pink bamboo cylinder pieces, and illustrated objective cards showing pandas eating bamboo. Soft, pastel Japanese garden aesthetic."
+  },
+  "the-gallerist-review": {
+    "title": "The Gallerist",
+    "visual": "Art gallery management board showing gallery floor plan with exhibition spaces, small painted artwork tiles in abstract and classical styles, wooden gallerist pawns, international visitor meeples, and money tokens. Sophisticated contemporary art world aesthetic."
+  },
+  "zombie-fluxx-review": {
+    "title": "Zombie Fluxx",
+    "visual": "Chaotic card game spread showing the ever-changing rule cards, keeper cards with zombie survivors and weapons, creeper cards featuring shuffling undead, and new rule cards mid-play. Cartoonish zombie horror art with a tongue-in-cheek b-movie aesthetic."
+  }
+}

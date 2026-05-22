@@ -9,7 +9,7 @@ tags:
   - "panda"
   - "strategy-board-game"
   - "takenoko"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458928/hexagamers-reviews/takenoko-review.jpg"
 description: "In imperial Japan, the Chinese Emperor has gifted you a panda. You must irrigate land, grow coloured bamboo, tend the gardens, and keep the panda fed — all…"
 ---
 

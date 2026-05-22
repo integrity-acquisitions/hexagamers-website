@@ -8,7 +8,7 @@ tags:
   - "cooperative-board-games"
   - "forbidden-desert"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458905/hexagamers-reviews/forbidden-desert-review.jpg"
 description: "Your helicopter crashes in an ancient desert. Work together to excavate the parts of a legendary flying machine and escape before the storm overtakes you…"
 ---
 
