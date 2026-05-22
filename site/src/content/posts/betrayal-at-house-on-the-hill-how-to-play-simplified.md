@@ -9,7 +9,7 @@ tags:
   - "betrayal-how-to-play"
   - "cooperative-board-games"
   - "how-to-play-simplified"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Character-Cards_koahdn.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460220/hexagamers-guides/betrayal-at-house-on-the-hill-how-to-play-simplified.jpg"
 description: "You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the…"
 ---
 

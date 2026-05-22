@@ -9,7 +9,7 @@ tags:
   - "agricola-how-to-play"
   - "how-to-play-simplified"
   - "worker-placement-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460262/hexagamers-guides/agricola-how-to-play-simplified.jpg"
 description: "Your two Meeples are settled into a small wooden house with an empty plot of land — and harvest is coming. Place your Meeples on action spaces to grow…"
 ---
 
