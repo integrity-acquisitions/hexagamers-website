@@ -9,7 +9,7 @@ tags:
   - "exploding-kittens"
   - "family-game"
   - "party-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310193/hexagamers-reviews/exploding-kittens-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779424929/hexagamers-reviews/exploding-kittens-review.jpg"
 description: "Russian Roulette with cats. Draw cards until someone pulls the Exploding Kitten. Use action cards to peek at the deck, shuffle it, steal from opponents, or…"
 ---
 

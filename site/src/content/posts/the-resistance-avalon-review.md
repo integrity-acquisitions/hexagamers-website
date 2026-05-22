@@ -12,7 +12,7 @@ tags:
   - "social-deduction-games"
   - "the-resistance"
   - "the-resistance-avalon"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311242/hexagamers-reviews/the-resistance-avalon-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779427275/hexagamers-reviews/the-resistance-avalon-review.jpg"
 description: "Good versus evil — the future of Camelot hangs in the balance. You and your fellow players are split into secret teams: loyal knights of Arthur versus the…"
 ---
 

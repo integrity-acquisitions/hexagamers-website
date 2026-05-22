@@ -8,7 +8,7 @@ tags:
   - "best-party-board-games"
   - "catch-phrase"
   - "party-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309563/hexagamers-reviews/catch-phrase-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422483/hexagamers-reviews/catch-phrase-review.jpg"
 description: "Think you have a quick enough wit to give clues on the spot? Get your team to guess the phrase before the timer runs out — then pass it on. If the buzzer…"
 ---
 

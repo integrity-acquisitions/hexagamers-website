@@ -10,7 +10,7 @@ tags:
   - "cashflow"
   - "cashflow-review"
   - "investment-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309439/hexagamers-reviews/cashflow-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422139/hexagamers-reviews/cashflow-review.jpg"
 description: "From the Rich Dad Group: you're a rat stuck in the Rat Race, scrounging to invest. Buy deals that increase your monthly cashflow until your passive income…"
 ---
 

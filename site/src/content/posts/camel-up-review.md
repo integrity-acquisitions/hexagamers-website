@@ -10,7 +10,7 @@ tags:
   - "gambling-board-game"
   - "party-game"
   - "simple-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309432/hexagamers-reviews/camel-up-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779421811/hexagamers-reviews/camel-up-review.jpg"
 description: "Bet your hard-earned coins at the high-stakes camel track. Camels sprint around the course through legs of the race while you place wagers on who wins each…"
 ---
 

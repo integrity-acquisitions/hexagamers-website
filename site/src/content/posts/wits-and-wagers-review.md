@@ -7,7 +7,7 @@ categories:
 tags: 
   - "party-game"
   - "wits-and-wagers"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311730/hexagamers-reviews/wits-and-wagers-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779427448/hexagamers-reviews/wits-and-wagers-review.jpg"
 description: "Everyone guesses a numerical answer to a trivia question, then bets on which answer they think is closest (without going over). You don't need to know the…"
 ---
 

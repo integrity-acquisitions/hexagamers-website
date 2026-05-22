@@ -11,7 +11,7 @@ tags:
   - "funny-board-game"
   - "games-for-large-groups"
   - "party-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309436/hexagamers-reviews/cash-n-guns-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422019/hexagamers-reviews/cash-n-guns-review.jpg"
 description: "You're a mobster divvying up stolen loot over eight rounds. Everyone's armed with a foam gun and a hand of cards — five \"click\" blanks and three \"bang\"…"
 ---
 

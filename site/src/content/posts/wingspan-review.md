@@ -13,7 +13,7 @@ tags:
   - "engine-building"
   - "strategy"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779417629/hexagamers-reviews/wingspan-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779419437/hexagamers-reviews/wingspan-review.jpg"
 lastModified: 2026-05-21
 description: "You're a bird enthusiast trying to attract birds to your wildlife preserves. Each bird you play extends a chain of powerful actions. Simple to learn, genuinely hard to master."
 ---

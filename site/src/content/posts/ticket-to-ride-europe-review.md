@@ -8,7 +8,7 @@ tags:
   - "strategy-board-game"
   - "ticket-to-ride"
   - "ticket-to-ride-europe"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311368/hexagamers-reviews/ticket-to-ride-europe-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779427317/hexagamers-reviews/ticket-to-ride-europe-review.jpg"
 lastModified: 2025-01-01
 description: "Collect coloured train cards and claim railway routes across Europe to complete your destination tickets. Longer routes score more points — but your rivals…"
 ---

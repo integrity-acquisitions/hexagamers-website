@@ -12,7 +12,7 @@ tags:
   - "solo"
   - "two-player"
   - "uprise"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311668/hexagamers-reviews/uprise-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779427395/hexagamers-reviews/uprise-review.jpg"
 description: "Uprise is a local indie board game designed by Alex Racine, which we had the opportunity to playtest ahead of its Kickstarter launch. Players are members…"
 ---
 

@@ -10,7 +10,7 @@ tags:
   - "coup-review"
   - "micro-game"
   - "resistance-universe"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779309763/hexagamers-reviews/coup-review.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422573/hexagamers-reviews/coup-review.jpg"
 description: "In this micro-game set in The Resistance Universe, you hold two secret character cards with special abilities. Use them — or bluff having them — to coup,…"
 ---
 
