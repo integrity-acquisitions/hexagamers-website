@@ -36,8 +36,8 @@ If you're looking for more recommendations, we also have lists for [best gateway
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#3-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#4-azul) | Azul | 2–4 | 30–45 min | $$ |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#5-codenames-full-review-here) | Codenames | 2–8+ | 15–30 min | $ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463070/hexagamers-box-art/lords-of-waterdeep.jpg)](#6-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2–5 | 60–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](#7-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](#6-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2–5 | 60–120 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](#7-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ |
 
 ## 1. Wingspan ([Full Review Here](/blog/wingspan-review/))
 
@@ -101,7 +101,7 @@ It's a team game, and you need teams. Once you have them, this is one of the mos
 
 ## 6. Lords of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463070/hexagamers-box-art/lords-of-waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
 Lords of Waterdeep is a worker placement game that doesn't feel like a worker placement game until someone explains why they just blocked the spot you needed. D&D theme, clean mechanics, and a quest card system that keeps it moving without getting bogged down. At four, the board fills up enough that every placement decision has weight. At two it feels sparse.
 
@@ -113,7 +113,7 @@ Worker placement lives and dies by player count. Four is the minimum before the 
 
 ## 7. Splendor ([Full Review Here](/blog/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is the fastest teach on this list. The rules fit on a single card. But at four players the gem chip economy gets stretched just enough that you start feeling real pressure — someone's always three moves ahead, and the card development choices that felt free at two become hard decisions at four.
 
