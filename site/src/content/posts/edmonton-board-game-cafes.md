@@ -42,7 +42,7 @@ tags:
   - "tourism"
   - "yeg"
   - "yyc"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Edmonton-Board-Game-Cafes_ufp4a3.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461970/hexagamers-articles/edmonton-board-game-cafes.jpg"
 description: "Board game enthusiasts have capitalized on the hobby's popularity explosion. One of the results? Board game cafes. Cafes have popped up all across the…"
 ---
 

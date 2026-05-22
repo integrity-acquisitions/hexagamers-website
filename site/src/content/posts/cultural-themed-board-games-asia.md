@@ -60,7 +60,7 @@ tags:
   - "top"
   - "two-player"
   - "yamatai"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/king-of-tokyo_g4y0ja.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779462069/hexagamers-articles/cultural-themed-board-games-asia.jpg"
 description: "Kon'nichiwa! East meets West in these board games. It doesn't really matter whether you've been to, lived in, are from, dream of or know nothing about…"
 ---
 

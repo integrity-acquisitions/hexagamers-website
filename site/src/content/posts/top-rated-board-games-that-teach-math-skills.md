@@ -13,7 +13,7 @@ tags:
   - "rummikub"
   - "sequence-num6ers"
   - "sum-swamp"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461945/hexagamers-articles/top-rated-board-games-that-teach-math-skills.jpg"
 description: "Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill…"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Carcassonne: Versions &#038; Expansions"
+title: "Carcassonne: Versions & Expansions"
 date: 2017-10-11
 categories: 
   - "game-play-variations"
@@ -85,7 +85,7 @@ tags:
   - "version"
   - "wheel-of-fortune"
   - "winter"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Abbey-Mayor-2007_xllgpa.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461914/hexagamers-articles/carcassonne-versions-expansions.jpg"
 description: "It's hard to keep track of all the Carcassonne versions. If you're looking for your next expansion or a different Carcassonne-style challenge, we've…"
 ---
 

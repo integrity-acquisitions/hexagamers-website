@@ -7,7 +7,7 @@ tags:
   - "pandemic"
   - "pandemic-legacy"
   - "cooperative"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-Setting-Up_qvwyzu.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779462045/hexagamers-articles/pandemic-legacy-s1-logs-february.jpg"
 description: "> **Spoiler warning:** This post contains details about Pandemic Legacy Season 1. Don't read if you want to experience it fresh."
 ---
 

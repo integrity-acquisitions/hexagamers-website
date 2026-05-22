@@ -133,7 +133,7 @@ tags:
   - "wrist-band"
   - "wyrmwood"
   - "yeg"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/BestChristmasGifts-2_pwnezd.png"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461912/hexagamers-articles/board-game-related-gifts-arent-board-games-2017.jpg"
 description: "For great board games to give or gifts for Settlers of Catan fans, we've got you covered! If you're hesitant to buy a board game or want a more unique…"
 ---
 
