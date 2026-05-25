@@ -33,13 +33,13 @@ A quick note on how we built this list: we pulled from BoardGameGeek community r
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#1-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479943/hexagamers-box-art/carcassonne.jpg)](#2-carcassonne-full-review-here) | Carcassonne | 2–5 | 30–45 min | $$ | — |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](#2-carcassonne-full-review-here) | Carcassonne | 2–5 | 30–45 min | $$ | — |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730835/hexagamers-box-art/small-world.jpg)](#3-small-world) | Small World | 2–5 | 40–80 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730836/hexagamers-box-art/stone-age.jpg)](#4-stone-age-full-review-here) | Stone Age | 2–4 | 60–90 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730837/hexagamers-box-art/bohnanza.jpg)](#5-bohnanza) | Bohnanza | 2–7 | 45 min | $ | — |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300593/Stone-Age_f5oj2l.jpg)](#4-stone-age-full-review-here) | Stone Age | 2–4 | 60–90 min | $$ | — |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730696/Bohnanza_Board_Game_kd75m7.webp)](#5-bohnanza) | Bohnanza | 2–7 | 45 min | $ | — |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730838/hexagamers-box-art/concordia.jpg)](#6-concordia) | Concordia | 2–5 | 90–120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730838/hexagamers-box-art/castles-of-burgundy.jpg)](#7-castles-of-burgundy) | Castles of Burgundy | 2–4 | 30–90 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730888/hexagamers-box-art/7-wonders.jpg)](#8-7-wonders-full-review-here) | 7 Wonders | 2–7 | 30 min | $$ | — |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730695/Castles_of_Burgundy_ftltgo.jpg)](#7-castles-of-burgundy) | Castles of Burgundy | 2–4 | 30–90 min | $$ | — |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](#8-7-wonders-full-review-here) | 7 Wonders | 2–7 | 30 min | $$ | — |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#9-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ | — |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730840/hexagamers-box-art/terraforming-mars.jpg)](#10-terraforming-mars) | Terraforming Mars | 1–5 | 90–120 min | $$$ | — |
 
@@ -61,7 +61,7 @@ If your group loves Catan but sometimes gets frustrated by the luck swings, star
 
 ## 2. Carcassonne ([Full Review Here](/blog/carcassone-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479943/hexagamers-box-art/carcassonne.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
 Carcassonne shares Catan's best quality: the board doesn't exist when you start the game. You build it together. Flip a tile, connect roads to roads and castles to castles, place your meeple to claim a feature — and slowly, the map grows into something contested and crowded.
 
@@ -93,7 +93,7 @@ For groups who love Catan's conflict but want something with more direct confron
 
 ## 4. Stone Age ([Full Review Here](/blog/stone-age-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730836/hexagamers-box-art/stone-age.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300593/Stone-Age_f5oj2l.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
 
 Stone Age scratches the resource-gathering itch directly. Wood, clay, stone, food — you collect these, use them to build stuff, and build your civilization up over the course of the game. If that sounds like Catan without the ocean of hexagons, you're not wrong.
 
@@ -107,7 +107,7 @@ It's lighter than the deeper euros on this list, which makes it a great next ste
 
 ## 5. Bohnanza
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730837/hexagamers-box-art/bohnanza.jpg)](https://www.amazon.com/dp/B00008URUS/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730696/Bohnanza_Board_Game_kd75m7.webp)](https://www.amazon.com/dp/B00008URUS/?tag=hexagamers-20)
 
 Ask a board game community "what game should I play if I love Catan's trading?" and Bohnanza shows up in the first three replies, every time.
 
@@ -137,7 +137,7 @@ If someone in your group says "I like the building and expansion part of Catan, 
 
 ## 7. Castles of Burgundy
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730838/hexagamers-box-art/castles-of-burgundy.jpg)](https://www.amazon.com/dp/B07R5ZH6FQ/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730695/Castles_of_Burgundy_ftltgo.jpg)](https://www.amazon.com/dp/B07R5ZH6FQ/?tag=hexagamers-20)
 
 Castles of Burgundy keeps the hex tiles and the dice — but flips how they work. Instead of rolling to see what resources you get, you roll dice to determine which *actions* you can take. Pick up a hex tile from the market, or place one you already have, or sell goods, or something else. The dice tell you which category of action is available; you decide what to do within it.
 
@@ -151,7 +151,7 @@ The art style is older and gets criticized for that, but the game underneath is 
 
 ## 8. 7 Wonders ([Full Review Here](/blog/7-wonders-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730888/hexagamers-box-art/7-wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders gives you that civilization-building feeling in about 30 minutes. Everyone is developing their own ancient city — collecting resources, building structures, developing a military, investing in science — across three ages of play.
 
