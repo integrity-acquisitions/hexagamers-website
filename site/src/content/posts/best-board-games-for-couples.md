@@ -35,7 +35,7 @@ How we picked them: every game here is either designed exclusively for two playe
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Patchwork_htst3r.jpg)](#1-patchwork) | Patchwork | 2 | 15–30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](#2-7-wonders-duel) | 7 Wonders Duel | 2 | 30 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730132/7_Wonders_Duel_suc1at.jpg)](#2-7-wonders-duel) | 7 Wonders Duel | 2 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Jaipur_imtlky.jpg)](#3-jaipur) | Jaipur | 2 | 30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](#4-lost-cities) | Lost Cities | 2 | 30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hanamikoji_qlabbz.webp)](#5-hanamikoji) | Hanamikoji | 2 | 15–20 min | $ | — |
@@ -67,7 +67,7 @@ This is the one we'd start with if you've never played a dedicated two-player ga
 
 ## 2. 7 Wonders Duel
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730132/7_Wonders_Duel_suc1at.jpg)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
 
 7 Wonders Duel is the two-player version of 7 Wonders, and it's better than the original for this format. That's not a knock on 7 Wonders — it's just that Duel was designed from the ground up for two people, and every decision in it reflects that.
 
