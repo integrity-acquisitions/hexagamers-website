@@ -37,22 +37,22 @@ What we looked for: quick enough to hold attention, social enough to matter, and
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422536/hexagamers-reviews/codenames-review.jpg)](#1-codenames-full-review-here) | Codenames | 4+ | 15 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422573/hexagamers-reviews/coup-review.jpg)](#2-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422325/hexagamers-reviews/catan-review.jpg)](#3-catan-full-review-here) | Catan | 3–4 | 60–90 min | $$$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#1-codenames-full-review-here) | Codenames | 4+ | 15 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](#2-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#3-catan-full-review-here) | Catan | 3–4 | 60–90 min | $$$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Herd_Mentality_qjwucc.jpg)](#4-herd-mentality) | Herd Mentality | 4–20 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](#5-just-one) | Just One | 3–7 | 20 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#6-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](#6-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#7-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Doomlings_ykomwz.jpg)](#8-doomlings) | Doomlings | 2–6 | 20–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#9-everdell) | Everdell | 1–4 | 40–80 min | $$$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Everdell_x5mxlz.jpg)](#9-everdell) | Everdell | 1–4 | 40–80 min | $$$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#10-sushi-go-full-review-here) | Sushi Go! | 2–5 | 15 min | $ | — |
 
 ---
 
 ## 1. Codenames ([Full Review Here](/blog/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422536/hexagamers-reviews/codenames-review.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames is a team word game where a Spymaster gives single-word clues to get their teammates to guess the right cards on the table — without accidentally pointing them toward the other team's agents or, worse, the assassin. The setup is a grid of 25 words. Your Spymaster knows which ones are yours. They give you one word and a number. You figure out which cards they meant.
 
@@ -70,7 +70,7 @@ If you have a group of mixed ages, Codenames is probably the safest pick on this
 
 ## 2. Coup ([Full Review Here](/blog/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422573/hexagamers-reviews/coup-review.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Everyone has two character cards face-down. Everyone claims to have whichever character gives them the action they want. Nobody has to tell the truth. If no one calls your bluff, the action stands. If someone does — one of you loses an influence. Last player standing wins.
 
@@ -90,7 +90,7 @@ The buy-in is low — the game costs under $15, takes five minutes to explain, a
 
 ## 3. Catan ([Full Review Here](/blog/catan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422325/hexagamers-reviews/catan-review.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
 Catan is the game that got millions of people into modern board games, and it earns its reputation. You're building settlements, collecting resources, and trading with other players — all while trying to be the first to 10 victory points. The board is different every game. The dice decide what you produce each round. The trades are where the real game happens.
 
@@ -142,7 +142,7 @@ Because it's cooperative, there's no elimination and no one feels singled out. E
 
 ## 6. Telestrations
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422536/hexagamers-reviews/codenames-review.jpg)](https://www.amazon.com/dp/B0083J768O/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](https://www.amazon.com/dp/B0083J768O/?tag=hexagamers-20)
 
 Telestrations is the telephone game, but with drawing. You start with a word, draw it, pass your sketchbook to the next player, they guess what you drew, the next player draws that guess, and so on around the table. By the end, whatever began as "lighthouse" has usually become something unrecognizable and deeply funny.
 
@@ -190,7 +190,7 @@ A solid choice if the group wants something with a bit more personality than a s
 
 ## 9. Everdell
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Everdell_x5mxlz.jpg)](https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20)
 
 Everdell is a worker placement and tableau building game set in a woodland world of critters and constructions. You send workers out to gather resources, then spend those resources to play cards into your city — each card adds new abilities, new resources, or bonus scoring. The goal is to build the most efficient, highest-scoring tableau by the end of three seasons.
 
