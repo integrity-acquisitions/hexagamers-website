@@ -34,9 +34,9 @@ How we picked them: every game here is either designed exclusively for two playe
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](#1-patchwork) | Patchwork | 2 | 15–30 min | $ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Patchwork_htst3r.jpg)](#1-patchwork) | Patchwork | 2 | 15–30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](#2-7-wonders-duel) | 7 Wonders Duel | 2 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](#3-jaipur) | Jaipur | 2 | 30 min | $ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Jaipur_imtlky.jpg)](#3-jaipur) | Jaipur | 2 | 30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](#4-lost-cities) | Lost Cities | 2 | 30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hanamikoji_qlabbz.webp)](#5-hanamikoji) | Hanamikoji | 2 | 15–20 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The_Fox_in_the_Forest_ny0xqh.jpg)](#6-the-fox-in-the-forest) | The Fox in the Forest | 2 | 30 min | $ | — |
@@ -49,7 +49,7 @@ How we picked them: every game here is either designed exclusively for two playe
 
 ## 1. Patchwork
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Patchwork_htst3r.jpg)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
 
 Patchwork is a two-player game about building a quilt. That premise shouldn't work. And then you sit down with your partner, play one round, and immediately understand why it shows up on every couples game list without fail.
 
@@ -83,7 +83,7 @@ It plays in 30 minutes once you know it. The first teach is longer — figure 20
 
 ## 3. Jaipur
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](https://www.amazon.com/dp/B07DW5T9LH/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Jaipur_imtlky.jpg)](https://www.amazon.com/dp/B07DW5T9LH/?tag=hexagamers-20)
 
 Jaipur is a two-player card game about trading goods in an Indian market. You're a merchant competing to earn more rupees than your rival by collecting and selling sets of camels, spices, cloth, leather, silver, gold, and diamonds.
 
