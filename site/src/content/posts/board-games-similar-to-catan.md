@@ -11,7 +11,7 @@ tags:
   - "resource-management"
   - "strategy-games"
   - "best-board-games-list"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779731130/hexagamers-reviews/board-games-similar-to-catan.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779731998/hexagamers-reviews/board-games-similar-to-catan.jpg"
 lastModified: 2026-05-25
 description: "Loved Catan but ready for something new? These 10 games scratch the same itch — resource gathering, territorial tension, and big decisions."
 ---

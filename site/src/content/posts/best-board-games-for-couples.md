@@ -11,7 +11,7 @@ tags:
   - "couples-games"
   - "board-games-for-two"
   - "date-night-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729572/hexagamers-reviews/best-board-games-for-couples.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779731920/hexagamers-reviews/best-board-games-for-couples.jpg"
 lastModified: 2026-05-25
 description: "The best board games for couples — from quick fillers to deep strategy nights — with honest picks your partner will actually want to play again."
 ---
