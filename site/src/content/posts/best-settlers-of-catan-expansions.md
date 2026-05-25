@@ -29,13 +29,15 @@ A few things worth knowing before you buy: most of these require the base Catan 
 
 | Image | Expansion | Players | Time | Price |
 | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-seafarers) | Seafarers | 3–4 | 90–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#2-cities--knights) | Cities & Knights | 3–4 | 90–180 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#3-traders--barbarians) | Traders & Barbarians | 2–4 | 60–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#4-explorers--pirates) | Explorers & Pirates | 3–4 | 90–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#5-catan-histories--settlers-of-america) | Settlers of America | 3–4 | 60–120 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_Seafarers_ogw8fz.jpg)](#1-seafarers) | Seafarers | 3–4 | 90–120 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Cities_and_Knights_gtqxle.jpg)](#2-cities--knights) | Cities & Knights | 3–4 | 90–180 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Traders_and_Barbarians_vopqg9.jpg)](#3-traders--barbarians) | Traders & Barbarians | 2–4 | 60–120 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Explorers_and_Pirates_srlejv.jpg)](#4-explorers--pirates) | Explorers & Pirates | 3–4 | 90–120 min | $$$ |
+| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Settlers_of_America_hrjkxo.jpg)](#5-catan-histories--settlers-of-america) | Settlers of America | 3–4 | 60–120 min | $$$ |
 
 ## 1. Seafarers
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_Seafarers_ogw8fz.jpg)](https://www.amazon.com/dp/B0DYK3S5MJ/?tag=hexagamers-20)
 
 This is the one we recommend first, every time.
 
@@ -49,9 +51,11 @@ This is the gateway expansion — the one that opens the door to the rest. Any g
 
 Comes with 3–4 player support. Grab the 5–6 player extension if your group runs bigger.
 
-<a href="https://www.amazon.com/dp/B00AUVTFOI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0DYK3S5MJ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## 2. Cities & Knights
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Cities_and_Knights_gtqxle.jpg)](https://www.amazon.com/dp/B0DY87W8SS/?tag=hexagamers-20)
 
 If Seafarers is where most groups start, Cities & Knights is where the serious Catan players end up.
 
@@ -63,9 +67,11 @@ The cost is time and complexity. Add at least an hour to your estimate, and coun
 
 But if your group takes Catan seriously and wants depth rather than just more map, this is the one.
 
-<a href="https://www.amazon.com/dp/B00AUVTFGK/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0DY87W8SS/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## 3. Traders & Barbarians
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Traders_and_Barbarians_vopqg9.jpg)](https://www.amazon.com/dp/B0DYF7552C/?tag=hexagamers-20)
 
 This one gets overlooked more than it should.
 
@@ -77,9 +83,11 @@ The minor downside is that the flexibility means you spend a bit of time before 
 
 This is the smart third buy — especially for the two-player mode, which is genuinely good and rare in the Catan family.
 
-<a href="https://www.amazon.com/dp/B00AUVTFU4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0DYF7552C/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## 4. Explorers & Pirates
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Explorers_and_Pirates_srlejv.jpg)](https://www.amazon.com/dp/B0DYF8J5C8/?tag=hexagamers-20)
 
 Harder to recommend broadly, but for the right group it clicks.
 
@@ -89,9 +97,11 @@ The problem is that some of what makes Catan Catan gets diluted here. The negoti
 
 That's not necessarily a knock on it. Some groups want a bigger departure and find exactly that here. Just go in knowing what you're getting.
 
-<a href="https://www.amazon.com/dp/B00B6C3JH8/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0DYF8J5C8/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## 5. Catan: Histories — Settlers of America
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Settlers_of_America_hrjkxo.jpg)](https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20)
 
 This one is standalone. You don't need the base Catan game to play it.
 
@@ -103,7 +113,7 @@ Because it's standalone it doesn't stack with your other expansions, which is ei
 
 If you have someone in your group who has resisted Catan because of the island fantasy theme, the historical US setting sometimes gets them on board. Not always. But sometimes.
 
-<a href="https://www.amazon.com/dp/B004ENVWKE/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## Honorable mention: Catan Universe (digital)
 
