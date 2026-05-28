@@ -108,20 +108,20 @@ Catan has a huge following, and retailers, small businesses and entrepreneurs ha
 
 ## 
 
-## ["We Built this City" T-Shirt](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F472246258%2Fwe-built-this-city-one-wheat-and-ore)
+## ["We Built this City" T-Shirt](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F472246258%2Fwe-built-this-city-one-wheat-and-ore)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/We-built-this-city-on-wheat-and-ore_l0jbqe.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F472246258%2Fwe-built-this-city-one-wheat-and-ore)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/We-built-this-city-on-wheat-and-ore_l0jbqe.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F472246258%2Fwe-built-this-city-one-wheat-and-ore)
 
  If your giftee appreciates wit, classic rock, play on words, or just plain old Catan humour, this t-shirt is a perfect fit (har har). There are multiple options for colour, fit and size to tailor it for your giftee. 
 
-## ["I Wouldn't Trade You" Baby Onesie/Toddler Shirt](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520011054%2Fi-wouldnt-trade-you-for-anything)
+## ["I Wouldn't Trade You" Baby Onesie/Toddler Shirt](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520011054%2Fi-wouldnt-trade-you-for-anything)
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/bodysuit_HookLineNStitcher_fqn1d1.jpg)
 
 Start 'em young! We love the simple design and super cute saying, "I wouldn't trade you for anything." (Except maybe a little more sleep now and then...) You can order in sizes from N to 7T, bodysuits and t-shirts, in eight colors. If you really, really love it, you can even order in adult sizes. Versatility, colours and including the littlest gamers in your life make this one of the best Catan gifts we found.
 
 
-## [Catan Map Cross-Stitch Pattern](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F290828591%2Fsettlers-of-catan-cross-stitch-pattern)
+## [Catan Map Cross-Stitch Pattern](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F290828591%2Fsettlers-of-catan-cross-stitch-pattern)
 
 ![Catan Map Cross-Stitch Pattern 1](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299685/Catan-Cross-Stictch-1_vqiyv7.jpg)
 ![Catan Map Cross-Stitch Pattern 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299686/Catan-Cross-Stictch-2_icjsv3.jpg)
@@ -130,14 +130,14 @@ Start 'em young! We love the simple design and super cute saying, "I wouldn't tr
 Even though crafts aren't for everyone, this idea is twofold: one, your giftee (or you) like to craft, and will have fun recreating the Catan board--in any pattern you want. Bonus! Or, two, you can stitch the pattern and give it to someone as a gift. The pattern includes instructions and a list of colors. It's a cute idea and a good way to pass some time while your opponents are bartering over resource trade ratios. 
 
 
-## ["We Built This City" Catan Messenger Bag](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F466127335%2Fwe-built-this-city-on-wheat-and-ore)
+## ["We Built This City" Catan Messenger Bag](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F466127335%2Fwe-built-this-city-on-wheat-and-ore)
 
 ![We Built This City Catan Messenger Bag](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299542/bag_daftCatInk_bkb8vd.jpg)
 
 Great for students and commuters alike, this bag is spacious and has tons of pockets (three inside the bag, one outside) for pens, books, your laptop, and everything you need for your day. The shoulder strap is fully adjustable and the bag measures 15"x11"x4".
 
 
-## ["Save Some Resources" Reusable Canvas Bag](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F221721498%2Fsave-some-resources-reusable-tote-bag)
+## ["Save Some Resources" Reusable Canvas Bag](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F221721498%2Fsave-some-resources-reusable-tote-bag)
 
 ![Save Some Resources Canvas Bag 1](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299681/Catan-Canvas-Bag-1_zoeqp2.jpg)
 ![Save Some Resources Canvas Bag 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299682/Catan-Canvas-Bag-2_b17uv3.jpg)
@@ -158,33 +158,33 @@ Got a sock fiend in your life, or perhaps a sock fetish yourself? Warm up your t
 
 ## 
 
-## [Game Board Wall Clock](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
+## [Game Board Wall Clock](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305606/clock.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305606/clock.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F107301429%2Fsettlers-of-catan-board-game-clock-4th)
 
 Do you have gamers in your life who are always running late (Tito, Whitney)? This wall clock is perfect for them, whether in the bathroom, game room or kitchen. It's a unique clock in that it uses actual board game pieces, and when editions are discontinued, the pieces change, making each clock slightly different from the last.
 
 
-## [Catan Pillow](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F488769442%2Fsettlers-of-catan-pillow-longest-road)
+## [Catan Pillow](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F488769442%2Fsettlers-of-catan-pillow-longest-road)
 
 
 Need a little shut-eye before a long games night? Sprucing up your games room? We love the quality of the fabric panels and the size of the pillow. The pillow takes The Longest Road and The Largest Army cards and turns them into a two-sided exact replica pillow, complete with card details. It's high-quality, detailed and softer to throw than, say, the game board if you're rage-quitting. 
 
 
-## ["I Wouldn't Trade You" Wall Print](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513552567%2Fi-wouldnt-trade-you-for-anything-print-8)
+## ["I Wouldn't Trade You" Wall Print](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513552567%2Fi-wouldnt-trade-you-for-anything-print-8)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/WouldntTradeYouPrint_tjagad.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513552567%2Fi-wouldnt-trade-you-for-anything-print-8)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/WouldntTradeYouPrint_tjagad.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513552567%2Fi-wouldnt-trade-you-for-anything-print-8)
 
 This gives us an idea for a nursery theme! (We're looking at you, Tito & Charlene...) This super cute print is on heavy card stock and is brightly, sweetly illustrated. It would be a fun addition to any nursery, game room, kid's room, bedroom, living room... 
 
 
-## [Catan Wine Charms](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520282460%2Fcatan-theme-charms)
+## [Catan Wine Charms](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520282460%2Fcatan-theme-charms)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/winecharms_itsadoohickey_e4sxye.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520282460%2Fcatan-theme-charms)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/winecharms_itsadoohickey_e4sxye.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F520282460%2Fcatan-theme-charms)
 
 Add a bit of class to game nights and be sure your friends aren't indulging in your drinks. Mark your glass with one of eight wine charms in this set: wood, brick, ore, wheat, sheep, robber, settlement and city.
 
-## [Catan Resources Rocks Glasses](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F222887728%2Fsettlers-of-catan-resources-soc-old)
+## [Catan Resources Rocks Glasses](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F222887728%2Fsettlers-of-catan-resources-soc-old)
 
 
 Whether throwing a party, having a games night or lounging in the summer sun with a Cuba Libre, your Catan giftee will love the practicality and whimsy of these rocks glasses. They are sandblasted, dishwasher safe and available individually or as a complete set. Each glass is about 4" tall and holds 11 oz., the perfect accompaniment for your upcoming Catan battle. Coupled with the coasters below, these glasses are one of our favourite Catan gift ideas.
@@ -196,17 +196,17 @@ Obviously you don't want your giftee putting their sweaty Catan rocks glass on a
 
 We love pretty much all of them, but our favourites are from...
 
-[RocketmanProps](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F399257483%2Fsettlers-of-catan-coaster-set) 
+[RocketmanProps](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F399257483%2Fsettlers-of-catan-coaster-set) 
 
 ![Catan Coasters by RocketmanProps](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299720/coasters_RocketmanProps_ccnxpe.jpg)
 
 
-[CARismaVinylandLaser](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F510026697%2Fsettlers-of-catan-coaster-set)
+[CARismaVinylandLaser](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F510026697%2Fsettlers-of-catan-coaster-set)
 
 ![Catan Coasters by CARisma Vinyl and Laser](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299720/coasters_CARismaVinylAndLaser_y9i5yb.jpg)
 
 
- and [woodnshop](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F237696058%2Fsettlers-of-catan-coaster-set-8-piece)
+ and [woodnshop](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F237696058%2Fsettlers-of-catan-coaster-set-8-piece)
 
 ![Catan Coasters by woodnshop](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299721/coasters_woodnshop_ljmt9z.jpg)
 
@@ -224,22 +224,22 @@ For designers and minimalists, these prints are a unique and eye-catching accent
 
 ## 
 
-## [Catan Cufflinks](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503311765%2Fcufflinks-settlers-of-catan-game-board)
+## [Catan Cufflinks](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503311765%2Fcufflinks-settlers-of-catan-game-board)
 
-[![Catan Cufflinks](https://res.cloudinary.com/dt4ujaczs/image/upload/cufflinks_theOwlAndTheLemon_x63wyk.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503311765%2Fcufflinks-settlers-of-catan-game-board)
+[![Catan Cufflinks](https://res.cloudinary.com/dt4ujaczs/image/upload/cufflinks_theOwlAndTheLemon_x63wyk.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503311765%2Fcufflinks-settlers-of-catan-game-board)
 
 These pieces are perfectly replicated maps of Catan, with water, desert, resources and all. Whether your giftee is going for a night on the town, walking down the aisle or just to the office, these gifts are great for giving outfits a little personality. We love that they're handcrafted, hypoallergenic and made of polymer clay. 
 
 
-## [Catan Earrings](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503315579%2Fearrings-settlers-of-catan-game-board%3Fref%3Dshop_home_active_2)
+## [Catan Earrings](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F503315579%2Fearrings-settlers-of-catan-game-board%3Fref%3Dshop_home_active_2)
 
 ![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/earrings_ohmygeekness_ezovqg.jpg)
 
 Just like the cufflinks, the earrings are perfect, miniature Catan maps. Each piece is handcrafted, made of polymer clay and sealed. They're hypoallergenic, but you can also request stainless steel hooks for an additional cost. 
 
-## [Sheep Resource Necklace](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275563172%2Fcatan-inspired-sheep-in-hexagon-pendant)
+## [Sheep Resource Necklace](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275563172%2Fcatan-inspired-sheep-in-hexagon-pendant)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/necklace_StarbrightSilver_pixpgd.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275563172%2Fcatan-inspired-sheep-in-hexagon-pendant)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/necklace_StarbrightSilver_pixpgd.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275563172%2Fcatan-inspired-sheep-in-hexagon-pendant)
 
 Measuring 15x21 mm, this sheep hexagon necklace is a dainty and pretty gift that could match most any outfit. It's made of sterling silver and hypoallergenic, and unlike some of the other awesome Catan gifts, this necklace is a little more subtle. It ships from South Africa, so it needs about two weeks to arrive, so plan accordingly and don't wait until the last minute to order this. Baaaaahhhh. 
 
@@ -250,36 +250,36 @@ There are a lotof custom Catan boards out there, so make sure to check out our f
 
 Not only that, but there are some pretty cool storage solutions, carrying case, and so much more dedicated to this area. While these items are pricey, they are definitely among the best, most useful and most unique Catan gifts money can buy.
 
-## [3D Catan Board](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F216710446%2F3d-settlers-of-catan-resource-tiles)
+## [3D Catan Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F216710446%2F3d-settlers-of-catan-resource-tiles)
 
 ![3D Catan Board](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299641/Catan-Game-Box-Organizer-3_wvam6s.jpg)
 
  We LOVE this 3D board. It is well-crafted with each hexagon tile beautifully representing its resource. Every tile has a spot for the number token, and each vertex is carefully cut out so there's no issue placing settlements, cities and even roads along the path to victory. It even has a 5-6 player expansion option. At $279+, it's a rich investment, but if you love your giftee (or you love yourself a lot), you'll delight with this purchase. 
 
 
-## [Portable Game Board and Storage Case](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)
+## [Portable Game Board and Storage Case](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)
 
 
 We love this, and the idea of it, and at $199, you'll have to love your giftee a whole lot. It's beautifully made, though, and we are big fans of having compartments and storage for our game cards and pieces. This case has a spot for everything and what's best--the tiles fit snugly in the cutout board, ensuring the tiles won't slide around during play. There's even an option to purchase a larger case to accommodate 5-6 player expansions. 
 
 
-## [](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)[Wooden Catan Board (With Expansion)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o)
+## [](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)[Wooden Catan Board (With Expansion)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o)
 
 ![Wooden Catan Board](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300638/woodenboardcolour_el6sex.jpg)
 
 In the same vein, this board is extremely expensive, but it's beautiful, made of hardwood, each tile is laser cut and everything interlocks. The design ensures the border fits easily together so the tiles don't slide around. The number pieces fit in their customized holes, a unique element we love. This design is gorgeous, and with the detail and work that went in, you can see why it's such a pricey item. 
 
 
-## [Game Token Holders](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F200842214%2Fsettlers-of-catan-piece-holder)
+## [Game Token Holders](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F200842214%2Fsettlers-of-catan-piece-holder)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/resourceholders_Build3D_nkf4lw.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F200842214%2Fsettlers-of-catan-piece-holder)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/resourceholders_Build3D_nkf4lw.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F200842214%2Fsettlers-of-catan-piece-holder)
 
 These storage hexagons are fully customizable for each die-hard player you play with. Tiles are available in 11 colours and each is cut with specially-sized slots for roads, settlements and cities. It keeps game pieces organized and easier to track, and helps to settle the OCD mind.
 
 You can even add your own name to the tile at the time of purchase (for a little more money), if that interests you!
 
 
-## [Game Box Organizer](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F213549378%2Fcatan-box-organizer-insert)
+## [Game Box Organizer](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F213549378%2Fcatan-box-organizer-insert)
 
 ![Catan Game Box Organizer](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299690/Catan-Game-Box-Organizer-2_ucc4nu.jpg)
 ![Catan Game Box Organizer 2](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299641/Catan-Game-Box-Organizer-3_wvam6s.jpg)
@@ -287,7 +287,7 @@ You can even add your own name to the tile at the time of purchase (for a little
 Made specifically for the original Catan, this insert holds all Catan pieces and the 5-6 player expansion. It won't accommodate odd-sized pieces like what's found in Cities & Knights and Rivers of Catan, but if you only need an organizer for the original game, this is the one you need.
 
 
-## [3D Printed Catan Hexagon Tiles](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F522908041%2F3d-printed-settlers-of-catan-tiles)
+## [3D Printed Catan Hexagon Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F522908041%2F3d-printed-settlers-of-catan-tiles)
 
 ![3D Printed Catan Hexagon Tiles](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299381/3D-Catan-Tiles_y1mw0s.jpg)
 
@@ -298,21 +298,21 @@ Last but not least, a slightly more affordable version of the Catan board. Each 
 
 These fun Catan gifts are great for Stocking Stuffers, gift exchanges and gift add-ons (especially if you're a last-minute shopper).
 
-## ["Settle Down" Vinyl Sticker](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F512776055%2Fsettlers-of-catan-vinyl-decal-for-car)
+## ["Settle Down" Vinyl Sticker](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F512776055%2Fsettlers-of-catan-vinyl-decal-for-car)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sticker_HookLineNStitcher_mzo3z6.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F512776055%2Fsettlers-of-catan-vinyl-decal-for-car)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sticker_HookLineNStitcher_mzo3z6.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F512776055%2Fsettlers-of-catan-vinyl-decal-for-car)
 
 Personalize a computer, binder, car or anything your heart desires with this vinyl sticker. It's a permanent sticker and is cut-out with a five year outdoor guarantee. Choose one of 10 colours to suit you or your giftee's personality.
 
 
-## ["Don't Settle" iPhone 6/6s Leather Case](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F277548950%2Flaser-engraved-strategic-game-night)
+## ["Don't Settle" iPhone 6/6s Leather Case](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F277548950%2Flaser-engraved-strategic-game-night)
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/phone_AllieAndRee_dgfn18.jpg)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F277548950%2Flaser-engraved-strategic-game-night)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/phone_AllieAndRee_dgfn18.jpg)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F277548950%2Flaser-engraved-strategic-game-night)
 
 Make sure the Catan lover in your life shows up on time for games night by protecting their phone from damage. While it's available online in two colours, this Etsy shop encourages anyone interested to contact them if they want different colours or have different iPhone models--win!
 
 
-## [Resource Tokens (Replacing Cards)](http://www.awin1.com/cread.php?awinmid=6939&awinaffid=406184&clickref=&p=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F77015647%2Fcatan-resource-tokens-set-of-120-wheat)
+## [Resource Tokens (Replacing Cards)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F77015647%2Fcatan-resource-tokens-set-of-120-wheat)
 
 ![Catan Resource Tokens](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300521/resourceholders_Build3D_nkf4lw.jpg)
 
