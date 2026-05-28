@@ -199,6 +199,13 @@ h4 { font-size: 1.1rem; }
   font-size: 0.9rem;
 }
 
+/* ── Best-of comparison tables: cell alignment & weight ── */
+.post-content :global(table td),
+.post-content :global(table th) {
+  vertical-align: middle;
+  font-weight: 600;
+}
+
 /* ── Best-of list images: table thumbnails ── */
 .post-content :global(table img) {
   width: 110px;
