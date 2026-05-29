@@ -48,22 +48,22 @@ A few of these are already reviewed in full here on the site. Most aren't yet, b
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Sprawlopolis box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Sprawlopolis_vz3gj7)](#1-sprawlopolis) | Sprawlopolis | 1–4 | 15–20 min | $ | — |
-| [![Scout box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Scout_w9mz05)](#2-scout) | Scout | 2–5 | 20 min | $$ | — |
-| [![Love Letter box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Love_Letter_yl7dle)](#3-love-letter-full-review-here) | Love Letter | 2–6 | 20 min | $ | — |
-| [![Sea Salt & Paper box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Sea_Salt_Paper_ns6b2f)](#4-sea-salt-paper) | Sea Salt & Paper | 2–4 | 30 min | $$ | — |
-| [![No Thanks! box art](https://res.cloudinary.com/dt4ujaczs/image/upload/No_Thanks_ipxgsz)](#5-no-thanks) | No Thanks! | 3–7 | 20 min | $ | — |
-| [![Deep Sea Adventure box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Deep_Sea_Adventure_ud2j6h)](#6-deep-sea-adventure) | Deep Sea Adventure | 2–6 | 30 min | $$ | 4.6 / 5 |
-| [![Hive box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Hive_zc8kxe)](#7-hive-full-review-here) | Hive | 2 | 20 min | $$ | — |
-| [![Tiny Epic Galaxies box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Tiny_Epic_Galaxies_nteb3m)](#8-tiny-epic-galaxies) | Tiny Epic Galaxies | 1–5 | 30 min | $$ | — |
-| [![The Mind box art](https://res.cloudinary.com/dt4ujaczs/image/upload/The_Mind_kqfuw9)](#9-the-mind) | The Mind | 2–4 | 15 min | $ | — |
-| [![Coup box art](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul)](#10-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
+| [![Sprawlopolis box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070121/Sprawlopolis_vz3gj7.webp)](#1-sprawlopolis) | Sprawlopolis | 1–4 | 15–20 min | $ | — |
+| [![Scout box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070116/Scout_w9mz05.jpg)](#2-scout) | Scout | 2–5 | 20 min | $$ | — |
+| [![Love Letter box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070113/Love_Letter_yl7dle.jpg)](#3-love-letter-full-review-here) | Love Letter | 2–6 | 20 min | $ | — |
+| [![Sea Salt & Paper box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070117/Sea_Salt_Paper_ns6b2f.jpg)](#4-sea-salt-paper) | Sea Salt & Paper | 2–4 | 30 min | $$ | — |
+| [![No Thanks! box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070114/No_Thanks_ipxgsz.jpg)](#5-no-thanks) | No Thanks! | 3–7 | 20 min | $ | — |
+| [![Deep Sea Adventure box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070112/Deep_Sea_Adventure_ud2j6h.jpg)](#6-deep-sea-adventure) | Deep Sea Adventure | 2–6 | 30 min | $$ | 4.6 / 5 |
+| [![Hive box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300122/Hive_zc8kxe.jpg)](#7-hive-full-review-here) | Hive | 2 | 20 min | $$ | — |
+| [![Tiny Epic Galaxies box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070119/Tiny_Epic_Galaxies_nteb3m.jpg)](#8-tiny-epic-galaxies) | Tiny Epic Galaxies | 1–5 | 30 min | $$ | — |
+| [![The Mind box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070118/The_Mind_kqfuw9.jpg)](#9-the-mind) | The Mind | 2–4 | 15 min | $ | — |
+| [![Coup box art](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#10-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
 
 ---
 
 ## 1. Sprawlopolis
 
-[![Sprawlopolis](https://res.cloudinary.com/dt4ujaczs/image/upload/Sprawlopolis_vz3gj7)](https://buttonshygames.com/products/sprawlopolis)
+[![Sprawlopolis](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070121/Sprawlopolis_vz3gj7.webp)](https://buttonshygames.com/products/sprawlopolis)
 
 Sprawlopolis is eighteen cards in a little vinyl wallet, and it is the game I pull out to convince people that micro games are real games. You'd never guess how much brain it asks for from looking at it.
 
@@ -79,7 +79,7 @@ It's cheap, it's the size of a wallet, and the replay value is genuinely absurd 
 
 ## 2. Scout
 
-[![Scout](https://res.cloudinary.com/dt4ujaczs/image/upload/Scout_w9mz05)](https://www.amazon.com/dp/B09Q99T87T/?tag=hexagamers-20)
+[![Scout](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070116/Scout_w9mz05.jpg)](https://www.amazon.com/dp/B09Q99T87T/?tag=hexagamers-20)
 
 Scout comes in an Oink Games box barely bigger than the cards inside it, and it took a card-game idea everyone thought was finished and found something new in it. It got a Spiel des Jahres nomination for good reason.
 
@@ -95,7 +95,7 @@ It plays best at four or five, where the table fills with sets and the scouting 
 
 ## 3. Love Letter ([Full Review Here](/blog/love-letter-review/))
 
-[![Love Letter](https://res.cloudinary.com/dt4ujaczs/image/upload/Love_Letter_yl7dle)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
+[![Love Letter](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070113/Love_Letter_yl7dle.jpg)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
 
 If there's a game that defined the modern micro game, it's Love Letter. Sixteen cards. That's the whole thing, plus a few tokens to track who's winning rounds. It proved you could build real deduction and tension out of almost nothing, and a decade of tiny games followed in its wake.
 
@@ -111,7 +111,7 @@ It's cheap, it's tiny, and it teaches in under a minute. If you want the cleanes
 
 ## 4. Sea Salt & Paper
 
-[![Sea Salt & Paper](https://res.cloudinary.com/dt4ujaczs/image/upload/Sea_Salt_Paper_ns6b2f)](https://www.amazon.com/dp/B0CFMY3SW2/?tag=hexagamers-20)
+[![Sea Salt & Paper](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070117/Sea_Salt_Paper_ns6b2f.jpg)](https://www.amazon.com/dp/B0CFMY3SW2/?tag=hexagamers-20)
 
 Sea Salt & Paper is the prettiest game on this list and one of the smartest for its size. The cards are origami-style ocean illustrations, and under that calm surface is a genuinely sharp little hand-management game.
 
@@ -127,7 +127,7 @@ It needs a small box rather than a true wallet, so it loses a hair on portabilit
 
 ## 5. No Thanks!
 
-[![No Thanks!](https://res.cloudinary.com/dt4ujaczs/image/upload/No_Thanks_ipxgsz)](https://www.amazon.com/dp/B013FAC4FK/?tag=hexagamers-20)
+[![No Thanks!](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070114/No_Thanks_ipxgsz.jpg)](https://www.amazon.com/dp/B013FAC4FK/?tag=hexagamers-20)
 
 No Thanks! is a deck of numbered cards and a pile of chips, and the whole game is one agonizing decision repeated over and over: take the card, or pay to pass it on.
 
@@ -143,7 +143,7 @@ Light, fast, and small enough to vanish into a jacket. It's been around for year
 
 ## 6. Deep Sea Adventure
 
-[![Deep Sea Adventure](https://res.cloudinary.com/dt4ujaczs/image/upload/Deep_Sea_Adventure_ud2j6h)](https://www.amazon.com/dp/B0DKP7Q966/?tag=hexagamers-20)
+[![Deep Sea Adventure](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070112/Deep_Sea_Adventure_ud2j6h.jpg)](https://www.amazon.com/dp/B0DKP7Q966/?tag=hexagamers-20)
 
 Deep Sea Adventure is a tiny Oink box about a group of broke divers sharing one submarine, one air supply, and zero common sense. It is one of the meanest, funniest push-your-luck games I've played, and it fits in a coat pocket.
 
@@ -159,7 +159,7 @@ It's a quick, loud, cruel little game, and the small footprint makes the big swi
 
 ## 7. Hive ([Full Review Here](/blog/hive-review/))
 
-[![Hive](https://res.cloudinary.com/dt4ujaczs/image/upload/Hive_zc8kxe)](https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20)
+[![Hive](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300122/Hive_zc8kxe.jpg)](https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20)
 
 Hive is the odd one out here. No cards at all, just a bag of chunky hexagonal tiles. But it belongs on any micro game list because it's a full two-player abstract strategy game with zero board. The tiles *are* the board, and you build the playing field as you go.
 
@@ -175,7 +175,7 @@ Get the Pocket version and it travels anywhere. The tiles shrug off a wobbly cam
 
 ## 8. Tiny Epic Galaxies
 
-[![Tiny Epic Galaxies](https://res.cloudinary.com/dt4ujaczs/image/upload/Tiny_Epic_Galaxies_nteb3m)](https://www.amazon.com/dp/B015QHVZCI/?tag=hexagamers-20)
+[![Tiny Epic Galaxies](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070119/Tiny_Epic_Galaxies_nteb3m.jpg)](https://www.amazon.com/dp/B015QHVZCI/?tag=hexagamers-20)
 
 Tiny Epic Galaxies is the one that made me stop doubting that a real strategy game could fit in a tiny box. The whole "Tiny Epic" line is built on that promise, and Galaxies is where it clicks hardest.
 
@@ -191,7 +191,7 @@ If you want the brainiest game on this list, this is it. There's also an even sm
 
 ## 9. The Mind
 
-[![The Mind](https://res.cloudinary.com/dt4ujaczs/image/upload/The_Mind_kqfuw9)](https://www.amazon.com/dp/B07C4F3KLF/?tag=hexagamers-20)
+[![The Mind](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070118/The_Mind_kqfuw9.jpg)](https://www.amazon.com/dp/B07C4F3KLF/?tag=hexagamers-20)
 
 The Mind shouldn't work. The first time someone explained the rules to me I genuinely thought they were pulling my leg.
 
@@ -207,7 +207,7 @@ It's cooperative and tiny and it creates a kind of quiet focus most games never 
 
 ## 10. Coup ([Full Review Here](/blog/coup-review/))
 
-[![Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is the most game you can possibly cram into a pocket. Fifteen character cards, a handful of coins, done. What comes out of those fifteen cards is pure bluffing warfare.
 
