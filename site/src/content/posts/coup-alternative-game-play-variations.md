@@ -18,8 +18,8 @@ Coup is a 15-minute bluffing game where you lie to, steal from, tax, assassinate
 
 After enough plays, any game can start to feel familiar. Before you put it back on the shelf, try some of these variations. We've tested most of these extensively, a few just a handful of times, and flagged one we found online that looked worth trying.
 
-> New to Coup? Start with our [How To Play Coup – Simplified](/blog/coup-how-to-play-simplified/) guide.
-> Read our full [Coup Review](/blog/coup-review/).
+> New to Coup? Start with our [How To Play Coup – Simplified](/coup-how-to-play-simplified/) guide.
+> Read our full [Coup Review](/coup-review/).
 
 > **Note:** We won't re-explain the base rules here — these are add-ons and swaps, not replacements.
 

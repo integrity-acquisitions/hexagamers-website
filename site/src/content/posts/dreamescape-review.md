@@ -16,7 +16,7 @@ description: "DreamEscape is an escape room company based in Leduc, Alberta, tha
 
 DreamEscape is an escape room company based in Leduc, Alberta, that also hosts board games and events. We reviewed two of their rooms: Escape The Puzzler and Empress Hotel.
 
-> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/best-edmonton-escape-rooms-and-companies/)
 
 ## The Venue
 

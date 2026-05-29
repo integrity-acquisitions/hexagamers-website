@@ -26,9 +26,9 @@ description: "If you are done with board games you can play by yourself, and are
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-party-board-games_ngfjyl.png "Best party board games")
 
-If you are done with [board games you can play by yourself](/blog/best-one-player-solo-board-games-with-reviews/), and are ready to invite some people over, we have just the list of games for you to try. This list of the best party board games has been narrowed down from 100’s of options to help you get the most out of your night.
+If you are done with [board games you can play by yourself](/best-one-player-solo-board-games-with-reviews/), and are ready to invite some people over, we have just the list of games for you to try. This list of the best party board games has been narrowed down from 100’s of options to help you get the most out of your night.
 
-Back in the day, you might remember your parents playing games like Pictionary, Charades, Trivial Pursuit, or maybe even Scattegories. All of which are great classic games, but everyone has played those to death. In fact many would have made the list except there are none [modern day games](/blog/everything-you-need-to-know-about-board-games/) that involve a lot of the same concepts, but with a different twist to them.
+Back in the day, you might remember your parents playing games like Pictionary, Charades, Trivial Pursuit, or maybe even Scattegories. All of which are great classic games, but everyone has played those to death. In fact many would have made the list except there are none [modern day games](/everything-you-need-to-know-about-board-games/) that involve a lot of the same concepts, but with a different twist to them.
 
 That is what we are exploring in this list. We have picked our favourite party board games based on a few criteria in hope that our list will help you find something that will work perfectly for your group of guests.
 
@@ -57,14 +57,14 @@ As always, we encourage you to contribute with your thoughts and suggestions in 
 | ![Pit Board Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Pit_wklzl7.jpg) |   Pit   |   3-8   |   10-90 min   |   $   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Would-You-Rather_q2u33b.jpg) |   Would You Rather?   |   3-8   |   20 min   |   $   |  |
 
-## 1. Codenames ([Full Review Here](/blog/codenames-review/))
+## 1. Codenames ([Full Review Here](/codenames-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
 
 Codenames is first on our list because of its immense popularity with our group (and others). It was recommended to us by a few different groups of gamers, and we have since recommended it to others as well.
 
-In this game you and your fellow spies are trying to get in contact with the agents in the field that are using codenames. One player is the spymaster and must give a one word (and a number) clue to connect various agents on the 5 x 5 grid. Your team must correctly guess which agents are on your side before the rival gang does the same with their team. For a quick understanding of how this game works check out our [How To Play Codenames: Simplified](/blog/codenames-how-to-play-simplified/).
+In this game you and your fellow spies are trying to get in contact with the agents in the field that are using codenames. One player is the spymaster and must give a one word (and a number) clue to connect various agents on the 5 x 5 grid. Your team must correctly guess which agents are on your side before the rival gang does the same with their team. For a quick understanding of how this game works check out our [How To Play Codenames: Simplified](/codenames-how-to-play-simplified/).
 
 This game is great since it is super easy to set up and super easy to learn. Although this one has some slight strategy to it (unlike many others on the list), everyone will understand it within a few minutes or 1 round of play.
 
@@ -81,7 +81,7 @@ So many reasons why this is on our list of top party board games, definitely add
 As an additional note here. They have come up with a whole bunch of different versions of this game. There is everything from pictures, to disney, to adult themes, so be sure to find the one that best fits your group.
 
 <a href="https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 2. Cards Against Humanity ([Full Review Here](/blog/cards-against-humanity-review/))
+## 2. Cards Against Humanity ([Full Review Here](/cards-against-humanity-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Cards-Against-Humanity_ebqnyd.jpg)](https://www.amazon.com/dp/B004S8F7QM/?tag=hexagamers-20)
@@ -127,7 +127,7 @@ This one is easy to play whether you want to go a few rounds or have it take up 
 It is a simple game, so it is easy to teach and learn, with lots of great laughs throughout the game. There is a reason this game did so well on Kickstarter and it is rated so high as a party game. We highly recommend it.
 
 <a href="http://amzn.to/2n7YFtJ" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 4. Catch Phrase! ([Full Review Here](/blog/catch-phrase-review/))
+## 4. Catch Phrase! ([Full Review Here](/catch-phrase-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305588/Catch-Phrase.jpg)](http://amzn.to/2mOwPAk)
@@ -151,7 +151,7 @@ It is a great party board game that anyone of any age can enjoy. They also have 
 Note: If you like the concept of having your team trying to guess your clue without using certain words, you might also like Taboo. Which is similar, but you have a larger list of ‘taboo’ words you can’t say to your team (much harder).
 
 <a href="http://amzn.to/2mOwPAk" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 5. Time’s Up! ([Full Review Here](/blog/times-up-review/))
+## 5. Time’s Up! ([Full Review Here](/times-up-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Times-Up_qu7ihg.jpg)](https://www.amazon.com/dp/B014D21HH0/?tag=hexagamers-20)
@@ -225,7 +225,7 @@ This is one you probably won’t play all night, but is a good way to get people
 This game has a tonne of reviews on Amazon, and is a highly rated party game for a reason.
 
 <a href="http://amzn.to/2n80Opk" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 8. Wits and Wagers Party ([Full Review Here](/blog/wits-and-wagers-review/))
+## 8. Wits and Wagers Party ([Full Review Here](/wits-and-wagers-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Wits-and-Wagers-Party-Edition_vnulhk.jpg)](http://amzn.to/2n2gNDO)
@@ -245,7 +245,7 @@ This game is really quick, but like most games of this nature, the cards could g
 This one doesn’t have a lot of yelling or isn’t super high energy, but does have a lot of player interaction and excitement, which is why it made it in as one of the top party board games.
 
 <a href="http://amzn.to/2n2gNDO" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 9. Pit ([Full Review Here](/blog/pit-review/))
+## 9. Pit ([Full Review Here](/pit-review/))
 
 
 [![Pit Board Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Pit_wklzl7.jpg)](http://amzn.to/2nYn0jj)
@@ -300,4 +300,4 @@ We included a link to one of the best deals on Amazon, which is a great starting
 
 We know that everyone parties a little bit different from one another, so we tried to include a big variety of games in our list so that everyone could find something to suit their own party/guests. Your mileage will vary with every game and with different groups of people, so keep that in mind. There are loads of party games available and we couldn’t include all of them on our list of best party board games, so if there are some you think people should know about, let us know in the comments. We are constantly trying new board games, so we will keep this list updated if we find another great party game.
 
-Looking for a Board Games you can all play cooperatively? Check out...[Top Cooperative Board Games](/blog/best-cooperative-board-games/)
+Looking for a Board Games you can all play cooperatively? Check out...[Top Cooperative Board Games](/best-cooperative-board-games/)

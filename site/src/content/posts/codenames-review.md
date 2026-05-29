@@ -25,7 +25,7 @@ Two rival spy teams race to make contact with their agents. The only clues are o
   <div class="stat"><span class="stat-value">14+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play Codenames – Simplified](/blog/codenames-how-to-play-simplified/)
+> See also: [How To Play Codenames – Simplified](/codenames-how-to-play-simplified/)
 
 ## Ryan's Review
 

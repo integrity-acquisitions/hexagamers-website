@@ -33,7 +33,7 @@ But what if you feel like playing by yourself? What if you like the challenge of
 
 There are so many of these solo board games that there is now a whole community (guild) dedicated to it on [Board Game Geek](https://boardgamegeek.com/guild/1303). Some of the information can take a lot of reading to sift through, so that’s why we made up a list of the best one player board games for you.
 
-Some of the games on the list are [cooperative board games](/blog/best-cooperative-board-games/) (Pandemic), some are [deck building board games](/blog/best-deck-building-board-games/) (Friday), some are strategy based (Mage Knight). Lots of the best solo board games can be played with more than one person, but all of them can be played by yourself. In certain scenarios this means playing by a specific set of rules outlined in the game box.
+Some of the games on the list are [cooperative board games](/best-cooperative-board-games/) (Pandemic), some are [deck building board games](/best-deck-building-board-games/) (Friday), some are strategy based (Mage Knight). Lots of the best solo board games can be played with more than one person, but all of them can be played by yourself. In certain scenarios this means playing by a specific set of rules outlined in the game box.
 
 The type of multiple player games that you like to play will highly correlate to the ones you enjoy individually in most cases, but often times these one player versions can feel like you are playing a video game style game so keep that in mind when venturing down this path…by yourself.
 
@@ -62,7 +62,7 @@ As always, you may or may not agree with the choices made on this list of the to
 
 You are a Mage Knight in this game that must level yourself up, build your army, and generally get stronger (cards in your deck) as the game progresses. You will explore dungeons, caves, and even try to conquer cities as you go. Trying to avoid getting hurt and thus making your deck weaker.
 
-This game has a great mix of a few different genres, including [deck building](/blog/guide-to-understanding-deck-building-games/), Role Playing Game, and your traditional board game. This mix creates versatility to attract a number of players.
+This game has a great mix of a few different genres, including [deck building](/guide-to-understanding-deck-building-games/), Role Playing Game, and your traditional board game. This mix creates versatility to attract a number of players.
 
 This game is also versatile since it can be played co-operatively with other people, as it is built for 1-4 players, with special rules for the single player game.
 
@@ -119,7 +119,7 @@ It can be hard to introduce new players to the game (if you feel like playing wi
 This game has a lot of strategy, and definitely some luck involved with a bit of dice rolling and randomness of the cards. The games can be long, and the theme is immersive, so it that is why it ranks so highly on our top solo board game list!
 
 <a href="http://amzn.to/2nu1SFf" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 4. Agricola ([Full Review Here](/blog/agricola-review/))
+## 4. Agricola ([Full Review Here](/agricola-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://amzn.to/2n7G8Od)
@@ -132,7 +132,7 @@ This people placing board game has you cultivating fields, planting crops, build
 
 This game is designed for 1-4 players, with a slight change to the rules for the solo variant. It is a very strategic game in that you will be constantly trying to decide where to put your meeples on the board in order to help develop your farm.
 
-The game can be a little intimidating the first time you play it, as there are a lot of rules and directions to take things. That said, however, once you understand the game, the mechanics make sense and it’s only a matter of figuring out what you want to do next. See [How To Play Agricola Simplified](/blog/agricola-how-to-play-simplified/) here.
+The game can be a little intimidating the first time you play it, as there are a lot of rules and directions to take things. That said, however, once you understand the game, the mechanics make sense and it’s only a matter of figuring out what you want to do next. See [How To Play Agricola Simplified](/agricola-how-to-play-simplified/) here.
 
 The farming theme of this game is fantastic through the whole game. Plus, we really see the benefit of having the point values of everything laid out right in front of you, helping your decision making.
 
@@ -140,7 +140,7 @@ As the game progresses there are more options available for you to do, but harve
 
 This game makes a great single player board game, but is also one of the best board games out there in general.
 
-As a note on this one, this game also has a big brother/sister in Caverna, where you farm and also go on adventures exploring caves, if that sounds more up your alley! We also have done a [Caverna vs Agricola](/blog/agricola-vs-caverna-which-game-should-you-buy/) article if you are having trouble deciding!
+As a note on this one, this game also has a big brother/sister in Caverna, where you farm and also go on adventures exploring caves, if that sounds more up your alley! We also have done a [Caverna vs Agricola](/agricola-vs-caverna-which-game-should-you-buy/) article if you are having trouble deciding!
 
 <a href="http://amzn.to/2n7G8Od" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## 5. Eldritch Horror
@@ -189,7 +189,7 @@ There is good replay-ability with this choice, since you can use cards many diff
 The other positives for Imperial Settlers are its price point, and the fact that it has very reasonably priced expansions, if you do enjoy it. Both part of the reason why this has made it in as a top solo board game.
 
 <a href="http://amzn.to/2mJLwDI" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 7. Pandemic ([Full Review Here](/blog/codenames-review/))
+## 7. Pandemic ([Full Review Here](/codenames-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://amzn.to/2n26akg)
@@ -261,4 +261,4 @@ This game works well as a solo player board game, and also with more players inv
 
 It was really tough narrowing down our top solo board games. I’m sure there are a number that could be on the list but aren’t. In fact we will update this list from time to time as new games come out and/or our thoughts change. Whether you are looking to battle, farm, survive, or simply collect victory points, hopefully you will find a game you love and can play by yourself. And as always, we like to hear your opinion on your favourite one player board games. It helps us, and your fellow readers find the game that is right for them.
 
-Looking to find some more Cooperative Board Games? Check out...[Our Top Coop Board Game List](/blog/best-cooperative-board-games/)
+Looking to find some more Cooperative Board Games? Check out...[Our Top Coop Board Game List](/best-cooperative-board-games/)

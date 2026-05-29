@@ -21,7 +21,7 @@ Everyone guesses a numerical answer to a trivia question, then bets on which ans
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> Featured on: [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ## Tito's Review
 

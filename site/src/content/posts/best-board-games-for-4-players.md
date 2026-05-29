@@ -52,7 +52,7 @@ We pulled from BoardGameGeek community polls, Reddit recommendations, and severa
 
 ---
 
-## 1. Catan ([Full Review Here](/blog/catan-review/))
+## 1. Catan ([Full Review Here](/catan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
@@ -68,7 +68,7 @@ My quick take: it isn't my favourite game, and I understand why people who've pl
 
 ---
 
-## 2. Ticket to Ride ([Full Review Here](/blog/ticket-to-ride-europe-review/))
+## 2. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
@@ -84,7 +84,7 @@ Components are excellent for the price. Small coloured train miniatures, a clean
 
 ---
 
-## 3. Pandemic ([Full Review Here](/blog/pandemic-review/))
+## 3. Pandemic ([Full Review Here](/pandemic-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
@@ -100,7 +100,7 @@ Pandemic has a four-player cap, which keeps it off any "scales to large groups" 
 
 ---
 
-## 4. Carcassonne ([Full Review Here](/blog/carcassone-review/))
+## 4. Carcassonne ([Full Review Here](/carcassone-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479943/hexagamers-box-art/carcassonne.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
@@ -116,7 +116,7 @@ It also introduced us to meeples. Important.
 
 ---
 
-## 5. 7 Wonders ([Full Review Here](/blog/7-wonders-review/))
+## 5. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
@@ -132,7 +132,7 @@ The thirty-minute ceiling is the best thing about it. It's a complete, satisfyin
 
 ---
 
-## 6. Codenames ([Full Review Here](/blog/codenames-review/))
+## 6. Codenames ([Full Review Here](/codenames-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
 
@@ -180,7 +180,7 @@ Setup is involved and games run ninety minutes to two hours. This isn't a pick-u
 
 ---
 
-## 9. Wingspan ([Full Review Here](/blog/wingspan-review/))
+## 9. Wingspan ([Full Review Here](/wingspan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
@@ -220,4 +220,4 @@ For groups ready to go deeper: Wingspan and Viticulture are both excellent mediu
 
 Any four-person group will find something here. That was the point.
 
-> See also: [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) · [Best Cooperative Board Games](/blog/best-cooperative-board-games/) · [Best Worker Placement Games](/blog/best-worker-placement-board-games-reviews/)
+> See also: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) · [Best Cooperative Board Games](/best-cooperative-board-games/) · [Best Worker Placement Games](/best-worker-placement-board-games-reviews/)

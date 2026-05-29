@@ -24,9 +24,9 @@ Four deadly diseases are spreading across the globe. Work together as specialize
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Cooperative Board Games](/blog/best-cooperative-board-games/) · [Best Two Player Board Games](/blog/best-two-player-board-games/) · [Best Gateway Board Games](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> Featured on: [Best Cooperative Board Games](/best-cooperative-board-games/) · [Best Two Player Board Games](/best-two-player-board-games/) · [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> See also: [How To Play Pandemic – Simplified](/blog/pandemic-how-to-play-simplified/)
+> See also: [How To Play Pandemic – Simplified](/pandemic-how-to-play-simplified/)
 
 ## Kaitlyn's Review
 

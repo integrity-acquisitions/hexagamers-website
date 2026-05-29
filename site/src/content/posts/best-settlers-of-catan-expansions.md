@@ -15,11 +15,11 @@ lastModified: 2018-03-14
 description: "Already love Catan but feel like the base game has run its course? Here's our honest rundown of every major Catan expansion and which ones are actually worth buying."
 ---
 
-If you've put in enough games of [Catan](/blog/catan-review/) that you can predict what everyone at the table is thinking the moment the board is laid out, it might be time to add something new.
+If you've put in enough games of [Catan](/catan-review/) that you can predict what everyone at the table is thinking the moment the board is laid out, it might be time to add something new.
 
 The base game is great — we've said that before and we mean it — but there comes a point where you've negotiated over ore and wheat enough times that the thrill starts to flatten. Expansions fix that. The problem is there are a lot of them, and not all of them are worth your money or the extra setup time.
 
-Here's where we landed after playing through the main ones. And if you're shopping for a Catan fan, check out our [Best Catan Gifts](/blog/best-settlers-of-catan-gifts/) list too — expansions make excellent presents.
+Here's where we landed after playing through the main ones. And if you're shopping for a Catan fan, check out our [Best Catan Gifts](/best-settlers-of-catan-gifts/) list too — expansions make excellent presents.
 
 A few things worth knowing before you buy: most of these require the base Catan game to play. Some need a specific player count, so double-check before ordering. And as always, your group might love what ours finds frustrating.
 
@@ -125,6 +125,6 @@ The AI opponents are fine. They'll make you think. They're not a substitute for 
 
 Start with Seafarers — it adds the most variety for the least added complexity, and any group comfortable with base Catan can pick it up in one session. If you want more depth after that, Cities & Knights is where the best long-term Catan experiences live. Traders & Barbarians is the smart third buy, especially for the two-player mode.
 
-If you're shopping for a Catan lover rather than buying for yourself, our [Best Catan Gifts](/blog/best-settlers-of-catan-gifts/) list has you covered. And if you're still debating whether Catan is right for your group in the first place, read our [full Catan review](/blog/catan-review/) first.
+If you're shopping for a Catan lover rather than buying for yourself, our [Best Catan Gifts](/best-settlers-of-catan-gifts/) list has you covered. And if you're still debating whether Catan is right for your group in the first place, read our [full Catan review](/catan-review/) first.
 
 Think we missed an expansion worth recommending? Tell us in the comments — and tell us why. That's the part that actually helps other readers.

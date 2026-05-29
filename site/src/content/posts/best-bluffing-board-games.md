@@ -24,7 +24,7 @@ Bluffing games are the ones where the rules are easy and everything else is hard
 
 What they ask of you is social intelligence: reading people, managing your own tells, deciding when to call someone out and when to let it slide. I've seen people who crush complicated strategy games fall completely apart in a round of Coup. And I've seen someone who'd never played a board game before walk into Skull and immediately become the most dangerous person at the table.
 
-We've played a lot of these. Some are five-minute card games you can learn on the way to the table. Others run an hour and leave everyone exhausted in the best possible way. This list covers both ends of that spectrum — and everything in between. If you're into the social deduction side of this, also check out our [Best Social Deduction Board Games](/blog/best-social-deduction-board-games/) list and [Best Party Board Games](/blog/best-party-board-games-with-reviews/) for more in that vein.
+We've played a lot of these. Some are five-minute card games you can learn on the way to the table. Others run an hour and leave everyone exhausted in the best possible way. This list covers both ends of that spectrum — and everything in between. If you're into the social deduction side of this, also check out our [Best Social Deduction Board Games](/best-social-deduction-board-games/) list and [Best Party Board Games](/best-party-board-games-with-reviews/) for more in that vein.
 
 [Click here to jump to the comparison table...](#best-bluffing-board-games-comparison-table)
 
@@ -65,7 +65,7 @@ It plays in 20–30 minutes, works from 3 to 6 players, and you can teach the ru
 
 <a href="https://www.amazon.com/dp/B08R2BPLSN/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 2. Coup ([Full Review Here](/blog/coup-review/))
+## 2. Coup ([Full Review Here](/coup-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
@@ -83,7 +83,7 @@ Games run 15 minutes. You can fit three or four rounds into an hour easily. At i
 
 <a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 3. The Resistance: Avalon ([Full Review Here](/blog/the-resistance-avalon-review/))
+## 3. The Resistance: Avalon ([Full Review Here](/the-resistance-avalon-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Resistance-Avalon.jpg)](https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20)
 
@@ -117,7 +117,7 @@ Plays in 45–60 minutes with 8–10 people. With 5–6 it's quicker and slightl
 
 <a href="https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 5. Sheriff of Nottingham ([Full Review Here](/blog/sheriff-of-nottingham-review/))
+## 5. Sheriff of Nottingham ([Full Review Here](/sheriff-of-nottingham-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/SheriffNottIN_ar67io.jpg)](https://www.amazon.com/dp/B007EZMABG/?tag=hexagamers-20)
 
@@ -151,7 +151,7 @@ This one travels well. Fits in a jacket pocket. Great warm-up game, great late-n
 
 <a href="https://www.amazon.com/dp/B00FZY9EDK/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 7. Deception: Murder in Hong Kong ([Full Review Here](/blog/deception-murder-hong-kong/))
+## 7. Deception: Murder in Hong Kong ([Full Review Here](/deception-murder-hong-kong/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_-_Murder_in_Hong_Kong_cezq66.jpg)](https://www.amazon.com/dp/B01JLXP2IG/?tag=hexagamers-20)
 
@@ -221,4 +221,4 @@ If you want the fastest possible entry point, start with Skull or Cockroach Poke
 
 Any of these will earn a spot in your regular rotation. The real question is which kind of liar your group wants to be.
 
-If you're into games with social deduction and player interaction, you might also enjoy our [Best Social Deduction Board Games](/blog/best-social-deduction-board-games/) list or take a look at the [Coup Review](/blog/coup-review/) if you want a deeper look at our favourite on this list.
+If you're into games with social deduction and player interaction, you might also enjoy our [Best Social Deduction Board Games](/best-social-deduction-board-games/) list or take a look at the [Coup Review](/coup-review/) if you want a deeper look at our favourite on this list.

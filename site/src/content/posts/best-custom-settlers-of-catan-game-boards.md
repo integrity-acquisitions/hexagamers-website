@@ -16,7 +16,7 @@ description: "Catan or Settlers of Catan as many still know it, is one of the mo
 
 ![Best Custom Catan Boards](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305600/Custom-Catan-Boards-Header.jpg)
 
-[Catan](/blog/catan-review/) or Settlers of Catan as many still know it, is one of the more popular strategy board games on the market. It is great for beginners (it made it on to our [top board games for beginners list](/blog/best-gateway-board-games-for-beginners-with-reviews/)), but also stand the test of time.
+[Catan](/catan-review/) or Settlers of Catan as many still know it, is one of the more popular strategy board games on the market. It is great for beginners (it made it on to our [top board games for beginners list](/best-gateway-board-games-for-beginners-with-reviews/)), but also stand the test of time.
 
 Some people love the game so much that they decided to create their own custom boards for playing Catan. We thought this was such an awesome idea that we wanted to shine a light on some of our favorite custom boards.
 
@@ -136,7 +136,7 @@ Speaking of creativity… When making the list of best custom Catan boards, this
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F278158828%2Flego-brick-board-for-settlers-of-catan" target="_blank" rel="noopener"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299833/Custom-Catan-Board-10e_q74oev.jpg" alt="Custom Catan Board 10e" loading="lazy"></a>
 </div>
 
-If you happen to have some unused lego lying around (or just want to pay someone else to make it for you) then this lego board is worth a look! The board fits together perfectly and you can mix up the tiles as well. One extra bonus is if someone ever does the [table flip move](/blog/monopoly-ending-poorly/) after a frustrating game you will be able to piece it back together like it never happened.
+If you happen to have some unused lego lying around (or just want to pay someone else to make it for you) then this lego board is worth a look! The board fits together perfectly and you can mix up the tiles as well. One extra bonus is if someone ever does the [table flip move](/monopoly-ending-poorly/) after a frustrating game you will be able to piece it back together like it never happened.
 
 ## 11. [Adult Lego Board](http://brickloft.org/post/156850057084/lego-catan)
 

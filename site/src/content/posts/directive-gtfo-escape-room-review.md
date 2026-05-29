@@ -16,7 +16,7 @@ description: "GTFO's hardest room. A 45-minute mission to infiltrate, complete a
 
 GTFO's hardest room. A 45-minute mission to infiltrate, complete an objective, and escape undetected. Recommended for 6 players and experienced teams only.
 
-> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/best-edmonton-escape-rooms-and-companies/)
 
 ## Our Experience
 

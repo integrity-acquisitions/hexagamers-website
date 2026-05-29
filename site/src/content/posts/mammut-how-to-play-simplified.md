@@ -24,7 +24,7 @@ description: "It's the prehistoric era and your tribe has just returned from a m
 
 It's the prehistoric era and your tribe has just returned from a mammoth hunt. Now you must divide the spoils — but other tribe members can steal your entire haul when it's their turn. After 5 hunts, whoever has built the best collection for their family wins.
 
-> Our full review: [Mammut Review](/blog/mammut-review/)
+> Our full review: [Mammut Review](/mammut-review/)
 
 ## Overview
 

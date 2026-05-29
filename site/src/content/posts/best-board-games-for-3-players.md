@@ -23,7 +23,7 @@ We've spent a lot of nights at three-player tables, and this list is built aroun
 
 A few things we looked for: balance (nobody gets eliminated and watches for an hour), meaningful player interaction, and a playtime that doesn't require a full Saturday. We kept the list accessible — nothing here is punishingly complex for newer players, but there's enough going on to keep experienced gamers interested.
 
-If you're looking for more specific lists, check out our [Best Board Games for Couples](/blog/best-board-games-for-couples/) or [Best Board Games for 4 Players](/blog/best-board-games-for-4-players/).
+If you're looking for more specific lists, check out our [Best Board Games for Couples](/best-board-games-for-couples/) or [Best Board Games for 4 Players](/best-board-games-for-4-players/).
 
 ---
 
@@ -46,7 +46,7 @@ If you're looking for more specific lists, check out our [Best Board Games for C
 
 ---
 
-## 1. Catan ([Full Review Here](/blog/catan-review/))
+## 1. Catan ([Full Review Here](/catan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
@@ -66,7 +66,7 @@ We've had some of our most competitive post-game conversations over Catan. It's 
 
 ---
 
-## 2. Ticket to Ride ([Full Review Here](/blog/ticket-to-ride-europe-review/))
+## 2. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
 
@@ -86,7 +86,7 @@ Ticket to Ride is one of those games that feels breezy while you're playing it, 
 
 ---
 
-## 3. Pandemic ([Full Review Here](/blog/pandemic-review/))
+## 3. Pandemic ([Full Review Here](/pandemic-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015892/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
@@ -106,7 +106,7 @@ Strong pick for any three-person group, especially if you want something collabo
 
 ---
 
-## 4. Azul ([Full Review Here](/blog/azul-review/))
+## 4. Azul ([Full Review Here](/azul-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
@@ -126,7 +126,7 @@ One of our favorites. Comes out constantly.
 
 ---
 
-## 5. Wingspan ([Full Review Here](/blog/wingspan-review/))
+## 5. Wingspan ([Full Review Here](/wingspan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
@@ -146,7 +146,7 @@ At three, the pace is right and the competition is real without being aggressive
 
 ---
 
-## 6. Splendor ([Full Review Here](/blog/splendor-review/))
+## 6. Splendor ([Full Review Here](/splendor-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015893/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
@@ -164,7 +164,7 @@ A great filler that doesn't feel like a filler. Easy to teach, quick to play, an
 
 ---
 
-## 7. Carcassonne ([Full Review Here](/blog/carcassonne-review/))
+## 7. Carcassonne ([Full Review Here](/carcassonne-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
@@ -182,7 +182,7 @@ The meeple tension is what makes three the right number here. You only have a li
 
 ---
 
-## 8. Dominion ([Full Review Here](/blog/dominion-review/))
+## 8. Dominion ([Full Review Here](/dominion-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
@@ -200,7 +200,7 @@ Dominion invented the deck-building genre. You start with a weak hand of cards, 
 
 ---
 
-## 9. Coup ([Full Review Here](/blog/coup-review/))
+## 9. Coup ([Full Review Here](/coup-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
@@ -218,7 +218,7 @@ At three, the game is quick, tight, and merciless.
 
 ---
 
-## 10. Agricola ([Full Review Here](/blog/agricola-review/))
+## 10. Agricola ([Full Review Here](/agricola-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
 
@@ -244,4 +244,4 @@ For a quick evening, Azul or Coup are the two we reach for first at three player
 
 If you're building a collection from scratch, start with Catan — it works at three, scales to four when you need it, and gives you a foundation to compare everything else against.
 
-For more game recommendations, check out our [Best Board Games for Couples](/blog/best-board-games-for-couples/) or [Best Board Games for 4 Players](/blog/best-board-games-for-4-players/).
+For more game recommendations, check out our [Best Board Games for Couples](/best-board-games-for-couples/) or [Best Board Games for 4 Players](/best-board-games-for-4-players/).

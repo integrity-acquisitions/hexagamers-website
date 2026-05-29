@@ -22,7 +22,7 @@ Think you have a quick enough wit to give clues on the spot? Get your team to gu
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> Featured on: [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ## Ryan's Review
 

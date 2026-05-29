@@ -15,7 +15,7 @@ description: "We hosted our first murder mystery party using an 80s-themed downl
 
 We hosted our first murder mystery party using an 80s-themed download from MyMysteryParty.com. This is a no-spoilers review covering the purchase experience, document quality, and how the night played out.
 
-> Featured on: [Best Murder Mystery Party Companies](/blog/best-murder-mystery-party-companies/)
+> Featured on: [Best Murder Mystery Party Companies](/best-murder-mystery-party-companies/)
 
 ## Ryan's Review
 

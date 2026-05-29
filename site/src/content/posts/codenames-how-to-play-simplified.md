@@ -23,7 +23,7 @@ Two spy teams compete to contact all their agents first. Your Spymaster gives on
   <div class="stat"><span class="stat-value">14+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [Codenames Review](/blog/codenames-review/)
+> Our full review: [Codenames Review](/codenames-review/)
 
 ## Setup
 

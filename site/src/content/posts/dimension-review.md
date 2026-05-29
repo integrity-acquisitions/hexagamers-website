@@ -23,7 +23,7 @@ Race the clock to stack coloured balls in a pyramid that satisfies a randomly dr
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play Dimension – Simplified](/blog/dimension-how-to-play-simplified/)
+> See also: [How To Play Dimension – Simplified](/dimension-how-to-play-simplified/)
 
 ## Ryan's Review
 

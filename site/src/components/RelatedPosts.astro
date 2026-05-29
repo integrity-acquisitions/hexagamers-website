@@ -55,7 +55,7 @@ const categoryLabel: Record<string, string> = {
           month: 'short', day: 'numeric', year: 'numeric'
         });
         return (
-          <a href={`${base}/blog/${post.id}/`} class="related-card">
+          <a href={`${base}/${post.id}/`} class="related-card">
             <div class="related-img">
               {coverImage
                 ? <img src={coverImage} alt={title} loading="lazy" />

@@ -17,7 +17,7 @@ description: "> **Disclaimer:** We haven't played every game on this list — th
 
 > **Disclaimer:** We haven't played every game on this list — this is a consolidated research guide. As we play more, we'll update it with first-hand reviews.
 
-After playing [Deception: Murder in Hong Kong](/blog/deception-murder-hong-kong/) and loving escape rooms, we wanted something different for our group. Planning a murder mystery party for the first time is overwhelming — there's a sea of options and almost no objective reviews.
+After playing [Deception: Murder in Hong Kong](/deception-murder-hong-kong/) and loving escape rooms, we wanted something different for our group. Planning a murder mystery party for the first time is overwhelming — there's a sea of options and almost no objective reviews.
 
 We dug deep so you don't have to.
 
@@ -139,6 +139,6 @@ Their example sums it up well: Joe steals a vase from Mary. Kim sees it. Kim can
 
 Any of these companies will give you a memorable night. We chose unscripted games because we love the chaos of genuine reactions — but scripted options exist too if your group prefers structure.
 
-If you're hosting a big group, also check out our [Best Party Board Games](/blog/best-party-board-games-with-reviews/) list. And if your crowd is newer to gaming, [Best Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) is a good companion read.
+If you're hosting a big group, also check out our [Best Party Board Games](/best-party-board-games-with-reviews/) list. And if your crowd is newer to gaming, [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) is a good companion read.
 
 Let us know in the comments which company you tried and how it went — real reviews from real groups help everyone make a better choice.

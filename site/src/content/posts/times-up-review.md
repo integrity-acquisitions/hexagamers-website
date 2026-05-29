@@ -21,7 +21,7 @@ Teams compete to guess famous, historical, and fictional names across three prog
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> Featured on: [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ## Ryan's Review
 

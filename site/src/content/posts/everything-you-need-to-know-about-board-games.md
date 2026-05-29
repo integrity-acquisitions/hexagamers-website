@@ -37,9 +37,9 @@ Start small and work up. If you're overwhelmed, try a **board game café** first
 
 ![Table Top Cafe in Edmonton, AB](https://res.cloudinary.com/dt4ujaczs/image/upload/TableTopCafe-EdmontonAB_oebtxw.jpg)
 
-The most popular gateway game is [Catan](/blog/catan-review/). It's widely played, easy to find someone who already knows it, and straightforward enough to pick up quickly. If you want a full list, check out our [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/).
+The most popular gateway game is [Catan](/catan-review/). It's widely played, easy to find someone who already knows it, and straightforward enough to pick up quickly. If you want a full list, check out our [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/).
 
-[![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](/blog/catan-review/)
+[![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](/catan-review/)
 
 ---
 
@@ -110,40 +110,40 @@ Games often fit multiple categories — these "mechanics" are the framework of h
 
 ### Deck Building
 
-You build your hand/deck throughout the game using cards you acquire. See [Dominion](/blog/dominion-review/) and [Splendor](/blog/splendor-review/).
+You build your hand/deck throughout the game using cards you acquire. See [Dominion](/dominion-review/) and [Splendor](/splendor-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/dominion-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg" alt="Dominion" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/splendor-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/P1020774-e1490403854185_cydxqh.jpg" alt="Splendor" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/dominion-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg" alt="Dominion" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/splendor-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/P1020774-e1490403854185_cydxqh.jpg" alt="Splendor" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Our Guide to Deck Building Games](/blog/guide-to-understanding-deck-building-games/) · [Best Deck Building Games](/blog/best-deck-building-board-games/)
+> [Our Guide to Deck Building Games](/guide-to-understanding-deck-building-games/) · [Best Deck Building Games](/best-deck-building-board-games/)
 
 ---
 
 ### Co-operative
 
-Everyone works together against the game itself. See [Pandemic](/blog/pandemic-review/), [Betrayal at House on the Hill](/blog/betrayal-at-house-on-the-hill-review/), and [Flash Point: Fire Rescue](/blog/flash-point-fire-rescue-review/).
+Everyone works together against the game itself. See [Pandemic](/pandemic-review/), [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/), and [Flash Point: Fire Rescue](/flash-point-fire-rescue-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/pandemic-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg" alt="Pandemic" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/betrayal-at-house-on-the-hill-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg" alt="Betrayal at House on the Hill" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/flash-point-fire-rescue-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg" alt="Flash Point" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/pandemic-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg" alt="Pandemic" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/betrayal-at-house-on-the-hill-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg" alt="Betrayal at House on the Hill" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/flash-point-fire-rescue-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg" alt="Flash Point" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Cooperative Board Games](/blog/best-cooperative-board-games/)
+> [Best Cooperative Board Games](/best-cooperative-board-games/)
 
 ---
 
 ### Party Games
 
-Large groups, team vs. team, lots of laughs. Light on strategy, heavy on fun. See [Wits & Wagers](/blog/wits-and-wagers-review/) and Time's Up!
+Large groups, team vs. team, lots of laughs. Light on strategy, heavy on fun. See [Wits & Wagers](/wits-and-wagers-review/) and Time's Up!
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/wits-and-wagers-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Wits-and-Wagers_o0ldar.jpg" alt="Wits and Wagers" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/wits-and-wagers-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Wits-and-Wagers_o0ldar.jpg" alt="Wits and Wagers" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ---
 
@@ -155,90 +155,90 @@ Designed specifically for two, or adapted to work as a duel. Great for couples. 
   <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/7-Wonders-Duel_mmyudp.jpg" alt="7 Wonders Duel" style="border-radius:8px;max-width:280px;object-fit:cover;aspect-ratio:4/3" />
 </div>
 
-> [Best Two-Player Board Games](/blog/best-two-player-board-games/)
+> [Best Two-Player Board Games](/best-two-player-board-games/)
 
 ---
 
 ### Solo Games
 
-One-player games, or co-op games that scale down to solo. See Friday (solo only) and [Agricola](/blog/agricola-review/).
+One-player games, or co-op games that scale down to solo. See Friday (solo only) and [Agricola](/agricola-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
   <div style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg" alt="Friday" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></div>
-  <a href="/blog/agricola-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg" alt="Agricola" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/agricola-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg" alt="Agricola" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Solo Board Games](/blog/best-one-player-solo-board-games-with-reviews/)
+> [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/)
 
 ---
 
 ### Tile Flipping / Placement
 
-The board builds as you play — flip tiles, place them where they fit, react to what you get. See [Carcassonne](/blog/carcassone-review/).
+The board builds as you play — flip tiles, place them where they fit, react to what you get. See [Carcassonne](/carcassone-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/carcassone-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg" alt="Carcassonne" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/carcassone-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg" alt="Carcassonne" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
 ---
 
 ### Cards & Dice
 
-Games driven by card draws and dice rolls. See [Bang! The Dice Game](/blog/bang-the-dice-game-review/) and [Exploding Kittens](/blog/exploding-kittens-review/).
+Games driven by card draws and dice rolls. See [Bang! The Dice Game](/bang-the-dice-game-review/) and [Exploding Kittens](/exploding-kittens-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/bang-the-dice-game-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujatzs/image/upload/Bang-The-Dice-Game_ydbqhk.jpg" alt="Bang The Dice Game" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/exploding-kittens-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Exploding-kittens_lkkjfw.png" alt="Exploding Kittens" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/bang-the-dice-game-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujatzs/image/upload/Bang-The-Dice-Game_ydbqhk.jpg" alt="Bang The Dice Game" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/exploding-kittens-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Exploding-kittens_lkkjfw.png" alt="Exploding Kittens" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
 ---
 
 ### Worker / People Placement
 
-Place your limited game pieces on action spaces to collect resources or achieve goals. See [Agricola](/blog/agricola-review/) and [Lords of Waterdeep](/blog/lords-of-waterdeep-review/).
+Place your limited game pieces on action spaces to collect resources or achieve goals. See [Agricola](/agricola-review/) and [Lords of Waterdeep](/lords-of-waterdeep-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/agricola-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg" alt="Agricola" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/lords-of-waterdeep-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg" alt="Lords of Waterdeep" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/agricola-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg" alt="Agricola" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/lords-of-waterdeep-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg" alt="Lords of Waterdeep" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Worker Placement Board Games](/blog/best-worker-placement-board-games-reviews/)
+> [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/)
 
 ---
 
 ### Card Drafting
 
-Choose which cards to take from a shared pool or a passing hand. See [7 Wonders](/blog/7-wonders-review/).
+Choose which cards to take from a shared pool or a passing hand. See [7 Wonders](/7-wonders-review/).
 
 <div style="margin:1rem 0">
-  <a href="/blog/7-wonders-review/"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg" alt="7 Wonders" style="border-radius:8px;max-width:280px;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/7-wonders-review/"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg" alt="7 Wonders" style="border-radius:8px;max-width:280px;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Card Drafting Board Games](/blog/best-card-drafting-board-games/)
+> [Best Card Drafting Board Games](/best-card-drafting-board-games/)
 
 ---
 
 ### Social Deduction
 
-Secret roles, hidden information, logic, bluffing. See [Avalon](/blog/the-resistance-avalon-review/), [Coup](/blog/coup-review/), and [Deception: Murder in Hong Kong](/blog/deception-murder-hong-kong/).
+Secret roles, hidden information, logic, bluffing. See [Avalon](/the-resistance-avalon-review/), [Coup](/coup-review/), and [Deception: Murder in Hong Kong](/deception-murder-hong-kong/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/the-resistance-avalon-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg" alt="The Resistance Avalon" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/coup-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg" alt="Coup" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/deception-murder-hong-kong/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg" alt="Deception" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/the-resistance-avalon-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg" alt="The Resistance Avalon" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/coup-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg" alt="Coup" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/deception-murder-hong-kong/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg" alt="Deception" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
-> [Best Social Deduction Board Games](/blog/best-social-deduction-board-games/)
+> [Best Social Deduction Board Games](/best-social-deduction-board-games/)
 
 ---
 
 ### Area Control
 
-Fight to dominate regions of the board. See [Catan](/blog/catan-review/) and [Ticket to Ride](/blog/ticket-to-ride-europe-review/).
+Fight to dominate regions of the board. See [Catan](/catan-review/) and [Ticket to Ride](/ticket-to-ride-europe-review/).
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0">
-  <a href="/blog/catan-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg" alt="Catan" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
-  <a href="/blog/ticket-to-ride-europe-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg" alt="Ticket to Ride Europe" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/catan-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg" alt="Catan" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
+  <a href="/ticket-to-ride-europe-review/" style="flex:1;min-width:140px"><img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg" alt="Ticket to Ride Europe" style="border-radius:8px;width:100%;object-fit:cover;aspect-ratio:4/3" /></a>
 </div>
 
 ---
@@ -291,7 +291,7 @@ Modern board games range from under $10 to over $100, with most quality games la
   </div>
 </div>
 
-Don't let price put you off. Think of it as cost per hours entertained, not cost per session. Unlike a movie that pays for 2 hours, a good board game entertains for years. Games with high replayability — [Codenames](/blog/codenames-review/), [Pandemic](/blog/pandemic-review/) — are especially good value.
+Don't let price put you off. Think of it as cost per hours entertained, not cost per session. Unlike a movie that pays for 2 hours, a good board game entertains for years. Games with high replayability — [Codenames](/codenames-review/), [Pandemic](/pandemic-review/) — are especially good value.
 
 ---
 

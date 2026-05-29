@@ -26,7 +26,7 @@ Good versus evil — the future of Camelot hangs in the balance. You and your fe
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Want to learn how it works? Read our [How To Play Avalon – Simplified](/blog/the-resistance-avalon-how-to-play-simplified/) guide.
+> Want to learn how it works? Read our [How To Play Avalon – Simplified](/the-resistance-avalon-how-to-play-simplified/) guide.
 
 ## Ryan's Review
 
@@ -45,7 +45,7 @@ Good versus evil — the future of Camelot hangs in the balance. You and your fe
 
 When I first played Avalon, a couple of HexaGamers who'd already played it tried to explain the rules. It came out roughly as: "There's good and evil, you go on these missions that pass or fail depending on the people, but no one knows who is who, so you have to lie, and the winner is whoever succeeds or fails missions depending on their team."
 
-My reaction was some combination of confusion, overwhelm, and genuine intrigue. I'd played [Coup](/blog/coup-review/), which shares the same Resistance universe, and loved it — so I knew I had to give Avalon a fair shot. Jump in and play as you learn. It's the only way.
+My reaction was some combination of confusion, overwhelm, and genuine intrigue. I'd played [Coup](/coup-review/), which shares the same Resistance universe, and loved it — so I knew I had to give Avalon a fair shot. Jump in and play as you learn. It's the only way.
 
 ## Thoughts
 

@@ -28,9 +28,9 @@ Betrayal at House on the Hill is a semi-cooperative game set in a haunted house.
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Learn how to play: [How to Play Betrayal – Simplified](/blog/betrayal-at-house-on-the-hill-how-to-play-simplified/)
+> Learn how to play: [How to Play Betrayal – Simplified](/betrayal-at-house-on-the-hill-how-to-play-simplified/)
 
-> Also featured in: [Best Cooperative Board Games](/blog/best-cooperative-board-games/) (Honourable Mention)
+> Also featured in: [Best Cooperative Board Games](/best-cooperative-board-games/) (Honourable Mention)
 
 ---
 

@@ -25,9 +25,9 @@ Build your deck, acquire resources, play action cards, and collect Victory Point
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Gateway Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) · [Best Deck Building Games](/blog/best-deck-building-board-games/)
+> Featured on: [Best Gateway Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) · [Best Deck Building Games](/best-deck-building-board-games/)
 
-> See also: [Guide to Deck Building Games](/blog/guide-to-understanding-deck-building-games/)
+> See also: [Guide to Deck Building Games](/guide-to-understanding-deck-building-games/)
 
 ## Ryan's Review
 

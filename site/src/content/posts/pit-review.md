@@ -23,7 +23,7 @@ You're a trader trying to corner the market on a single commodity. Shout out how
   <div class="stat"><span class="stat-value">7+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> Featured on: [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ## Kaitlyn's Review
 

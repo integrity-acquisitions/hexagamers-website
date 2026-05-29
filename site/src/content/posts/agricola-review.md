@@ -30,9 +30,9 @@ Your two meeples are settled into their wood house on their plot of land — but
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Solo Board Games](/blog/best-one-player-solo-board-games-with-reviews/)
+> Featured on: [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/)
 
-> See also: [How To Play Agricola – Simplified](/blog/agricola-how-to-play-simplified/) · [Agricola vs Caverna](/blog/agricola-vs-caverna-which-game-should-you-buy/)
+> See also: [How To Play Agricola – Simplified](/agricola-how-to-play-simplified/) · [Agricola vs Caverna](/agricola-vs-caverna-which-game-should-you-buy/)
 
 ## Kaitlyn's Review
 

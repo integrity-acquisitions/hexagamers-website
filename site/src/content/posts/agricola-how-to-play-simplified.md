@@ -23,7 +23,7 @@ description: "Your two Meeples are settled into a small wooden house with an emp
 
 Your two Meeples are settled into a small wooden house with an empty plot of land — and harvest is coming. Place your Meeples on action spaces to grow crops, raise animals, expand your house, and most importantly, keep everyone fed. Your neighbour is competing for the same spaces.
 
-> Our full thoughts: [Agricola Review](/blog/agricola-review/)
+> Our full thoughts: [Agricola Review](/agricola-review/)
 
 > **Note:** These simplified rules are a starting point — Agricola has a 12-page rulebook plus a 12-page appendix. You will need the rulebook. This guide makes reading it less intimidating. [Download the Agricola Rules PDF](http://www.zmangames.com/uploads/4/7/1/7/47170931/agricola_eng.pdf).
 

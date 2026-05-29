@@ -28,7 +28,7 @@ You're a bird enthusiast attracting birds to three habitats on your player mat. 
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Solo Board Games](/blog/best-one-player-solo-board-games-with-reviews/)
+> Featured on: [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/)
 
 ## Ryan's Review
 
@@ -60,7 +60,7 @@ I was wrong.
 
 **It doesn't feel competitive until it does.** Nobody attacks you directly. The conflict lives in the shared bird market and the dice pool. Someone takes the bird you needed. Someone claims the food before you get there. It's quiet pressure, but it builds. The game has teeth — they just take a few plays to find.
 
-**The solo mode is worth your time.** You play against the Automa, an automated opponent driven by a separate deck. It scores efficiently, uses the same card market you do, and scales to a reasonable difficulty. Not every solo implementation earns repeat plays. This one does. If solo games are your thing, it sits comfortably alongside the best on our [Best Solo Board Games](/blog/best-one-player-solo-board-games-with-reviews/) list.
+**The solo mode is worth your time.** You play against the Automa, an automated opponent driven by a separate deck. It scores efficiently, uses the same card market you do, and scales to a reasonable difficulty. Not every solo implementation earns repeat plays. This one does. If solo games are your thing, it sits comfortably alongside the best on our [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/) list.
 
 **Setup is slower than the box makes it look.** The bird tray, the goals board, the dice, starting hands — you're looking at 10 to 15 minutes before the first card hits the table. It gets faster once everyone knows where things go. Doesn't stop it from being the part of the evening where people start checking their phones.
 

@@ -26,11 +26,11 @@ description: "If you have been playing board games for any time, you have probab
 
 If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the more popular genres (or mechanics), and have a look at the best Worker Placement board games.
 
-These games play quite differently than [Deck Building board games](/blog/best-deck-building-board-games/) or [Card Drafting board games](/blog/best-card-drafting-board-games/), but are quite fun in their own regard.
+These games play quite differently than [Deck Building board games](/best-deck-building-board-games/) or [Card Drafting board games](/best-card-drafting-board-games/), but are quite fun in their own regard.
 
 If you haven’t ventured down this path, or want a quick refresher, let’s start with a quick explanation of what a worker (or people) placing game is.
 
-A worker placement game is a board game in which players have a number of workers/people/[Meeples](/blog/everything-you-need-to-know-about-board-games/) that they will place on ‘action spaces’ in order for them to do some sort of ‘work’ or gain some sort of benefit for the player.
+A worker placement game is a board game in which players have a number of workers/people/[Meeples](/everything-you-need-to-know-about-board-games/) that they will place on ‘action spaces’ in order for them to do some sort of ‘work’ or gain some sort of benefit for the player.
 
 An action space can be an assortment of things. It could be a space to help you collect a resource, or a space to allow you to build something, or gain another Meeple, or even gain the first player token, etc. Some games have the same action space the entire time, while others add new action spaces as the game progresses.
 
@@ -52,8 +52,8 @@ There are a bunch of different worker placement board games out there, so narrow
 | --- | --- | --- | --- | --- | --- |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](#1-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2-5 | 60 - 120 min | $$$ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](#2-caylus) | Caylus | 2-5 | 60 - 150 min | $$$ |  |
-| [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](/blog/best-worker-placement-board-games-reviews#agricola/) | Agricola | 1-5 | 30 - 150 min | $$$ |  |
-| [![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](/blog/best-worker-placement-board-games-reviews#caverna/) | Caverna | 1-7 | 30 - 210 min | $$$$ |  |
+| [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](/best-worker-placement-board-games-reviews#agricola/) | Agricola | 1-5 | 30 - 150 min | $$$ |  |
+| [![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](/best-worker-placement-board-games-reviews#caverna/) | Caverna | 1-7 | 30 - 210 min | $$$$ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](#5-tzolkin) | Tzolk'in | 2-4 | 90 min | $$$ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](#6-alien-frontiers) | Alien Frontiers | 2-4 | 90 min | $$$$ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](#7-the-manhattan-project) | The Manhattan Project | 2-5 | 120 min | $$$ |  |
@@ -63,12 +63,12 @@ There are a bunch of different worker placement board games out there, so narrow
 
 ## Best Worker Placement Board Games
 
-## 1. Lords of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
+## 1. Lords of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
-Lords of Waterdeep makes it to the top of our worker placement board game list for a few reasons. First off it is a fairly simple game, which makes it very accessible to almost everyone. The rules may seem overwhelming at first, but once the basics are understood, it becomes very easy to play. We even included this one in our [Best Gateway Board Games](/blog/best-gateway-board-games-for-beginners-with-reviews/).
+Lords of Waterdeep makes it to the top of our worker placement board game list for a few reasons. First off it is a fairly simple game, which makes it very accessible to almost everyone. The rules may seem overwhelming at first, but once the basics are understood, it becomes very easy to play. We even included this one in our [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/).
 
 Some say there is nothing crazy unique about this game in terms of mechanics/game play, however, we found that the way it incorporates the game style with the areas of concentration almost flawless.
 
@@ -113,12 +113,12 @@ It is a very well thought out mechanic that creates great amounts of balance, in
 It is an older game, but don’t let that deter you, since this one is fundamentally very strong in so many aspects. If you are a hard core board gamer (who doesn’t get analysis paralysis), this is probably the one for you. There is a reason this is such a highly rated worker placement board game.
 
 <a href="https://www.amazon.com/dp/B082FS51D9/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 3. Agricola ([Full Review Here](/blog/agricola-review/))
+## 3. Agricola ([Full Review Here](/agricola-review/))
 
 
 [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
 
-Agricola (and Caverna which is next) came in high on our top rated worker placement games. We thought about combining them into one spot on the list, but ultimately decided they each deserve their own spot. If you haven’t played these games before, they are from the same designer and play somewhat similar, check out our [Agricola Vs Caverna Post](/blog/agricola-vs-caverna-which-game-should-you-buy/) to help you decide which one is best for you.
+Agricola (and Caverna which is next) came in high on our top rated worker placement games. We thought about combining them into one spot on the list, but ultimately decided they each deserve their own spot. If you haven’t played these games before, they are from the same designer and play somewhat similar, check out our [Agricola Vs Caverna Post](/agricola-vs-caverna-which-game-should-you-buy/) to help you decide which one is best for you.
 
 In this one you will set out to grow and expand your farm yard. You will acquire animals (Animeeples), harvest crops, and improve your farm house, while feeding your family and working your way to the most Victory Points as possible.
 
@@ -215,7 +215,7 @@ The theme of this one is well done, even if building bombs isn’t your thing. T
 If you are looking for more of a “Take That” style of game, The Manhattan Project comes in as one of the best worker placement games for that.
 
 <a href="https://www.amazon.com/dp/B007GC2R6K/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 8. Stone Age ([Full Review Here](/blog/stone-age-review/))
+## 8. Stone Age ([Full Review Here](/stone-age-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)

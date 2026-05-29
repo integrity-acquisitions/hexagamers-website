@@ -1,6 +1,6 @@
 ---
 title: "Board Games That Play Better as Four Player Games."
-date: 2026-05-22
+date: 2017-01-15
 categories:
   - "favourites-lists"
   - "games"
@@ -23,7 +23,7 @@ The problem is that not every game that *claims* to work for four actually does 
 
 [Click here to jump to the comparison table...](#four-player-games-comparison-table)
 
-If you're looking for more recommendations, we also have lists for [best gateway games for beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/), [best party board games](/blog/best-party-board-games-with-reviews/), and [best two player games](/blog/best-two-player-board-games/).
+If you're looking for more recommendations, we also have lists for [best gateway games for beginners](/best-gateway-board-games-for-beginners-with-reviews/), [best party board games](/best-party-board-games-with-reviews/), and [best two player games](/best-two-player-board-games/).
 
 ## Four Player Games Comparison Table
 
@@ -39,7 +39,7 @@ If you're looking for more recommendations, we also have lists for [best gateway
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](#6-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2–5 | 60–120 min | $$$ |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](#7-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ |
 
-## 1. Wingspan ([Full Review Here](/blog/wingspan-review/))
+## 1. Wingspan ([Full Review Here](/wingspan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
@@ -51,7 +51,7 @@ The habitat competition and card draft get tense in a way that two and three can
 
 <a href="https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 2. Catan ([Full Review Here](/blog/catan-review/))
+## 2. Catan ([Full Review Here](/catan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
@@ -63,7 +63,7 @@ It's essentially designed for this count. Five and six (with expansion) get chao
 
 <a href="https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 3. Ticket to Ride ([Full Review Here](/blog/ticket-to-ride-europe-review/))
+## 3. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
@@ -87,7 +87,7 @@ The factory display tile counts are built for this player count. At two it's sol
 
 <a href="https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 5. Codenames ([Full Review Here](/blog/codenames-review/))
+## 5. Codenames ([Full Review Here](/codenames-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
@@ -99,7 +99,7 @@ It's a team game, and you need teams. Once you have them, this is one of the mos
 
 <a href="https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 6. Lords of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
+## 6. Lords of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
@@ -111,7 +111,7 @@ Worker placement lives and dies by player count. Four is the minimum before the 
 
 <a href="https://www.amazon.com/dp/0786959916/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 7. Splendor ([Full Review Here](/blog/splendor-review/))
+## 7. Splendor ([Full Review Here](/splendor-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
@@ -129,4 +129,4 @@ The games on this list work at four because they were either designed for it or 
 
 For groups looking to branch out: Azul is the hidden gem here. Compact, affordable, fast, and genuinely competitive. Try it before you count it out based on the look.
 
-Looking for something to play one-on-one? Check out our [Best Two Player Board Games](/blog/best-two-player-board-games/) list. Or if you're hosting a big group, see our [Best Party Board Games](/blog/best-party-board-games-with-reviews/).
+Looking for something to play one-on-one? Check out our [Best Two Player Board Games](/best-two-player-board-games/) list. Or if you're hosting a big group, see our [Best Party Board Games](/best-party-board-games-with-reviews/).

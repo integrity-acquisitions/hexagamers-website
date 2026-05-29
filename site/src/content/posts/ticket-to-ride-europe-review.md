@@ -23,9 +23,9 @@ Collect coloured train cards and claim railway routes across Europe to complete 
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> Featured on: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> See also: [How To Play Ticket to Ride Europe – Simplified](/blog/ticket-to-ride-europe-how-to-play-simplified/)
+> See also: [How To Play Ticket to Ride Europe – Simplified](/ticket-to-ride-europe-how-to-play-simplified/)
 
 ## Kaitlyn's Review
 

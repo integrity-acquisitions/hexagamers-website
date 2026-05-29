@@ -26,7 +26,7 @@ How we picked them: every game here is either designed exclusively for two playe
 
 [Click here to jump to the comparison table...](#best-board-games-for-couples-comparison-table)
 
-> See also: [Best Two Player Board Games](/blog/best-two-player-board-games/) · [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> See also: [Best Two Player Board Games](/best-two-player-board-games/) · [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
 ## Best Board Games for Couples Comparison Table
 
@@ -145,7 +145,7 @@ Plays in 30 minutes, rules explained in five. Beautiful illustrated art. Small b
 
 ---
 
-## 7. Splendor ([Full Review Here](/blog/splendor-review/))
+## 7. Splendor ([Full Review Here](/splendor-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
@@ -161,7 +161,7 @@ It plays 2–4, so it's also a good option when friends come over.
 
 ---
 
-## 8. Azul ([Full Review Here](/blog/azul-review/))
+## 8. Azul ([Full Review Here](/azul-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
@@ -202,7 +202,7 @@ It runs around 60 minutes and rewards repeated plays as you start to understand 
 
 ---
 
-## 10. Wingspan ([Full Review Here](/blog/wingspan-review/))
+## 10. Wingspan ([Full Review Here](/wingspan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
@@ -220,11 +220,11 @@ The satisfaction comes from building chains: activate one habitat and trigger mu
 
 These didn't make the main ten but they're worth knowing about.
 
-**Pandemic** — cooperative, and a legitimate great two-player game. We kept it off the main list because it's more fun with 3 or 4, and at two you're running two roles each, which can feel like a lot. But if you love co-ops, it belongs on your shelf. [Full review here.](/blog/pandemic-review/)
+**Pandemic** — cooperative, and a legitimate great two-player game. We kept it off the main list because it's more fun with 3 or 4, and at two you're running two roles each, which can feel like a lot. But if you love co-ops, it belongs on your shelf. [Full review here.](/pandemic-review/)
 
-**Carcassonne** — tile-laying and approachable. The issue at two is it gets very relaxed — less contested, more parallel building. Some couples love that. Others find it too passive. [Full review here.](/blog/carcasonne-review/)
+**Carcassonne** — tile-laying and approachable. The issue at two is it gets very relaxed — less contested, more parallel building. Some couples love that. Others find it too passive. [Full review here.](/carcasonne-review/)
 
-**Hive** — pure abstract strategy, no luck, two-player only. Chess-adjacent in feel. If you both love that, Hive is excellent. If one of you finds abstract games dry, it won't land. [Full review here.](/blog/hive-review/)
+**Hive** — pure abstract strategy, no luck, two-player only. Chess-adjacent in feel. If you both love that, Hive is excellent. If one of you finds abstract games dry, it won't land. [Full review here.](/hive-review/)
 
 **Codenames Duet** — the cooperative two-player version of Codenames. It's cooperative word association where you each have information the other doesn't. Best when you know each other well enough to predict how the other person thinks. Fun, low-stakes, great for an easy evening.
 
@@ -240,4 +240,4 @@ For couples where one person is brand new to hobby gaming, Jaipur or Lost Cities
 
 If you're buying as a gift, any of the small-box picks — Jaipur, Lost Cities, Hanamikoji, Fox in the Forest — are great options under $25 that don't require any context about the hobby to enjoy.
 
-> Looking for more? Check out our [Best Board Games for 4 Players](/blog/best-board-games-for-4-players/) or our [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/).
+> Looking for more? Check out our [Best Board Games for 4 Players](/best-board-games-for-4-players/) or our [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/).

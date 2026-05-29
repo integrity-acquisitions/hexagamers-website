@@ -50,7 +50,7 @@ What we looked for: quick enough to hold attention, social enough to matter, and
 
 ---
 
-## 1. Codenames ([Full Review Here](/blog/codenames-review/))
+## 1. Codenames ([Full Review Here](/codenames-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
@@ -68,7 +68,7 @@ If you have a group of mixed ages, Codenames is probably the safest pick on this
 
 ---
 
-## 2. Coup ([Full Review Here](/blog/coup-review/))
+## 2. Coup ([Full Review Here](/coup-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
@@ -82,13 +82,13 @@ Teens are often surprisingly good at this — they're already used to managing s
 
 The buy-in is low — the game costs under $15, takes five minutes to explain, and plays in 15. We've never played just one round of it.
 
-> See also: [Best Social Deduction Board Games](/blog/best-social-deduction-board-games/)
+> See also: [Best Social Deduction Board Games](/best-social-deduction-board-games/)
 
 <a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
-## 3. Catan ([Full Review Here](/blog/catan-review/))
+## 3. Catan ([Full Review Here](/catan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
@@ -100,7 +100,7 @@ For teens, what works here is the wheeling and dealing. The social layer on top 
 
 The 60–90 minute playtime is at the ceiling of what most teen groups will tolerate, so have snacks ready. But it's also the kind of game that teaches you negotiation and long-term planning without feeling like homework.
 
-> See also: [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> See also: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
 <a href="https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
@@ -134,7 +134,7 @@ It won the Spiel des Jahres (the board game equivalent of the Oscars) in 2019. I
 
 Because it's cooperative, there's no elimination and no one feels singled out. Everyone's on the same team, celebrating the same wins. For mixed-age groups or teens who are wary of competitive games, this is a great entry point — and it tends to produce some genuinely funny moments when two people's clues are too clever by half and cancel each other out.
 
-> See also: [Best Cooperative Board Games](/blog/best-cooperative-board-games/)
+> See also: [Best Cooperative Board Games](/best-cooperative-board-games/)
 
 <a href="https://www.amazon.com/dp/B0FB6MQ3WB/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
@@ -156,7 +156,7 @@ It scales from 4 to 8 players and plays in about 30 minutes. It's also one of th
 
 ---
 
-## 7. Azul ([Full Review Here](/blog/azul-review/))
+## 7. Azul ([Full Review Here](/azul-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
@@ -200,13 +200,13 @@ For teens with a longer attention span and an interest in strategy, this is the 
 
 If your teen has played Catan and wants something more, Everdell is the direction to point them.
 
-> See also: [Best Worker Placement Board Games](/blog/best-worker-placement-board-games-reviews/)
+> See also: [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/)
 
 <a href="https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
-## 10. Sushi Go! ([Full Review Here](/blog/best-gateway-board-games-for-beginners-with-reviews/))
+## 10. Sushi Go! ([Full Review Here](/best-gateway-board-games-for-beginners-with-reviews/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
@@ -218,7 +218,7 @@ It's light, and it knows it's light. But it creates more tactical decisions per 
 
 Good for teens who claim they don't like board games. Hard to argue with something that takes two minutes to explain and ends before anyone gets bored.
 
-> See also: [Best Card Drafting Board Games](/blog/best-card-drafting-board-games/)
+> See also: [Best Card Drafting Board Games](/best-card-drafting-board-games/)
 
 <a href="https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 

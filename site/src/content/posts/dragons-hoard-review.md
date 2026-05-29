@@ -24,7 +24,7 @@ You're a dragon collecting treasure — coins, princes, wishing trees, and more.
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Card Drafting Board Games](/blog/best-card-drafting-board-games/)
+> Featured on: [Best Card Drafting Board Games](/best-card-drafting-board-games/)
 
 ## Charlene's Review
 

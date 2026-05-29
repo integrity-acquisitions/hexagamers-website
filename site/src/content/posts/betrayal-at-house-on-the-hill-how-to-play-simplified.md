@@ -21,7 +21,7 @@ You're trapped inside a haunted house. Explore room by room, find items and omen
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [Betrayal at House on the Hill Review](/blog/betrayal-at-house-on-the-hill-review/)
+> Our full review: [Betrayal at House on the Hill Review](/betrayal-at-house-on-the-hill-review/)
 
 > **Note:** These simplified rules help you get started quickly. Read the full rulebook before your first play — there are 50 different Haunts, each with unique objectives.
 

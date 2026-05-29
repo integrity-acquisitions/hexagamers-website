@@ -22,7 +22,7 @@ Lead a prehistoric tribe through survival and growth. Send your people to collec
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Worker Placement Board Games](/blog/best-worker-placement-board-games-reviews/)
+> Featured on: [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/)
 
 ## Charlene's Review
 

@@ -16,7 +16,7 @@ description: "A puzzle-heavy prison break room from SideQuests. Linear and non-l
 
 A puzzle-heavy prison break room from SideQuests. Linear and non-linear sections, heavy clue density, and a high challenge floor. Not for beginners.
 
-> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/best-edmonton-escape-rooms-and-companies/)
 
 ## Our Experience
 

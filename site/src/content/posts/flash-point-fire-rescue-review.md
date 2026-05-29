@@ -23,7 +23,7 @@ You and your fellow firefighters race to rescue victims from a burning building 
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Cooperative Board Games](/blog/best-cooperative-board-games/)
+> Featured on: [Best Cooperative Board Games](/best-cooperative-board-games/)
 
 ## Whitney's Review
 

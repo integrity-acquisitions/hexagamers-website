@@ -22,7 +22,7 @@ Build an empire across three ages of card drafting. Collect resources, construct
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [7 Wonders Review](/blog/7-wonders-review/)
+> Our full review: [7 Wonders Review](/7-wonders-review/)
 
 > **Note:** These simplified rules help you get started quickly. Read the full rulebook before play for complete rules.
 

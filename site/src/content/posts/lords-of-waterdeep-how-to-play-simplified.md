@@ -25,9 +25,9 @@ description: "You are a powerful Lord vying for control of Waterdeep. Send your 
 
 You are a powerful Lord vying for control of Waterdeep. Send your workers out to collect resources, use those resources to complete quests, and earn Victory Points. The Lord with the most points after 8 rounds wins.
 
-> See our full thoughts: [Lords of Waterdeep Review](/blog/lords-of-waterdeep-review/)
+> See our full thoughts: [Lords of Waterdeep Review](/lords-of-waterdeep-review/)
 
-> Made our favourites lists: [Best Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) · [Best Worker Placement Games](/blog/best-worker-placement-board-games-reviews/)
+> Made our favourites lists: [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) · [Best Worker Placement Games](/best-worker-placement-board-games-reviews/)
 
 > **Note:** These simplified rules are to help you decide if the game is right for your group, or get started quickly — not all-encompassing. The [full rulebook](https://dnd.wizards.com/sites/default/files/media/DnD_LOW_Rulebook_EN.pdf) and [quick play guide](http://dnd.wizards.com/sites/default/files/media/LOW_QuickPlay.pdf) are available from Wizards of the Coast.
 

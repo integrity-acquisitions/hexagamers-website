@@ -107,7 +107,7 @@ This one is sort of similar to monopoly (can be also good for helping kids add a
 
 Cashflow for Kids will create a fun way for them to learn some math, and don’t be surprised if they end up wanting to set up a lemonade stand after playing it!
 
-For the older people that like the sound of this one, check out Cashflow 101 and [our review of it](/blog/cashflow-review/) here.
+For the older people that like the sound of this one, check out Cashflow 101 and [our review of it](/cashflow-review/) here.
 
 <a href="https://www.amazon.com/dp/B00M085AMI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## 3. Qwirkle

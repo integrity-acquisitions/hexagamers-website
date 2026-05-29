@@ -93,7 +93,7 @@ It plays best at four or five, where the table fills with sets and the scouting 
 
 ---
 
-## 3. Love Letter ([Full Review Here](/blog/love-letter-review/))
+## 3. Love Letter ([Full Review Here](/love-letter-review/))
 
 [![Love Letter](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070113/Love_Letter_yl7dle.jpg)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
 
@@ -157,7 +157,7 @@ It's a quick, loud, cruel little game, and the small footprint makes the big swi
 
 ---
 
-## 7. Hive ([Full Review Here](/blog/hive-review/))
+## 7. Hive ([Full Review Here](/hive-review/))
 
 [![Hive](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300122/Hive_zc8kxe.jpg)](https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20)
 
@@ -205,7 +205,7 @@ It's cooperative and tiny and it creates a kind of quiet focus most games never 
 
 ---
 
-## 10. Coup ([Full Review Here](/blog/coup-review/))
+## 10. Coup ([Full Review Here](/coup-review/))
 
 [![Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
@@ -223,8 +223,8 @@ It plays fast and it plays mean, in the best way. Sometimes you have to Coup you
 
 ## Conclusion
 
-If you only grab one, make it Sprawlopolis. It's the cheapest, smallest thing here and it'll out-think games twenty times its size. For a tiny game that plays like a full card game, Scout is the pick. For the cleanest intro to the whole genre, [Love Letter](/blog/love-letter-review/) never misses.
+If you only grab one, make it Sprawlopolis. It's the cheapest, smallest thing here and it'll out-think games twenty times its size. For a tiny game that plays like a full card game, Scout is the pick. For the cleanest intro to the whole genre, [Love Letter](/love-letter-review/) never misses.
 
 The point of a micro game is that it removes every excuse not to play. No big box, no long setup, often no table required. Toss one in your bag and you'll always have a real game ready, whether you're on a plane, at a campsite, or killing the ten minutes before dinner.
 
-If you're building out a travel kit, you might also like our picks for the [best two player board games](/blog/best-two-player-board-games/) and the [best cooperative board games](/blog/best-cooperative-board-games/).
+If you're building out a travel kit, you might also like our picks for the [best two player board games](/best-two-player-board-games/) and the [best cooperative board games](/best-cooperative-board-games/).

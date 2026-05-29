@@ -22,7 +22,7 @@ Four deadly diseases are spreading globally. Work together with up to 3 colleagu
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [Pandemic Review](/blog/pandemic-review/)
+> Our full review: [Pandemic Review](/pandemic-review/)
 
 > **Note:** These simplified rules help you get started quickly. Read the full rulebook before play.
 

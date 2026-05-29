@@ -18,7 +18,7 @@ description: "Loved Catan but ready for something new? These 10 games scratch th
 
 If you've played Catan more than a handful of times, you already know the arc. Someone locks up wheat and ore. Someone else monopolizes ports. The robber camps on your best hex for three turns and you spend the rest of the game trading one resource for another at a terrible rate while someone quietly builds to ten points and wins.
 
-We love Catan. It's in our [Catan review](/blog/catan-review/) and we mean it — that game has a permanent spot in the collection. But after enough plays, the itch shifts. You want something with that same feeling of watching your little empire grow, of jostling for space on a shared board, of needing *this one resource* more than anything else — just with a few different cards in the deck.
+We love Catan. It's in our [Catan review](/catan-review/) and we mean it — that game has a permanent spot in the collection. But after enough plays, the itch shifts. You want something with that same feeling of watching your little empire grow, of jostling for space on a shared board, of needing *this one resource* more than anything else — just with a few different cards in the deck.
 
 So we went looking. Not just at "games that have hexagons" or "games with resources" — but at games that actually recreate one or more of the things that makes Catan fun: the territorial tension, the trading and negotiation, the slow-burn engine building, the moment when someone realizes they've been outmaneuvered.
 
@@ -43,7 +43,7 @@ A quick note on how we built this list: we pulled from BoardGameGeek community r
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#9-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ | — |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730840/hexagamers-box-art/terraforming-mars.jpg)](#10-terraforming-mars) | Terraforming Mars | 1–5 | 90–120 min | $$$ | — |
 
-## 1. Ticket to Ride ([Full Review Here](/blog/ticket-to-ride-europe-review/))
+## 1. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
@@ -59,7 +59,7 @@ If your group loves Catan but sometimes gets frustrated by the luck swings, star
 
 <a href="https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 2. Carcassonne ([Full Review Here](/blog/carcassone-review/))
+## 2. Carcassonne ([Full Review Here](/carcassone-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
@@ -71,7 +71,7 @@ It plays faster than Catan and teaches faster too. The rules are simple enough t
 
 One honest caveat: the luck is different than Catan's, not absent. Drawing the wrong tile at the wrong moment can hurt. A partial fix we've used — help each other look for where a tile fits, which keeps everyone engaged and, if you're being tactical about it, subtly steers people toward spots that benefit you too. It works better than it sounds.
 
-Check out the [Carcassonne versions and expansions](/blog/carcassonne-versions-expansions/) post if you like what you see — there's a lot of room to grow with this one.
+Check out the [Carcassonne versions and expansions](/carcassonne-versions-expansions/) post if you like what you see — there's a lot of room to grow with this one.
 
 <a href="https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
@@ -91,7 +91,7 @@ For groups who love Catan's conflict but want something with more direct confron
 
 <a href="https://www.amazon.com/dp/B0024H7OF6/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 4. Stone Age ([Full Review Here](/blog/stone-age-review/))
+## 4. Stone Age ([Full Review Here](/stone-age-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300593/Stone-Age_f5oj2l.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
 
@@ -149,7 +149,7 @@ The art style is older and gets criticized for that, but the game underneath is 
 
 <a href="https://www.amazon.com/dp/B07R5ZH6FQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 8. 7 Wonders ([Full Review Here](/blog/7-wonders-review/))
+## 8. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
@@ -163,7 +163,7 @@ If your group likes Catan but wants something that scales better and plays faste
 
 <a href="https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 9. Wingspan ([Full Review Here](/blog/wingspan-review/))
+## 9. Wingspan ([Full Review Here](/wingspan-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
@@ -197,4 +197,4 @@ If you want the closest experience to Catan with a few rough edges smoothed out,
 
 The games get progressively more complex as you go down this list. There's no wrong place to start — just pick the one that sounds closest to what your group actually liked about Catan, and go from there.
 
-And if you're still on the fence about whether Catan is worth it in the first place, our [Catan vs Ticket to Ride comparison](/blog/catan-vs-ticket-ride-which-game-should-you-buy/) breaks down exactly which one to buy first.
+And if you're still on the fence about whether Catan is worth it in the first place, our [Catan vs Ticket to Ride comparison](/catan-vs-ticket-ride-which-game-should-you-buy/) breaks down exactly which one to buy first.

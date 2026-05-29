@@ -17,7 +17,7 @@ description: "Canada's first VR escape room, made by local Edmontonians. Your te
 
 Canada's first VR escape room, made by local Edmontonians. Your team boards the SS Tiberia with 30 minutes to reactivate the space station and destroy an incoming meteor.
 
-> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/blog/best-edmonton-escape-rooms-and-companies/)
+> For more Edmonton escape rooms: [Best Edmonton Escape Rooms and Companies](/best-edmonton-escape-rooms-and-companies/)
 
 ## Our Experience
 

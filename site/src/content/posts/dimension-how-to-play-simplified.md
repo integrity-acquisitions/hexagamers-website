@@ -26,7 +26,7 @@ description: "Dimension is a fast-paced puzzle game. Stack different coloured ba
 
 Dimension is a fast-paced puzzle game. Stack different coloured balls to match a randomly drawn set of rule cards — all against a ticking timer. It tests quick thinking, problem solving, and composure under pressure. Play solo or with up to 4 players simultaneously.
 
-> Want our full thoughts? Read our [Dimension Review](/blog/dimension-review/).
+> Want our full thoughts? Read our [Dimension Review](/dimension-review/).
 
 > **Note:** These simplified rules are to help you decide if the game is right for you, or to get started quickly — not to be all-encompassing.
 

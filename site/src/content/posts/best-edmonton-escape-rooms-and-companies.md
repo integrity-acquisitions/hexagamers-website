@@ -94,7 +94,7 @@ Click the room name for a direct link.
 
 Our reviews are based on our experiences with Logic Lock, GTFO, EEscape, Exit, Breakout, GTFO, Thrillscape, SmartyPantz, SideQuests and X-Realm. Side note: We have yet to attempt Sherlock Holmes and The Gallery (Logic Lock), The Inheritance (Escape City), Uncle and Abduction (SideQuests) and any at Time Escape, Escape Emporium and now Dream Escape (Leduc).
 
-After we posted this, we've gone back and completed [The Directive (GTFO)](/blog/directive-gtfo-escape-room-review/) and [SS Tiberia (SmartyPantz)](/blog/ss-tiberia-smartypantz-escape-room-review/). We had a blast at both! SS Tiberia definitely makes it into our top five.
+After we posted this, we've gone back and completed [The Directive (GTFO)](/directive-gtfo-escape-room-review/) and [SS Tiberia (SmartyPantz)](/ss-tiberia-smartypantz-escape-room-review/). We had a blast at both! SS Tiberia definitely makes it into our top five.
 
 ## 1. The Heist
 

@@ -20,7 +20,7 @@ You're an art gallery owner competing to collect the most money through fame, in
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [The Gallerist Review](/blog/the-gallerist-review/)
+> Our full review: [The Gallerist Review](/the-gallerist-review/)
 
 > **Note:** This is a starting guide, not a complete rulebook. The Gallerist is complex — read the full rules before your first play. This helps you understand the flow before diving in.
 

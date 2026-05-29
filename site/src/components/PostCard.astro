@@ -26,7 +26,7 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
 ---
 <article class:list={['post-card', { featured }]}>
   {coverImage && (
-    <a href={`${base}/blog/${post.id}/`} class="card-img-wrap" aria-hidden="true" tabindex="-1">
+    <a href={`${base}/${post.id}/`} class="card-img-wrap" aria-hidden="true" tabindex="-1">
       <img src={coverImage} alt={title} loading="lazy" />
     </a>
   )}
@@ -44,10 +44,10 @@ const catDisplay = categoryLabel[mainCategory] ?? mainCategory;
       <time datetime={date.toISOString()} class="card-date">{formattedDate}</time>
     </div>
     <h2 class="card-title">
-      <a href={`${base}/blog/${post.id}/`}>{title}</a>
+      <a href={`${base}/${post.id}/`}>{title}</a>
     </h2>
     {description && <p class="card-desc">{description}</p>}
-    <a href={`${base}/blog/${post.id}/`} class="card-read-more" aria-label={`Read ${title}`}>
+    <a href={`${base}/${post.id}/`} class="card-read-more" aria-label={`Read ${title}`}>
       Read more
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
         <path d="M1 7h12M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>

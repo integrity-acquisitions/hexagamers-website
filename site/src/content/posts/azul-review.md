@@ -29,7 +29,7 @@ In Azul, players are decorating the walls of the Royal Palace of Evora with colo
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> Featured on: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
 ## Ryan's Review
 

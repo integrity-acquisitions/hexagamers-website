@@ -95,7 +95,7 @@ It's hard to keep track of all the Carcassonne versions. If you're looking for y
 
 ### Share this Image On Your Site
 
-<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='/blog/carcassonne-versions-expansions'><img src='http:https:/res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
+<p><strong>Please include attribution to Hexagamers.com with this graphic.</strong><br /><br /><a href='/carcassonne-versions-expansions'><img src='http:https:/res.cloudinary.com/dt4ujaczs/image/upload/v1779305613/Carcassonne-Infographic-Compressed1.jpg' alt='Carcassonne Expansions Infographic' width='600px' border='0' /></a></p>
 
 Carcassonne (2-5 players, 30-45 mins./)
 

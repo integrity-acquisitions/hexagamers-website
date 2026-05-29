@@ -30,13 +30,13 @@ When we first started researching these games, we spent lots of time reading com
 
 The internet was split on which was the game for us, so we went to a Board Game Café to try them out for ourselves.
 
-NOTE: You can read our [Full Review of Agricola](/blog/agricola-review/) here.
+NOTE: You can read our [Full Review of Agricola](/agricola-review/) here.
 
 We will preface this by saying we have played both (base) games, and really enjoyed each one. They are both great games, with fairly similar mechanics used in them…
 
-In both games, you start with 2 workers/people/Meeples (and usually aim to get more), which you will have to feed every harvest. You also must gather ‘materials’ to help pay for improvements to your life/farm by placing your _[Meeples](/blog/everything-you-need-to-know-about-board-games#meeple/)_ on the game board. Which, the number of places available for placing the Meeples grows every round. This is all done while simultaneously getting points for a variety of things, over a set number of rounds to the game.
+In both games, you start with 2 workers/people/Meeples (and usually aim to get more), which you will have to feed every harvest. You also must gather ‘materials’ to help pay for improvements to your life/farm by placing your _[Meeples](/everything-you-need-to-know-about-board-games#meeple/)_ on the game board. Which, the number of places available for placing the Meeples grows every round. This is all done while simultaneously getting points for a variety of things, over a set number of rounds to the game.
 
-NOTE: It wouldn't hurt to read the [How To Play Agricola Simplified Edition](/blog/agricola-how-to-play-simplified/) to get a better understanding of the game play.
+NOTE: It wouldn't hurt to read the [How To Play Agricola Simplified Edition](/agricola-how-to-play-simplified/) to get a better understanding of the game play.
 
 [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)
 

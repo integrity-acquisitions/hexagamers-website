@@ -50,7 +50,7 @@ description: "(Click the image to jump to our comparison table)"
 
 (Click the image to jump to our comparison table)
 
-Card drafting games often combine the best of both worlds: card and board games. They don't (obviously) rely just on boards, but they can rely only on cards. However, card drafting is quite unlike Go Fish, Old Maid, Uno, or even [Exploding Kittens](/blog/exploding-kittens-review/) and [Pit](/blog/pit-review/). There's a bit of strategy and luck involved in every game, and you often have to decide between what's best for you and what will hurt your opponent the most.
+Card drafting games often combine the best of both worlds: card and board games. They don't (obviously) rely just on boards, but they can rely only on cards. However, card drafting is quite unlike Go Fish, Old Maid, Uno, or even [Exploding Kittens](/exploding-kittens-review/) and [Pit](/pit-review/). There's a bit of strategy and luck involved in every game, and you often have to decide between what's best for you and what will hurt your opponent the most.
 
 So what is card drafting? It's choice. Instead of drawing cards randomly from a pile, players have a choice about what cards they take--either from a common pool, a random draw pile, or a combination of both. What we like about card drafting is this combinations . Some of us, like some of you, hate card games, and sometimes we need a change from dice or board-only based games. Drafting is a  great compromise for all players, and we compiled some of our favourites below.
 
@@ -71,7 +71,7 @@ So what is card drafting? It's choice. Instead of drawing cards randomly from a 
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Fairy-Tale_ilp3s0.jpg)](#9-fairy-tale) |   Fairy Tale   |   2-5   |   30 min   |   $   |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#10-sushi-go) |   Sushi Go!   |   2-5   |   15 min   |   $   |  |
 
-## 1. 7 Wonders ([Full Review Here](/blog/7-wonders-review/))
+## 1. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B08F65MX4L/?tag=hexagamers-20)
@@ -91,7 +91,7 @@ There's a lot to think about, and every decision is important. We find games run
 With all of these offerings, 7 Wonders is one of the best card drafting games you can play.
 
 <a href="https://www.amazon.com/dp/B08F65MX4L/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 2. Sheriff of Nottingham ([Full Review Here](/blog/sheriff-of-nottingham-review/))
+## 2. Sheriff of Nottingham ([Full Review Here](/sheriff-of-nottingham-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305596/sheriff-box-1024x1002.jpg)](https://www.amazon.com/dp/B007EZMABG/?tag=hexagamers-20)
@@ -103,7 +103,7 @@ Your goal is to be the richest patron in Nottingham, earning points through weal
 Sheriff isn't as complex in rules as Wonders, but you still have to work every round in an arms race to ensure your goods collection remains the most fruitful. Every player interacts with the Sheriff and more often than not the other players, and there's no limit to bribing, lying, stealing and smuggling. We love Sheriff because it demands some of the elements we love most about games--interaction, bluffing, yelling--and turns these elements into a great card drafting game that is easy to learn, fun to play and gives every player the chance to win. 
 
 <a href="https://www.amazon.com/dp/B007EZMABG/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 3. Dragon's Hoard (Von Drachen und Schafen) ([Full Review Here](/blog/dragons-hoard-review/))
+## 3. Dragon's Hoard (Von Drachen und Schafen) ([Full Review Here](/dragons-hoard-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dragons-Hoard-Von-Drachen_zgxxcp.jpg)](https://www.amazon.com/dp/B00S5R2DQO/?tag=hexagamers-20)
@@ -119,12 +119,12 @@ Each player starts with four cards and four cards are set next to the draw deck,
 We always have fun with this game. It isn't as intense as 7 Wonders, but it's as competitive as Sheriff is, especially with the added risk and annoyance of stealing, blocking and treachery. The ease of play, quick setup and highly enjoyable gameplay makes Dragon's Hoard a game we return to again and again. Baaah, baaah!
 
 <a href="https://www.amazon.com/dp/B00S5R2DQO/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 4. Ticket to Ride ([Full Review of Ticket to Ride Europe](/blog/ticket-to-ride-europe-review/))
+## 4. Ticket to Ride ([Full Review of Ticket to Ride Europe](/ticket-to-ride-europe-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-To-Ride_kioksk.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
-Perhaps one of the most well-known games, Ticket to Ride nevertheless surprises many gamers by being a card drafting board game. Ticket to Ride is popular for a reason--it's easy to learn, doesn't require players to track their own scores, is great for all ages and has many different boards that enable both individual and team play. In fact, it made our [Best Gateway Boardgames for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) list!
+Perhaps one of the most well-known games, Ticket to Ride nevertheless surprises many gamers by being a card drafting board game. Ticket to Ride is popular for a reason--it's easy to learn, doesn't require players to track their own scores, is great for all ages and has many different boards that enable both individual and team play. In fact, it made our [Best Gateway Boardgames for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) list!
 
 Your goal is to build as many train routes as possible and collect the most victory points, but it isn't as simple as it sounds. Players start with four train cards and four destination tickets. Destination tickets show a train route across the map, and players must keep at least two of the four they're dealt. Some routes are short while some are long, and they are scored accordingly. If you don't complete these routes, though, the points count against you. Train cards are one of eight colours or a locomotive (wild card), and are used to claim the same-coloured route along a destination. On your turn, you'll either pick up cards from the draw pile or face-up cards, claim a route or draw more destination tickets.  
 
@@ -160,7 +160,7 @@ Citadels modifies itself depending on player numbers, and while it takes longer 
 
 Setup and play is quite simple in Citadels, but execution can be complicated because of thievery, assassinating, swapping, bonuses and on and on. There is always something to consider--gold or district cards? Build cheap or save for a costly district? Assassin or King? How do I get bonuses from all my trade districts? Is Ryan cheating? You can't build districts without gold, but you have to choose between drawing district cards or collecting gold. However, if you take too long acquiring districts by being greedy and collecting gold (Kaitlyn), you can fall far behind in the race to build the best city. If you have indecisive players (Whitney), gameplay can take quite a bit longer, but we still have a lot of fun with this game because it's constantly evolving and changing depending on everyone's decisions. If you love strategy, this game might drive you nuts. As much as you plan, someone can undo all your efforts, and sometimes the cards work against you. But, even the ones among us who don't particularly appreciate strategy still enjoy this game--if only for the opportunity to mess someone else's game up. 
 
-The way Citadels adapts to different players and the different characters with their own abilities reminds us a bit of a simpler [Dominion](/blog/dominion-review/). Getting assassinated repeatedly can be seriously annoying, but the chance to even out the score is satisfying. We love the different elements of this game that make each round different and force us to take risks based on our own needs and what we think other players are doing, the top reasons Citadels in on our top card drafting games list. 
+The way Citadels adapts to different players and the different characters with their own abilities reminds us a bit of a simpler [Dominion](/dominion-review/). Getting assassinated repeatedly can be seriously annoying, but the chance to even out the score is satisfying. We love the different elements of this game that make each round different and force us to take risks based on our own needs and what we think other players are doing, the top reasons Citadels in on our top card drafting games list. 
 
 <a href="https://www.amazon.com/dp/B09CDSJMP5/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## 7. Nevermore
@@ -168,7 +168,7 @@ The way Citadels adapts to different players and the different characters with t
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Nevermore_ltk4bn.jpg)](https://www.amazon.com/dp/0986392006/?tag=hexagamers-20)
 
-Nevermore is highly interactive, easy to learn and a lot of fun. One of the best elements of this game is the players who are turned into ravens (and unable to win the game) aren't actually out of the game. Ravens can be turned back into people and they can, fittingly, peck other players--sometimes to death (you're welcome, Wes!). A raven's ability to peck other players, deal damage and still be part of the game is our favourite part. There's nothing worse than being out of the game early and having to wait out the rest of the game by yourself (we're looking at you, [Betrayal at House on the Hill](/blog/betrayal-at-house-on-the-hill-review/)).
+Nevermore is highly interactive, easy to learn and a lot of fun. One of the best elements of this game is the players who are turned into ravens (and unable to win the game) aren't actually out of the game. Ravens can be turned back into people and they can, fittingly, peck other players--sometimes to death (you're welcome, Wes!). A raven's ability to peck other players, deal damage and still be part of the game is our favourite part. There's nothing worse than being out of the game early and having to wait out the rest of the game by yourself (we're looking at you, [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/)).
 
 This is a simple card drafting game with a few twists on the traditional. Each player starts with five cards and passes three, keeping two. With the new cards, players pass two, and the next, players pass one. There are only five different kinds of cards which may seem like your decisions are easier, but they're not. Passing on too many of any given suit can give your opponents an incredible advantage, but not keeping enough can impact your game--often rendering your other cards useless. Ravens can and do cancel out your action cards if you haven't kept enough but they can also grant you magick cards with special abilities. Another unique and fun element in Nevermore is the way players conduct actions. The player with the most of one card (say, swords to deal damage) is the only player to perform that action. To perform the action, however, the player with the most of one suit (say, four swords) subtracts the number of the second-most cards in the same suit (say, three swords), giving the number of actions you can actually perform (one sword, so one point of damage).
 
@@ -220,7 +220,7 @@ There are eight different kinds of cards, and each is handily labelled at the bo
 
 We like Sushi Go! as it's quick, light and easy to learn. When we are looking for a filler or are waiting for other players, it's a great option for us to play. We love bribing and lying and yelling at each other, so while Sushi Go! only really employs the yelling, it's still a fun game for us. As our kids grow into adolescence, we will certainly be able to play this with them, and it absolutely is a game anyone can win--a definite positive in our books. 
 
-If you're looking for a good intro to card drafting, Sushi Go! is a good place to start, making it last to round out--but certainly not least on--our list. This game can also be found on out [Top Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) list.
+If you're looking for a good intro to card drafting, Sushi Go! is a good place to start, making it last to round out--but certainly not least on--our list. This game can also be found on out [Top Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) list.
 
 <a href="https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion

@@ -24,9 +24,9 @@ As the ruler of one of seven ancient cities, you must build your empire to defea
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Card Drafting Board Games](/blog/best-card-drafting-board-games/)
+> Featured on: [Best Card Drafting Board Games](/best-card-drafting-board-games/)
 
-> See also: [How To Play 7 Wonders – Simplified](/blog/7-wonders-how-to-play-simplified/)
+> See also: [How To Play 7 Wonders – Simplified](/7-wonders-how-to-play-simplified/)
 
 ## Ryan's Review
 

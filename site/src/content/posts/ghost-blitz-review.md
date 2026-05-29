@@ -26,7 +26,7 @@ The mysterious pictures taken in the ghost's house have errors. In this fast-pac
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Want to learn how to play? Check out our [How To Play Ghost Blitz – Simplified](/blog/ghost-blitz-how-to-play-simplified/) guide.
+> Want to learn how to play? Check out our [How To Play Ghost Blitz – Simplified](/ghost-blitz-how-to-play-simplified/) guide.
 
 ## Ryan's Review
 

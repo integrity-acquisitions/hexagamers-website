@@ -26,9 +26,9 @@ description: "Connect cities across Europe with coloured trains to complete rout
 
 Connect cities across Europe with coloured trains to complete routes and score points. Longer routes are worth more points. But watch out — rivals may be racing for the same cities, forcing you to find alternate paths.
 
-> Full thoughts here: [Ticket to Ride: Europe – Review](/blog/ticket-to-ride-europe-review/)
+> Full thoughts here: [Ticket to Ride: Europe – Review](/ticket-to-ride-europe-review/)
 
-> Also on our list: [Best Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> Also on our list: [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
 > **Note:** This guide covers the core rules to get you started — not every edge case. Read the rulebook for full detail.
 

@@ -24,9 +24,9 @@ description: "Board games are a fantastic way to spend quality time with the lit
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-3-year-olds_zhz5zh.png "Best Board Games For 3 year olds")
 
-Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we couldn’t wait to get our kids started. Not only that but they can [learn so much through playing board games](/blog/why-are-board-games-important-for-kids/).
+Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we couldn’t wait to get our kids started. Not only that but they can [learn so much through playing board games](/why-are-board-games-important-for-kids/).
 
-If you think your child may be too young for board games think again! Our [best board games for 2 year old list](/blog/best-board-games-2-year-olds-reviews/) has a game for tots as young as 18 months. Most games for young kids are fairly simple, which makes them great starter games. They are a great way to build language, fine motor skills, sportsmanship, and much more.
+If you think your child may be too young for board games think again! Our [best board games for 2 year old list](/best-board-games-2-year-olds-reviews/) has a game for tots as young as 18 months. Most games for young kids are fairly simple, which makes them great starter games. They are a great way to build language, fine motor skills, sportsmanship, and much more.
 
 Most importantly, they are fun! Your kids will love playing and exploring these games with you. We made sure that our list included games that are not only favorites of our kids, but ones we love playing with them!
 
@@ -44,7 +44,7 @@ Trying to find a new game for the tot on your list can be super overwhelming. Th
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](#4-candy-land) | Candy Land | 2-4 | 3+ | 15 min | $ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](#5-hi-ho-cherry-o) |   Hi Ho Cherry-O   | 2-4 | 3-6 | 5-10 | $ |  |
 
-## 1. Hoot Owl Hoot ([Full Review Here](/blog/hoot-owl-hoot-review/))
+## 1. Hoot Owl Hoot ([Full Review Here](/hoot-owl-hoot-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](https://www.amazon.com/dp/B004HVKAAI/?tag=hexagamers-20)
@@ -106,7 +106,7 @@ Great for working on:
 Be sure to check out Zingo Word Builder on our Best Board Games For 4 Year Olds Article (coming soon).
 
 <a href="https://www.amazon.com/dp/B01DY818JG/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 3. Count Your Chickens ([Full Review Here](/blog/count-your-chickens-review/))
+## 3. Count Your Chickens ([Full Review Here](/count-your-chickens-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](https://www.amazon.com/dp/B004HVKAAS/?tag=hexagamers-20)

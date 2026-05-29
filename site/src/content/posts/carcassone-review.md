@@ -24,7 +24,7 @@ Carcassonne is a tile-placement game where you build the French countryside one 
   <div class="stat"><span class="stat-value">7+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Carcassonne is featured on our [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) and [Best Two-Player Board Games](/blog/best-two-player-board-games/) lists.
+> Carcassonne is featured on our [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) and [Best Two-Player Board Games](/best-two-player-board-games/) lists.
 
 ## Ryan's Review
 

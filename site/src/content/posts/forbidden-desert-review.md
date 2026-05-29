@@ -22,7 +22,7 @@ Your helicopter crashes in an ancient desert. Work together to excavate the part
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [Forbidden Island Review](/blog/forbidden-island-review/) · [Pandemic Review](/blog/pandemic-review/)
+> See also: [Forbidden Island Review](/forbidden-island-review/) · [Pandemic Review](/pandemic-review/)
 
 ## Kaitlyn's Review
 

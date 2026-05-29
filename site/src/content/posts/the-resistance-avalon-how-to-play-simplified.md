@@ -21,7 +21,7 @@ Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missio
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Our full review: [The Resistance: Avalon Review](/blog/the-resistance-avalon-review/)
+> Our full review: [The Resistance: Avalon Review](/the-resistance-avalon-review/)
 
 > **Note:** These simplified rules are based on a 6-player game. Number of players changes the Good/Evil ratio, mission sizes, and available roles.
 

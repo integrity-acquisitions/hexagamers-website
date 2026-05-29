@@ -24,7 +24,7 @@ Even if you are new to board games, chances are you've heard of Catan and Ticket
 
 They share some DNA but play very differently. We've broken down every meaningful comparison so you can make an informed call — not just for yourself, but for the group you'll be playing with.
 
-> Check out our full reviews: [Catan Review](/blog/catan-review/) · [Ticket to Ride: Europe Review](/blog/ticket-to-ride-europe-review/)
+> Check out our full reviews: [Catan Review](/catan-review/) · [Ticket to Ride: Europe Review](/ticket-to-ride-europe-review/)
 
 ## Quick Comparison
 

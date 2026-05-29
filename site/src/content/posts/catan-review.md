@@ -25,9 +25,9 @@ Collect resources, build settlements, roads, and cities, and race to become the 
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Gateway Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/)
+> Featured on: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> See also: [Settlers of Catan Strategies](/blog/settlers-catan-strategies/) · [Catan vs Ticket to Ride](/blog/catan-vs-ticket-ride-which-game-should-you-buy/)
+> See also: [Settlers of Catan Strategies](/settlers-catan-strategies/) · [Catan vs Ticket to Ride](/catan-vs-ticket-ride-which-game-should-you-buy/)
 
 ## Ryan's Review
 

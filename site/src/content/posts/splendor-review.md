@@ -23,7 +23,7 @@ You're a Renaissance merchant collecting gem tokens to buy development cards. Us
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Two Player Board Games](/blog/best-two-player-board-games/)
+> Featured on: [Best Two Player Board Games](/best-two-player-board-games/)
 
 ## Whitney's Review
 

@@ -22,7 +22,7 @@ Back from the mammoth hunt, your tribe must divide the spoils. Take what you nee
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play Mammut – Simplified](/blog/mammut-how-to-play-simplified/)
+> See also: [How To Play Mammut – Simplified](/mammut-how-to-play-simplified/)
 
 ## Whitney's Review
 

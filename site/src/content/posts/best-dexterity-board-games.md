@@ -221,7 +221,7 @@ For families with kids in the 6–12 range who respond to digital feedback, this
 
 ---
 
-## 10. Ghost Blitz ([Full Review Here](/blog/ghost-blitz-review/))
+## 10. Ghost Blitz ([Full Review Here](/ghost-blitz-review/))
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939672/hexagamers-box-art/ghost-blitz.jpg)](https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20)
 
@@ -231,7 +231,7 @@ Five wooden objects sit in the middle of the table: a ghost, a chair, a book, a 
 
 The mismatch rule is where your brain starts lying to you. You see a grey ghost and a red chair, and your hand shoots toward the chair — but wait, the chair on the card is red, so the real chair is wrong, and the ghost is grey which means... someone else already has it. The cognitive load of "what doesn't match" is the whole game.
 
-It plays 2–8 and runs about 20 minutes. Great as a warmup, great for large groups who want something with no downtime. If you've played [Codenames](/blog/codenames-review/) with a group that loves word-speed puzzles, Ghost Blitz scratches a similar itch in a shorter window.
+It plays 2–8 and runs about 20 minutes. Great as a warmup, great for large groups who want something with no downtime. If you've played [Codenames](/codenames-review/) with a group that loves word-speed puzzles, Ghost Blitz scratches a similar itch in a shorter window.
 
 At the price it sells for, it's a very easy recommendation to add to any game shelf.
 
@@ -245,4 +245,4 @@ If you're only buying one, start with **Rhino Hero** for mixed groups and famili
 
 Dexterity games have a way of bringing people out of their shells who'd normally tune out between turns in a longer strategy game. Pick one that matches your player count and budget, put it on the table, and watch people lean in.
 
-For more of our picks by occasion, check out our [best party board games](/blog/best-party-board-games-with-reviews/) and [best games for large groups](/blog/best-board-games-for-large-groups/).
+For more of our picks by occasion, check out our [best party board games](/best-party-board-games-with-reviews/) and [best games for large groups](/best-board-games-for-large-groups/).

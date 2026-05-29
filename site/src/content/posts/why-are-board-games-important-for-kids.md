@@ -13,7 +13,7 @@ description: "Board games are a fun way to spend time together as a family — a
 
 Board games are a fun way to spend time together as a family — and an excuse to put down the screens. But beyond the enjoyment, they're quietly building skills your kids will use for the rest of their lives.
 
-We believe in this so strongly that we built our [best board games for 2-year-olds](/blog/best-board-games-2-year-olds-reviews/), [3-year-olds](/blog/best-board-games-3-year-olds-reviews/), and 4-year-olds lists around real family testing. The benefits fall into four main categories.
+We believe in this so strongly that we built our [best board games for 2-year-olds](/best-board-games-2-year-olds-reviews/), [3-year-olds](/best-board-games-3-year-olds-reviews/), and 4-year-olds lists around real family testing. The benefits fall into four main categories.
 
 ---
 
@@ -112,6 +112,6 @@ With each game, you see firsthand how their language is developing, what makes t
 Kids grow up fast. The laughter over a board game is one of those things you'll both remember.
 
 > **Explore our kids' game lists:**
-> - [Best Board Games for 2-Year-Olds](/blog/best-board-games-2-year-olds-reviews/)
-> - [Best Board Games for 3-Year-Olds](/blog/best-board-games-3-year-olds-reviews/)
-> - [Best Board Games that Teach Math](/blog/top-rated-board-games-that-teach-math-skills/)
+> - [Best Board Games for 2-Year-Olds](/best-board-games-2-year-olds-reviews/)
+> - [Best Board Games for 3-Year-Olds](/best-board-games-3-year-olds-reviews/)
+> - [Best Board Games that Teach Math](/top-rated-board-games-that-teach-math-skills/)

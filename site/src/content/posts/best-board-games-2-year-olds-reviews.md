@@ -24,13 +24,13 @@ description: "Board games are a fantastic way to start building children's langu
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Two-Year-Olds_dospuv.png "Two Year Olds")
 
-Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our article on [Why Board Games are Important for Kids](/blog/why-are-board-games-important-for-kids/)). We compiled our list of the best board games for two year olds to help you find some new exciting ways to spend time with your toddlers.
+Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our article on [Why Board Games are Important for Kids](/why-are-board-games-important-for-kids/)). We compiled our list of the best board games for two year olds to help you find some new exciting ways to spend time with your toddlers.
 
 If you are looking for ways to build your tots fine motor skills, color recognition, counting abilities, patience and more, play can be a great way to do it. When introducing them at such a young age, they can start to learn the technique of strategy. All of these things will be skills that your toddler can use beyond the board for their entire lives.
 
 We love that board games offer a way to work on these skills through play, keeping things fun and exciting. Your child will be learning and building skills in an organic nature.
 
-As avid gamers, we couldn’t wait to get started playing with our kids. As our collection of games grows, so has theirs. Some have grown with our children and have stood the test of time, others are growing cobwebs on the back of the shelf. To help you to find the perfect games to play with your family we have also created a list of the [best board games for three year olds](/blog/best-board-games-3-year-olds-reviews/). Check it out!
+As avid gamers, we couldn’t wait to get started playing with our kids. As our collection of games grows, so has theirs. Some have grown with our children and have stood the test of time, others are growing cobwebs on the back of the shelf. To help you to find the perfect games to play with your family we have also created a list of the [best board games for three year olds](/best-board-games-3-year-olds-reviews/). Check it out!
 
 ## Best Board Games For 2 Year Olds Comparison Table
 
@@ -134,7 +134,7 @@ Great for working on:
 - Game Play Progression
 - Shapes
 
-We have played quite a lot of [Peaceable Kingdom](http://www.peaceablekingdom.com/) games with our families, and they are always fantastic! Their ability to make games kids love while also focusing on their development makes their games favorites in our household. To check out our reviews on more Peaceable Kingdom games, visit our [best board games for 3 year olds](/blog/best-board-games-3-year-olds-reviews/) article.
+We have played quite a lot of [Peaceable Kingdom](http://www.peaceablekingdom.com/) games with our families, and they are always fantastic! Their ability to make games kids love while also focusing on their development makes their games favorites in our household. To check out our reviews on more Peaceable Kingdom games, visit our [best board games for 3 year olds](/best-board-games-3-year-olds-reviews/) article.
 
 <a href="https://www.amazon.com/dp/B06X6H9S5K/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## 4. First Orchard
@@ -154,7 +154,7 @@ Toddlers will also enjoy helping you set the game up which is a great opportunit
 
 While geared towards younger children, we find that our older children still enjoy playing First Orchard. They wouldn’t pick to play if it wasn’t for their younger siblings, but it’s their favorite of the 2 year old games.
 
-While similar to the original Orchard, and also to Hi Ho Cherry O that we have on our [Best games for 3 year olds](/blog/best-board-games-3-year-olds-reviews/) list, First Orchard doesn't involve setbacks such as the spilled basket. At 2 years old we are trying to teach the beginning steps of playing games and appreciate that they don't lose their hard earned fruit.
+While similar to the original Orchard, and also to Hi Ho Cherry O that we have on our [Best games for 3 year olds](/best-board-games-3-year-olds-reviews/) list, First Orchard doesn't involve setbacks such as the spilled basket. At 2 years old we are trying to teach the beginning steps of playing games and appreciate that they don't lose their hard earned fruit.
 
 The fact that it is a cooperative game is another one of our favorite things, winning and losing as a team is much more fun than having one person win when you are two. First Orchard has stood the test of time in our families. If you are looking for a high quality game that your kids will love playing then look no further!
 

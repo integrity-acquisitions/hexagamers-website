@@ -143,13 +143,13 @@ More...
 
 **Thinking Outside the (Board Game) Box*
 
-For [great board games to give](/blog/best-board-games-for-christmas-gifts/) or [gifts for Settlers of Catan](/blog/best-settlers-of-catan-gifts/) fans, we've got you covered! If you're hesitant to buy a board game or want a more unique gift, we've put together a great list of ideas for you, whether it's for Christmas, a birthday or any special occasion.
+For [great board games to give](/best-board-games-for-christmas-gifts/) or [gifts for Settlers of Catan](/best-settlers-of-catan-gifts/) fans, we've got you covered! If you're hesitant to buy a board game or want a more unique gift, we've put together a great list of ideas for you, whether it's for Christmas, a birthday or any special occasion.
 
 First, the Obvious
 
-If you're pressed for time or want to give the gift of choice, gift cards are always a safe bet. Many cities have [board game cafes](/blog/edmonton-board-game-cafes/) that offer gift cards, and giftees can use them to spend the day playing games and having a few drinks, or buy their next board game. 
+If you're pressed for time or want to give the gift of choice, gift cards are always a safe bet. Many cities have [board game cafes](/edmonton-board-game-cafes/) that offer gift cards, and giftees can use them to spend the day playing games and having a few drinks, or buy their next board game. 
 
-Another idea for the gamer in your life is to **challenge their brains** with a different puzzle: escape rooms. We're huge escape room nerds and compiled our [top 10 Edmonton Escape Room list](/blog/best-edmonton-escape-rooms-and-companies/) of Edmonton companies and rooms to try. 
+Another idea for the gamer in your life is to **challenge their brains** with a different puzzle: escape rooms. We're huge escape room nerds and compiled our [top 10 Edmonton Escape Room list](/best-edmonton-escape-rooms-and-companies/) of Edmonton companies and rooms to try. 
 
 ****Board Game Accessories & Upgrades
 
@@ -164,7 +164,7 @@ Yokohama token upgrades from Meeple Source.
 - [Grip mats](http://bfrgames.storenvy.com/) are an awesome accessory for tile games and games with **pieces that need to stay put**. Pieces won't move on the mat but are easily lifted off with no damage.
 - The Broken Token creates **custom storage solutions** including [game boxes](http://www.thebrokentoken.com/game-boxes/), game box [organizers and inserts](http://www.thebrokentoken.com/organizers-inserts/) as well as different [accessories](http://www.thebrokentoken.com/accessories/) like bags, box bands and card holders.
 - [Top Shelf Gamer](http://www.topshelfgamer.com) has **tons** of accessories including token upgrades, box inserts, deck holders, card holders, mats, card sleeves, bags and more. They also have non-game gifts and what's more, you can search by game and type!
-- If you don't want to spend a lot on game inserts, [plastic bowls](http://www.ikea.com/ca/en/catalog/products/30192960/#) or [storage containers with lids](http://www.ikea.com/ca/en/catalog/products/60149673/) make cheap stocking stuffers but help organize games with a lot of pieces (ahem, [Flash Point](/blog/flash-point-fire-rescue-review/)) while you're playing. 
+- If you don't want to spend a lot on game inserts, [plastic bowls](http://www.ikea.com/ca/en/catalog/products/30192960/#) or [storage containers with lids](http://www.ikea.com/ca/en/catalog/products/60149673/) make cheap stocking stuffers but help organize games with a lot of pieces (ahem, [Flash Point](/flash-point-fire-rescue-review/)) while you're playing. 
 - The people and animal [custom meeples and player tokens from epicycledesigns on Etsy](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Fshop%2Fepicycledesigns) give board games a cute flair.
 [Jenefer Ham](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fshop%2FJeneferHamGlass) makes amazing glass game tokens and jewelry. We especially love the [Pandemic set](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Flisting%2F266213845%2Fpandemic-glass-virus).
 
@@ -172,7 +172,7 @@ Yokohama token upgrades from Meeple Source.
 
 Pandemic Iberia tokens from Jenefer Ham.
 
-- If you know someone who loves [Betrayal at House on the Hill](/blog/betrayal-at-house-on-the-hill-review/), chances are you've heard complaints about the **clips for character trait trackers**. The app is fine, but [these clips](https://www.shapeways.com/product/G55FCRZR8/replacement-clips-betrayal-at-house-on-the-hill) solve that problem easily while using game components. Your giftee will love and think of you every time they play!
+- If you know someone who loves [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/), chances are you've heard complaints about the **clips for character trait trackers**. The app is fine, but [these clips](https://www.shapeways.com/product/G55FCRZR8/replacement-clips-betrayal-at-house-on-the-hill) solve that problem easily while using game components. Your giftee will love and think of you every time they play!
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-trait-clips2_sgp95m.jpg "Betrayal trait clips")
 
@@ -229,7 +229,7 @@ Fjg
 
 Glassware
 
-- [Conesters](https://www.conester.com/) prevent cups and glasses from tipping over during rowdy games of [Cash 'n Guns](/blog/cash-n-guns-review/), and even have a cutout for coffee mug handles.
+- [Conesters](https://www.conester.com/) prevent cups and glasses from tipping over during rowdy games of [Cash 'n Guns](/cash-n-guns-review/), and even have a cutout for coffee mug handles.
 - Get your party rowdy with these [etched shot glasses](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F248464964%2Fpolyhedral-game-dice-etched-shot-glassesl-game-dice-etched-shot-glasses), or class it up a bit with the [etched whiskey glasses](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F247628125%2Fgame-dice-d20-etched-whiskey-shot-glass).
 - We like the etched Catan rocks glasses from Dances with Monsters, and the [Player Select glasses](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F524705233%2Fplayer-select-retro-gamer-etched-glass) look like they're excellent quality, too. 
 - [Board game addict coffee mug](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F559455223%2Fboard-game-mug)

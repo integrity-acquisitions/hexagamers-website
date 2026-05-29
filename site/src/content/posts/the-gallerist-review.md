@@ -23,7 +23,7 @@ You're an art gallery owner in a competitive market. Discover artists, promote t
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play The Gallerist – Simplified](/blog/gallerist-play-simplified/)
+> See also: [How To Play The Gallerist – Simplified](/gallerist-play-simplified/)
 
 ## Whitney's Review
 

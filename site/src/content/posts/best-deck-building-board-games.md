@@ -25,11 +25,11 @@ description: "As your board game collection starts continues to grow, you will s
 
 As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you interested is Deck Building Games, and rightfully so. If you are unfamiliar with what we these are, they can be summarized as board games where you slowly improve your hand over the duration of the game, in order to use that hand to help you eventually win.
 
-Looking to learn more about Deck Building Board Games? Check out...[Our Guide to Deck Building Games Here](/blog/guide-to-understanding-deck-building-games/)
+Looking to learn more about Deck Building Board Games? Check out...[Our Guide to Deck Building Games Here](/guide-to-understanding-deck-building-games/)
 
 Note: There are card constructing games that you must buy or collect cards before even playing, and then you construct your hand before the game even starts. Think of Yu-Gi-Oh or Magic The Gathering. We will NOT be looking at these types in this list.
 
-When looking for the best deck building game, there are a lot of different factors to consider. Some of these games are kingdoms style and some are market style (find out more about these styles here ---> [Guide To Deck Building Games](/blog/guide-to-understanding-deck-building-games/) ). Some are good for 1 player, others for up to 4 or 5. Some involve a lot of interaction with other players, some not so much. There are even cooperative style games in this genre.
+When looking for the best deck building game, there are a lot of different factors to consider. Some of these games are kingdoms style and some are market style (find out more about these styles here ---> [Guide To Deck Building Games](/guide-to-understanding-deck-building-games/) ). Some are good for 1 player, others for up to 4 or 5. Some involve a lot of interaction with other players, some not so much. There are even cooperative style games in this genre.
 
 There are styles that have a lot of randomization, and others that involve strategic direction right from the start. You’ll see that some are fast paced or quick games, and certain ones take more time. On top of all that, you have different artwork which might be important to you. And, if that wasn’t enough, there are different themes to these games if that is critical to your enjoyment.
 
@@ -55,12 +55,12 @@ Have a look at some of the highest rated games, with small reviews, according to
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg) |   Clank!   |   2- 4   |   30-60 min   |   $$$$   |  |
 | ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg) |   Core Worlds   |   2-5   |   60-120 min   |   $$$   |  |
 
-## 1. Dominion ([Full Review Here](/blog/dominion-review/))
+## 1. Dominion ([Full Review Here](/dominion-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://amzn.to/2n1RoKh)
 
-This one is at the top of our list for a number of reasons. Not only did this game somewhat kickoff this genre when it was introduced back in 2008, but it is still highly regarded as the best in class. Dominion has very simple mechanics (can be broken down into ABC), so it is perfect for starting into the genre, no matter what your experience level is. In fact, it made our [Best Gateway Board Games](/blog/best-gateway-board-games-for-beginners-with-reviews/) for that reason.
+This one is at the top of our list for a number of reasons. Not only did this game somewhat kickoff this genre when it was introduced back in 2008, but it is still highly regarded as the best in class. Dominion has very simple mechanics (can be broken down into ABC), so it is perfect for starting into the genre, no matter what your experience level is. In fact, it made our [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/) for that reason.
 
 All players begin the game with the same starting hand and slowly collect action cards, currency, and victory points. In this kingdom style game, you are able to see all of the available cards, and choose from them if you can afford them. This allows you to plan in advance what you want your strategy to be. You eventually switch from building your deck to collecting Victory Points to win the game. That being said, there isn’t a lot of luck to this game other than how your hand plays out after each shuffle.
 

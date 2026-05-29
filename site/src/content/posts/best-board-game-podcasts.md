@@ -97,7 +97,7 @@ It’s one you can subscribe to and get excited when you see a new episode show 
 
 This may be the fastest growing podcast on our list of the best board game podcasts you can listen to. It has started to come up in discussions more and more often. It might be because of the fact that they put out an episode biweekly. Yes, you read that correct, plenty of content here.
 
-They are 5 old friends that all have very unique viewpoints and perspectives on board games. To add to that diversity, they also cover a huge range of genres. Everything from [Deck Building Board Games](/blog/best-deck-building-board-games/) to [Cooperative Board Games](/blog/best-cooperative-board-games/) to [Card Drafting Board Games](/blog/best-card-drafting-board-games/).
+They are 5 old friends that all have very unique viewpoints and perspectives on board games. To add to that diversity, they also cover a huge range of genres. Everything from [Deck Building Board Games](/best-deck-building-board-games/) to [Cooperative Board Games](/best-cooperative-board-games/) to [Card Drafting Board Games](/best-card-drafting-board-games/).
 
 The podcast is high quality, with over 150 episodes produced at the time of writing this post. We find it to be very entertaining, while at the same time thoughtful. It seems like you can find yourself sharing common thoughts/grounds with at least one person on the show.
 
@@ -193,7 +193,7 @@ They do his a few games per episode usually, as well as news, so they can run fo
 
 Dukes of dice is a great board gaming podcast that has been around for a few years. They date back to 2014 and have over 150 episodes to their name.
 
-These Dukes cover a good range of topics, but the majority of their time is focused on reviewing games, making it great for beginners (Check out our [Best Board Games for Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) post for some of our suggestions). Now, if you think you are well versed and might not get anything out of this podcast, think again.
+These Dukes cover a good range of topics, but the majority of their time is focused on reviewing games, making it great for beginners (Check out our [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) post for some of our suggestions). Now, if you think you are well versed and might not get anything out of this podcast, think again.
 
 These guys cover a big variety of games, good for any skill level, but not only that, they touch on board game news in almost every episode. This can range from kickstarter games to new expansions slated for release. They also tackle topics like the board game awards and much anticipated conventions.
 

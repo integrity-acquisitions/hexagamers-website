@@ -25,7 +25,7 @@ description: "The mysterious pictures taken in the ghost's house have some error
 
 The mysterious pictures taken in the ghost's house have some errors. In this fast-paced game you must figure out which item in the picture is correct — or which one is completely missing. Test your reflexes and your brain at the same time. Figure it out first and grab the right item to score a point. Grab the wrong one and your opponent scores instead.
 
-> Want our thoughts on the game? Read our [Full Ghost Blitz Review](/blog/ghost-blitz-review/).
+> Want our thoughts on the game? Read our [Full Ghost Blitz Review](/ghost-blitz-review/).
 
 ## Overview
 

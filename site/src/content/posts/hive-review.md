@@ -22,7 +22,7 @@ Two players face off with hexagonal bug tiles. Protect your Queen Bee while surr
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Two Player Board Games](/blog/best-two-player-board-games/)
+> Featured on: [Best Two Player Board Games](/best-two-player-board-games/)
 
 ## Charlene's Review
 

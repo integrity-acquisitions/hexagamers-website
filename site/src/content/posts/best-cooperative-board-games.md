@@ -25,7 +25,7 @@ Cooperative Board Games! One of our favorite categories!
 
 While there are some exceptions to the rule a coop game basically means everyone is working together against the board (or deck) to achieve the end goal. They are perfect for starting out, or for introducing someone to strategy board games, since they will get you in the mindset of planning and strategizing, but you won't be on your own. We also love coop games for experienced gamers since they bring everyone together on the same team and halt the 'everyone for themselves' battle for a little while.
 
-As mentioned there are exceptions to the 'all for one' mindset of coop games. Some games (eg. [Betrayal at House on the Hill](/blog/betrayal-at-house-on-the-hill-review/)) involve a traitor, where at some point one player turns on the others and it becomes all against one.
+As mentioned there are exceptions to the 'all for one' mindset of coop games. Some games (eg. [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/)) involve a traitor, where at some point one player turns on the others and it becomes all against one.
 
 Another type of co-op game is where someone has a secret objective to achieve that may not be for the good of the group. A couple games involving this mechanic are BattleStar Galactica: The Boardgame and Dead of Winter : A Crossroads Game. Most coop games you encounter however will be straight forward all on one team.
 
@@ -51,7 +51,7 @@ Click the thumbnail to jump down to the game write up
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](#6-forbidden-desertfull-review-here) | Forbidden Desert | 2-5 | 45 min | $$ |  |
 | [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](#7-betrayal-at-house-on-the-hillfull-review-here) | Betrayal at House on the Hill | 3-6 | 60 min | $$ |  |
 
-## 1. Pandemic ([Full Review Here](/blog/codenames-review/))
+## 1. Pandemic ([Full Review Here](/codenames-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
@@ -64,12 +64,12 @@ We love the high replay ability factor of Pandemic. Some games are impossible to
 
 You can increase the difficulty of this game by adding more epidemic cards (these increase the spreading of disease), making the win rate pretty low, we appreciate this factor since we love the challenge of this game and can adjust it depending on the skill level of players.
 
-Pandemic is easy to teach and one of those games you can pick up on as you go, if fact it made our [Best Gateway Board Game For Beginners](/blog/best-gateway-board-games-for-beginners-with-reviews/) list because of that fact. Our only complaint is that it is only for up to 4 players unless you buy an expansion. That being said, we have played with 6 players before and just partnered up, since it's a team game anyways.
+Pandemic is easy to teach and one of those games you can pick up on as you go, if fact it made our [Best Gateway Board Game For Beginners](/best-gateway-board-games-for-beginners-with-reviews/) list because of that fact. Our only complaint is that it is only for up to 4 players unless you buy an expansion. That being said, we have played with 6 players before and just partnered up, since it's a team game anyways.
 
 Whether you own a coop game already or are looking to add one to your collection Pandemic is our top choice, you won't be disappointed.
 
 <a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-\== For a simplified version of How to Play Pandemic, [CLICK HERE](/blog/pandemic-how-to-play-simplified/) ==
+\== For a simplified version of How to Play Pandemic, [CLICK HERE](/pandemic-how-to-play-simplified/) ==
 
 ## 2. Robinson Crusoe: Adventure on the Cursed Island
 
@@ -101,7 +101,7 @@ This game is strong in player interaction and teamwork which is why we like it c
 If we had one complaint it would be that although it says 2-7 players it plays best with at least 4. One final random bit of information for Mysterium is that if you already have Dixit (a non coop game that has been compared to Mysterium) in your collection you can use the cards from it as a free expansion!
 
 <a href="https://www.amazon.com/dp/B013TJ5P80/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 4. Flash Point: Fire Rescue ([Full Review Here](/blog/flash-point-fire-rescue-review/))
+## 4. Flash Point: Fire Rescue ([Full Review Here](/flash-point-fire-rescue-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](https://www.amazon.com/dp/B0084M8UEE/?tag=hexagamers-20)
@@ -131,11 +131,11 @@ A unique aspect of this game is that if your player dies you are not out; you do
 Our one complaint is that this game can be really long which is part of why we prefer it with fewer players, but that shouldn't dissuade you from buying it. That being said Eldritch Horror also plays great as a single player game which makes it really versatile. This is a really good cooperative game, and should definitely be added to your list!
 
 <a href="https://www.amazon.com/dp/1616617667/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-Looking for more Board Games you can play solo? Check out...[Best Single Player Board Games](/blog/best-one-player-solo-board-games-with-reviews/)
+Looking for more Board Games you can play solo? Check out...[Best Single Player Board Games](/best-one-player-solo-board-games-with-reviews/)
 
 ## Honorable Mentions
 
-## 6. Forbidden Desert ([Full Review Here](/blog/forbidden-desert-review/))
+## 6. Forbidden Desert ([Full Review Here](/forbidden-desert-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
@@ -146,12 +146,12 @@ To find the pieces you need to explore the desert by flipping over tiles. If a t
 
 As with most coop games each player has a different set of special skills. One thing we really like is that after each player's turn the storm moves the tiles and parts around. You may have located where a piece of your plane is, but on your way to get it, the wind could move it in the complete opposite direction and or bury it under the sand. This keeps things interesting.
 
-Forbidden desert is the follow up game to [Forbidden Island](/blog/forbidden-island-review/), they have made it a bit more complicated than Forbidden Island and while we do appreciate that, it only made it onto our list as an Honorable Mention because it's still a bit too simple for our tastes. It also plays like a less intense version of Pandemic and since we prefer Pandemic we couldn't give Forbidden Island an official spot on our list.
+Forbidden desert is the follow up game to [Forbidden Island](/forbidden-island-review/), they have made it a bit more complicated than Forbidden Island and while we do appreciate that, it only made it onto our list as an Honorable Mention because it's still a bit too simple for our tastes. It also plays like a less intense version of Pandemic and since we prefer Pandemic we couldn't give Forbidden Island an official spot on our list.
 
 That being said, the game is very well done it requires a lot of teamwork and it would be a perfect starter into the world of coop/strategy board games. Also, the price tag is quite low in comparison making it a great buy!
 
 <a href="https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 7. Betrayal at House on the Hill ([Full Review Here](/blog/betrayal-at-house-on-the-hill-review/))
+## 7. Betrayal at House on the Hill ([Full Review Here](/betrayal-at-house-on-the-hill-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](https://www.amazon.com/dp/B08Q44HS82/?tag=hexagamers-20)

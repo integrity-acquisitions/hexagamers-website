@@ -100,7 +100,7 @@ description: "Settlers of Catan (Catan) is one of the best-known and best-loved 
 
 ![Best Settlers of Catan Gifts](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Catan-Gifts_p9aic6.jpg)
 
-[Settlers of Catan (Catan)](/blog/catan-review/) is one of the best-known and best-loved board games in circulation today. For many, it was and remains the [gateway game](/blog/best-gateway-board-games-for-beginners-with-reviews/): the perfect intro to how board games have evolved, to strategy, to expansions, and the immense world where there's something for everyone.
+[Settlers of Catan (Catan)](/catan-review/) is one of the best-known and best-loved board games in circulation today. For many, it was and remains the [gateway game](/best-gateway-board-games-for-beginners-with-reviews/): the perfect intro to how board games have evolved, to strategy, to expansions, and the immense world where there's something for everyone.
 
 Catan has a huge following, and retailers, small businesses and entrepreneurs have jumped in the mix, making and selling gifts suitable for any gamer or Catan lover you know. From coasters to clothes to upgraded boards, there is something for everyone on your list. We've captured some of our favourite Catan gifts below, but trust us, the gifts and possibilities are endless. 
 
@@ -246,7 +246,7 @@ Measuring 15x21 mm, this sheep hexagon necklace is a dainty and pretty gift that
 
 # 4\. Game Boards and Storage
 
-There are a lotof custom Catan boards out there, so make sure to check out our full list of the [Best Catan Custom Boards Here](/blog/best-custom-settlers-of-catan-game-boards/).
+There are a lotof custom Catan boards out there, so make sure to check out our full list of the [Best Catan Custom Boards Here](/best-custom-settlers-of-catan-game-boards/).
 
 Not only that, but there are some pretty cool storage solutions, carrying case, and so much more dedicated to this area. While these items are pricey, they are definitely among the best, most useful and most unique Catan gifts money can buy.
 

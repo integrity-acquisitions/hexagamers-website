@@ -17,7 +17,7 @@ description: "> Read our full thoughts: Ryan's Review of Settlers of Catan"
 
 ![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305654/Catan-1-244x300.jpg)
 
-> Read our full thoughts: [Ryan's Review of Settlers of Catan](/blog/catan-review/)
+> Read our full thoughts: [Ryan's Review of Settlers of Catan](/catan-review/)
 
 Catan is a game where every component decision matters — from your starting placement to how you handle the robber. This guide covers the universal principles every player should internalize, followed by four distinct strategies to try once you're comfortable with the basics.
 
@@ -123,4 +123,4 @@ There's no single correct strategy for Catan — the board changes every game, a
 
 Try each strategy a few times. You'll find one that fits your play style — and when you do, keep experimenting, because the best Catan players are the ones opponents can't predict.
 
-> Want to really impress your group? Check out the [best custom Catan boards](/blog/best-custom-settlers-of-catan-game-boards/) to take game night to the next level.
+> Want to really impress your group? Check out the [best custom Catan boards](/best-custom-settlers-of-catan-game-boards/) to take game night to the next level.

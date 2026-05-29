@@ -26,9 +26,9 @@ description: "If you haven’t played board games in a long time, say, since you
 
 If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are the most popular board games among players. Yes, those are some great games, but nowadays there is a lot more to choose from when it comes to board games.
 
-[Click here to jump to the comparison table...](/blog/best-gateway-board-games-for-beginners-with-reviews#table/)
+[Click here to jump to the comparison table...](/best-gateway-board-games-for-beginners-with-reviews#table/)
 
-There are all sorts of different genres, difficulty/strategy levels, and styles of games. If you are looking to learn more about the current state of board games, you might be interested in [Everything you need to know about board games](/blog/everything-you-need-to-know-about-board-games/).
+There are all sorts of different genres, difficulty/strategy levels, and styles of games. If you are looking to learn more about the current state of board games, you might be interested in [Everything you need to know about board games](/everything-you-need-to-know-about-board-games/).
 
 If, however, you are a beginner looking to get started into gaming, we have compiled a list of the best board games for beginners that is perfect for people just like you.
 
@@ -44,7 +44,7 @@ We should further define what we consider a gateway board game, so you have an i
 
 We define these as games that are very easy to get into. What do we mean by that? Well, for one they are very easy to set up out of the box. This could mean that there are very few components, or the components are easy to understand where they would go, or maybe there is a very good set up guide included in the box.
 
-Another way these games are easy to get into for newbies is that they have very few rules or very straight forward rules. Just to give you a frame of reference, there are games like [Agricola](/blog/agricola-review/) that have a 12 page rule book and a 12 page appendix… for a beginner, it is possible to read this and understand, but wouldn’t lead to a good first impression into strategy board games. More or less, you will be able to play these games once and totally get it.
+Another way these games are easy to get into for newbies is that they have very few rules or very straight forward rules. Just to give you a frame of reference, there are games like [Agricola](/agricola-review/) that have a 12 page rule book and a 12 page appendix… for a beginner, it is possible to read this and understand, but wouldn’t lead to a good first impression into strategy board games. More or less, you will be able to play these games once and totally get it.
 
 In order to make our list, we also want to make sure these games have an overall good theme, as that can be an important factor in making a game a good one. As partially mentioned earlier, we also wanted to make sure these games were accessible to everyone. Both in the fact that anyone of any skill level can jump in, understand it, and have a good time.
 
@@ -79,7 +79,7 @@ It would be almost impossible to cover every game in our best gateway board game
 
 ## Top Ten Gateway Board Games For Beginners Reviews
 
-## 1. Catan ([Full Review Here](/blog/catan-review/))
+## 1. Catan ([Full Review Here](/catan-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20)
@@ -101,7 +101,7 @@ The rules for this game can be taught to new players in about 5 minutes, with th
 The concept of collecting some sort of resource and then managing it is a mechanic that is wildly popular within the board game world, and something that should be learned early on as it transfers into so many other games. Where the term of ‘resource’ is used loosely here as it could range from the wood and sheep in Catan to the Gems of Splendor or something along those lines. Likewise ‘managing’ could be dividing for purchases, or trade, or to help you build something.
 
 <a href="https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 2. Ticket To Ride: Europe ([Full Review Here](/blog/ticket-to-ride-europe-review/))
+## 2. Ticket To Ride: Europe ([Full Review Here](/ticket-to-ride-europe-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
@@ -123,7 +123,7 @@ There is also something about they cute little trains that gets people excited a
 Within our group alone, we played this game with 4 other couples that have run out and bought it the next day, and we still aren’t tired of playing it!
 
 <a href="https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 3. Carcassonne ([Full Review Here](/blog/carcassone-review/))
+## 3. Carcassonne ([Full Review Here](/carcassone-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
@@ -147,7 +147,7 @@ It also has a bunch of versions/expansions if you find that you really like it, 
 Another tip for the beginner gamers with this one is to play the first couple of rounds without the farmers to help minimize confusion and also add a tiny bit of longevity to your board game.
 
 <a href="https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 4. Lords Of Waterdeep ([Full Review Here](/blog/lords-of-waterdeep-review/))
+## 4. Lords Of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
@@ -183,12 +183,12 @@ There is an aspect of planning to this game, but you can only plan so far in adv
 It is a game that is accessible by nearly everyone, can be played anywhere, and introduces some important concepts. Plus, you’ll find that a game will end and people will “want to try it again right now”. All components of a top gateway game for beginners.
 
 <a href="https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 6. Dominion ([Full Review Here](/blog/dominion-review/))
+## 6. Dominion ([Full Review Here](/dominion-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
-Dominion is a good gateway board game that falls into the [Deck Builder](/blog/guide-to-understanding-deck-building-games/) genre. In fact it is one of the, if not the [best deck building games](/blog/best-deck-building-board-games/) out there.
+Dominion is a good gateway board game that falls into the [Deck Builder](/guide-to-understanding-deck-building-games/) genre. In fact it is one of the, if not the [best deck building games](/best-deck-building-board-games/) out there.
 
 This game has a great medieval theme too it which can be found on the many cards. The point of the game is to build out your deck so that you are able to purchase victory points and thus win the game.
 
@@ -205,14 +205,14 @@ This game is still fun for us years after buying it, so if you are worried about
 You will understand how to play in your first game, but it will take you a few to really understand the best way to build your deck. This is part of the beauty of the game. Check this one out for something a little different in your gateway game collection.
 
 <a href="https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 7. Pandemic ([Full Review Here](/blog/pandemic-review/))
+## 7. Pandemic ([Full Review Here](/pandemic-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
-Pandemic is a game in which all players get to work together against a common enemy, in this case it is the board, which is breaking out in different diseases that you must contain. This type of game is called a cooperative game (or co-op), and pandemic is one of the [best co-op board games](/blog/best-cooperative-board-games/) there is.
+Pandemic is a game in which all players get to work together against a common enemy, in this case it is the board, which is breaking out in different diseases that you must contain. This type of game is called a cooperative game (or co-op), and pandemic is one of the [best co-op board games](/best-cooperative-board-games/) there is.
 
-This game has a few more rules that you must know before starting than some of the others, but by no means is it harder to understand or harder to play. We have [simplified the rules of Pandemic here](/blog/pandemic-how-to-play-simplified/) to help you understand game play more.
+This game has a few more rules that you must know before starting than some of the others, but by no means is it harder to understand or harder to play. We have [simplified the rules of Pandemic here](/pandemic-how-to-play-simplified/) to help you understand game play more.
 
 Essentially, though, this game start with a few diseases (colored cubes) spread across the map/game board in varying densities of cubes. Each player is assigned a random role (there are more roles than players so it will be different most games you play), which will help you to battle against the diseases.
 
@@ -225,7 +225,7 @@ This is a great gateway game for new player because everyone is working together
 Again, this game has some good longevity, as we still play the original years later without even using the expansions! It is a perfect game for someone who might be intimidated about their individual skill level since they get to work with others along the way. Check this one out.
 
 <a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 8. Takenoko ([Full Review Here](/blog/takenoko-review/))
+## 8. Takenoko ([Full Review Here](/takenoko-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20)
@@ -243,14 +243,14 @@ The other things that makes this game great are its mechanics and genre. The mec
 This one is fun for people of all ages. It is competitive, but not cutthroat, which is something we look for in a good gateway game. Its price can be has come down dramatically since its release, and is easily worth its price. It is one of those games that you can confidently take off the shelf and play with anyone after taking the 5 minutes to explain the rules!
 
 <a href="https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 9. Coup ([Full Review Here](/blog/coup-review/))
+## 9. Coup ([Full Review Here](/coup-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is your gateway game into the bluffing and social deduction board game genre. A social deduction game is one in which the players have secret identities and the object of the game (or part of it anyways).
 
-This is a game of survival, where each player is dealt 2 cards (aka influences) and must be the last person with cards in their hand in order to win the game. We have a [simplified how to play for coup](/blog/coup-how-to-play-simplified/) which is a quick read if you are interested in this game.
+This is a game of survival, where each player is dealt 2 cards (aka influences) and must be the last person with cards in their hand in order to win the game. We have a [simplified how to play for coup](/coup-how-to-play-simplified/) which is a quick read if you are interested in this game.
 
 In this one, players can chose to tell the truth or bluff (or some combination of both) about which character cards they are holding. Other players must try to decipher if you are telling the truth or not as one of the means of eliminating one of your influences. As the game progresses (and cards are eliminated), players will deduct which roles each other has in order to gain advantage and ultimately win the game.
 
@@ -261,7 +261,7 @@ Coup takes around 5 minutes to learn, and way less to set up the game. That coup
 We have played this game with a variety of age groups and demographics, and it is constantly a hit. This genre has a lot of fun games if you like deception and possibly lying to your friends, which is why it made it on our list of highest rated gateway board games.
 
 <a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 10. Camel Up ([Full Review Here](/blog/camel-up-review/))
+## 10. Camel Up ([Full Review Here](/camel-up-review/))
 
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20)
@@ -276,7 +276,7 @@ This game has a fun theme, and is really easy to set up and get into. It also ha
 
 There is a lot of luck in this game in the dice rolling and the order they come out of the pyramid, but you still have to make strategic decisions/guesses in order to gain coins. It is a calculated risk vs reward type of game which will allow beginners to realize board games are fun again. They won’t be intimidated by their skill level or ability to plan in advance, and will probably be begging for another round or even “what other games are like this?”.
 
-There are a lot of lighter board games, including some party games like [Codenames](/blog/codenames-review/), which will be right up their alley if they don’t want the more intense games.
+There are a lot of lighter board games, including some party games like [Codenames](/codenames-review/), which will be right up their alley if they don’t want the more intense games.
 
 <a href="https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## Conclusion

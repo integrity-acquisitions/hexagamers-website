@@ -27,7 +27,7 @@ description: "Coup is a fast-paced bluffing game set in a dystopian future. Lie 
 
 Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from, tax, assassinate, and Coup your opponents — or at least convincingly pretend to. Last player with cards in hand wins.
 
-> Full thoughts: [Coup Review](/blog/coup-review/) · Want more variety? [Alternative Coup Variations](/blog/coup-alternative-game-play-variations/)
+> Full thoughts: [Coup Review](/coup-review/) · Want more variety? [Alternative Coup Variations](/coup-alternative-game-play-variations/)
 
 ## What's In The Box
 

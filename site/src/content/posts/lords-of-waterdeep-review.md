@@ -24,9 +24,9 @@ You are a powerful Lord sending workers across the city of Waterdeep to collect 
   <div class="stat"><span class="stat-value">12+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play Lords of Waterdeep – Simplified](/blog/lords-of-waterdeep-how-to-play-simplified/)
+> See also: [How To Play Lords of Waterdeep – Simplified](/lords-of-waterdeep-how-to-play-simplified/)
 
-> Featured on: [Best Worker Placement Board Games](/blog/best-worker-placement-board-games-reviews/)
+> Featured on: [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/)
 
 ## Ryan's Review
 

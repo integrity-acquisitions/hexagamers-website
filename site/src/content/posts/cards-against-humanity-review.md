@@ -27,7 +27,7 @@ The self-described "party game for horrible people." One player reads a question
   <div class="stat"><span class="stat-value">17+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Party Board Games](/blog/best-party-board-games-with-reviews/)
+> Featured on: [Best Party Board Games](/best-party-board-games-with-reviews/)
 
 ## Charlene's Review
 
