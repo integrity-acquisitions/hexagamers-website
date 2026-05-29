@@ -35,10 +35,10 @@ If you're looking for more specific lists, check out our [Best Board Games for C
 | --- | --- | --- | --- | --- | --- |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-catan-full-review-here) | Catan | 3–4 | 60–120 min | $$ | 3.8 / 5 |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#2-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015892/hexagamers-box-art/pandemic.jpg)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#4-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | 4.7 / 5 |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#5-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](#6-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015893/hexagamers-box-art/splendor.jpg)](#6-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](#7-carcassonne-full-review-here) | Carcassonne | 2–5 | 30–45 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](#8-dominion-full-review-here) | Dominion | 2–4 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#9-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
@@ -88,7 +88,7 @@ Ticket to Ride is one of those games that feels breezy while you're playing it, 
 
 ## 3. Pandemic ([Full Review Here](/blog/pandemic-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015892/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Three players might be the best player count for Pandemic. Two can feel thin — each player is covering a lot of map. Four starts getting loud and can tip into analysis paralysis. Three keeps the communication real without turning into a committee meeting.
 
@@ -148,7 +148,7 @@ At three, the pace is right and the competition is real without being aggressive
 
 ## 6. Splendor ([Full Review Here](/blog/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015893/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is a gem-collecting engine builder that plays in about 30 minutes and packs a surprising amount of decision-making into a small box. You're collecting gem tokens to buy development cards, which generate permanent gems, which help you buy more expensive cards — and eventually attract noble tiles worth big points.
 
