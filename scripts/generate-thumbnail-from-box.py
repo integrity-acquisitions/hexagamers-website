@@ -200,8 +200,7 @@ def main():
 
     md_path = os.path.join(POSTS_DIR, f"{slug}.md")
     if not os.path.exists(md_path):
-        print(f"ERROR: Post not found: {md_path}")
-        sys.exit(1)
+        print(f"  NOTE: Post not found at {md_path} — will generate thumbnail but skip frontmatter patch.")
 
     os.makedirs(IMAGES_DIR, exist_ok=True)
     os.makedirs(PROMPTS_DIR, exist_ok=True)
@@ -241,15 +240,22 @@ def main():
     print(f"  Thumbnail saved: {output_path}")
 
     # Step 4: Upload to Cloudinary
-    public_id = f"hexagamers-reviews/{slug}"
+    # Folder defaults to hexagamers-reviews/ but can be overridden (e.g. hexagamers-guides/
+    # for how-to-play posts) via the THUMBNAIL_FOLDER env var.
+    folder = os.environ.get('THUMBNAIL_FOLDER', 'hexagamers-reviews').strip().strip('/')
+    public_id = f"{folder}/{slug}"
     cover_url = upload_to_cloudinary(output_path, public_id, env)
 
     if not cover_url:
         print(f"  Falling back to local path — upload manually to Cloudinary as: {public_id}")
         cover_url = f"/images/reviews/{slug}.jpg"
 
-    # Step 5: Patch the post frontmatter
-    patch_frontmatter(md_path, cover_url)
+    # Step 5: Patch the post frontmatter (only if the post file exists)
+    if os.path.exists(md_path):
+        patch_frontmatter(md_path, cover_url)
+    else:
+        print(f"  Skipping frontmatter patch — post file not yet written.")
+        print(f"  Set this in your post frontmatter:  coverImage: \"{cover_url}\"")
     print(f"\nDone. coverImage = {cover_url}")
     print(f"Run 'astro build' and push to deploy.")
 

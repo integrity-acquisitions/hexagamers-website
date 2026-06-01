@@ -29,7 +29,7 @@ Collect resources, build settlements, roads, and cities, and race to become the 
 
 > Featured on: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> See also: [Settlers of Catan Strategies](/settlers-catan-strategies/) · [Catan vs Ticket to Ride](/catan-vs-ticket-ride-which-game-should-you-buy/)
+> See also: [How To Play Catan](/catan-how-to-play-simplified/) · [Settlers of Catan Strategies](/settlers-catan-strategies/) · [Catan vs Ticket to Ride](/catan-vs-ticket-ride-which-game-should-you-buy/)
 
 ## Ryan's Review
 
