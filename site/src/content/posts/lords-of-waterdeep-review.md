@@ -18,6 +18,8 @@ description: "You are a powerful Lord sending workers across the city of Waterde
 
 You are a powerful Lord sending workers across the city of Waterdeep to collect resources, complete quests, and build your influence. The Lord with the most Victory Points after 8 rounds claims the city.
 
+![The Lords of Waterdeep game board fully set up for play](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Game-Board-Full_nmojcc.jpg "The Lords of Waterdeep board set up")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">60–120 min</span><span class="stat-label">Play Time</span></div>
@@ -45,15 +47,25 @@ You are a powerful Lord sending workers across the city of Waterdeep to collect 
 
 Lords of Waterdeep was one of my first worker placement games. The concept of using meeples to block spaces and gather resources felt fresh and different from everything else I'd played. There were a few "oh, by the way, that's a rule" moments in the first game, but after one full round the intricacies clicked quickly. Intimidating at first; accessible very fast.
 
+![The empty Lords of Waterdeep board before workers are placed](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Empty-Game-Board_prfblr.jpg "The empty Lords of Waterdeep board")
+
 ## Thoughts
 
 **Worker placement done cleanly.** You place meeples on action spaces to collect resources, buy buildings, or draw intrigue cards — and once a space is taken, nobody else can use it that round. Simple, clean, and creates natural tension around prime spots.
 
+![A worker placed on the Castle Waterdeep space](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Castle-Waterdeep-space_mpbtri.jpg "The Castle Waterdeep action space")
+
 **The board expands as you play.** Players can buy buildings to add new action spaces. This keeps the game from feeling static and creates momentum as more options unlock. At round 5, every player gains a third meeple, which speeds up resource collection and tightens the board further.
+
+![Lords of Waterdeep building cards that add new action spaces](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Building-Cards_jnobnl.jpg "Building cards in Lords of Waterdeep")
 
 **Balance is good.** Games rarely run away for one player. Randomised quest cards, building layouts, and Lord assignments mean every game plays differently, and a new player can genuinely beat experienced ones.
 
 **The Lord card system adds a hidden goal layer.** Each player has a secret Lord card that gives bonus VP for completing quests in specific categories. Experienced players can sometimes infer which Lord someone has by watching what they pursue — but knowing doesn't give you that much of an advantage.
+
+![Secret Lord cards in Lords of Waterdeep](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Lords-Cards_z6cz36.jpg "Lord cards in Lords of Waterdeep")
+
+![Quest cards completed for victory points](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Quest-Cards_n1qmkj.jpg "Quest cards in Lords of Waterdeep")
 
 **The randomness is well-designed.** Card draw order creates variety without ever feeling like one bad draw loses you the game.
 
@@ -63,6 +75,10 @@ Lords of Waterdeep was one of my first worker placement games. The concept of us
 
 **The box organizer is exceptional.** Setup and teardown are fast and painless. More games should do this.
 
+![The Lords of Waterdeep box organizer keeping components sorted](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Gamebox-organization_ytcq7j.jpg "The Lords of Waterdeep box organizer")
+
 ## Conclusion
+
+![Intrigue cards used to disrupt opponents in Lords of Waterdeep](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Intrigue-Cards_qqkmcx.jpg "Intrigue cards in Lords of Waterdeep")
 
 Lords of Waterdeep is an excellent gateway into worker placement games. It's approachable, well-balanced, and consistently fun at any player skill level. Experienced euro gamers may find it too light, but for most groups — especially mixed experience levels — it delivers exactly what it promises.

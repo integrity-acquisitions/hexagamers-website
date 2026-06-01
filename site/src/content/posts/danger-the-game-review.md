@@ -17,6 +17,8 @@ description: "Danger The Game is described as \"the storytelling party game of b
 
 Danger The Game is described as "the storytelling party game of bizarre dangers and rescues." One player is in a ridiculously dangerous situation — it's everyone else's job to rescue them using the Tools and Skills in their hand. The catch: there's direct competition for the most amazing rescue.
 
+![Example cards laid out from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Examples-of-Cards_niprco.jpg "Example cards from Danger The Game")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3+</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">20–45 min</span><span class="stat-label">Play Time</span></div>
@@ -50,6 +52,8 @@ Right out of the box, the craftsmanship impressed me. The box is compact — ide
 
 Setup is essentially zero. Rules fit on one small page — three pages total only because there are three variants. You can explain the game to a new group and be playing in minutes.
 
+![The rules card for Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Rules_x93g1d.jpg "Danger The Game rules")
+
 ## How It Plays
 
 One player (the victim) draws and reads a Danger card. Everyone else (the rescuers) must craft a story using one Tool card and one Skill card from their hand to explain how they'll save the victim. Rescuers can object to each other's stories. The victim picks a winner.
@@ -57,6 +61,10 @@ One player (the victim) draws and reads a Danger card. Everyone else (the rescue
 Simple — which is exactly the point. It's a blank canvas that lives or dies by your group's energy.
 
 **Replayability is genuinely high.** The combination of a random Danger card, random Tool cards, and random Skill cards makes each game unique. The three variants (Base, Plot Twist, Dastardly) add layers of complexity: Plot Twist cards let you sabotage rivals' stories, and Dastardly mode ups the imagination requirement significantly.
+
+![The different card types in Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Card-Types_jsd5g3.jpg "Card types in Danger The Game")
+
+![A Plot Twist card from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Plot-Twist_injra3.jpg "A Plot Twist card in Danger The Game")
 
 ## The Group Is Everything
 
@@ -69,5 +77,7 @@ The rebuttal mechanic is genuinely fun. Poking holes in someone's outlandish res
 **One real flaw:** because the victim always knows who gave which answer, favoritism is a factor. Unlike games where answers are anonymous, here it's obvious — and that can feel unfair.
 
 ## Conclusion
+
+![A Skill card from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Skill-Card_txhhwf.jpg "A Skill card in Danger The Game")
 
 Danger The Game isn't for everyone, and it isn't for every group. But with the right crowd in the right mood, it's a quick, energetic, and genuinely fun party game. Don't expect it to carry the night on its own — expect it to hand your group the tools to carry the night themselves.

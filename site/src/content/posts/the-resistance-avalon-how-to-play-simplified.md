@@ -15,6 +15,8 @@ description: "Good vs Evil. Secret identities. Five missions. The Good team must
 
 Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missions — but Evil players are hiding among them, trying to sabotage from within. Good wins if the missions succeed. Evil wins if they fail — or if they correctly identify and assassinate Merlin at the end.
 
+![The Avalon game board set up with quest tokens](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Game-Board-with-tokens-on-it_lytjtd.jpg "The Avalon board set up")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">5 – 10</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30–60 min</span><span class="stat-label">Play Time</span></div>
@@ -33,6 +35,8 @@ Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missio
   <div class="step"><span class="step-num">3</span><div>Give each player one <strong>Approve</strong> token and one <strong>Reject</strong> token.</div></div>
   <div class="step"><span class="step-num">4</span><div>Randomly assign the first <strong>Leader Token</strong>.</div></div>
 </div>
+
+![The good and evil player cards dealt at setup in Avalon](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Good-and-Evil-Cards_kq5xua.jpg "Good and evil cards in Avalon")
 
 ## The Opening Script (Night Phase)
 
@@ -53,6 +57,8 @@ Everyone closes their eyes and puts a fist forward. Then:
   <div class="step"><span class="step-num">4</span><div>Even one Fail card means the mission fails (Evil scores). All Successes means it passes (Good scores). Move the result token to the score track.</div></div>
 </div>
 
+![Success and fail cards played on a mission in Avalon](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Success-and-Fail-Cards_tigypl.jpg "Success and fail cards in Avalon")
+
 > **Exception:** In games of 7+ players, the 4th mission requires 2 Fail cards to fail.
 
 ## Winning
@@ -62,6 +68,8 @@ Everyone closes their eyes and puts a fist forward. Then:
 - **Evil wins** if 3 missions fail (or if they assassinate Merlin after a Good victory).
 
 ## Special Roles
+
+![The special role cards in Avalon — Merlin, Percival, Morgana and more](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Special-Roles-Cards_vddxlz.jpg "Special role cards in Avalon")
 
 <div class="rule-cards">
   <div class="rule-card">

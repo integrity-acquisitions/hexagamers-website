@@ -19,6 +19,8 @@ description: "Build your deck, acquire resources, play action cards, and collect
 
 Build your deck, acquire resources, play action cards, and collect Victory Points to claim dominion before your opponents. The classic deck-building game with a medieval theme and massive replayability.
 
+![A Dominion game laid out with kingdom card stacks](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Game-Play_kaplww.jpg "A Dominion game in play")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30–60 min</span><span class="stat-label">Play Time</span></div>
@@ -50,6 +52,8 @@ This was one of our first board game purchases — bought almost blind. The stor
 
 My first impression was fear. No board, tons of different cards — what did I get myself into? Those thoughts passed after the first play. We fumbled through without any real strategy and I still really enjoyed it.
 
+![The Dimension box and components](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Box_qrmzhp.jpg "The Dominion box")
+
 ## Thoughts
 
 Dominion is a deck-building game with a light medieval theme. You start with a basic deck and spend coins to buy better action cards, which make your deck more efficient. All you need to remember is ABC: **Action, Buy, Clean Up**.
@@ -58,14 +62,20 @@ The rules are short. The mechanics are elegant. New players pick it up within on
 
 **Strategy runs deeper than it looks.** You have to plan your deck's direction, figure out when to prioritize more coins vs. action cards, and decide when to start buying Victory Points. Start too early and you clog your deck with dead weight. Start too late and someone beats you to the Provinces.
 
+![Dominion action cards that build your deck](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Action-Cards_j6zaeu.jpg "Dominion action cards")
+
 **Deck luck is a factor.** You never know when your recently purchased cards will surface. Early on, getting or missing a good action card can create real momentum differences. It's frustrating in a "fricken stupid cards, COME ON" way — not a "I want to quit" way.
 
 **Interaction is limited** but present. A handful of attack cards let you disrupt opponents. If you're randomly selecting kingdom cards, some games won't even have attacks available — a quick fix is to guarantee one attack card in the setup.
+
+![Dominion attack cards used to disrupt opponents](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Attack-Cards_enxpcq.jpg "Dominion attack cards")
 
 **Watching who's buying Provinces matters.** At some point, everyone shifts from building to collecting VPs. You can usually see it coming because one player starts first and everyone else has to follow. The downside: you can sometimes see too clearly that the outcome is settled, which deflates the endgame tension.
 
 **Replayability is the standout feature.** You only use 10 of the available action cards each game, usually picked randomly. The odds of the same setup repeating are extremely low. Strategy shifts completely based on which 10 cards are in play. This has kept us coming back consistently.
 
 ## Conclusion
+
+![Dominion currency cards used to buy from the kingdom](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-currency_xk5yll.jpg "Dominion currency cards")
 
 Dominion is the deck-building game — the originator of the genre and still among the best in it. Easy to learn, easy to set up, and fresh every time you play it. If you're new to deck building, start here. With a massive expansions library, this one will stay in the collection for years.

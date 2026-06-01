@@ -15,6 +15,8 @@ description: "You're trapped inside a haunted house. Explore room by room, find 
 
 You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the game completely transforms.
 
+![The starting room tiles that begin the house in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Starting-Tiles_cqbvkc.jpg "The starting tiles in Betrayal at House on the Hill")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3 – 6</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">60–90 min</span><span class="stat-label">Play Time</span></div>
@@ -42,6 +44,8 @@ Betrayal has two phases:
   <div class="step"><span class="step-num">4</span><div>The player with the next upcoming birthday goes first.</div></div>
 </div>
 
+![The character cards and trait clips in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Character-card-with-clips_ewvgvs.jpg "Character cards with trait clips")
+
 ## Exploration Phase
 
 <div class="steps">
@@ -50,6 +54,8 @@ Betrayal has two phases:
   <div class="step"><span class="step-num">3</span><div>If the new room has a <strong>symbol</strong>, draw the matching card (Event, Item, or Omen) and follow its instructions.</div></div>
   <div class="step"><span class="step-num">4</span><div>After drawing an <strong>Omen card</strong>, make a Haunt Roll: roll 6 dice (faces 0–2). If your result is lower than the total number of Omen cards drawn so far, the Haunt begins.</div></div>
 </div>
+
+![Omen cards that drive the Haunt Roll in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Omen-Cards_zmaoxs.jpg "Omen cards in Betrayal at House on the Hill")
 
 > **If your stat reaches the skull-and-crossbones, you die and are out of the game.**
 
@@ -63,6 +69,8 @@ When the Haunt is triggered:
   <div class="step"><span class="step-num">3</span><div>Objectives are usually directly opposed — the Traitor wins if the Survivors fail, and vice versa.</div></div>
   <div class="step"><span class="step-num">4</span><div>Some Haunts introduce monsters. These are moved by the Traitor each round using the rules in their section of the Traitor's Tome.</div></div>
 </div>
+
+![The monster figures and tokens used once the Haunt begins](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Monster-Tokens_nr5pdq.jpg "Monster tokens in Betrayal at House on the Hill")
 
 ## Tips for New Players
 

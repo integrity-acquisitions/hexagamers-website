@@ -20,6 +20,8 @@ description: "Good versus evil — the future of Camelot hangs in the balance. Y
 
 Good versus evil — the future of Camelot hangs in the balance. You and your fellow players are split into secret teams: loyal knights of Arthur versus the Minions of Mordred. Together you'll go on missions, but the evil team will secretly try to sabotage them. Trust no one. Keep your identity hidden. Figure out who's lying before they figure out you are.
 
+![The Avalon game board with quest tokens in place](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Game-Board-with-tokens-on-it_lytjtd.jpg "The Avalon board set up")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">5 – 10</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30–60 min</span><span class="stat-label">Play Time</span></div>
@@ -47,19 +49,27 @@ When I first played Avalon, a couple of HexaGamers who'd already played it tried
 
 My reaction was some combination of confusion, overwhelm, and genuine intrigue. I'd played [Coup](/coup-review/), which shares the same Resistance universe, and loved it — so I knew I had to give Avalon a fair shot. Jump in and play as you learn. It's the only way.
 
+![The good and evil player cards in Avalon](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Good-and-Evil-Cards_kq5xua.jpg "Good and evil cards in Avalon")
+
 ## Thoughts
 
 Some people call this a party game because of the player count and the yelling. I'd push back on that — it's a strategy game with a party game energy. Paying attention to who says what, when, and why is constant work.
 
 **The bluffing has layers.** Evil players aren't just lying about their identity — they're coordinating as a secret team, staying consistent across multiple missions, planting doubt about the right people, and managing what the Lady of the Lake card reveals. One slip — one out-of-character reaction, one inconsistency in your story — and a sharp player will catch it. I've watched Whitney fumble a bluff in round two and spend the rest of the game defending herself. It's wonderful.
 
+![The Lady of the Lake token in Avalon](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Lady-of-the-Lake_dhowsi.jpg "The Lady of the Lake in Avalon")
+
 **Throwing people under the bus is the highlight.** Saying something like "Oh, that's definitely something an evil player would say" while knowing full well you're evil yourself is endlessly satisfying. Watching someone squirm as suspicion builds around them is genuinely great.
 
 **The special character cards are excellent.** Merlin knows who the evil players are but can't be too obvious about it or he gets assassinated. Percival has to figure out which of two players is actually Merlin. Morgana pretends to be Merlin. Each character you add changes the information landscape for everyone — which makes the game feel fresh every time you swap one in or out.
 
+![The special role cards in Avalon — Merlin, Percival, Morgana and more](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Special-Roles-Cards_vddxlz.jpg "Special role cards in Avalon")
+
 **Balance at scale:** With 5–7 players, the game feels tight and readable. With 8–10, it gets chaotic fast. More evil players means more people to track and a first mission that's closer to a coin flip. I enjoy that randomness, but if your group is easily frustrated by it, stick to smaller counts.
 
 **Brain fatigue is real.** After three games I'm done. Genuinely tired. But three games in one night means this game is a winner — most people don't get that many rounds of anything.
+
+![Success and fail cards used to resolve Avalon missions](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Success-and-Fail-Cards_tigypl.jpg "Success and fail cards in Avalon")
 
 ## Conclusion
 
