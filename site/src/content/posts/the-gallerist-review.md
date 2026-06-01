@@ -17,6 +17,8 @@ description: "You're an art gallery owner in a competitive market. Discover arti
 
 You're an art gallery owner in a competitive market. Discover artists, promote them to fame, acquire and sell works, manage your gallery's influence, and convert everything into money. The richest gallerist at game end wins.
 
+![An overview of The Gallerist set up on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg "The Gallerist set up")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">1 – 4</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">60–150 min</span><span class="stat-label">Play Time</span></div>
@@ -46,11 +48,17 @@ I borrowed this from a local board game café. The café owner told me the few p
 
 **The Gallerist is a heavy Eurogame** and should be approached as one. The learning curve is real — your first game will be slow. By the second game, you'll be making meaningful strategic decisions.
 
+![A player board in The Gallerist](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg "The Gallerist player board")
+
 **Every action centre matters.** To win, you need to discover artists, promote them, acquire works, sell to collectors, hire assistants, and manage your lobby. Ignoring any of these areas puts you at a disadvantage. The game is a machine where all parts connect.
 
 **The kick-out mechanic is excellent.** When you place your gallerist in an action centre, you leave an assistant behind. If another player moves to that same space, your assistant is kicked out — and kicked-out assistants take special Executive Actions. This means you're always engaged, even during other players' turns. More players means more kick-out opportunities.
 
+![A player board showing contracts and bonuses](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-with-Contracts-Bonuses-1_ekrdkr.jpg "Player board with contracts and bonuses")
+
 **Everything converts to money.** Influence and fame are important, but they're ultimately pathways to generating wealth. Understanding this early helps you prioritize your turns.
+
+![The international market board in The Gallerist](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-International-Market-1_jqan4p.jpg "The Gallerist international market")
 
 **The theme is strong.** Discovering artists, promoting them to celebrity status, acquiring masterpieces, managing your gallery's reputation — every mechanic is thematically consistent. You don't need to care about art to enjoy this. The theme serves the mechanics, not the other way around.
 

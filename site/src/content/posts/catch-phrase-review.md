@@ -16,6 +16,8 @@ description: "Think you have a quick enough wit to give clues on the spot? Get y
 
 Think you have a quick enough wit to give clues on the spot? Get your team to guess the phrase before the timer runs out — then pass it on. If the buzzer rings while you're holding it, the other team scores.
 
+![The Catch Phrase box](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-phrase-box_l53rft.jpg "Catch Phrase box")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">4+</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">20–40 min</span><span class="stat-label">Play Time</span></div>
@@ -51,6 +53,10 @@ At its core, Catch Phrase is a glorified Hot Potato that makes you use your brai
 **The random timer is perfect.** Some rounds might be 15 seconds, some 30 — you never know when it'll buzz. The beeping starts slow and gets faster as you approach the end, but never tells you exactly when it'll ring. Watching someone panic as the beeps speed up is consistently hilarious.
 
 **Electronic vs non-electronic:** Both versions are great. If you're taking it places, go electronic — no loose cards or scoreboard to manage. For home play, the non-electronic version is cheaper and you could always make new cards when the originals get stale.
+
+![The electronic version of Catch Phrase](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-Phrase-Electronic_me8g1p.jpg "Electronic Catch Phrase")
+
+![The non-electronic version of Catch Phrase](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-Phrase-Normal_georys.jpg "Non-electronic Catch Phrase")
 
 **The one real flaw:** with heavy play, you start recognizing answers. We played frequently for a couple months and started getting repeats. The fix is simple — put it away for a while and come back to it fresh.
 

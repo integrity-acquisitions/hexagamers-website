@@ -16,6 +16,8 @@ description: "Get your rack of 10 cards sorted from lowest to highest. On each t
 
 Get your rack of 10 cards sorted from lowest to highest. On each turn, swap one card in your rack with a card from the discard pile or deck. First to get all 10 in ascending order calls "Rack-O" and scores.
 
+![The Rack-O components — racks and number cards](https://res.cloudinary.com/dt4ujaczs/image/upload/Rack-O-Components_ybbcvb.jpg "Rack-O components")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30–45 min</span><span class="stat-label">Play Time</span></div>
@@ -41,11 +43,15 @@ My first experience with Rack-O was at a Thanksgiving dinner. A few family membe
 
 ## Thoughts
 
-Explained in under two minutes. You get 10 cards, placed in your rack in the order they're dealt. From there, swap cards out one at a time to get them ascending left to right. The player before you discards a card you can grab, or you draw from the deck. Simple.
+Explained in under two minutes. You get 10 cards, placed in your rack in the order they're dealt. From there, swap cards out one at a time to get them ascending left to right.
+
+![A Rack-O rack with cards still out of order](https://res.cloudinary.com/dt4ujaczs/image/upload/Rack-O-unordered_i5yjat.jpg "An unordered Rack-O rack") The player before you discards a card you can grab, or you draw from the deck. Simple.
 
 **Strategy is limited.** You're mostly finding the best slot for whatever card you draw. There's some decision-making around when to take from the discard pile vs. drawing blind, but the luck of what comes out drives most outcomes. Normally that combination would put a game firmly in my dislike pile.
 
 **But Rack-O has a specific function it fills perfectly.** It's a conversation game. You can carry on a full discussion with whoever you're playing with, glance at your cards occasionally, complain about your draws, tally scores, and go back to talking. This is a game you play while catching up with family, not a game you sit down for specifically.
+
+![A Rack-O rack sorted in ascending order — a winning rack](https://res.cloudinary.com/dt4ujaczs/image/upload/Rack-O-Ordered_ndddkw.jpg "An ordered Rack-O rack")
 
 **Portability is real.** The only components are the racks and the cards. Takes up almost no space.
 

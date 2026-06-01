@@ -18,6 +18,8 @@ description: "Cashflow is Robert Kiyosaki's financial education board game — b
 
 From the Rich Dad Group: you're a rat stuck in the Rat Race, scrounging to invest. Buy deals that increase your monthly cashflow until your passive income exceeds your expenses — then escape to the Fast Track and fund your dream.
 
+![The Cashflow board game set up for play](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-1_osksl9.jpg "The Cashflow board game")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 6</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">2–3 hrs</span><span class="stat-label">Play Time</span></div>
@@ -55,5 +57,9 @@ The board quality and components feel dated — very 1990s. For a game that comm
 **The Fast Track anticlimactic.** Once you escape the Rat Race, winning is basically inevitable — it's just a matter of landing on the right spaces. The tension disappears completely.
 
 ## Conclusion
+
+There's also a Cashflow for Kids version that teaches the same passive-income concept with simpler numbers, if you want to introduce the ideas to younger players.
+
+![Cashflow for Kids, the simplified version of the game](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg "Cashflow for Kids")
 
 I enjoy Cashflow for what it's trying to do. It reinforces an investing mindset and the core principles from the Rich Dad books in a hands-on way. If you have an entrepreneurial mindset, you'll get something from it. As a board game experience, though, it doesn't hold up to modern standards — especially at its price point. Seek out a local Cashflow group first before buying; many cities have them and you can try it for free.

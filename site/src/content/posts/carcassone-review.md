@@ -18,6 +18,8 @@ description: "Carcassonne is a tile-placement game where you build the French co
 
 Carcassonne is a tile-placement game where you build the French countryside one tile at a time. Match roads, castles, and fields with existing tiles to expand the ever-growing board. Place your Meeples strategically to score points — but be careful: you don't get them back until an area is completed.
 
+![A game of Carcassonne in progress with tiles and meeples on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Game-Play_stvpfl.jpg "Carcassonne in progress")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">45 min</span><span class="stat-label">Play Time</span></div>
@@ -43,9 +45,13 @@ Carcassonne is a tile-placement game where you build the French countryside one 
 
 Carcassonne was one of the first games we bought, and at the time it felt completely different from anything else we'd played. Simple to learn, quick to start, and immediately apparent that no two games would ever look the same. It also introduced me to Meeples for the first time — and if you practice enough, you can teach them to stand on their heads.
 
+![Meeples stacked on top of each other](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Meeple-Stacking_meramg.jpg "Stacking meeples")
+
 ## Thoughts
 
 The core mechanic is unlike most other board games: flip a tile, place it where it fits on a growing board, then react to what you have rather than plan ahead. There's a puzzle-like satisfaction to finding where your tile slots in.
+
+![The Carcassonne Big Box edition](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Big-Box-1_bkyj6i.jpg "Carcassonne Big Box")
 
 **As a two-player game, it works well.** You're both focused, decisions are fast, and there's genuine tension over Meeple placement. Adding more players increases the time between turns, and here Carcassonne starts to show a weakness — because there's nothing to plan while you wait, you just... wait. If you're playing with slow decision-makers or anyone with a short attention span, this gets frustrating fast.
 
@@ -58,6 +64,10 @@ What I don't like: there's no incentive to finish your roads or structures. You 
 **Replayability is technically high** — you'd never build the same countryside twice. But I don't find myself itching to replay it immediately the way I do with deeper games. The variety is there, but the engagement between sessions fades faster.
 
 **The mini-expansions included in the box are a nice bonus** and add just enough variation to change the feel without needing a separate purchase.
+
+![The Inns & Cathedrals expansion for Carcassonne](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Inns-Cathedrals-2002_h2jbkc.jpg "Carcassonne: Inns & Cathedrals")
+
+![The standalone Hunters and Gatherers version of Carcassonne](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-Hunters-and-Gatherers-2002_vei0sf.jpg "Carcassonne: Hunters and Gatherers")
 
 ## Conclusion
 
