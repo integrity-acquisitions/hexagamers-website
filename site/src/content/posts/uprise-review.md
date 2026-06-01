@@ -20,6 +20,8 @@ description: "Uprise is a local indie board game designed by Alex Racine, which 
 
 Uprise is a local indie board game designed by Alex Racine, which we had the opportunity to playtest ahead of its Kickstarter launch. Players are members of a secret society working to complete missions and overthrow the ruling elite — by building towers of bureaus on Top Hat cards according to their Secret Agenda.
 
+![A game of Uprise in play](https://res.cloudinary.com/dt4ujaczs/image/upload/Uprise-Game-in-Play_rznzqb.jpg "Uprise in play")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">~20 min</span><span class="stat-label">Play Time</span></div>
@@ -46,6 +48,12 @@ We knew absolutely nothing going in, which meant zero bias. On first look I was 
 
 Each player draws three Stache cards, a Top Hat card, and a Secret Agenda card. The Top Hat card has a random 3×3 grid of pictures. Your Secret Agenda shows how your bureaus must be arranged on that grid. Before you can build anything, you need the matching Stache cards in hand — no match, no building.
 
+![A Top Hat card with its 3x3 grid of pictures](https://res.cloudinary.com/dt4ujaczs/image/upload/Uprise-Tophat_ixlc0m.jpg "An Uprise Top Hat card")
+
+![Secret Agenda cards showing how your bureaus must be arranged](https://res.cloudinary.com/dt4ujaczs/image/upload/Uprise-Secret-Agendas_vhd1xe.jpg "Uprise Secret Agenda cards")
+
+![The Vaults where unused cards are stored for upgrades](https://res.cloudinary.com/dt4ujaczs/image/upload/Uprise-Vaults_xy9bvx.jpg "Uprise Vaults")
+
 Cards you can't use can be discarded or stored in your Vault to buy upgrades like safe houses or bonus Secret Agendas. The bonus agendas are smart — swap in a new one if you're struggling, and opponents won't know your exact plan has changed. Secret Agenda cards can also be rotated any direction to match how you're building, which makes the puzzle feel genuinely flexible.
 
 You'll also need money to purchase new Top Hats and extra Secret Agendas. If your towers or cards fall off, they're out of play — so precision matters.
@@ -55,6 +63,8 @@ Other players can buy Moustache cards and play them against your hand: forcing y
 ## Our Experience
 
 We played competitively first, then solo. Both worked well. The competitive version is the most engaging — watching someone buy a Moustache card specifically to pull down your top layer (thanks, Ryan) makes for great table moments.
+
+![A completed tower of bureaus built in Uprise](https://res.cloudinary.com/dt4ujaczs/image/upload/Uprise-Built_lsoyuy.jpg "A built Uprise tower")
 
 The game took about 20 minutes and was easy enough for younger players while strategic enough to keep adults looking for another round. Co-op mode is a great teaching tool: work through the logic together before cutting players loose in solo or competitive play.
 

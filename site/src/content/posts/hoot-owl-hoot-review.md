@@ -17,6 +17,8 @@ description: "The sun is rising! Work together to fly all the owls back to the n
 
 The sun is rising! Work together to fly all the owls back to the nest before daylight. Play colour cards to move owls forward, but if you draw a sun card, you have to play it first — advancing the sun one step closer to morning.
 
+![The Hoot Owl Hoot game board](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-game-board_nf1hpf.jpg "The Hoot Owl Hoot board")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">15–20 min</span><span class="stat-label">Play Time</span></div>
@@ -45,11 +47,19 @@ Hoot Owl Hoot is one of our favourite games to play with the kids in our lives. 
 
 **Choose how many owls to play with (3–6)** — more owls means a harder game. One piece of advice: don't tell your kids there are more owls until they're ready. Once they know, they'll always want all six.
 
+![The owl pieces in Hoot Owl Hoot](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-Owls_w06usg.jpg "Hoot Owl Hoot owls")
+
 **The core mechanic is straightforward.** Each player draws 3 cards, face up. On your turn, if you have a sun card you must play it first (advancing the daylight meter). Otherwise, play any colour card and move any owl to the nearest circle of that colour. If that circle is occupied, the owl flies to the next one — and you say "Hoot Hoot" as they pass. This is our favourite part.
+
+![The coloured circles the owls move between](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-colored-circles_cqvh1c.jpg "Hoot Owl Hoot coloured circles")
+
+![A game of Hoot Owl Hoot during play](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-during-game-play_nwnqdk.jpg "Hoot Owl Hoot during play")
 
 **The strategic layer grows with the player.** With young kids, you're just matching colours and moving forward. Once they develop a bit more, you can introduce the idea of card coordination — picking a card that sets up another player's move. Adults playing alongside children can demonstrate strategy while children learn to replicate it over time.
 
 **Kids at age 4 mostly get it.** They understand which card makes their best move when talked through it — but can get excited and skip strategy entirely. We had a 4-year-old who always moved the farthest owl first because "when the owl gets to the nest, that's when we high five!" That's a valid reason.
+
+![The sun advancing along the daylight track](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-with-a-sun_zic0tm.jpg "The sun in Hoot Owl Hoot")
 
 **The only downside: winning is too easy.** With 14 sun cards and 14 spots, the odds favour the players. When an adult is in the game, you almost always win. More sun cards would raise the ceiling for older/more experienced players. We've found Peaceable Kingdom to be responsive to requests, so it's worth messaging them.
 

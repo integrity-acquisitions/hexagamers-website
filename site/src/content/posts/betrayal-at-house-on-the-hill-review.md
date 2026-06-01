@@ -22,6 +22,8 @@ description: "Betrayal at House on the Hill is a semi-cooperative game set in a 
 
 Betrayal at House on the Hill is a semi-cooperative game set in a haunted house. Players explore and expand the house together, discovering items and facing events — until the haunt is triggered and one of you turns traitor. From that moment, it's the traitor and the house versus everyone else.
 
+![The starting tiles that begin the haunted house](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Starting-Tiles_cqbvkc.jpg "Betrayal starting tiles")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3 – 6</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">60–120 min</span><span class="stat-label">Play Time</span></div>
@@ -54,6 +56,8 @@ We've played three times, and all three haunts were completely different. Differ
 
 The haunt phase works well in concept, but the rule books for traitor and heroes are read separately, and they don't always give both sides the same information. A note in each book indicating what's okay to share would make a real difference.
 
+![A character card with the trait clips that track your stats](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Character-card-with-clips_ewvgvs.jpg "Character card with trait clips")
+
 **The component quality is the biggest issue.** The board tiles are excellent — detailed, atmospheric, high quality. But the character pieces look like early prototypes, and the trait clips (the sliders that track your four character stats) fall off constantly. Managing your character's stats with loose clips while trying to play a game is genuinely annoying. The solutions: write your stats on paper (requires careful attention since levels can repeat or skip), or download the companion app, which tracks everything cleanly for free.
 
 Despite those flaws, Betrayal is one of my favourites. The sheer variety of haunts means every game tells a different story.
@@ -76,6 +80,8 @@ Despite those flaws, Betrayal is one of my favourites. The sheer variety of haun
 ### Whitney's Thoughts
 
 I'll be honest: I was apprehensive. I'm not a horror person. Scary movies, scary music, scary trailers — I avoid all of it. But the concept of building a house as you explore it only for everything to shift halfway through was intriguing enough to make me try.
+
+![The various room tiles you uncover as you explore the house](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Various-room-tiles_owm8kf.jpg "Various Betrayal room tiles")
 
 The concept is wonderful. I want to love this game. I have tried, multiple times, to love this game. I cannot.
 
@@ -117,11 +123,17 @@ The first Haunt we drew put one player against the rest as a cultist. Nobody kne
 
 **The exploration half is the best part.** Before the Haunt triggers, everyone is moving through the house, flipping room tiles, picking up items, and building stats. It feels genuinely collaborative — you're all figuring out the house together, deciding whether to push deeper or stay near the entrance. That phase has a real tension to it, and the tile reveals keep things moving.
 
-**Then the Haunt starts, and the game shifts completely.** One player gets sent out of the room to read the traitor booklet while everyone else reads the survivors' version. The scenario you get is random, determined by which omen card triggered the Haunt and which room you were in. Some haunts are well-balanced. Others feel almost unwinnable from the survivors' side, and there's no way to know until you're already in it.
+**Then the Haunt starts, and the game shifts completely.** One player gets sent out of the room to read the traitor booklet while everyone else reads the survivors' version. The scenario you get is random, determined by which omen card triggered the Haunt and which room you were in.
+
+![The omen cards that can trigger the Haunt](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Omen-Cards_zmaoxs.jpg "Betrayal omen cards") Some haunts are well-balanced. Others feel almost unwinnable from the survivors' side, and there's no way to know until you're already in it.
 
 **The difficulty is the honest sticking point.** We won a couple of times. Neither felt earned — more like the haunt happened to go our way than anything we figured out. I really wanted to like this game. We gave it more chances than we give most games, partly because so many people swear by it. Friends have called it their all-time favorite. I kept thinking we must be playing it wrong, missing some rule that makes it click. Maybe we were. But after enough sessions of the same frustration, we stopped going back. It's one of the few games we ended up selling.
 
+![Monster tokens that come into play once the Haunt begins](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Monster-Tokens_nr5pdq.jpg "Betrayal monster tokens")
+
 **Pacing inside the Haunt drags.** With 5 or 6 players, waiting for everyone to move their character, roll dice, and resolve their actions adds up. The house is big. Movement feels slow. A 90-minute estimate can easily become two hours, and not in a way that feels earned.
+
+![The haunt chart that determines which scenario you play](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Haunt-Chart_ccs7xx.jpg "Betrayal haunt chart")
 
 **Worth buying?** At its typical price point, you're getting a lot of content — 50 haunts is genuinely substantial. If you have a group that loves thematic horror games and is patient with longer turns, there's a lot here. If your group gets frustrated when outcomes feel out of your control, try it at someone else's house first.
 

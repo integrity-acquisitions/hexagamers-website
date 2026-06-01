@@ -35,6 +35,10 @@ Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from
 - Coins
 - 6 action reference cards (one per player)
 
+![The Coup character cards](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Character-Cards_xufhqm.jpg "Coup character cards")
+
+![The coins used to pay for actions](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Coins_wus8te.jpg "Coup coins")
+
 ## Setup
 
 <div class="steps">
@@ -49,6 +53,8 @@ Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from
 On your turn, you declare an action. Here's the key: **you can perform the action of any character — whether you actually have that card or not.** This is the heart of the game.
 
 After you declare, every other player has three options:
+
+![The Coup cheat sheet listing every action and counter-action](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Cheat-Sheet-2_avqcbk.jpg "Coup cheat sheet")
 
 <div class="rule-cards">
   <div class="rule-card">
@@ -95,6 +101,10 @@ When you lose both cards, you're out. **Last player standing wins.**
 **Consistency.** Pick a card to bluff as and stick to it. Every inconsistency — claiming Duke on turn 2, then suddenly claiming Assassin on turn 5 — gives other players information. The best bluffers commit to a character and never waver.
 
 Aggressive calling without evidence burns you fast. Patient players who pick their challenges carefully win more often.
+
+Once you've got the base game down, there are several rule variations worth trying — see our [Alternative Coup Variations](/coup-alternative-game-play-variations/) guide.
+
+![A reference sheet of alternative Coup game-play rules](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Alternative-Game-Play-Rules_dpwfvl.jpg "Alternative Coup rules")
 
 ## Frequently Asked Questions
 
