@@ -45,13 +45,19 @@ The rules are simple enough that the overview above is almost the entire game �
   <div class="step"><span class="step-num">4</span><div>When all players are ready, <strong>flip the cards and the timer simultaneously</strong>.</div></div>
 </div>
 
+![A Dimension player board with the 15 coloured balls](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Game-Board_cvcclk.jpg "A Dimension player board and balls")
+
 ## Building Your Pyramid
 
 Stack your balls in three layers: **7 on the bottom, 3 in the middle, 1 on top**. You must follow all active rule cards while building — within the time limit.
 
+![A completed Dimension pyramid](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Played-Board_izbz0z.jpg "A completed Dimension pyramid")
+
 ## Rule Card Types
 
 There are five types of rules. A reference cheat sheet is included in the box.
+
+![The Dimension rules cheat sheet](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Rules-Cheat-Sheet_wpxxnl.jpg "The Dimension rules cheat sheet")
 
 <div class="rule-cards">
   <div class="rule-card">
@@ -59,30 +65,35 @@ There are five types of rules. A reference cheat sheet is included in the box.
     <p class="rule-title">Position Rules</p>
     <p>Restrict which colours can sit on top of or beneath other colours.</p>
     <p class="rule-example">Example: "Orange cannot be on top of any colour" + "No colour can be on top of orange" — these contradict, so you'll have to choose which to break.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Nothing-on-top-of-rule_fiuzfp.jpg" alt="A Dimension position rule card" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;" />
   </div>
   <div class="rule-card">
     <p class="rule-num">Type 2</p>
     <p class="rule-title">Greater Than Rules</p>
     <p>You must have more of one colour than another.</p>
     <p class="rule-example">Example: "Must have more Orange than Black." Tip: exclude a colour entirely to satisfy this rule easily.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Greater-Than-Rule_jgqoa7.jpg" alt="A Dimension greater than rule card" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;" />
   </div>
   <div class="rule-card">
     <p class="rule-num">Type 3</p>
     <p class="rule-title">Sum Rules</p>
     <p>Two colours must add up to a specific total.</p>
     <p class="rule-example">Example: "Orange + Blue = 4." Any combination works: 2+2, 3+1, 4+0.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Total-of-4-rule_wqen8s.jpg" alt="A Dimension sum rule card showing a total of 4" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;" />
   </div>
   <div class="rule-card">
     <p class="rule-num">Type 4</p>
     <p class="rule-title">Touching Rules</p>
     <p>Certain colours must (or must not) be touching each other. If a colour is in your pyramid, it must satisfy the touching rule for every ball of that colour.</p>
     <p class="rule-example">Example: "Blue must touch Blue." If you have 2 blue balls, they must be adjacent.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Cannot-Touch-Rule_uwtytn.jpg" alt="A Dimension touching rule card" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;" />
   </div>
   <div class="rule-card">
     <p class="rule-num">Type 5</p>
     <p class="rule-title">Total Number Rules</p>
     <p>You must use a specific quantity of a particular colour.</p>
     <p class="rule-example">Example: "Exactly 2 Orange." No more, no fewer.</p>
+    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Amount-of-One-Color-rule_yy1gbc.jpg" alt="A Dimension total number rule card" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;" />
   </div>
 </div>
 
@@ -91,6 +102,8 @@ There are five types of rules. A reference cheat sheet is included in the box.
 ## Scoring Each Round
 
 Once the timer runs out, no more balls can be added.
+
+![Dimension rule cards laid out with the timer](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Rules-and-Timer_ldwhfx.jpg "Dimension rule cards and timer")
 
 | What happened | Points |
 |---|---|
