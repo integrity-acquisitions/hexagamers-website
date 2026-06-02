@@ -18,6 +18,8 @@ description: "Draw a tile, grow a shared medieval landscape, then drop a meeple 
 
 Draw a tile, place it to grow a shared medieval landscape, then drop one of your meeples to claim a road, city, monastery, or field. Score those features as they're completed and finish with the most points. Carcassonne is the game that introduced most of us to meeples, and it's about as easy to learn as a real strategy game gets. Give it five minutes and you're playing.
 
+![Carcassonne tiles laid out in a growing landscape with red and green meeples claiming roads and fields](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299609/Carcassonne-Game-Play_stvpfl.jpg "Tiles connect to grow the map; meeples claim roads, cities, and fields")
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30 – 45 min</span><span class="stat-label">Play Time</span></div>
@@ -55,6 +57,8 @@ Every turn is the same three steps, in order:
 ## What a Meeple Can Become
 
 The meeple you place takes on a role depending on where it stands:
+
+![A small stack of green Carcassonne meeples balanced on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299616/Carcassonne-Meeple-Stacking_meramg.jpg "The humble meeple — Carcassonne introduced most of us to them")
 
 <div class="rule-cards">
   <div class="rule-card">
