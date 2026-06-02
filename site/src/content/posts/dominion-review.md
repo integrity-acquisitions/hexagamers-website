@@ -29,7 +29,7 @@ Build your deck, acquire resources, play action cards, and collect Victory Point
 
 > Featured on: [Best Gateway Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) · [Best Deck Building Games](/best-deck-building-board-games/)
 
-> See also: [Guide to Deck Building Games](/guide-to-understanding-deck-building-games/)
+> See also: [How To Play Dominion](/dominion-how-to-play-simplified/) · [Guide to Deck Building Games](/guide-to-understanding-deck-building-games/)
 
 ## Ryan's Review
 
