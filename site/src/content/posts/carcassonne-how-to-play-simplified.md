@@ -11,7 +11,7 @@ tags:
   - "tile-laying"
   - "meeples"
   - "gateway-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780369006/hexagamers-reviews/carcassonne-how-to-play-simplified.jpg"
+coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780369509/hexagamers-reviews/carcassonne-how-to-play-simplified.jpg"
 lastModified: 2026-05-31
 description: "Draw a tile, grow a shared medieval landscape, then drop a meeple to claim a road, city, monastery, or field. Score features as they complete and finish with the most points — a five-minute teach."
 ---
