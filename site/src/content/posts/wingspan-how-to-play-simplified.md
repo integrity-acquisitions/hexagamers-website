@@ -1,6 +1,6 @@
 ---
 title: "Wingspan: How To Play – Simplified"
-date: 2026-05-31
+date: 2026-06-03
 categories:
   - "games"
   - "how-to-play"
@@ -12,7 +12,7 @@ tags:
   - "card-drafting"
   - "strategy-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780508579/hexagamers-guides/wingspan-how-to-play-simplified.jpg"
-lastModified: 2026-05-31
+lastModified: 2026-06-03
 description: "Learn Wingspan in five minutes. Play birds, build an engine across three habitats, gather food and lay eggs, and out-score your rivals over four rounds."
 ---
 
