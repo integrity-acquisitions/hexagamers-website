@@ -1,6 +1,6 @@
 ---
 title: "Splendor: How To Play – Simplified"
-date: 2026-05-31
+date: 2026-06-03
 categories:
   - "games"
   - "how-to-play"
