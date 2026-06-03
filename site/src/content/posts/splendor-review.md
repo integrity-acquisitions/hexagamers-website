@@ -25,6 +25,8 @@ You're a Renaissance merchant collecting gem tokens to buy development cards. Us
 
 > Featured on: [Best Two Player Board Games](/best-two-player-board-games/)
 
+> See also: [How To Play Splendor](/splendor-how-to-play-simplified/)
+
 ## Whitney's Review
 
 ### Likes
