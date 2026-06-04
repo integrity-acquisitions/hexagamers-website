@@ -60,7 +60,7 @@ The first thing anyone notices about Everdell is the tree. It's a massive center
 
 **The honest caveat:** The rulebook is rough. Not unplayable, but our group needed a YouTube walkthrough before our first game. There are a lot of card effects and some of the interactions aren't well-explained. Expect the first play to take longer than the box suggests. Also: the tree is annoying to store.
 
-<a href="https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Everdell Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B09ZWQTTNR/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Everdell Price on Amazon</a>
 
 ---
 
