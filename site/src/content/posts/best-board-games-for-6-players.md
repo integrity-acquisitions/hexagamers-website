@@ -41,7 +41,7 @@ We pulled from BGG community polls, Reddit recommendation threads, and our own g
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#1-coup) | Coup | 2–6 | 15 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg)](#2-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730888/hexagamers-box-art/7-wonders.jpg)](#4-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](#4-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941305/Secret_Hitler_a0jv7r.jpg)](#5-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941303/Skull_kfpcyd.jpg)](#6-skull) | Skull | 3–6 | 30 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780668918/sushi-go-party-edition_xq83ml.jpg)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
@@ -101,7 +101,7 @@ Works at almost any experience level. We've played it with first-time gamers and
 
 ## 4. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730888/hexagamers-box-art/7-wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders is a card drafting game where you're building a civilization over three ages. Each round you pick one card from a hand, execute your action simultaneously with everyone else, and pass the rest to your neighbour. Military, science, commerce, monument stages — multiple scoring paths running in parallel, all decided in about thirty minutes. Every time. With three players or seven.
 
