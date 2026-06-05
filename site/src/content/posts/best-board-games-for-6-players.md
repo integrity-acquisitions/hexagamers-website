@@ -101,7 +101,7 @@ Works at almost any experience level. We've played it with first-time gamers and
 
 ## 4. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.ca/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders is a card drafting game where you're building a civilization over three ages. Each round you pick one card from a hand, execute your action simultaneously with everyone else, and pass the rest to your neighbour. Military, science, commerce, monument stages — multiple scoring paths running in parallel, all decided in about thirty minutes. Every time. With three players or seven.
 
@@ -111,7 +111,7 @@ First play is slow for most groups. The iconography takes a session to stop refe
 
 The science track is the ceiling option — three matching symbol sets and the points scale sharply. Military gets underestimated until someone builds it quietly across all three ages and sweeps tokens in both directions. Commerce feels passive until it wins the game.
 
-<a href="https://www.amazon.ca/dp/B0043KJW5M/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
