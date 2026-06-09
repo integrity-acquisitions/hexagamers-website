@@ -43,8 +43,7 @@ If you're looking for completely different games to add to your collection along
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015411/Monopoly_Empire_zzdgwg.jpg)](#7-monopoly-empire) | Monopoly: Empire | 2–4 | 30 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015412/Monopoly_Longest_Game_Ever_w3lagt.webp)](#8-monopoly-longest-game-ever) | Monopoly: Longest Game Ever | 2–8 | 120–480 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015411/Monopoly_for_Sore_Losers_qhrsik.jpg)](#9-monopoly-for-sore-losers) | Monopoly: For Sore Losers | 2–6 | 45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015412/Star_Wars_Monopoly_The_Mandalorian_vcieto.jpg)](#10-star-wars-monopoly-the-mandalorian) | Star Wars Monopoly: The Mandalorian | 2–6 | 60 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781017723/Monopoly_Crooked_Cash_lerdvf.jpg)](#11-monopoly-crooked-cash) | Monopoly: Crooked Cash | 2–6 | 60 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781017723/Monopoly_Crooked_Cash_lerdvf.jpg)](#10-monopoly-crooked-cash) | Monopoly: Crooked Cash | 2–6 | 60 min | $$ | — |
 
 ## 1. Monopoly Classic
 
@@ -174,21 +173,7 @@ At roughly 45 minutes of play time, it's in the same range as Speed and Empire f
 
 <a href="https://www.amazon.com/dp/B085JSK4RD/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 10. Star Wars Monopoly: The Mandalorian
-
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015412/Star_Wars_Monopoly_The_Mandalorian_vcieto.jpg)](https://www.amazon.com/dp/B096MVFQ2V/?tag=hexagamers-20)
-
-Of the hundreds of licensed Monopoly editions, this one earns its spot. The Mandalorian version replaces properties with locations from the show — Nevarro, Sorgan, Corvus — and swaps the standard tokens for Mandalorian-themed pieces including Grogu (Baby Yoda) himself. Community Chest and Chance cards are replaced with Bounty and Mission cards that tie directly to the series.
-
-What sets this apart from the average licensed Monopoly: the theme actually integrates into the mechanics rather than just being a reskin. Collecting Beskar is a resource mechanic layered on top of the property game, and the card events reference specific moments from the show rather than generic fortune-teller text.
-
-**For Star Wars fans, this is the licensed edition to own.** The components are above average for Monopoly — card art is show-accurate, the board design is cohesive, and the Grogu token alone makes it worth it for people who love the character. For people with no connection to The Mandalorian, it won't play differently enough from the classic to matter.
-
-Play time runs roughly the same as classic Monopoly, so the length caveats still apply. But as a gift for a Mandalorian fan who also plays board games, this is the rare licensed edition that actually delivers.
-
-<a href="https://www.amazon.com/dp/B096MVFQ2V/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-
-## 11. Monopoly: Crooked Cash
+## 10. Monopoly: Crooked Cash
 
 [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781017723/Monopoly_Crooked_Cash_lerdvf.jpg)](https://www.amazon.com/dp/B08TPM2VVJ/?tag=hexagamers-20)
 
