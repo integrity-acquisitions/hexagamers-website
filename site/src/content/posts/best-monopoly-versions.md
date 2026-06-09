@@ -44,6 +44,7 @@ If you're looking for completely different games to add to your collection along
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015412/Monopoly_Longest_Game_Ever_w3lagt.webp)](#8-monopoly-longest-game-ever) | Monopoly: Longest Game Ever | 2–8 | 120–480 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015411/Monopoly_for_Sore_Losers_qhrsik.jpg)](#9-monopoly-for-sore-losers) | Monopoly: For Sore Losers | 2–6 | 45 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015412/Star_Wars_Monopoly_The_Mandalorian_vcieto.jpg)](#10-star-wars-monopoly-the-mandalorian) | Star Wars Monopoly: The Mandalorian | 2–6 | 60 min | $$$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781017723/Monopoly_Crooked_Cash_lerdvf.jpg)](#11-monopoly-crooked-cash) | Monopoly: Crooked Cash | 2–6 | 60 min | $$ | — |
 
 ## 1. Monopoly Classic
 
@@ -186,6 +187,20 @@ What sets this apart from the average licensed Monopoly: the theme actually inte
 Play time runs roughly the same as classic Monopoly, so the length caveats still apply. But as a gift for a Mandalorian fan who also plays board games, this is the rare licensed edition that actually delivers.
 
 <a href="https://www.amazon.com/dp/B096MVFQ2V/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+
+## 11. Monopoly: Crooked Cash
+
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781017723/Monopoly_Crooked_Cash_lerdvf.jpg)](https://www.amazon.com/dp/B08TPM2VVJ/?tag=hexagamers-20)
+
+Crooked Cash adds a Counterfeit Detector wand — a UV light pen — and seeds the game with fake bills. Players can audit each other's cash at any time using the wand. Real bills are one color under UV, fake bills are another. Catch someone passing counterfeit money and they pay a penalty.
+
+It's a straightforward addition to the classic formula but the execution is clean. The UV wand makes every cash transaction slightly suspicious, which adds a social layer the standard game doesn't have. You start watching how other players handle their money. You get paranoid. You do a random audit just to see what happens.
+
+**Kids tend to love it.** The counterfeit mechanic is easy to understand and the wand feels like a toy. For families with kids in the 8–12 range who are tired of the classic version, this adds novelty without changing the fundamental rules enough to be confusing.
+
+The counterfeit bills are shuffled into the bank at setup, so not every game surfaces the same drama — but when a big trade or rent payment triggers a UV check, it tends to generate some of the best moments of any session.
+
+<a href="https://www.amazon.com/dp/B08TPM2VVJ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## Conclusion
 
