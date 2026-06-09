@@ -34,7 +34,7 @@ If you're looking for completely different games to add to your collection along
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300243/Monopoly_wyv0zb.jpg)](#1-monopoly-classic) | Monopoly Classic | 2–8 | 60–180 min | $$ | — |
+| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781018242/Monopoly_izrnbw.jpg)](#1-monopoly-classic) | Monopoly Classic | 2–8 | 60–180 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015410/Monopoly_Deal_eeqwvl.jpg)](#2-monopoly-deal) | Monopoly Deal | 2–5 | 15 min | $ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015410/Monopoly_Cheaters_Edition_reqvfu.jpg)](#3-monopoly-cheaters-edition) | Monopoly: Cheaters Edition | 2–6 | 60 min | $$ | — |
 | [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781015411/Monopoly_Speed_qghmur.jpg)](#4-monopoly-speed) | Monopoly: Speed | 2–4 | 10 min | $$ | — |
@@ -47,7 +47,7 @@ If you're looking for completely different games to add to your collection along
 
 ## 1. Monopoly Classic
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300243/Monopoly_wyv0zb.jpg)](https://www.amazon.com/dp/B00CV5PN0I/?tag=hexagamers-20)
+[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781018242/Monopoly_izrnbw.jpg)](https://www.amazon.com/dp/B00CV5PN0I/?tag=hexagamers-20)
 
 You already know this one. The Atlantic City properties, the top hat, the banker who keeps fudging the numbers. Classic Monopoly deserves a spot on this list not because it's the best version but because it's the reference point everything else gets measured against — and because when you play it *right*, it's actually a decent game.
 
