@@ -50,6 +50,8 @@ Over the years it grew into three separate awards:
 
 Want a sense of the two younger categories? On the heavier **Kennerspiel** side, [7 Wonders](/7-wonders-review/) (2011) and [Wingspan](/wingspan-review/) (2019) are both winners worth owning ([7 Wonders on Amazon](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20), [Wingspan on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)). On the **Kinderspiel** side, [Ghost Blitz](/ghost-blitz-review/) is a fast kids' reflex game our group still pulls out ([Ghost Blitz on Amazon](https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20)).
 
+**Most recent winners (2025):** Bomb Busters (Spiel des Jahres), Endeavor: Deep Sea (Kennerspiel), and Topp die Torte (Kinderspiel).
+
 ## Golden Geek Awards — the people's vote
 
 <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/board-game-geek-award-logo_kyfs1p" alt="Golden Geek Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
@@ -64,7 +66,9 @@ Because it's community-driven, it's the broadest award going. There are categori
 
 - [Wingspan](/wingspan-review/) — the bird-themed engine builder that crossed over to non-gamers without losing its depth. [Check price on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 - Terraforming Mars — a sprawling, card-driven race to make the red planet livable. [Check price on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)
-- Scythe — alternate-history mechs, area control, and one of the best-looking boards in the hobby. (No on-site review yet, but it's a frequent Golden Geek favourite.)
+- Scythe — alternate-history mechs, area control, and one of the best-looking boards in the hobby. [Check price on Amazon](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
+
+**Most recent winners (2024 games):** SETI took Heavy Game of the Year, Harmonies won the Medium category, and Castle Combo won Light Game of the Year.
 
 ## The Dice Tower Awards — the critics' pick
 
@@ -78,6 +82,8 @@ Categories cover the ground you'd expect: game of the year, best artwork, best s
 
 - [Pandemic](/pandemic-review/) — the co-op classic where you team up to stop four diseases from wiping out the planet. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Wingspan](/wingspan-review/) — turns up on a lot of these lists, and for good reason. [Check price on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
+
+**Most recent winner:** SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year.
 
 ## As d'Or — the French one from Cannes
 
@@ -94,6 +100,8 @@ A jury of players, journalists, and industry pros tests hundreds of games across
 - [Splendor](/splendor-review/) (2014) — collect gem chips, build a renaissance trading engine, a tight little game that teaches in two minutes. [Check price on Amazon](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 - [Camel Up](/camel-up-review/) (2014) — chaotic, hilarious camel racing with betting that turns the whole table into a casino. [Check price on Amazon](https://www.amazon.com/dp/B09KWZMXLX/?tag=hexagamers-20)
 
+**Most recent winners (2025):** Odin (general audience), Behind (intermediate), Kutná Hora: The City of Silver (expert), and Opération Noisettes (children's).
+
 ## Origins Awards — the long-running American one
 
 <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Origins-Awards-Logo_gypnbh" alt="Origins Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
@@ -106,6 +114,8 @@ These cover a wider tabletop world than just board games, reaching into card gam
 
 - [Pandemic](/pandemic-review/) — a multi-time Origins honoree and still one of the best co-ops to hand a new group. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Carcassonne](/carcassone-review/) — tile-laying, meeple-placing, and the game that introduced a lot of us to the word "meeple." [Check price on Amazon](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
+
+**Most recent winners (2024 games):** Seaside (Gateway Game), Endeavor: Deep Sea (Heavy Strategy), Fromage (Light Strategy), [Flip 7](/flip-7-review/) (Party Game — [on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)), and Marvel United: Multiverse (Co-Op/Solo). Origins splits into a lot of categories, so this is just the core board game slate.
 
 ## A few more worth knowing
 
