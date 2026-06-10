@@ -50,7 +50,11 @@ Over the years it grew into three separate awards:
 
 Want a sense of the two younger categories? On the heavier **Kennerspiel** side, [7 Wonders](/7-wonders-review/) (2011) and [Wingspan](/wingspan-review/) (2019) are both winners worth owning ([7 Wonders on Amazon](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20), [Wingspan on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)). On the **Kinderspiel** side, [Ghost Blitz](/ghost-blitz-review/) is a fast kids' reflex game our group still pulls out ([Ghost Blitz on Amazon](https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20)).
 
-**Most recent winners (2025):** Bomb Busters (Spiel des Jahres), Endeavor: Deep Sea (Kennerspiel), and Topp die Torte (Kinderspiel).
+**Most recent winners (2025):**
+
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Bomb_Busters_sg0lrf.jpg" alt="Bomb Busters box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Bomb Busters *(Spiel des Jahres)* — [Check price on Amazon](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Endeavor: Deep Sea *(Kennerspiel)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Topp_die_Torte_w7tdnv.jpg" alt="Topp die Torte box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Topp die Torte *(Kinderspiel)* — [Check price on Amazon](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20)
 
 ## Golden Geek Awards — the people's vote
 
@@ -68,7 +72,11 @@ Because it's community-driven, it's the broadest award going. There are categori
 - Terraforming Mars — a sprawling, card-driven race to make the red planet livable. [Check price on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)
 - Scythe — alternate-history mechs, area control, and one of the best-looking boards in the hobby. [Check price on Amazon](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
 
-**Most recent winners (2024 games):** SETI took Heavy Game of the Year, Harmonies won the Medium category, and Castle Combo won Light Game of the Year.
+**Most recent winners (2024 games):**
+
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> SETI: Search for Extraterrestrial Intelligence *(Heavy)* — [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Harmonies_irl1j9.jpg" alt="Harmonies box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Harmonies *(Medium)* — [Check price on Amazon](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Castle_Combo_kfeq9n.jpg" alt="Castle Combo box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Castle Combo *(Light)* — [Check price on Amazon](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
 
 ## The Dice Tower Awards — the critics' pick
 
@@ -83,7 +91,7 @@ Categories cover the ground you'd expect: game of the year, best artwork, best s
 - [Pandemic](/pandemic-review/) — the co-op classic where you team up to stop four diseases from wiping out the planet. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Wingspan](/wingspan-review/) — turns up on a lot of these lists, and for good reason. [Check price on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
-**Most recent winner:** SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year.
+**Most recent winner:** <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin:0 0.4rem;" /> SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year. [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
 
 ## As d'Or — the French one from Cannes
 
@@ -100,7 +108,12 @@ A jury of players, journalists, and industry pros tests hundreds of games across
 - [Splendor](/splendor-review/) (2014) — collect gem chips, build a renaissance trading engine, a tight little game that teaches in two minutes. [Check price on Amazon](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 - [Camel Up](/camel-up-review/) (2014) — chaotic, hilarious camel racing with betting that turns the whole table into a casino. [Check price on Amazon](https://www.amazon.com/dp/B09KWZMXLX/?tag=hexagamers-20)
 
-**Most recent winners (2025):** Odin (general audience), Behind (intermediate), Kutná Hora: The City of Silver (expert), and Opération Noisettes (children's).
+**Most recent winners (2025):**
+
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Odin_iixfdq.jpg" alt="Odin box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Odin *(general audience)* — [Check price on Amazon](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Behind_grabdb.webp" alt="Behind box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Behind *(intermediate)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/behind)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Kutn%C3%A1_Hora_-_The_City_of_Silver_wzt8do.jpg" alt="Kutná Hora: The City of Silver box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Kutná Hora: The City of Silver *(expert)* — [Check price on Amazon](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Op%C3%A9ration_Noisettes_b9sjjf.webp" alt="Opération Noisettes box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Opération Noisettes *(children's)* — [Check price on Amazon.ca](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers-20)
 
 ## Origins Awards — the long-running American one
 
@@ -115,7 +128,13 @@ These cover a wider tabletop world than just board games, reaching into card gam
 - [Pandemic](/pandemic-review/) — a multi-time Origins honoree and still one of the best co-ops to hand a new group. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Carcassonne](/carcassone-review/) — tile-laying, meeple-placing, and the game that introduced a lot of us to the word "meeple." [Check price on Amazon](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
 
-**Most recent winners (2024 games):** Seaside (Gateway Game), Endeavor: Deep Sea (Heavy Strategy), Fromage (Light Strategy), [Flip 7](/flip-7-review/) (Party Game — [on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)), and Marvel United: Multiverse (Co-Op/Solo). Origins splits into a lot of categories, so this is just the core board game slate.
+**Most recent winners (2024 games):** Origins splits into a lot of categories, so this is just the core board game slate.
+
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Seaside_ke9tgy.jpg" alt="Seaside box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Seaside *(Gateway Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Endeavor: Deep Sea *(Heavy Strategy)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Fromage_yzafpx.jpg" alt="Fromage box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Fromage *(Light Strategy)* — [Check price on Amazon](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779504841/Flip_7_pm9kzi.jpg" alt="Flip 7 box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> [Flip 7](/flip-7-review/) *(Party Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)
+- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/marvel_united_multiverse_vohx1v.jpg" alt="Marvel United: Multiverse box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Marvel United: Multiverse *(Co-Op/Solo)* — [Check price on Amazon](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20)
 
 ## A few more worth knowing
 
