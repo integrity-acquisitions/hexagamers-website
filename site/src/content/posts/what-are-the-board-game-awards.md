@@ -52,9 +52,9 @@ Want a sense of the two younger categories? On the heavier **Kennerspiel** side,
 
 **Most recent winners (2025):**
 
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Bomb_Busters_sg0lrf.jpg" alt="Bomb Busters box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Bomb Busters *(Spiel des Jahres)* — [Check price on Amazon](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Endeavor: Deep Sea *(Kennerspiel)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Topp_die_Torte_w7tdnv.jpg" alt="Topp die Torte box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Topp die Torte *(Kinderspiel)* — [Check price on Amazon](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Bomb_Busters_sg0lrf.jpg" alt="Bomb Busters box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20) Bomb Busters *(Spiel des Jahres)* — [Check price on Amazon](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Kennerspiel)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Topp_die_Torte_w7tdnv.jpg" alt="Topp die Torte box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20) Topp die Torte *(Kinderspiel)* — [Check price on Amazon](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20)
 
 ## Golden Geek Awards — the people's vote
 
@@ -74,9 +74,9 @@ Because it's community-driven, it's the broadest award going. There are categori
 
 **Most recent winners (2024 games):**
 
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> SETI: Search for Extraterrestrial Intelligence *(Heavy)* — [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Harmonies_irl1j9.jpg" alt="Harmonies box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Harmonies *(Medium)* — [Check price on Amazon](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Castle_Combo_kfeq9n.jpg" alt="Castle Combo box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Castle Combo *(Light)* — [Check price on Amazon](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence *(Heavy)* — [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Harmonies_irl1j9.jpg" alt="Harmonies box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20) Harmonies *(Medium)* — [Check price on Amazon](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Castle_Combo_kfeq9n.jpg" alt="Castle Combo box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20) Castle Combo *(Light)* — [Check price on Amazon](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
 
 ## The Dice Tower Awards — the critics' pick
 
@@ -91,7 +91,7 @@ Categories cover the ground you'd expect: game of the year, best artwork, best s
 - [Pandemic](/pandemic-review/) — the co-op classic where you team up to stop four diseases from wiping out the planet. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Wingspan](/wingspan-review/) — turns up on a lot of these lists, and for good reason. [Check price on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
-**Most recent winner:** <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin:0 0.4rem;" /> SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year. [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
+**Most recent winner:** [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin:0 0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year. [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
 
 ## As d'Or — the French one from Cannes
 
@@ -110,10 +110,10 @@ A jury of players, journalists, and industry pros tests hundreds of games across
 
 **Most recent winners (2025):**
 
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Odin_iixfdq.jpg" alt="Odin box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Odin *(general audience)* — [Check price on Amazon](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Behind_grabdb.webp" alt="Behind box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Behind *(intermediate)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/behind)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Kutn%C3%A1_Hora_-_The_City_of_Silver_wzt8do.jpg" alt="Kutná Hora: The City of Silver box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Kutná Hora: The City of Silver *(expert)* — [Check price on Amazon](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Op%C3%A9ration_Noisettes_b9sjjf.webp" alt="Opération Noisettes box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Opération Noisettes *(children's)* — [Check price on Amazon.ca](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Odin_iixfdq.jpg" alt="Odin box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20) Odin *(general audience)* — [Check price on Amazon](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Behind_grabdb.webp" alt="Behind box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/behind) Behind *(intermediate)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/behind)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Kutn%C3%A1_Hora_-_The_City_of_Silver_wzt8do.jpg" alt="Kutná Hora: The City of Silver box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20) Kutná Hora: The City of Silver *(expert)* — [Check price on Amazon](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Op%C3%A9ration_Noisettes_b9sjjf.webp" alt="Opération Noisettes box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20) Opération Noisettes *(children's)* — [Check price on Amazon.ca](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20)
 
 ## Origins Awards — the long-running American one
 
@@ -130,11 +130,11 @@ These cover a wider tabletop world than just board games, reaching into card gam
 
 **Most recent winners (2024 games):** Origins splits into a lot of categories, so this is just the core board game slate.
 
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Seaside_ke9tgy.jpg" alt="Seaside box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Seaside *(Gateway Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Endeavor: Deep Sea *(Heavy Strategy)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Fromage_yzafpx.jpg" alt="Fromage box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Fromage *(Light Strategy)* — [Check price on Amazon](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779504841/Flip_7_pm9kzi.jpg" alt="Flip 7 box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> [Flip 7](/flip-7-review/) *(Party Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)
-- <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/marvel_united_multiverse_vohx1v.jpg" alt="Marvel United: Multiverse box art" height="45" style="height:45px;width:auto;vertical-align:middle;margin-right:0.4rem;" /> Marvel United: Multiverse *(Co-Op/Solo)* — [Check price on Amazon](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Seaside_ke9tgy.jpg" alt="Seaside box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20) Seaside *(Gateway Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Heavy Strategy)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Fromage_yzafpx.jpg" alt="Fromage box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20) Fromage *(Light Strategy)* — [Check price on Amazon](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779504841/Flip_7_pm9kzi.jpg" alt="Flip 7 box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20) [Flip 7](/flip-7-review/) *(Party Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)
+- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/marvel_united_multiverse_vohx1v.jpg" alt="Marvel United: Multiverse box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20) Marvel United: Multiverse *(Co-Op/Solo)* — [Check price on Amazon](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20)
 
 ## A few more worth knowing
 
