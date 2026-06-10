@@ -28,7 +28,7 @@ One thing to keep in mind before we start. There's no single "board game Oscars.
 
 <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Spiel-des-jahres-logo_myg0e7" alt="Spiel des Jahres logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
-If you only learn one award, learn this one. The **Spiel des Jahres** ("Game of the Year" in German) is the most influential board game award there is. It started in Germany in 1978, with the first prize handed out in 1979, and the red badge ("der rote Pöppel," the red meeple) on a box can sell hundreds of thousands of extra copies.
+If you only learn one award, learn this one. The [**Spiel des Jahres**](https://www.spiel-des-jahres.de/en/) ("Game of the Year" in German) is the most influential board game award there is. It started in Germany in 1978, with the first prize handed out in 1979, and the red badge ("der rote Pöppel," the red meeple) on a box can sell hundreds of thousands of extra copies.
 
 People get one thing wrong about it constantly: it is *not* an award for the best, deepest, heaviest game of the year. It's an award for the best *family* game. Accessible, well-made, easy to teach, fun at the kitchen table. War games, hardcore strategy, and hobbyist games are deliberately out of scope. A small German jury of game critics picks it, and they care more about elegant rules and broad appeal than complexity.
 
@@ -89,7 +89,7 @@ Categories cover the ground you'd expect: game of the year, best artwork, best s
 
 <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/as-dor-jeu-de-lannee_ttshuy" alt="As d'Or — Jeu de l'Année logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
-The **As d'Or** ("Golden Ace") is France's biggest board game award, and it carries a lot of weight in Europe. The city of Cannes launched it in 1988, and it's handed out each year at the Festival International des Jeux in Cannes. Yes, the same Cannes as the film festival, different event.
+The [**As d'Or**](https://www.festivaldesjeux-cannes.com/en/festival-as-d-or-jeu-de-l-annee) ("Golden Ace") is France's biggest board game award, and it carries a lot of weight in Europe. The city of Cannes launched it in 1988, and it's handed out each year at the Festival International des Jeux in Cannes. Yes, the same Cannes as the film festival, different event.
 
 A jury of players, journalists, and industry pros tests hundreds of games across the year, then deliberates and picks winners across a few tiers: a main "casual" award for broadly accessible games, a children's category (roughly ages 3 to 7), and expert-level categories for heavier games. They judge on things like how addictive a game is to play, how original it is, how it looks, and how clearly the rules are written.
 
@@ -106,7 +106,7 @@ A jury of players, journalists, and industry pros tests hundreds of games across
 
 <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Origins-Awards-Logo_gypnbh" alt="Origins Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
-The **Origins Awards** are one of the oldest awards in the hobby, first handed out back in 1975 at the very first Origins Game Fair in Baltimore. They're run by GAMA (the Game Manufacturers Association), the trade body for the tabletop industry, and presented each year at the Origins Game Fair in Columbus, Ohio.
+The [**Origins Awards**](https://www.originsawards.net/) are one of the oldest awards in the hobby, first handed out back in 1975 at the very first Origins Game Fair in Baltimore. They're run by GAMA (the Game Manufacturers Association), the trade body for the tabletop industry, and presented each year at the Origins Game Fair in Columbus, Ohio.
 
 These cover a wider tabletop world than just board games, reaching into card games, role-playing games, miniatures, and accessories too. The categories get reshuffled fairly often, but on the board game side they've recently included Gateway Game of the Year, Cooperative/Solo Game of the Year, party games, and both light and heavy strategy games. It's an industry-rooted award with a lot of history behind it.
 
@@ -121,11 +121,11 @@ These cover a wider tabletop world than just board games, reaching into card gam
 
 Once you go down the rabbit hole there are dozens, but these come up often enough to be worth a sentence each:
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/international-gamers-award_tqq4kj" alt="International Gamers Award logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> **International Gamers Awards (IGA)** — specifically for strategy board games and historical simulation games. If you like the heavier, more strategic end of the hobby, this one is aimed squarely at you. Winners skew big and brainy: Terraforming Mars is a good example ([on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)).
+<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/international-gamers-award_tqq4kj" alt="International Gamers Award logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**International Gamers Awards (IGA)**](https://www.internationalgamersawards.net/) — specifically for strategy board games and historical simulation games. If you like the heavier, more strategic end of the hobby, this one is aimed squarely at you. Winners skew big and brainy: Terraforming Mars is a good example ([on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)).
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/uk-games-expo-logo_jm9yzu" alt="UK Games Expo Awards logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> **UK Games Expo Awards** — handed out at the UK Games Expo (the UK's largest tabletop convention) each summer. Split into a big set of Judges' Choice categories covering Euro-style, strategic, card games, abstract games, narrative and legacy games, and accessories, plus a People's Choice public vote.
+<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/uk-games-expo-logo_jm9yzu" alt="UK Games Expo Awards logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**UK Games Expo Awards**](https://www.ukgamesexpo.co.uk/whats-on/show/uk-games-expo-awards/) — handed out at the UK Games Expo (the UK's largest tabletop convention) each summer. Split into a big set of Judges' Choice categories covering Euro-style, strategic, card games, abstract games, narrative and legacy games, and accessories, plus a People's Choice public vote.
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/mensa-mind-games-logo_rzdhnc" alt="Mensa Select / Mensa Mind Games logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> **Mensa Select** — chosen by the high-IQ society Mensa for games that are original, challenging, and well-designed. An unusual angle, but it's been a quiet stamp of quality for clever games for decades.
+<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/mensa-mind-games-logo_rzdhnc" alt="Mensa Select / Mensa Mind Games logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**Mensa Select**](https://mensamindgames.com/) — chosen by the high-IQ society Mensa for games that are original, challenging, and well-designed. An unusual angle, but it's been a quiet stamp of quality for clever games for decades.
 
 **Spiel der Spiele** — Austria's national game award. Similar family-friendly spirit to its German cousin, just across the border.
 
