@@ -25,6 +25,8 @@ Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missio
 
 > Our full review: [The Resistance: Avalon Review](/the-resistance-avalon-review/)
 
+> Every role explained: [Avalon Characters & Roles Explained](/avalon-characters-roles-explained/)
+
 > **Note:** These simplified rules are based on a 6-player game. Number of players changes the Good/Evil ratio, mission sizes, and available roles.
 
 ## Setup

@@ -30,6 +30,8 @@ Good versus evil — the future of Camelot hangs in the balance. You and your fe
 
 > Want to learn how it works? Read our [How To Play Avalon – Simplified](/the-resistance-avalon-how-to-play-simplified/) guide.
 
+> Confused by the roles? See [Avalon Characters & Roles Explained](/avalon-characters-roles-explained/).
+
 ## Ryan's Review
 
 ### Likes
