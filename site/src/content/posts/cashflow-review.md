@@ -1,5 +1,5 @@
 ---
-title: "Cashflow Board Game Review — Is It Worth the Price?"
+title: "Cashflow Board Game Review — Is Kiyosaki's Game Worth It?"
 date: 2017-01-16
 categories: 
   - "games"
@@ -11,7 +11,7 @@ tags:
   - "cashflow-review"
   - "investment-board-game"
 coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422139/hexagamers-reviews/cashflow-review.jpg"
-description: "Cashflow is Robert Kiyosaki's financial education board game — but is it actually worth $60+? Honest review covering gameplay, components, and who it's really for."
+description: "Is the Cashflow board game worth it? An honest review of Robert Kiyosaki's Rich Dad financial game — gameplay, dated components, the $60+ price, and who should actually buy it (and who shouldn't)."
 ---
 
 ## Overview
