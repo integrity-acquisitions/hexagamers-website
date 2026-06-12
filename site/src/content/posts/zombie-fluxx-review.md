@@ -22,6 +22,8 @@ The rules constantly change mid-game. Draw a card, play a card — but rule card
   <div class="stat"><span class="stat-value">8+</span><span class="stat-label">Age</span></div>
 </div>
 
+> Featured on: [Best Zombie Board Games](/best-zombie-board-games/)
+
 ## Charlene's Review
 
 ### Likes
