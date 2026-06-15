@@ -1,6 +1,6 @@
 ---
 title: "Is Gloomhaven Worth It?"
-date: 2026-06-12
+date: 2026-06-15
 categories:
   - "games"
   - "reviews"
