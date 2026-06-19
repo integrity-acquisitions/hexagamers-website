@@ -54,6 +54,8 @@ Card drafting games often combine the best of both worlds: card and board games.
 
 So what is card drafting? It's choice. Instead of drawing cards randomly from a pile, players have a choice about what cards they take--either from a common pool, a random draw pile, or a combination of both. What we like about card drafting is this combinations . Some of us, like some of you, hate card games, and sometimes we need a change from dice or board-only based games. Drafting is a  great compromise for all players, and we compiled some of our favourites below.
 
+> Looking for the newer wave instead? We've got a separate list of the [Best Card Drafting Board Games in 2026](/best-card-drafting-board-games-2026/) — the recent pick-and-pass hits like Forest Shuffle, Faraway, and Harmonies.
+
 ## Card Drafting Games Comparison Table
 
 (Click the thumbnail to jump to the review)
