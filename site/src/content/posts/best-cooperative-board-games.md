@@ -21,6 +21,8 @@ description: "Cooperative Board Games! One of our favorite categories!"
 
 ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cooperative_gyb8mb.png "Cooperative")
 
+> Want what's new instead of the all-time greats? See our [Best Cooperative Board Games in 2026](/best-cooperative-board-games-2026/) list — the standout co-ops released in the last few years.
+
 Cooperative Board Games! One of our favorite categories!
 
 While there are some exceptions to the rule a coop game basically means everyone is working together against the board (or deck) to achieve the end goal. They are perfect for starting out, or for introducing someone to strategy board games, since they will get you in the mindset of planning and strategizing, but you won't be on your own. We also love coop games for experienced gamers since they bring everyone together on the same team and halt the 'everyone for themselves' battle for a little while.
