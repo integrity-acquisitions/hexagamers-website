@@ -1,6 +1,6 @@
 ---
 title: "Best Card Drafting Board Games in 2026"
-date: 2026-06-18
+date: 2026-06-20
 categories:
   - "favourites-lists"
   - "games"
