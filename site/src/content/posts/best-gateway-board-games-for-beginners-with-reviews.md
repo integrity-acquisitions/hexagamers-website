@@ -18,7 +18,7 @@ tags:
   - "sushi-go"
   - "takenoko"
   - "ticket-to-ride-europe"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461218/hexagamers-articles/best-gateway-board-games-for-beginners-with-reviews.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-gateway-board-games-for-beginners-with-reviews.webp"
 lastModified: 2025-01-01
 description: "If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are…"
 ---
@@ -66,23 +66,23 @@ It would be almost impossible to cover every game in our best gateway board game
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-catan-full-review-here) | Catan | 3-4 | 60-120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](#2-ticket-to-ride-europe-full-review-here) | Ticket To Ride: Europe | 2-5 | 30-60 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](#3-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](#4-lords-of-waterdeep-full-review-here) | Lords Of Waterdeep | 2-5 | 60-120 | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#5-sushi-go) | Sushi Go! | 2-5 | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](#6-dominion-full-review-here) | Dominion | 2-4 | 30 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#7-pandemic-full-review-here) | Pandemic | 2-4 | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](#8-takenokofull-review-here) | Takenoko | 2-4 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](#9-coup-full-review-here) | Coup | 2-6 | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](#10-camel-up-full-review-here) | Camel Up | 2-8 | 20+30 min | $$$ |  |
+| [![](https://img.hexagamers.com/Catan-1.webp)](#1-catan-full-review-here) | Catan | 3-4 | 60-120 min | $$$ |  |
+| [![](https://img.hexagamers.com/Ticket-to-Ride-Europe-1_o4fsep.webp)](#2-ticket-to-ride-europe-full-review-here) | Ticket To Ride: Europe | 2-5 | 30-60 min | $$$ |  |
+| [![](https://img.hexagamers.com/Carcassonne-1_yvv5cv.webp)](#3-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 min | $$$ |  |
+| [![](https://img.hexagamers.com/Lords-Of-Waterdeep.webp)](#4-lords-of-waterdeep-full-review-here) | Lords Of Waterdeep | 2-5 | 60-120 | $$$ |  |
+| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#5-sushi-go) | Sushi Go! | 2-5 | 15 min | $ |  |
+| [![](https://img.hexagamers.com/Dominion_z98xnd.webp)](#6-dominion-full-review-here) | Dominion | 2-4 | 30 min | $$ |  |
+| [![](https://img.hexagamers.com/Pandemic.webp)](#7-pandemic-full-review-here) | Pandemic | 2-4 | 45 min | $$ |  |
+| [![](https://img.hexagamers.com/Takenoko_psyu9h.webp)](#8-takenokofull-review-here) | Takenoko | 2-4 | 45 min | $$$ |  |
+| [![](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#9-coup-full-review-here) | Coup | 2-6 | 15 min | $ |  |
+| [![](https://img.hexagamers.com/Camel-Up-1_siqkeb.webp)](#10-camel-up-full-review-here) | Camel Up | 2-8 | 20+30 min | $$$ |  |
 
 ## Top Ten Gateway Board Games For Beginners Reviews
 
 ## 1. Catan ([Full Review Here](/catan-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](https://www.amazon.com/dp/B00U26V4VQ/?tag=hexagamers-20)
 
 The most common and probably the most popular gateway game out there is Catan (formerly Settlers of Catan). This game has been played on popular TV shows like Big Bang Theory, has been frequently featured in memes, and if you ask some of your friends, chances are they have played it or heard of it.
 
@@ -104,7 +104,7 @@ The concept of collecting some sort of resource and then managing it is a mechan
 ## 2. Ticket To Ride: Europe ([Full Review Here](/ticket-to-ride-europe-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-1_o4fsep.jpg)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Ticket-to-Ride-Europe-1_o4fsep.webp)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
 
 The Ticket to Ride Series are great board games for anyone from beginners to experts. One of our favourites in the series is the Europe version, which is why we put it on the list, but any of them are pretty good.
 
@@ -126,7 +126,7 @@ Within our group alone, we played this game with 4 other couples that have run o
 ## 3. Carcassonne ([Full Review Here](/carcassone-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Carcassonne-1_yvv5cv.webp)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
 
 Carcassonne is a tile flipping board game that is set in the old French city of its namesake. The point of the game is to build out the landscape, while placing your Meeples along the way in order to score the most points and win the game.
 
@@ -150,7 +150,7 @@ Another tip for the beginner gamers with this one is to play the first couple of
 ## 4. Lords Of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Lords-Of-Waterdeep.webp)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
 Lords of Waterdeep (aka Lords or Waterdeep), is a great gateway board game into worker placement type of games. This game comes in as one of our favourite worker (or people) placement games in fact. If you are unfamiliar with what we mean by this term, to simplify it, you start the game with a number of ‘workers’ or Meeples that you will place on the game board. Depending on where you place them, you will get resources, or buildings, or some other thing that will help you to achieve your goals in the game.
 
@@ -168,7 +168,7 @@ It is a really fun gateway board game that will test your ability to think, plan
 ## 5. Sushi Go!
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 Sushi Go! is your gateway into the card drafting genre of board games. We have an article coming soon with the top rated card drafting games. To summarize what these games are, in general everyone will get a hand of cards each, each person will take one out of their respective decks and (once everyone is ready) play it. Then you take your remaining cards and pass them to the person next to you (direction is determined by the individual game rules). This process continues until all the cards are used.
 
@@ -186,7 +186,7 @@ It is a game that is accessible by nearly everyone, can be played anywhere, and 
 ## 6. Dominion ([Full Review Here](/dominion-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
 Dominion is a good gateway board game that falls into the [Deck Builder](/guide-to-understanding-deck-building-games/) genre. In fact it is one of the, if not the [best deck building games](/best-deck-building-board-games/) out there.
 
@@ -208,7 +208,7 @@ You will understand how to play in your first game, but it will take you a few t
 ## 7. Pandemic ([Full Review Here](/pandemic-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is a game in which all players get to work together against a common enemy, in this case it is the board, which is breaking out in different diseases that you must contain. This type of game is called a cooperative game (or co-op), and pandemic is one of the [best co-op board games](/best-cooperative-board-games/) there is.
 
@@ -228,7 +228,7 @@ Again, this game has some good longevity, as we still play the original years la
 ## 8. Takenoko ([Full Review Here](/takenoko-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Takenoko_psyu9h.jpg)](https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Takenoko_psyu9h.webp)](https://www.amazon.com/dp/B0D8X5J651/?tag=hexagamers-20)
 
 Takenoko is a game which is set in imperial Japan and you are tasked with job of looking after a panda and some bamboo fields. As you can imagine the theme of this game is awesome! It even includes little figurines of the panda, the gardener, and the bamboo, something that will surely draw in new board gamers.
 
@@ -246,7 +246,7 @@ This one is fun for people of all ages. It is competitive, but not cutthroat, wh
 ## 9. Coup ([Full Review Here](/coup-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is your gateway game into the bluffing and social deduction board game genre. A social deduction game is one in which the players have secret identities and the object of the game (or part of it anyways).
 
@@ -264,7 +264,7 @@ We have played this game with a variety of age groups and demographics, and it i
 ## 10. Camel Up ([Full Review Here](/camel-up-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-1_siqkeb.jpg)](https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Camel-Up-1_siqkeb.webp)](https://www.amazon.com/dp/B00ICF0OZQ/?tag=hexagamers-20)
 
 While we focused mainly on strategy games for this list of the top board games for beginners, we did want to include one that is a little lighter and has a lot less thinking. This way you can see that these new board games aren’t always about pitting your mental strength against your friends. Camel Up is just that type of game. It comes close to being a party board game, but didn’t quite hit all the qualifications for it in our opinion.
 

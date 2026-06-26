@@ -10,7 +10,7 @@ tags:
   - "dominion"
   - "dominion-review"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422750/hexagamers-reviews/dominion-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/dominion-review.webp"
 lastModified: 2025-01-01
 description: "Build your deck, acquire resources, play action cards, and collect Victory Points to claim dominion before your opponents. The classic deck-building game…"
 ---
@@ -19,7 +19,7 @@ description: "Build your deck, acquire resources, play action cards, and collect
 
 Build your deck, acquire resources, play action cards, and collect Victory Points to claim dominion before your opponents. The classic deck-building game with a medieval theme and massive replayability.
 
-![A Dominion game laid out with kingdom card stacks](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Game-Play_kaplww.jpg "A Dominion game in play")
+![A Dominion game laid out with kingdom card stacks](https://img.hexagamers.com/Dominion-Game-Play_kaplww.webp "A Dominion game in play")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -52,7 +52,7 @@ This was one of our first board game purchases — bought almost blind. The stor
 
 My first impression was fear. No board, tons of different cards — what did I get myself into? Those thoughts passed after the first play. We fumbled through without any real strategy and I still really enjoyed it.
 
-![The Dimension box and components](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Box_qrmzhp.jpg "The Dominion box")
+![The Dimension box and components](https://img.hexagamers.com/Dominion-Box_qrmzhp.webp "The Dominion box")
 
 ## Thoughts
 
@@ -62,13 +62,13 @@ The rules are short. The mechanics are elegant. New players pick it up within on
 
 **Strategy runs deeper than it looks.** You have to plan your deck's direction, figure out when to prioritize more coins vs. action cards, and decide when to start buying Victory Points. Start too early and you clog your deck with dead weight. Start too late and someone beats you to the Provinces.
 
-![Dominion action cards that build your deck](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Action-Cards_j6zaeu.jpg "Dominion action cards")
+![Dominion action cards that build your deck](https://img.hexagamers.com/Dominion-Action-Cards_j6zaeu.webp "Dominion action cards")
 
 **Deck luck is a factor.** You never know when your recently purchased cards will surface. Early on, getting or missing a good action card can create real momentum differences. It's frustrating in a "fricken stupid cards, COME ON" way — not a "I want to quit" way.
 
 **Interaction is limited** but present. A handful of attack cards let you disrupt opponents. If you're randomly selecting kingdom cards, some games won't even have attacks available — a quick fix is to guarantee one attack card in the setup.
 
-![Dominion attack cards used to disrupt opponents](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Attack-Cards_enxpcq.jpg "Dominion attack cards")
+![Dominion attack cards used to disrupt opponents](https://img.hexagamers.com/Dominion-Attack-Cards_enxpcq.webp "Dominion attack cards")
 
 **Watching who's buying Provinces matters.** At some point, everyone shifts from building to collecting VPs. You can usually see it coming because one player starts first and everyone else has to follow. The downside: you can sometimes see too clearly that the outcome is settled, which deflates the endgame tension.
 
@@ -76,6 +76,6 @@ The rules are short. The mechanics are elegant. New players pick it up within on
 
 ## Conclusion
 
-![Dominion currency cards used to buy from the kingdom](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-currency_xk5yll.jpg "Dominion currency cards")
+![Dominion currency cards used to buy from the kingdom](https://img.hexagamers.com/Dominion-currency_xk5yll.webp "Dominion currency cards")
 
 Dominion is the deck-building game — the originator of the genre and still among the best in it. Easy to learn, easy to set up, and fresh every time you play it. If you're new to deck building, start here. With a massive expansions library, this one will stay in the collection for years.

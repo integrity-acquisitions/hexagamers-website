@@ -15,7 +15,7 @@ tags:
   - "forest-shuffle"
   - "harmonies"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1782399434/hexagamers-reviews/best-two-player-board-games-2026.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-two-player-board-games-2026.webp"
 lastModified: 2026-06-25
 description: "The best two-player board games released in the last few years (2023-2026) — the new games worth a date night or a head-to-head, not the same old classics."
 ---
@@ -36,18 +36,18 @@ Click the thumbnail to jump down to the game write up.
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Sky_Team_yrvt2z.jpg)](#1-sky-team) | Sky Team | 2 | 15 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/The_White_Castle_Duel_yusnel.jpg)](#2-the-white-castle-duel) | The White Castle Duel | 2 | 50 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Sail_b3fo4x.jpg)](#3-sail) | Sail | 2 | 30 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Star_Wars_-_Battle_of_Hoth_yuo0aa.jpg)](#4-star-wars-battle-of-hoth) | Star Wars: Battle of Hoth | 2 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Forest_Shuffle_u81v6r.jpg)](#5-forest-shuffle) | Forest Shuffle | 2-5 | 40-60 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Looot_kyazqx.jpg)](#6-looot) | Looot | 1-4 | 30-40 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Harmonies_ttd8l8.jpg)](#7-harmonies) | Harmonies | 1-4 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Botanicus_o9mchi.jpg)](#8-botanicus) | Botanicus | 1-4 | 60-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/Sky_Team_yrvt2z.webp)](#1-sky-team) | Sky Team | 2 | 15 min | $$ | — |
+| [![](https://img.hexagamers.com/The_White_Castle_Duel_yusnel.webp)](#2-the-white-castle-duel) | The White Castle Duel | 2 | 50 min | $$ | — |
+| [![](https://img.hexagamers.com/Sail_b3fo4x.webp)](#3-sail) | Sail | 2 | 30 min | $$ | — |
+| [![](https://img.hexagamers.com/Star_Wars_-_Battle_of_Hoth_yuo0aa.webp)](#4-star-wars-battle-of-hoth) | Star Wars: Battle of Hoth | 2 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Forest_Shuffle_u81v6r.webp)](#5-forest-shuffle) | Forest Shuffle | 2-5 | 40-60 min | $$ | — |
+| [![](https://img.hexagamers.com/Looot_kyazqx.webp)](#6-looot) | Looot | 1-4 | 30-40 min | $$ | — |
+| [![](https://img.hexagamers.com/Harmonies_ttd8l8.webp)](#7-harmonies) | Harmonies | 1-4 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Botanicus_o9mchi.webp)](#8-botanicus) | Botanicus | 1-4 | 60-90 min | $$$ | — |
 
 ## 1. Sky Team
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Sky_Team_yrvt2z.jpg)](https://www.amazon.com/dp/B0CHD8RCSJ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sky_Team_yrvt2z.webp)](https://www.amazon.com/dp/B0CHD8RCSJ/?tag=hexagamers-20)
 
 If you buy one game off this whole list, make it this one. Sky Team is a two-player-only co-op where you and your partner are the pilot and co-pilot landing a passenger jet — and you do almost the entire thing *in silence*. You each roll dice behind a screen and place them onto your side of the cockpit, and you cannot tell each other what you rolled.
 
@@ -59,7 +59,7 @@ Setup takes a minute, a game runs fifteen, and a stack of escalating scenarios k
 
 ## 2. The White Castle Duel
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/The_White_Castle_Duel_yusnel.jpg)](https://www.amazon.com/dp/B0FMJ8X9YT/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The_White_Castle_Duel_yusnel.webp)](https://www.amazon.com/dp/B0FMJ8X9YT/?tag=hexagamers-20)
 
 The original White Castle was one of the best small euros of recent years, and the Duel version reworks it into a head-to-head game built specifically for two. If Sky Team is the co-op pick, this is the competitive one — two players fighting over the same castle, the same bridges, the same dice.
 
@@ -71,7 +71,7 @@ It's a thinkier game than its 50-minute runtime suggests, and it rewards a coupl
 
 ## 3. Sail
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Sail_b3fo4x.jpg)](https://www.amazon.com/dp/B0D5XKQHT8/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sail_b3fo4x.webp)](https://www.amazon.com/dp/B0D5XKQHT8/?tag=hexagamers-20)
 
 Sail is the other "you can't just say it" game here, and it's a beauty. It's a cooperative trick-taking game for two where you're crewing a ship through storms and around a lurking kraken — but you're not allowed to talk about your cards, so every play has to communicate for you.
 
@@ -83,7 +83,7 @@ It's short, it's cheap, and it packs down small enough to throw in a bag. The co
 
 ## 4. Star Wars: Battle of Hoth
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Star_Wars_-_Battle_of_Hoth_yuo0aa.jpg)](https://www.amazon.com/dp/B0F7XQNVST/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Star_Wars_-_Battle_of_Hoth_yuo0aa.webp)](https://www.amazon.com/dp/B0F7XQNVST/?tag=hexagamers-20)
 
 This one comes from the designer of Memoir '44 and Command & Colors, and it brings that pedigree to a tight two-player Star Wars duel. One player commands the Empire, the other the Rebellion, fighting the battle of Hoth across a board of AT-ATs and snowspeeders.
 
@@ -95,7 +95,7 @@ It's more of a head-to-head clash than a thinky euro, and it's firmly for two pl
 
 ## 5. Forest Shuffle
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Forest_Shuffle_u81v6r.jpg)](https://www.amazon.com/dp/B0C87WK67Z/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Forest_Shuffle_u81v6r.webp)](https://www.amazon.com/dp/B0C87WK67Z/?tag=hexagamers-20)
 
 A note on this one: Forest Shuffle plays up to five, but it's so good at two that it's become a staple two-player card game, and that's why it's here. You're building a forest of interlocking plants and animals, each card tucked under another to show which half is active, slowly growing a tableau of woodland creatures that score off each other.
 
@@ -107,7 +107,7 @@ It's lighter than the heavy duels above, and luck of the draw plays a role. But 
 
 ## 6. Looot
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Looot_kyazqx.jpg)](https://www.amazon.com/dp/B0D3K8YGWN/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Looot_kyazqx.webp)](https://www.amazon.com/dp/B0D3K8YGWN/?tag=hexagamers-20)
 
 Looot is a Viking-themed tile-and-meeple game that, like a few here, scales up but is razor-sharp at two. You're sending longships out to claim territory, gathering resources and building up your settlement, in a game that's quick to learn and quick to play.
 
@@ -119,7 +119,7 @@ It's on the lighter-medium end and won't satisfy someone hunting for a brain-bur
 
 ## 7. Harmonies
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Harmonies_ttd8l8.jpg)](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Harmonies_ttd8l8.webp)](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
 
 Harmonies is the calm, gorgeous one — and it plays beautifully at two. You're stacking colored tokens to build out a landscape of mountains, forests, water and fields, then placing animal cards that score based on the habitats you've shaped. It's a puzzly, peaceful tableau game that's become a recent favorite for good reason.
 
@@ -131,7 +131,7 @@ It's low-conflict, so a pair who wants a cutthroat duel should look at White Cas
 
 ## 8. Botanicus
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243559/Botanicus_o9mchi.jpg)](https://www.amazon.com/dp/B0DGR8PXNV/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Botanicus_o9mchi.webp)](https://www.amazon.com/dp/B0DGR8PXNV/?tag=hexagamers-20)
 
 Botanicus rounds out the list with a meatier option. You're a Victorian botanist building greenhouses and cultivating plants, in a medium-weight game that earned a Kennerspiel des Jahres recommendation — the hobby's nod for the more involved end of the family-game shelf.
 

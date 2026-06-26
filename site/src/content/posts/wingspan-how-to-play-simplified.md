@@ -11,7 +11,7 @@ tags:
   - "engine-building"
   - "card-drafting"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780508579/hexagamers-guides/wingspan-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/wingspan-how-to-play-simplified.webp"
 lastModified: 2026-06-03
 description: "Learn Wingspan in five minutes. Play birds, build an engine across three habitats, gather food and lay eggs, and out-score your rivals over four rounds."
 ---

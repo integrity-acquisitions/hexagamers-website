@@ -20,7 +20,7 @@ tags:
   - "scythe"
   - "wingspan"
   - "viticulture"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779480223/hexagamers-reviews/best-board-games-for-4-players.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-4-players.webp"
 lastModified: 2026-05-22
 description: "Four players is the sweet spot for most games — here are ten titles that don't just work at that count, they're genuinely best at it."
 ---
@@ -39,22 +39,22 @@ We pulled from BoardGameGeek community polls, Reddit recommendations, and severa
 
 | Image | Game | Players | Time | Price |
 | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-catan) | Catan | 3–4 | 60–90 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#2-ticket-to-ride) | Ticket to Ride | 2–5 | 45–75 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](#3-pandemic) | Pandemic | 2–4 | 45–60 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479943/hexagamers-box-art/carcassonne.jpg)](#4-carcassonne) | Carcassonne | 2–5 | 30–45 min | $ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](#5-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#6-codenames) | Codenames | 2–8 | 15–30 min | $ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#7-azul) | Azul | 2–4 | 30–45 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486312/hexagamers-box-art/scythe.png)](#8-scythe) | Scythe | 1–5 | 90–120 min | $$$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#9-wingspan) | Wingspan | 1–5 | 40–70 min | $$ |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486314/hexagamers-box-art/viticulture.png)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](#1-catan) | Catan | 3–4 | 60–90 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#2-ticket-to-ride) | Ticket to Ride | 2–5 | 45–75 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](#3-pandemic) | Pandemic | 2–4 | 45–60 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/carcassonne.webp)](#4-carcassonne) | Carcassonne | 2–5 | 30–45 min | $ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](#5-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#6-codenames) | Codenames | 2–8 | 15–30 min | $ |
+| [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#7-azul) | Azul | 2–4 | 30–45 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](#8-scythe) | Scythe | 1–5 | 90–120 min | $$$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#9-wingspan) | Wingspan | 1–5 | 40–70 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/viticulture.webp)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ |
 
 ---
 
 ## 1. Catan ([Full Review Here](/catan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
 Catan is the game that pulled a generation of people into modern board gaming, and it earned that position. You're building roads and settlements, collecting resources, and trading your way to ten victory points on a modular hex board. The mechanics are simple. What isn't simple is the negotiation layer — who will trade with you, at what rate, whether someone is quietly building toward the longest road. That social texture is what Catan actually is, and it only works when there are enough people at the table to create real friction.
 
@@ -70,7 +70,7 @@ My quick take: it isn't my favourite game, and I understand why people who've pl
 
 ## 2. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
 Ticket to Ride is a route-claiming game where you're collecting coloured train cards, drawing destination tickets, and trying to connect cities across a map before someone blocks the path you needed. It teaches in ten minutes. It is not a casual game. Most groups figure this out about halfway through their first or second play, when someone claims the only double track into New York and three people realize they'd been quietly racing for the same connection.
 
@@ -86,7 +86,7 @@ Components are excellent for the price. Small coloured train miniatures, a clean
 
 ## 3. Pandemic ([Full Review Here](/pandemic-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is the cooperative game on this list, and it's the one that finally made me understand why cooperative games work. You're a team of specialists — Medic, Scientist, Researcher, Dispatcher — trying to contain and cure four diseases spreading across a global map. The game actively fights you. Every round infections spread, outbreaks cascade, Epidemic cards shuffle the discard pile back into the deck so recently-hit cities come up again faster. The last few turns of most games feel like a controlled collapse.
 
@@ -102,7 +102,7 @@ Pandemic has a four-player cap, which keeps it off any "scales to large groups" 
 
 ## 4. Carcassonne ([Full Review Here](/carcassone-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479943/hexagamers-box-art/carcassonne.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/carcassonne.webp)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
 Carcassonne is a tile-laying game where the board doesn't exist at the start — you build it together. Each turn you flip a tile and place it where it connects: roads to roads, city walls to city walls, fields to fields. Then you decide whether to place a meeple on what you've placed, claiming it for points once it completes. The rules fit on two pages. The decisions behind them take a few games to fully understand.
 
@@ -118,7 +118,7 @@ It also introduced us to meeples. Important.
 
 ## 5. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479944/hexagamers-box-art/7-wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders is a civilization-building card drafting game that plays in thirty minutes regardless of player count. You're developing military, commerce, and science over three ages, drafting one card per round from a hand of seven and passing the rest. The card you pass goes to your neighbour. The card they pass comes to you. What you give is as important as what you keep, and once you internalise that, the game changes.
 
@@ -134,7 +134,7 @@ The thirty-minute ceiling is the best thing about it. It's a complete, satisfyin
 
 ## 6. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
 
 Codenames splits four people into two teams of two. Each team has a Spymaster who can see which words on a 5×5 grid belong to their team. The Spymaster gives one-word clues pointing to multiple cards at once — their partner has to figure out which ones. Touch the assassin card and the game ends immediately for the wrong team.
 
@@ -150,7 +150,7 @@ Games take fifteen minutes. Short enough that a bad loss is recoverable, long en
 
 ## 7. Azul
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
 Azul is an abstract tile-drafting game about decorating a palace wall with Portuguese azulejo tiles. Each turn you pick all tiles of one colour from a factory display and place them in a pattern row on your board. Whatever tiles you didn't pick slide to the centre, and someone has to take those too. At end of round, any tiles you couldn't place cost you points. That leftover penalty is the whole game — managing what goes to the centre, what gets forced on other players, and when you take a bad draft to deny a better one.
 
@@ -166,7 +166,7 @@ The physical components deserve a specific mention. The tiles are thick, heavy, 
 
 ## 8. Scythe
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486312/hexagamers-box-art/scythe.png)](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](https://www.amazon.com/dp/B01IPUGYK6/?tag=hexagamers-20)
 
 Scythe looks like a war game. Giant mechs on the cover, asymmetric factions, territory control on a dieselpunk 1920s map of Eastern Europe. It is not, primarily, a war game. Combat is possible and matters strategically, but the core is an engine-building, resource-management game where every player races to complete six achievements across a set of objectives. Territory and military presence influence your score, but the player who fights the most doesn't usually win.
 
@@ -182,7 +182,7 @@ Setup is involved and games run ninety minutes to two hours. This isn't a pick-u
 
 ## 9. Wingspan ([Full Review Here](/wingspan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
 Wingspan is an engine-building game about attracting birds to a nature reserve. You have three habitats — forest, grassland, wetland — and each bird card you play adds a power that fires when you activate that habitat. Early turns are slow while you build. Mid-game the chains start: a bird that caches food triggers a bird that lays eggs triggers a bird that gives you bonus cards. That transition from sluggish to smooth is one of the best feelings the game produces, and it happens at a different point every time.
 
@@ -198,7 +198,7 @@ Wingspan is lower-conflict than most games on this list — there's no direct at
 
 ## 10. Viticulture Essential Edition
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486314/hexagamers-box-art/viticulture.png)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/viticulture.webp)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
 
 Viticulture is a worker placement game set in a Tuscan vineyard. You plant vines, harvest grapes, age wine, and fill orders to earn victory points. Each year runs summer and winter phases, and your workers can only be in one place at a time — with a limited number of action spaces shared across all players, the competition for the spots you need is constant. Someone will always get to the cellar upgrade before you. Someone will always fill the wine order you needed.
 

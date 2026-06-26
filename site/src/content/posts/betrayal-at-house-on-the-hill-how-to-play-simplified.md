@@ -9,13 +9,13 @@ tags:
   - "betrayal-how-to-play"
   - "cooperative-board-games"
   - "how-to-play-simplified"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460220/hexagamers-guides/betrayal-at-house-on-the-hill-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/betrayal-at-house-on-the-hill-how-to-play-simplified.webp"
 description: "You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the…"
 ---
 
 You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the game completely transforms.
 
-![The starting room tiles that begin the house in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Starting-Tiles_cqbvkc.jpg "The starting tiles in Betrayal at House on the Hill")
+![The starting room tiles that begin the house in Betrayal at House on the Hill](https://img.hexagamers.com/Betrayal-at-House-on-the-Hill-Starting-Tiles_cqbvkc.webp "The starting tiles in Betrayal at House on the Hill")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3 – 6</span><span class="stat-label">Players</span></div>
@@ -44,7 +44,7 @@ Betrayal has two phases:
   <div class="step"><span class="step-num">4</span><div>The player with the next upcoming birthday goes first.</div></div>
 </div>
 
-![The character cards and trait clips in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Character-card-with-clips_ewvgvs.jpg "Character cards with trait clips")
+![The character cards and trait clips in Betrayal at House on the Hill](https://img.hexagamers.com/Betrayal-at-House-on-the-Hill-Character-card-with-clips_ewvgvs.webp "Character cards with trait clips")
 
 ## Exploration Phase
 
@@ -55,7 +55,7 @@ Betrayal has two phases:
   <div class="step"><span class="step-num">4</span><div>After drawing an <strong>Omen card</strong>, make a Haunt Roll: roll 6 dice (faces 0–2). If your result is lower than the total number of Omen cards drawn so far, the Haunt begins.</div></div>
 </div>
 
-![Omen cards that drive the Haunt Roll in Betrayal at House on the Hill](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Omen-Cards_zmaoxs.jpg "Omen cards in Betrayal at House on the Hill")
+![Omen cards that drive the Haunt Roll in Betrayal at House on the Hill](https://img.hexagamers.com/Betrayal-at-House-on-the-Hill-Omen-Cards_zmaoxs.webp "Omen cards in Betrayal at House on the Hill")
 
 > **If your stat reaches the skull-and-crossbones, you die and are out of the game.**
 
@@ -70,7 +70,7 @@ When the Haunt is triggered:
   <div class="step"><span class="step-num">4</span><div>Some Haunts introduce monsters. These are moved by the Traitor each round using the rules in their section of the Traitor's Tome.</div></div>
 </div>
 
-![The monster figures and tokens used once the Haunt begins](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Monster-Tokens_nr5pdq.jpg "Monster tokens in Betrayal at House on the Hill")
+![The monster figures and tokens used once the Haunt begins](https://img.hexagamers.com/Betrayal-at-House-on-the-Hill-Monster-Tokens_nr5pdq.webp "Monster tokens in Betrayal at House on the Hill")
 
 ## Tips for New Players
 

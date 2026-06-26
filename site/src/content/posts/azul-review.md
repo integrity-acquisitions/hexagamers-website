@@ -14,7 +14,7 @@ tags:
   - "review"
   - "strategy"
   - "tile-placement"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779506259/hexagamers-reviews/azul-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/azul-review.webp"
 lastModified: 2026-05-23
 description: "Draft tiles from a shared market, fill your mosaic wall, and score before your rivals — but don't grab more than you need."
 ---

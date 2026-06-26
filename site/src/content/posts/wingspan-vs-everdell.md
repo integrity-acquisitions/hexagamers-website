@@ -13,7 +13,7 @@ tags:
   - "board-game-review"
   - "comparison"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780594905/hexagamers-reviews/wingspan-vs-everdell.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/wingspan-vs-everdell.webp"
 lastModified: 2026-05-22
 description: "Two gorgeous nature-themed engine builders, one shelf. Wingspan vs Everdell broken down so you know exactly which one to buy first."
 ---

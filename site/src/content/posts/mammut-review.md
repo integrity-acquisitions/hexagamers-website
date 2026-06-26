@@ -8,7 +8,7 @@ tags:
   - "bluffing-board-game"
   - "mammut"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458978/hexagamers-reviews/mammut-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/mammut-review.webp"
 description: "Back from the mammoth hunt, your tribe must divide the spoils. Take what you need — but not too much, or the next player steals your whole pile. Manage…"
 ---
 
@@ -47,7 +47,7 @@ The stealing mechanic and the bluffing elements fit perfectly with our group's s
 
 **The core mechanic:** each round, hunt tokens are laid out on the table. You take what you want — but if you're greedy, the next player can steal your entire pile (minus a token you get to keep). Then you start over with what's left or steal from someone else.
 
-![Fur tokens from Mammut, one of the flat-scoring spoils](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Furs-1_ck4qxb.jpg "Mammut fur tokens")
+![Fur tokens from Mammut, one of the flat-scoring spoils](https://img.hexagamers.com/Mammut-Furs-1_ck4qxb.webp "Mammut fur tokens")
 
 **What makes it interesting is the variety of tokens.** Some give easy, flat points (fur, tusks). Others use staggered scoring tables — you want the most of that type, or you score poorly. Some tokens make you lose points if you have the fewest. The Shaman tile affects scoring order and tiebreaking, and it's up for grabs each round like everything else.
 
@@ -55,9 +55,9 @@ The stealing mechanic and the bluffing elements fit perfectly with our group's s
 
 **Hidden prey cards** can be played to capitalize on any player's gains — not just your own. This adds a layer of unpredictability that keeps everyone engaged even when it's not their turn.
 
-![An action card in Mammut](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Action-card-1_fxdten.jpg "A Mammut action card")
+![An action card in Mammut](https://img.hexagamers.com/Mammut-Action-card-1_fxdten.webp "A Mammut action card")
 
-![A fire token in Mammut](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Fire-1_oj9oz7.jpg "A Mammut fire token")
+![A fire token in Mammut](https://img.hexagamers.com/Mammut-Fire-1_oj9oz7.webp "A Mammut fire token")
 
 **The components are excellent.** Player meeples are little wooden mammoths. The cards are large, thick tokens that'll hold up over time. The scoring board is clear and stays visible throughout — no constant rulebook lookups needed.
 

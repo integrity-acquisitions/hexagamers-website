@@ -112,12 +112,12 @@ tags:
   - "two-player"
   - "valley-of-the-kings"
   - "worker-placement"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461226/hexagamers-articles/best-board-games-for-christmas-gifts.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-for-christmas-gifts.webp"
 lastModified: 2025-01-01
 description: "There are thousands of board games available to buy in all genres for all audiences. Games can take hours or minutes, be brain-draining or light and silly,…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Christmas-Gifts_eecg2k.png "Christmas Gifts")
+![](https://img.hexagamers.com/Christmas-Gifts_eecg2k.webp "Christmas Gifts")
 
 There are thousands of board games available to buy in all genres for all audiences. Games can take hours or minutes, be brain-draining or light and silly, and include every theme imaginable. If you love board games or know someone who loves board games, it is often overwhelming (and overwhelmingly exciting) to figure out what to buy. In our Christmas gift buying guide below, we included favorites from several genres as well as games for kids and brand new games in 2017. Use the table to jump to different categories.
 
@@ -140,7 +140,7 @@ There have been some amazing games released in 2017--so many, we haven't played 
 
 This is a cool, abstract game that challenges your problem-solving and strategy skills. It's quick and easy to learn, and a great game for all ages. Players flip cards, take matching tiles and stack them as high as they can to get as many points as they can. Pieces have to overlap so stacking isn't as easy as it sounds. The game ends when the cards run out. This is a great gift for the puzzle lover, the friend with kids, or the family member who needs a new challenge in their game collection. It would be a great option to pull out during the holidays, even after a big turkey dinner!
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/nmbr-9-tiles_ebt4fp.png "nmbr 9 tiles")
+![](https://img.hexagamers.com/nmbr-9-tiles_ebt4fp.webp "nmbr 9 tiles")
 
 **Codenames Duet** **(2 players; 15 mins.; Two Player, Cooperative)*
 
@@ -150,7 +150,7 @@ Codenames Duet plays like its mother [Codenames](/codenames-review/), only now y
 
 Time to become an artist! Players roll and draft dice to build the most beautiful stained glass window using unique template cards. Public and private objectives will help your points tally and hopefully win you the game. Sagrada is fairly easy to learn, but it has more rules and information to remember, making it a bit more complex. Replayability is solid, and a game lasts only 10 rounds over 30-45 minutes.  It's a pretty game and it challenges your brain, making it a win and a fun Christmas gift for your favourite board game lover.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/sagrada_zs7uze.jpg "sagrada")
+![](https://img.hexagamers.com/sagrada_zs7uze.webp "sagrada")
 
 **Sheriff of Nottingham -- Merry Men** **(3-6 players, 60 mins.; Expansion, Card Drafting, Bluffing)*
 
@@ -164,7 +164,7 @@ As far as themes go, Ex Libris is quite unique and certainly appealing to bookwo
 
 This is a visually stunning game. The trees you're trying to grow from seedlings to tall trees are 3D, and players spend turns growing or buying trees, collecting points, casting shadows and figuring out how to get the most points to win. Photosynthesis is played over 18 rounds so it takes about 30-45 minutes, and while there are more options, it's not overly complex. It's a fun and interesting game, suitable for strategists and families alike, and it doesn't shy on pitting players against each other to win!
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/photosynthesis-play_xmhwlq.jpg "photosynthesis play")
+![](https://img.hexagamers.com/photosynthesis-play_xmhwlq.webp "photosynthesis play")
 
 **Century Spice Road** **(2-5 players, 30-45 mins.; Deck Building)*
 
@@ -182,7 +182,7 @@ Whether you celebrate Hanukkah, the Flying Spaghetti Monster, Christmas or Kwanz
 
 [Codenames](/codenames-review/) is a fun and challenging game for small-ish groups, split into two teams. Double-sided cards are laid out, and the spymasters of each team have a map of sorts, dictating the cards (secret agents) their teammates need to guess. Spymasters can only give a one-word clue, and if their teammates hit the assassin, they lose. There are hundreds of cards and the maps rotate, making replayability huge. It's a great game for people of all ages and doesn't take any time at all to learn, making it the perfect board game to unwrap and play right away on Christmas morning. (As an additional bonus, there are tons of versions, including a Disney one for the young and young at heart.)
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Codenames-5-x-5-1_rinoii.jpg "Codenames 5 x 5")
+![](https://img.hexagamers.com/Codenames-5-x-5-1_rinoii.webp "Codenames 5 x 5")
 
 **Dixit Odyssey** **(3-12 players, 30 mins.)*****
 
@@ -200,7 +200,7 @@ This is fun, easy to pick up, quick to play and has super cute illustrations. It
 
 [Ticket to Ride](/ticket-to-ride-europe-review/) is a classic for a reason. This is a fun game even for people who don't like board games -- and how can you say no to trains at Christmas?! (Polar Express, anyone?) Players have secret routes and spend their turns collecting train cards and building paths to connect cities and complete the routes. The player with the most points at the end wins. It takes a little longer to play, but it's also a good time to start imparting some geography and history on the younger ones. For more advanced players, Ticket to Ride requires strategy and advanced planning -- and a little sabotage and secrecy! There are so many versions of Ticket to Ride for different countries with different rules, and even for teams (Ticket to Ride Asia), and a junior edition (My First Journey). This is a game you can and will play over and over again.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-Game-Board_cnyswt.jpg "Ticket to Ride Europe - Game Board")
+![](https://img.hexagamers.com/Ticket-to-Ride-Europe-Game-Board_cnyswt.webp "Ticket to Ride Europe - Game Board")
 
 Ticket to Ride Europe
 
@@ -220,7 +220,7 @@ We listed only a few options below, so check out our Best Of lists for [two play
 
 [Hive](/hive-review/) is a great game for travelling as it only requires tiles to play. Players have 14 tiles inlaid with different insects, and use their turns moving them in different patterns to surround the other player's queen. The first to surround the opponent's bee wins. It's a quick and simple game, and easy to learn, so it's great for couples as well as parents and kids. Hive is strategic but it's as intense as you play, making it a good intro into heavier board games. When you need a new challenge, you can add new tiles that move in totally different ways.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/IMG_1437_vjsqwt.jpg "Hive 2")
+![](https://img.hexagamers.com/IMG_1437_vjsqwt.webp "Hive 2")
 
 **Akrotiri** **(2 players, 45 mins.)*
 
@@ -242,13 +242,13 @@ These board games are great for teaching some life skills (sharing, turn taking,
 
 This game is adorable and one of the best to grow with your child from ages three to six. One player rolls a die that dictates what you're searching for: shapes, amount or colour. On each turn, players spin the spinner and then find a bug with that specific trait (triangles, three shapes, a blue bug, etc.). Each found bug is tucked under the rug and the game gets harder until you're down to a few bugs, relying on luck and strategy to put all the bugs to bed before three stink bugs appear, ending the game. It's a fast game and engages the little ones, even the [two year olds](/best-board-games-2-year-olds-reviews/) and [three year olds](/best-board-games-3-year-olds-reviews/), which is huge. We love that the challenge evolves as kids get better and the pieces are high quality. This is definitely a great game for any occasion, Christmas included.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170916_180122_ko7azd.jpg "20170916_180122")
+![](https://img.hexagamers.com/20170916_180122_ko7azd.webp "20170916_180122")
 
 **Hoot Owl Hoot** **(2-4 players, 15 mins. 4+)*
 
 While not as complex as Snug as a Bug in a Rug, [Hoot Owl Hoot](/hoot-owl-hoot-review/) is a fun, colourful and light game that steps up its challenge by adding more owls to the game. Players work together by drawing cards to help the owls back to their nest before the sunrise. There are more sun cards than spaces for the sun to move, so it makes the game a bit harder, and it teaches strategy and critical thinking when deciding which owl to move. Wes and Whitney's three year old likes to play this game all the time (all. the. time.) and will even pull it out and play by himself (incorrectly, but he's entertaining himself!). Hoot Owl Hoot is an excellent game for the littles in your life and so easy to learn you can unwrap it and play right away on Christmas morning.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot-game-board_nf1hpf.jpg "Hoot Owl Hoot - game board")
+![](https://img.hexagamers.com/Hoot-Owl-Hoot-game-board_nf1hpf.webp "Hoot Owl Hoot - game board")
 
 **Race to the Treasure** **(1-4 players, 20 mins., 5+)*
 
@@ -278,7 +278,7 @@ Buzz Word Jr.
 
 While [Pandemic](/pandemic-review/) may seem an obvious choice, we find it one of the absolute best co-operative board games to play. It has many expansions for the base game and many standalone versions, as well as Pandemic Legacy where the game physically alters after each decision you make. (Pandemic Legacy is a game you can play only once, but it takes a long time to finish.) Players work together (or solo!) to fight and cure diseases that are taking over the world. Each player has a special ability to help the fight, but any turn can dramatically change how the diseases spread and how you fight them. This is a challenging but fun game you can play over and over with friends and family alike.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Game-Board-1_u5wj61.jpg "Pandemic Game Board")
+![](https://img.hexagamers.com/Pandemic-Game-Board-1_u5wj61.webp "Pandemic Game Board")
 
 **Flash Point**
 
@@ -288,7 +288,7 @@ In [Flash Point](/flash-point-fire-rescue-review/), players are firefighters wor
 
 [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/) is hugely popular, and while it isn't our favourite, we can't discount how many people enjoy it and its utterly unique idea. If you're not into horror or you have little ones, this game is probably a pass, just a warning. Players explore a haunted house together and stumble on items and omens that can help or hurt, and events that change the game. Eventually, the haunt is triggered and someone turns traitor, leaving the rest to fend for themselves or fight together against the traitor. See? Neat. It's an extraordinarily difficult game and some elements need improvement, but for co-op players who want a different challenge, this is a good one to try.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-at-House-on-the-Hill-Various-room-tiles_owm8kf.jpg "Betrayal at House on the Hill - Various room tiles")
+![](https://img.hexagamers.com/Betrayal-at-House-on-the-Hill-Various-room-tiles_owm8kf.webp "Betrayal at House on the Hill - Various room tiles")
 
 ## 7. Secret Identity & Social Deduction Board Games
 
@@ -307,7 +307,7 @@ Saboteur 2 is an expansion for Saboteur, but it adds so much to the original we 
 
 [Avalon](/the-resistance-avalon-review/) is a game better suited for a slightly older audience (13+ is the recommendation, and we agree). Set in the King Arthur era, Avalon demands a lot of bluffing and casting suspicion. Every player gets a secret role and only some get special powers; however, it's a team game through and through as evil and good battle each other to win. If players aren't careful, their roles could be uncovered and they'll lose the chance to join missions and help their team to success. We play Avalon a lot as a group and immensely enjoy the high level of interaction and talking. If you have an older group and want to play a boisterous and fun game, Avalon is an excellent bet.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Game-Board-with-tokens-on-it_lytjtd.jpg "Avalon Game Board with tokens on it")
+![](https://img.hexagamers.com/Avalon-Game-Board-with-tokens-on-it_lytjtd.webp "Avalon Game Board with tokens on it")
 
 **Secret Hitler**
 
@@ -321,13 +321,13 @@ Arguably, most board games (including social deduction games) will use your brai
 
 [The Gallerist](/the-gallerist-review/) is a heavy and complex game that we discovered after writing our [best worker placement board games list](/best-worker-placement-board-games-reviews/). It takes more time to learn and the [rules can be difficult](/gallerist-play-simplified/), but once you pick it up, it's a lot of fun. There are several actions you can take on every turn, adding to the game's complexity. Players take turns buying, selling and promoting artwork in an effort to become the top gallerist. Actions waterfall, meaning you can't take certain actions until you've done something else, and your actions can help or impact other players--hence the long-term planning. It's an expensive game and certainly better for an older audience or a group that has more time to play, but it is a worthwhile investment.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170829_214229_pe9d3x.jpg "The Gallerist game in play")
+![](https://img.hexagamers.com/20170829_214229_pe9d3x.webp "The Gallerist game in play")
 
 **Lords of Waterdeep** **(2-5 players, 60-120 mins.)*
 
 [Lords of Waterdeep](/lords-of-waterdeep-review/) is one of our favourite worker placement games.  Players become lords, fighting for control over a city through bargaining, trickery and force. Players use agents to go on quests and return with rewards to help you on your way. Your actions can help or hinder other players, so critical thinking is a must. Players earn points through building, cards, quests and other players using your buildings. It's a tough game and is played over eight rounds, so your brain often feels depleted after one game. However, it's a lot of fun and it's fun to adapt your game and strategy as the game unfolds. This is a great game to fill some time on your Christmas holidays (and if you're ambitious, you can buy the expansion, too!).
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Quest-Cards_n1qmkj.jpg "Lords of Waterdeep - Quest Cards")
+![](https://img.hexagamers.com/Lords-of-Waterdeep-Quest-Cards_n1qmkj.webp "Lords of Waterdeep - Quest Cards")
 
 **Stone Age** **(2-4 players, 60-90 mins.)*
 

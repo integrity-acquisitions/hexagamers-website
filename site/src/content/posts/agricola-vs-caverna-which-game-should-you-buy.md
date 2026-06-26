@@ -11,12 +11,12 @@ tags:
   - "people-placing-board-game"
   - "which-game-is-better"
   - "worker-placement-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461955/hexagamers-articles/agricola-vs-caverna-which-game-should-you-buy.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/agricola-vs-caverna-which-game-should-you-buy.webp"
 lastModified: 2025-01-01
 description: "Are you stuck trying to decide if you should buy the board game Agricola or Caverna?"
 ---
 
-![Agricola Vs Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305590/Agricola-Versus-Caverna-1024x727.png)
+![Agricola Vs Caverna](https://img.hexagamers.com/Agricola-Versus-Caverna-1024x727.webp)
 
 Are you stuck trying to decide if you should buy the board game Agricola or Caverna?
 
@@ -38,7 +38,7 @@ In both games, you start with 2 workers/people/Meeples (and usually aim to get m
 
 NOTE: It wouldn't hurt to read the [How To Play Agricola Simplified Edition](/agricola-how-to-play-simplified/) to get a better understanding of the game play.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces-2_xjls89.jpg)
+[![](https://img.hexagamers.com/Agricola-Wooden-Pieces-2_xjls89.webp)](http:https://img.hexagamers.com/Agricola-Wooden-Pieces-2_xjls89.webp)
 
 Agricola - Image of the different components (Click to enlarge)
 
@@ -48,7 +48,7 @@ We will look at things like scoring, replay-ability, interaction, and many more,
 
 Let’s get started… but first a quick comparison chart…
 
-|   Game   | ![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg) | ![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg) |
+|   Game   | ![Agricola](https://img.hexagamers.com/Agricola.webp) | ![Caverna](https://img.hexagamers.com/Caverna_awaclr.webp) |
 | --- | --- | --- |
 |   Number of Players   |   1-5   |   1-7   |
 |   Time To Play   |   30-150 min   |   30-210 min   |
@@ -81,7 +81,7 @@ Since we are talking about components, let’s also talk about the amount of spa
 
 Caverna takes up much more space than Agricola. As mentioned, the former has a lot more components and ‘improvements’ to it than the latter.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Components-on-Table_wptezb.jpg "Caverna - Components on Table")
+![](https://img.hexagamers.com/Caverna-Components-on-Table_wptezb.webp "Caverna - Components on Table")
 
 Caverna components
 
@@ -91,11 +91,11 @@ When we played Caverna with 6 people, not only was a fairly large table full wit
 
 There are some similarities (the people placing areas aka _Action Spaces_), with the games setup, and some differences. The main difference is that Agricola has a _Major Improvements_ board, where as, Caverna has a _Supply Board_. Both have a similar concept in that they are things you can buy in order to help you during the game, whether it’s making an action easier, or helping you accrue points.
 
-[![Agricola Major improvements](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Cooking_fktrkc.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Cooking_fktrkc.jpg)
+[![Agricola Major improvements](https://img.hexagamers.com/Agricola-Cooking_fktrkc.webp)](http:https://img.hexagamers.com/Agricola-Cooking_fktrkc.webp)
 
 Agricola Major Improvements Board (Click to enlarge)
 
-![Caverna Improvements](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Improvements-Tiles_bipikc.jpg "Caverna - Improvements Tiles")
+![Caverna Improvements](https://img.hexagamers.com/Caverna-Improvements-Tiles_bipikc.webp "Caverna - Improvements Tiles")
 
 Caverna Improvements Board (Click to enlarge)
 
@@ -103,7 +103,7 @@ Those have more of an effect on game play, which we will discuss in a bit.
 
 The one difference we would like to note here is that Agricola has a board you can read that tells you how many points each item is worth, as well as a cheat sheet card that tells you what ‘action spaces’ are going to be available in upcoming rounds. For us, and for people who haven’t played before, this can be a big deal. Experienced players already have an advantage in this game, but this further increases it if they know what is coming.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Scoring-marker_xnss2t.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Scoring-marker_xnss2t.jpg)
+[![](https://img.hexagamers.com/Agricola-Scoring-marker_xnss2t.webp)](http:https://img.hexagamers.com/Agricola-Scoring-marker_xnss2t.webp)
 
 Agricola Scoring Tab and Upcoming Spaces Tab (Click to enlarge)
 
@@ -127,11 +127,11 @@ As mentioned, you get cards in Agricola which can strongly help you along the wa
 
 There are games that will be more advantageous to be work a lot of fields for harvesting, or others that if may be cheaper to upgrade your home. In some games you and your opponents will be going for similar things, while in others, totally different things.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Player-Board_y3lzu4.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Player-Board_y3lzu4.jpg)
+[![](https://img.hexagamers.com/Agricola-Player-Board_y3lzu4.webp)](http:https://img.hexagamers.com/Agricola-Player-Board_y3lzu4.webp)
 
 Agricola Player Board (Click to enlarge)
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Improvement-Tiles-Close-Up_mlpcek.jpg "Caverna - Improvement Tiles Close Up")
+![](https://img.hexagamers.com/Caverna-Improvement-Tiles-Close-Up_mlpcek.webp "Caverna - Improvement Tiles Close Up")
 
 Caverna Examples of some upgrades (Click to enlarge)
 
@@ -141,7 +141,7 @@ So which is better? Impossible to answer, sorry. This comes down to personal pre
 
 One the one hand you have a more randomized game that forces you to take different paths every time you play (Agricola) making you think about how to maximize what you are given. Or, on the other hand, you have a game that gives you a bunch of options on what direction you can go, allowing you to try different things every time… or, conversely, get really good at one specific strategy (Caverna).
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Reference-Card-Worker_a3sqzr.jpg "Caverna - Reference Card Worker")
+![](https://img.hexagamers.com/Caverna-Reference-Card-Worker_a3sqzr.webp "Caverna - Reference Card Worker")
 
 Caverna  Expedition Reference Card
 
@@ -151,11 +151,11 @@ It might also be wise to think about who you will be playing with here. What do 
 
 One of the differences between Caverna vs Agricola is the timing of the harvests. In former they are random but in the latter they are set. Each has its benefits and its drawbacks (i.e. planning vs luck). They each work great to help keep the feel (a point we will discuss in a bit) of their respective games, but it is worth noting here.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305592/Agricola-Game-Board.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305592/Agricola-Game-Board.jpg)
+[![](https://img.hexagamers.com/Agricola-Game-Board.webp)](http:https://img.hexagamers.com/Agricola-Game-Board.webp)
 
 Agricola - Harvest is every time you get to the bottom of the board (Click to enlarge)
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Worker-Placement-Board-During-Game_xjjbla.jpg "Caverna - Worker Placement Board During Game")
+![](https://img.hexagamers.com/Caverna-Worker-Placement-Board-During-Game_xjjbla.webp "Caverna - Worker Placement Board During Game")
 
 Caverna - Harvest is on the green/grey tokens, but only randomly (Click to enlarge)
 
@@ -167,7 +167,7 @@ In Agricola it is almost always strictly 1 item for 1 food, and sometimes this i
 
 With Caverna, there are a lot more options for food, and usually there is more food available per item you are using.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Reference-Card-Resources_sckhia.jpg "Caverna - Reference Card Resources")
+![](https://img.hexagamers.com/Caverna-Reference-Card-Resources_sckhia.webp "Caverna - Reference Card Resources")
 
 What this means to you is that it changes the dynamic of the game. In Agricola you have to spend more energy feeding your people, while building your farm/collecting points is something extra that happens along the way. Whereas, Caverna, you focus more on getting points, while feeding your people along the way as a side job. Again, this is where the ‘feel’ of the game is different in each one…
 
@@ -181,7 +181,7 @@ At first we hated this feeling, but then we realized this makes the game feel mo
 
 In Caverna, as mentioned, there are a lot more paths you can take, so you will have a lot more options every time you have to place you Meeple. This has the advantage that you aren’t as stressed about every decision and can adapt more easily next round.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Worker-Options_c09blx.jpg "Caverna - Worker Options")
+![](https://img.hexagamers.com/Caverna-Worker-Options_c09blx.webp "Caverna - Worker Options")
 
 Some Cavera Worker Options (Click to Enlarge)
 
@@ -195,7 +195,7 @@ In Agricola, we found that this ‘blocking’ happens a lot more. It leads to a
 
 Some people like this interaction/tightness/fighting, while others don’t. What’s your preference?
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Game-Board-3_gd8nta.jpg)](http:https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Game-Board-3_gd8nta.jpg)
+[![](https://img.hexagamers.com/Agricola-Game-Board-3_gd8nta.webp)](http:https://img.hexagamers.com/Agricola-Game-Board-3_gd8nta.webp)
 
 Agricola - Different Actions Spaces (Click to enlarge)
 
@@ -239,7 +239,7 @@ With each decision in Agricola, you are limited (as opposed to the more open fee
 
 In Agricola a good score is around 40 points, where in Caverna a good score is above 80 points. Again this will come back to the tightness of Agricola. Every decision is critical to amassing points at the end of the game. It’s almost like you are trying to stay alive/out of the negative points but getting extra points here and there along the way.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna-Scoring-Card_jijpje.jpg "Caverna - Scoring Card")
+![](https://img.hexagamers.com/Caverna-Scoring-Card_jijpje.webp "Caverna - Scoring Card")
 
 Caverna Scoring Sheet
 

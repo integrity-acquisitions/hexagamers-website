@@ -42,11 +42,11 @@ tags:
   - "tourism"
   - "yeg"
   - "yyc"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461970/hexagamers-articles/edmonton-board-game-cafes.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/edmonton-board-game-cafes.webp"
 description: "Board game enthusiasts have capitalized on the hobby's popularity explosion. One of the results? Board game cafes. Cafes have popped up all across the…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Edmonton-Board-Game-Cafes_ufp4a3.png "Edmonton Board Game Cafes")
+![](https://img.hexagamers.com/Edmonton-Board-Game-Cafes_ufp4a3.webp "Edmonton Board Game Cafes")
 
 Board game enthusiasts have capitalized on the hobby's popularity explosion. One of the results? Board game cafes. Cafes have popped up all across the world, and Edmonton is no exception. The first, Table Top Cafe, opened in 2013, and five others have opened since (including Table Top's second location).
 
@@ -56,21 +56,21 @@ Whether you are looking for a first date spot, hosting a birthday party for kids
 
 |  | Cafe | Location | Phone | Cover Price | Hours of Operation |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305617/BBG-sign-300x225.jpg "BBG sign") | Beyond Board Games & Events | 6 Blackfoot Road | 780 851-2233 | $5 flat rate PP | **M-T** 11-11 **F** 11A-2A **Sa** 10A-2A **Su** 10A-11P |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/BNB_zgnb2o.png "BNB") | Board N Brew Cafe | 9929-103 St NW | 780 757-8262 | $5 flat rate PP | **M-T** 11-11**F** 11A-2A**Sa** 10A-2A**Su** 10A-11P |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/GL_yfp8xx.png "GL") | Gamers' Lodge | 10459-124 St NW | 780 428-4880 | Su-Th $10/table, 4 max; F-S $5 PP | **M-T** 11A-12A**F-Sa** 11A-2A**Su** 11-11 |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/HG_umgpib.png "HG") | Hexagon Board Game Cafe | 10123-82 Ave NW | 780 757-3105 | $2.5/hr PP | **Su-T** 11-11**F** 11A-12A**Sa** 11A-1A |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/TTC_shu78u.png "TTC") | Table Top Cafe Downtown   Table Top Cafe South | 10235-124 St NW ****  5716-75 St | 780-705-5552****  ****587-524-5323**** | $5 flat rate PP | **M-T** 11A-12A**F** 11A-2A**Sa** 10A-2A**Su** 10A-12A  ****  **M-T** 2P-12A**F** 2P-2A**Sa** 10A-2A**Su** 10A-12A |
+| ![](https://img.hexagamers.com/BBG-sign-300x225.webp "BBG sign") | Beyond Board Games & Events | 6 Blackfoot Road | 780 851-2233 | $5 flat rate PP | **M-T** 11-11 **F** 11A-2A **Sa** 10A-2A **Su** 10A-11P |
+| ![](https://img.hexagamers.com/BNB_zgnb2o.webp "BNB") | Board N Brew Cafe | 9929-103 St NW | 780 757-8262 | $5 flat rate PP | **M-T** 11-11**F** 11A-2A**Sa** 10A-2A**Su** 10A-11P |
+| ![](https://img.hexagamers.com/GL_yfp8xx.webp "GL") | Gamers' Lodge | 10459-124 St NW | 780 428-4880 | Su-Th $10/table, 4 max; F-S $5 PP | **M-T** 11A-12A**F-Sa** 11A-2A**Su** 11-11 |
+| ![](https://img.hexagamers.com/HG_umgpib.webp "HG") | Hexagon Board Game Cafe | 10123-82 Ave NW | 780 757-3105 | $2.5/hr PP | **Su-T** 11-11**F** 11A-12A**Sa** 11A-1A |
+| ![](https://img.hexagamers.com/TTC_shu78u.webp "TTC") | Table Top Cafe Downtown   Table Top Cafe South | 10235-124 St NW ****  5716-75 St | 780-705-5552****  ****587-524-5323**** | $5 flat rate PP | **M-T** 11A-12A**F** 11A-2A**Sa** 10A-2A**Su** 10A-12A  ****  **M-T** 2P-12A**F** 2P-2A**Sa** 10A-2A**Su** 10A-12A |
 
 ## Beyond Board Games & Events
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305617/BBG-sign-300x225.jpg "BBG sign")
+![](https://img.hexagamers.com/BBG-sign-300x225.webp "BBG sign")
 
 Located just off Baseline Road as you enter Sherwood Park, Beyond Board Games & Events is a smaller cafe that just opened in 2016. It's starting to hit its stride and is expanding its shelves weekly as well as its event offerings. Jason is one of the owners, and he's a cheerful, approachable and friendly guy who is happy to assist, advise or receive suggestions.
 
 When we wandered BBGE, we first noticed the games were set up according to style: family games, party games, card games, and so forth. Jason is constantly organizing his shelves, and we love the way the games are laid out--not to mention the wall of kid-friendly and classic games. If you're unfamiliar with recent games or don't know where to start, hit this shelf first.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305618/Beyond-Board-Games-2-300x225.jpg "Beyond Board Games 2")
+![](https://img.hexagamers.com/Beyond-Board-Games-2-300x225.webp "Beyond Board Games 2")
 
 Games available to play.
 
@@ -78,25 +78,25 @@ There are a lot of games and a lot of tables to choose from, and an excellent la
 
 What we really enjoy about BBGE is how it supports the local community. Some employees are from the [Robin Hood Association](https://www.robinhoodassoc.com/content/1/WelcomeToRobinHood) and BBGE has plans to partner with Mastermind Toys to run kids camps that teach Science, Technology, Math and Engineering (STEM) skills. Additionally, they run D&D and Magic: The Gathering events, among others, that provide a safe hangout for kids and teens while mom and dad have a night out.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305618/BBG-to-the-back-300x225.jpg "BBG to the back")
+![](https://img.hexagamers.com/BBG-to-the-back-300x225.webp "BBG to the back")
 
 Cover charge is $5 which allows you to play all night long, and they are licensed so you can grab a beer as well as a few snacks while you play. Pop by BBGE for a laid-back night out. If you're new or a vet in the board games world, you'll likely find a few new games you haven't played before, and you'll definitely find good company who are happy to help you learn or talk games!
 
 ## Board N Brew
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/BNB_zgnb2o.png "BNB")
+![](https://img.hexagamers.com/BNB_zgnb2o.webp "BNB")
 
 Review coming up!
 
 ## Gamers' Lodge
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/GL_yfp8xx.png "GL")
+![](https://img.hexagamers.com/GL_yfp8xx.webp "GL")
 
 Review coming up!
 
 ## Hexagon Board Game Cafe
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/HG_umgpib.png "HG")
+![](https://img.hexagamers.com/HG_umgpib.webp "HG")
 
 Hexagon describes themselves as “Coffee, Games, and Community” and we agree. It is located on Whyte Avenue and has been one of the top places to kick back and play some games since 2014. We love the warm and inviting atmosphere that you experience from the minute you walk in the door. Right by the door is the counter where you can order up some delicious drinks and treats. We recommend you give their lattes a shot; if you're lucky, you will even be treated to some latte art! Their Hexperts (employees) are great baristas as well. As you make your way further into the building, there are a bunch of tables to set up and play at, and at the back is the wall of over 600 games . [Check out their list of games available.](http://thehexcafe.com/games-edmonton)Owners Kellie and Randy first experienced board game cafes in South Korea where they connected with gamers from all over the world. They wanted to bring that social experience home to Edmonton and started Hexagon with a personal board game collection of over 400 games. They now have a cafe location in Calgary as well!A couple of us Hexagamers went in for the first time in late 2014. It was our first board game cafe and we loved the experience! We stared at the bookshelves containing the games for a very long time. There were just so many options and we wanted to play them all. The staff members were super helpful and informative, they helped us to pick out a few new games to try. On this visit we were introduced to Stone Age, a game that even years later is one of our favorites and definitely one of our most played games.One of our favorite parts about Hexagon is that the Hexperts are very friendly and eager to help you learn a new game, on a busy night this of course is more difficult, but if you catch them at a slower time they are always willing to help.The only downside to Hexagon is that the location isn't huge. It's in a popular area of the city and can have a wait since there aren't a ton of tables. We imagine this is why they choose to charge $2.50 an hour per person instead of the more popular $5 a day per person. This pricing structure has some positives and negative, but all in all we do agree with it for this location.Hexagon offers, games, snacks, and beverages, all the things you need for a great time. Just bring some friends, or stop on by on your own. The atmosphere is so inviting that you're sure to have a great time either way!
 
@@ -104,27 +104,27 @@ Hexagon describes themselves as “Coffee, Games, and Community” and we agree.
 
 ## Table Top Cafe -- Downtown
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/TTC_shu78u.png "TTC")
+![](https://img.hexagamers.com/TTC_shu78u.webp "TTC")
 
 Table Top Cafe is the first and original board games cafe in Edmonton. Their downtown location is their second, located off Jasper Ave near the old MEC location. Parking might be tough on busy Saturday nights, but we had no issue finding a street spot in front of the cafe.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305619/20170902_194724-300x225.jpg "20170902_194724")
+![](https://img.hexagamers.com/20170902_194724-300x225.webp "20170902_194724")
 
 When we walked in, we were pleased with how open, spacious and welcoming it feels. They built a cool feature wall using board game box tops that greets you when you come in, and there are shelves of accessories and some of the games they carry for sale.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305621/20170902_194347-300x225.jpg "20170902_194347")
+![](https://img.hexagamers.com/20170902_194347-300x225.webp "20170902_194347")
 
 Looking at the cafe from the door.
 
 Staff greet you when you walk in, and if you're new, they're happy to explain how the cafe functions. We hit the cafe late afternoon, just before suppertime, and we were surprised at the constant stream of people coming in to join their friends or set up a new table. It's a popular spot and the staff keep busy, helping gamers and serving up drinks food (hilarious play-on-word names: Betrayal at Clubhouse on the Hill, Settlers of Chick-an, etc.). We grabbed a table and stood in front of the shelves of games, stumped on what to play. There are so many games and choices, and the shelves are organized by different elements: player numbers, themes, length, etc.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305622/20170902_194454-300x225.jpg "20170902_194454")
+![](https://img.hexagamers.com/20170902_194454-300x225.webp "20170902_194454")
 
 SO many games to choose from!
 
 One of the staffers helped us pick a game (Dice Forge, which we ended up thoroughly enjoying) and walked us through how to play. We appreciated her easy, simple explanation and offer to help if we got stuck anywhere during the game. We never felt like we were bothering staff with our questions and definitely felt comfortable gaming and hanging out here.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305623/20170902_194438-300x225.jpg "20170902_194438")
+![](https://img.hexagamers.com/20170902_194438-300x225.webp "20170902_194438")
 
 Only some of the many games for sale.
 
@@ -134,6 +134,6 @@ We had a great time at Table Top and will definitely be back again!
 
 ## Table Top Cafe -- South
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/TTC_shu78u.png "TTC")
+![](https://img.hexagamers.com/TTC_shu78u.webp "TTC")
 
 Review coming up!

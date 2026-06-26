@@ -11,12 +11,12 @@ tags:
   - "deck-building"
   - "card-game"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780421880/hexagamers-guides/dominion-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/dominion-how-to-play-simplified.webp"
 lastModified: 2026-05-31
 description: "Dominion invented the deck-builder: start with a weak deck, buy better cards into it, and build an engine that draws and buys more each turn. A condensed, play-fast guide to the rules."
 ---
 
-![Dominion](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780421880/hexagamers-guides/dominion-how-to-play-simplified.jpg)
+![Dominion](https://img.hexagamers.com/hexagamers-guides/dominion-how-to-play-simplified.webp)
 
 Dominion is the game that invented the deck-builder. You start with a small, weak deck and buy better cards into it as you go, building an engine that draws and buys more each turn. Whoever has the most victory points when the game ends wins. There's no board and the wall of cards scares people off, but the turn structure is simple enough to learn in five minutes.
 
@@ -41,7 +41,7 @@ Dominion is the game that invented the deck-builder. You start with a small, wea
 
 Dominion is played with only **10 of the 25 Kingdom card piles** at a time, which is why no two games feel the same. For your first game, use the rulebook's recommended **"First Game" set**.
 
-![A Dominion game laid out with kingdom card stacks](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Game-Play_kaplww.jpg "A Dominion game in play")
+![A Dominion game laid out with kingdom card stacks](https://img.hexagamers.com/Dominion-Game-Play_kaplww.webp "A Dominion game in play")
 
 <div class="steps">
   <div class="step"><span class="step-num">1</span><div>Lay out the <strong>recommended 10 Kingdom piles</strong> (First Game set: Cellar, Market, Militia, Mine, Moat, Remodel, Smithy, Village, Woodcutter, Workshop). 10 cards per pile.</div></div>
@@ -85,7 +85,7 @@ Action cards stack effects with simple keywords. The common ones:
 
 A card like the **Smithy** ("+3 Cards") fattens your hand. A **Village** ("+1 Card, +2 Actions") lets you keep chaining. Combining them is how engines are built.
 
-![Dominion action cards that build your deck](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-Action-Cards_j6zaeu.jpg "Dominion action cards")
+![Dominion action cards that build your deck](https://img.hexagamers.com/Dominion-Action-Cards_j6zaeu.webp "Dominion action cards")
 
 ## How the Game Ends
 
@@ -113,7 +113,7 @@ Count the victory points in your **entire deck** — hand, draw pile, and discar
 
 Most points wins. The trick is that Victory cards do nothing on your turn; they just clog your hand. Knowing when to switch from building your engine to buying points is most of the strategy.
 
-![Dominion currency cards used to buy from the kingdom](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion-currency_xk5yll.jpg "Dominion currency cards")
+![Dominion currency cards used to buy from the kingdom](https://img.hexagamers.com/Dominion-currency_xk5yll.webp "Dominion currency cards")
 
 <div class="faq">
   <details class="faq-item">

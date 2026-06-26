@@ -11,7 +11,7 @@ tags:
   - "funny-board-game"
   - "games-for-large-groups"
   - "party-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422019/hexagamers-reviews/cash-n-guns-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/cash-n-guns-review.webp"
 description: "You're a mobster divvying up stolen loot over eight rounds. Everyone's armed with a foam gun and a hand of cards — five \"click\" blanks and three \"bang\"…"
 ---
 
@@ -19,7 +19,7 @@ description: "You're a mobster divvying up stolen loot over eight rounds. Everyo
 
 You're a mobster divvying up stolen loot over eight rounds. Everyone's armed with a foam gun and a hand of cards — five "click" blanks and three "bang" bullets. Point guns, decide who to scare off, and stay alive long enough to walk away the richest.
 
-![Cash 'n Guns set up on the table mid-standoff](https://res.cloudinary.com/dt4ujaczs/image/upload/Cash-n-Guns-table_ccvz8y.jpg "A Cash 'n Guns standoff")
+![Cash 'n Guns set up on the table mid-standoff](https://img.hexagamers.com/Cash-n-Guns-table_ccvz8y.webp "A Cash 'n Guns standoff")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">4 – 8</span><span class="stat-label">Players</span></div>
@@ -46,7 +46,7 @@ I first heard about this game via Instagram — a photo of people pointing foam 
 
 We've only played twice, and we completely misplayed our second game (Wes ended up with all the loot both times — oops). Even with four players I could see how fun and chaotic this gets. More players is definitely better.
 
-![Wes holding all the loot in Cash 'n Guns](https://res.cloudinary.com/dt4ujaczs/image/upload/Cash-n-Guns-Wes-Loot_h3xctt.jpg "Wes with the loot in Cash 'n Guns")
+![Wes holding all the loot in Cash 'n Guns](https://img.hexagamers.com/Cash-n-Guns-Wes-Loot_h3xctt.webp "Wes with the loot in Cash 'n Guns")
 
 ## Thoughts
 
@@ -54,11 +54,11 @@ Cash 'n Guns is quick and easy to learn. As a mobster, you have eight rounds to 
 
 **The tension is real — and it all happens in seconds.** You're reading the room, deciding who's likely bluffing, deciding whether this round's loot is worth eating a potential bullet. If you get shot three times total, you're out of the game.
 
-![The bullet and click cards each player chooses from in Cash 'n Guns](https://res.cloudinary.com/dt4ujaczs/image/upload/Cash-n-Guns-Bullet-Cards_fkkwzb.jpg "Bullet cards in Cash 'n Guns")
+![The bullet and click cards each player chooses from in Cash 'n Guns](https://img.hexagamers.com/Cash-n-Guns-Bullet-Cards_fkkwzb.webp "Bullet cards in Cash 'n Guns")
 
 **Loot isn't just cash.** There's art, diamonds, extra bullets, and health tokens. Diamonds and art stack for bonus points if you collect the most of a type — so the decision of which loot card to grab matters beyond just the face value.
 
-![The different loot and card types in Cash 'n Guns](https://res.cloudinary.com/dt4ujaczs/image/upload/Cash-n-Guns-card-types-layout_nkcipd.jpg "Cash 'n Guns card types")
+![The different loot and card types in Cash 'n Guns](https://img.hexagamers.com/Cash-n-Guns-card-types-layout_nkcipd.webp "Cash 'n Guns card types")
 
 The Godfather role adds a layer: that player can redirect one person's gun during the holdUp phase. Rotating who has that power keeps things interesting.
 
@@ -66,6 +66,6 @@ With only four players the game can swing quickly toward one person. More player
 
 ## Conclusion
 
-![A full table of players during a Cash 'n Guns holdup](https://res.cloudinary.com/dt4ujaczs/image/upload/Cash-n-Guns-Holdup_oxspzh.jpg "A Cash 'n Guns holdup")
+![A full table of players during a Cash 'n Guns holdup](https://img.hexagamers.com/Cash-n-Guns-Holdup_oxspzh.webp "A Cash 'n Guns holdup")
 
 Cash 'n Guns is simple to learn, great for a wide range of ages, quick to play, and consistently entertaining. It's a party game where every person is their own team, and the foam guns make the whole thing feel ridiculous in the best possible way. Highly recommended for groups of 6+.

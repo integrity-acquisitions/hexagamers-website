@@ -11,12 +11,12 @@ tags:
   - "how-to-play-simplified"
   - "trading"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780350231/hexagamers-guides/catan-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/catan-how-to-play-simplified.webp"
 lastModified: 2026-05-31
 description: "Learn Catan in five minutes. Roll for resources, trade with rivals, build roads and settlements, and race to 10 victory points — the whole base game, simplified."
 ---
 
-![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780350231/hexagamers-guides/catan-how-to-play-simplified.jpg)
+![Catan](https://img.hexagamers.com/hexagamers-guides/catan-how-to-play-simplified.webp)
 
 Gather resources, trade with your rivals, and build roads, settlements, and cities across the island of Catan. First player to 10 victory points wins. It's the game that pulled most of us into the hobby, and the core loop is simple enough that you'll be playing within about five minutes.
 
@@ -32,7 +32,7 @@ Gather resources, trade with your rivals, and build roads, settlements, and citi
 
 ## What's In The Box
 
-![What's in the Catan box — hexagonal region tiles, resource cards, and the components list](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299684/Catan-Contents_yvo5y4.jpg)
+![What's in the Catan box — hexagonal region tiles, resource cards, and the components list](https://img.hexagamers.com/Catan-Contents_yvo5y4.webp)
 
 - 19 terrain hexes (the island)
 - 6 sea frames + harbour pieces
@@ -46,7 +46,7 @@ Gather resources, trade with your rivals, and build roads, settlements, and citi
 
 For your very first game, use the fixed beginner layout printed in the rulebook instead of building a random island. It's balanced, fast to set up, and lets you learn without arguing over placement.
 
-![A fully assembled Catan island with terrain hexes, number tokens, roads, and a settlement](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299688/Catan-Game-Board_g1jbhf.jpg)
+![A fully assembled Catan island with terrain hexes, number tokens, roads, and a settlement](https://img.hexagamers.com/Catan-Game-Board_g1jbhf.webp)
 
 <div class="steps">
   <div class="step"><span class="step-num">1</span><div>Assemble the island in the <strong>beginner arrangement</strong> from the rulebook — hexes and number tokens go in fixed spots. (Randomize the board once everyone knows the game.)</div></div>
@@ -60,7 +60,7 @@ For your very first game, use the fixed beginner layout printed in the rulebook 
 
 Everything you build comes from this short list. Most groups keep the cost reference card on the table.
 
-![Catan building pieces — roads, settlements, and cities in one colour next to the building costs reference card](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299644/Catan-Player-Inventory_vvsc6x.jpg)
+![Catan building pieces — roads, settlements, and cities in one colour next to the building costs reference card](https://img.hexagamers.com/Catan-Player-Inventory_vvsc6x.webp)
 
 | Build | Cost |
 |---|---|
@@ -79,13 +79,13 @@ Each turn happens in the same three phases, in order.
   <div class="step"><span class="step-num">3</span><div><strong>Build.</strong> Spend resources to build roads, settlements, cities, or buy development cards. Settlements must be at least two roads apart, and you can only build connected to your own road network.</div></div>
 </div>
 
-![Catan harbour trading tiles showing 2:1 and 3:1 bank trade rates](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299647/Catan-Trading-bonuses_yqi7sb.jpg)
+![Catan harbour trading tiles showing 2:1 and 3:1 bank trade rates](https://img.hexagamers.com/Catan-Trading-bonuses_yqi7sb.webp)
 
 ## Rolling a 7: The Robber
 
 A roll of **7** produces nothing. Instead:
 
-![The Catan robber pawn placed on a grain hex, blocking it from producing](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299645/Catan-Robber_tj13yh.jpg)
+![The Catan robber pawn placed on a grain hex, blocking it from producing](https://img.hexagamers.com/Catan-Robber_tj13yh.webp)
 
 <div class="rule-cards">
   <div class="rule-card">
@@ -111,7 +111,7 @@ A roll of **7** produces nothing. Instead:
 
 Bought from the deck, played on a later turn (except Victory Point cards, which stay hidden):
 
-![Catan resource cards above the development card types — Victory Point, Year of Plenty, Road Building, and Knight](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305656/Catan-Resources-and-Development-Cards.jpg)
+![Catan resource cards above the development card types — Victory Point, Year of Plenty, Road Building, and Knight](https://img.hexagamers.com/Catan-Resources-and-Development-Cards.webp)
 
 - **Knight** — move the robber and steal. Play 3 and you claim **Largest Army** (2 VP).
 - **Victory Point** — worth 1 VP each, kept secret until you win.
@@ -121,7 +121,7 @@ Bought from the deck, played on a later turn (except Victory Point cards, which 
 
 First player to reach **10 victory points** on their turn wins immediately. Points come from:
 
-![The Longest Road and Largest Army bonus cards, each worth 2 victory points](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299642/Catan-Longest-Road-and-Largest-Army-Cards_it9bao.jpg)
+![The Longest Road and Largest Army bonus cards, each worth 2 victory points](https://img.hexagamers.com/Catan-Longest-Road-and-Largest-Army-Cards_it9bao.webp)
 
 - **Settlement** — 1 VP each
 - **City** — 2 VP each

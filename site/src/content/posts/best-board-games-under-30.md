@@ -25,7 +25,7 @@ tags:
   - "splendor"
   - "no-thanks"
   - "the-mind"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781618790/hexagamers-reviews/best-board-games-under-30.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-under-30.webp"
 lastModified: 2026-06-16
 description: "The best board games under $30 — ten genuinely great picks that won't blow your budget but will get played over and over."
 ---
@@ -48,22 +48,22 @@ One note: prices fluctuate. We did our best to include games that reliably sit u
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#1-coup) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#2-codenames) | Codenames | 4–8+ | 15 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300597/Sushi-Go_ocbhis.jpg)](#3-sushi-go) | Sushi Go! | 2–5 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070113/Love_Letter_yl7dle.jpg)](#4-love-letter) | Love Letter | 2–6 | 20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/kingdomino.png)](#5-kingdomino) | Kingdomino | 2–4 | 15 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](#6-dominion) | Dominion | 2–4 | 30–60 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299991/Forbidden-Island-Box_iokoh1.jpg)](#7-forbidden-island) | Forbidden Island | 2–4 | 30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](#8-splendor) | Splendor | 2–4 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070114/No_Thanks_ipxgsz.jpg)](#9-no-thanks) | No Thanks! | 3–7 | 20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070118/The_Mind_kqfuw9.jpg)](#10-the-mind) | The Mind | 2–4 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#1-coup) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#2-codenames) | Codenames | 4–8+ | 15 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#3-sushi-go) | Sushi Go! | 2–5 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Love_Letter_yl7dle.webp)](#4-love-letter) | Love Letter | 2–6 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/kingdomino.webp)](#5-kingdomino) | Kingdomino | 2–4 | 15 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](#6-dominion) | Dominion | 2–4 | 30–60 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Forbidden-Island-Box_iokoh1.webp)](#7-forbidden-island) | Forbidden Island | 2–4 | 30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](#8-splendor) | Splendor | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/No_Thanks_ipxgsz.webp)](#9-no-thanks) | No Thanks! | 3–7 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/The_Mind_kqfuw9.webp)](#10-the-mind) | The Mind | 2–4 | 20 min | $ | — |
 
 ---
 
 ## 1. Coup ([Full Review Here](/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is a bluffing game where everyone has two hidden role cards, there are only five character types in the game, and nobody has to tell the truth about which ones they're holding. You just claim to have whatever card does what you want to do — collect money, steal from someone, block an attack — and everyone else decides whether they believe you.
 
@@ -81,7 +81,7 @@ Under $15 in most places. One of the best value-per-minute games you'll find any
 
 ## 2. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames has been one of the most recommended gateway party games for years, and for good reason — the concept is elegant, the tension is real, and games end fast enough that you always want another round.
 
@@ -99,7 +99,7 @@ The base Codenames sits around $20. Worth it easily. There are a half-dozen vers
 
 ## 3. Sushi Go!
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300597/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 Sushi Go! is a card-drafting game where everyone picks one card from their hand, passes the rest to the next player, and scores points based on what they collect across three rounds. Dessert cards stack. Dumpling scores accelerate. Chopsticks let you grab two cards at once. Puddings count at the very end — and whoever has the fewest loses points.
 
@@ -117,7 +117,7 @@ For under $15 though, the base game is a steal. It's earned a permanent spot as 
 
 ## 4. Love Letter ([Full Review Here](/love-letter-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070113/Love_Letter_yl7dle.jpg)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Love_Letter_yl7dle.webp)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
 
 Love Letter is 16 cards and a simple premise: survive long enough to be the last player standing, or hold the highest-value card when the deck runs out. On your turn you draw one card and play one, triggering effects that let you guess opponents' cards, peek at hidden hands, or force someone out of the round.
 
@@ -133,7 +133,7 @@ Good pick for couples, travel, or as the opener on a heavier game night. It's sm
 
 ## 5. Kingdomino
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/kingdomino.png)](https://www.amazon.com/dp/B01N3A4070/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/kingdomino.webp)](https://www.amazon.com/dp/B01N3A4070/?tag=hexagamers-20)
 
 Kingdomino is dominoes meets kingdom building. Each domino tile has two terrain squares — forest, water, wheat field, mine — and players take turns drafting tiles and connecting them to a growing 5×5 kingdom. Matching terrains score points, and crown symbols multiply your score for each connected region.
 
@@ -149,7 +149,7 @@ Kingdomino won the Spiel des Jahres (the biggest award in board gaming) in 2017.
 
 ## 6. Dominion ([Full Review Here](/dominion-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
 Dominion invented the deck-building genre. Every card game that involves building your own draw deck — and there are a lot of them now — traces a line back to this one. That's worth knowing before you sit down, because what you're getting is the original blueprint, still polished, still excellent.
 
@@ -167,7 +167,7 @@ It runs close to $30, sometimes a few dollars over. We'd still call it a strong 
 
 ## 7. Forbidden Island ([Full Review Here](/forbidden-island-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299991/Forbidden-Island-Box_iokoh1.jpg)](https://www.amazon.com/dp/B003D7F4YY/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Forbidden-Island-Box_iokoh1.webp)](https://www.amazon.com/dp/B003D7F4YY/?tag=hexagamers-20)
 
 Forbidden Island is a cooperative game where your whole group wins or loses together. You're stranded on a sinking island, racing to collect four ancient treasures and escape before the flood tiles you alive. The island sinks one tile at a time, every round, and the rate accelerates. You'll lose if the tiles you need go underwater.
 
@@ -185,7 +185,7 @@ Under $20 in most places. If your group enjoys it and wants more complexity, [Fo
 
 ## 8. Splendor ([Full Review Here](/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is a resource-collection and engine-building game that's easier to teach than it sounds and harder to master than it looks. You collect gem tokens, spend them to buy development cards, and those cards give you permanent discounts on future purchases. Buy enough high-value cards and prestigious nobles visit, awarding extra points.
 
@@ -201,7 +201,7 @@ It sits right at the $30 mark and is consistently worth it.
 
 ## 9. No Thanks!
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070114/No_Thanks_ipxgsz.jpg)](https://www.amazon.com/dp/B013FAC4FK/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/No_Thanks_ipxgsz.webp)](https://www.amazon.com/dp/B013FAC4FK/?tag=hexagamers-20)
 
 No Thanks! is a push-your-luck card game that takes two minutes to explain and produces genuinely tense moments in a deck of 33 cards.
 
@@ -217,7 +217,7 @@ It plays in 20 minutes and costs about $12. Runs of it have broken out at our ta
 
 ## 10. The Mind
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780070118/The_Mind_kqfuw9.jpg)](https://www.amazon.com/dp/B07C4F3KLF/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The_Mind_kqfuw9.webp)](https://www.amazon.com/dp/B07C4F3KLF/?tag=hexagamers-20)
 
 The Mind is the strangest game on this list, and possibly the most fun to play with the right group.
 

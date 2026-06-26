@@ -65,11 +65,11 @@ tags:
   - "warehouse-of-thieves"
   - "x-realm"
   - "yeg"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/20170218_145403_jghljp.jpg"
+coverImage: "https://img.hexagamers.com/20170218_145403_jghljp.webp"
 description: "The escape room craze only continues to grow with new companies and new rooms appearing every few months. At their core, each concept is the same--solve…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/20170218_145403_jghljp.jpg)
+![](https://img.hexagamers.com/20170218_145403_jghljp.webp)
 
 The escape room craze only continues to grow with new companies and new rooms appearing every few months. At their core, each concept is the same--solve the puzzles to "escape" the room you're in. Sometimes escape means finding treasure, sometimes it means outrunning the cops, sometimes it means solving a longstanding mystery. Whatever your aim, rooms have some kind of story and contain different kinds of puzzles: locks, riddles, mirrors, word searches, black light, hidden messages, mazes, sorting, directional, magnets, ciphers, clue hunting, you name it, they've got it. Puzzles help you further on your path to success, and every room differs in theme, style, execution and staging.
 
@@ -81,16 +81,16 @@ Click the room name for a direct link.
 
 |   Company   |   Room   |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/gtfo_ho0lgd.jpg) |   [The Heist (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ec2_nkvhtz.png) |   [Keller's Magic Emporium (Escape City)](https://www.escapecity.ca/adventures/)   |   2-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ll_zvlufn.png) |   [Warehouse of Thieves (Logic Lock)](http://logiclock.ca/rooms/)   |   2-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/SQ_eaauei.png) |   [Expedition (SideQuests)](https://sidequests.ca/adventures.html)   |   2-8   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/gtfo_ho0lgd.jpg) |   [Nightfall (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ec2_nkvhtz.png) |   [Neurological (Escape City)](https://www.escapecity.ca/adventures/)   |   4-10   |   60 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/ee_tlispj.png) |   [Division 37 (Exit)](http://e-exit.ca/edmonton/)   |   2-6   |   60 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/gtfo_ho0lgd.jpg) |   [Visiting Hour (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   4-6   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/sp_tpoven.png) |   [Thirst for Murder (SmartyPantz)](http://edmonton.smartypantz.ca/rooms/)   |   2-8   |   45 min.   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/sp_tpoven.png) |   [Morning Never Comes (SmartyPantz)](http://edmonton.smartypantz.ca/rooms/)   |   2-8   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/gtfo_ho0lgd.webp) |   [The Heist (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/ec2_nkvhtz.webp) |   [Keller's Magic Emporium (Escape City)](https://www.escapecity.ca/adventures/)   |   2-6   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/ll_zvlufn.webp) |   [Warehouse of Thieves (Logic Lock)](http://logiclock.ca/rooms/)   |   2-6   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/SQ_eaauei.webp) |   [Expedition (SideQuests)](https://sidequests.ca/adventures.html)   |   2-8   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/gtfo_ho0lgd.webp) |   [Nightfall (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   2-6   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/ec2_nkvhtz.webp) |   [Neurological (Escape City)](https://www.escapecity.ca/adventures/)   |   4-10   |   60 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/ee_tlispj.webp) |   [Division 37 (Exit)](http://e-exit.ca/edmonton/)   |   2-6   |   60 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/gtfo_ho0lgd.webp) |   [Visiting Hour (GTFO)](http://www.letsgtfo.ca/escape-experiences/)   |   4-6   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/sp_tpoven.webp) |   [Thirst for Murder (SmartyPantz)](http://edmonton.smartypantz.ca/rooms/)   |   2-8   |   45 min.   |   $$   |  |
+| ![](https://img.hexagamers.com/sp_tpoven.webp) |   [Morning Never Comes (SmartyPantz)](http://edmonton.smartypantz.ca/rooms/)   |   2-8   |   45 min.   |   $$   |  |
 
 Our reviews are based on our experiences with Logic Lock, GTFO, EEscape, Exit, Breakout, GTFO, Thrillscape, SmartyPantz, SideQuests and X-Realm. Side note: We have yet to attempt Sherlock Holmes and The Gallery (Logic Lock), The Inheritance (Escape City), Uncle and Abduction (SideQuests) and any at Time Escape, Escape Emporium and now Dream Escape (Leduc).
 
@@ -99,7 +99,7 @@ After we posted this, we've gone back and completed [The Directive (GTFO)](/dire
 ## 1. The Heist
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/hei_pwvufm.png)
+![Hexagamers](https://img.hexagamers.com/hei_pwvufm.webp)
 
 This room is phenomenal. It's hard not to give anything away in our excitement to boast about how amazing it is. If we could wipe our memories and play it again, we would. As jewel thieves, your task is to break into the vault and walk away rich before you get caught. We tend to like linear rooms (solving or obtaining a piece of the puzzle in order to move onto the next), but while Heist is non-linear, it isn't frustrating, nor does it stall your game.
 
@@ -110,7 +110,7 @@ Lastly, the staff at [GTFO](http://www.letsgtfo.ca) are the best. They're enthus
 ## 2. Keller's Magic Emporium
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/kellers_cvbene.jpg)
+![Hexagamers](https://img.hexagamers.com/kellers_cvbene.webp)
 
 This was one of the first escape rooms we did, and it completely blew us away. It will be less challenging for seasoned players, but still a challenge nevertheless. As newbies, we worked hard to progress through this room, and we were ecstatic when we made it out (by the skin of our teeth). We felt like we'd earned it. Keller is a magician looking for a new apprentice, and you're working your way through the last part of the interview--though, not everything may be as it appears...
 
@@ -121,7 +121,7 @@ We loved this room (we still do), and it's still our favourite at EC. Our one co
 ## 3. Warehouse of Thieves
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/wotll_n1ces6.jpg)
+![Hexagamers](https://img.hexagamers.com/wotll_n1ces6.webp)
 
 [Logic Lock](http://logiclock.ca) is a newer company, and we weren't disappointed with their enthusiasm, themes, setup and style. One of the neatest elements of Logic Lock is their game masters. Each room is assigned a staff member who sits in a backroom, watching over the players and giving them hints or encouragement in the game's theme through the speakers. This keeps the game immersive and the flow smooth. (They really take the theme to heart. In Poltergeist, all the clues are given in the high-pitched girlish voice of the poltergeist, and it's really effing creepy.)
 
@@ -132,7 +132,7 @@ In Warehouse of Thieves, there were some really cool and unique elements that ch
 ## 4. Expedition
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/expsq_jixw3m.jpg)
+![Hexagamers](https://img.hexagamers.com/expsq_jixw3m.webp)
 
 This room is so pretty and so thematically strong. We walked in and said, "Wow!" There's a LOT to look at and a lot to marvel at. It may feel a bit cramped with eight people, but we can certainly see the benefit of having more heads to work on the many (many) puzzles throughout this room. We've done a few Egyptian-themed rooms and this one was by far the best. It even has sound effects and hieroglyphics, and best of all--no key locks. Each lock in this room keeps with the theme, and the entire room demands excellent teamwork to keep your momentum going. Everything is connected, and heads-up: you're split up, so communication is essential. We made a silly mistake in this room which cost us time, so remember to take everything in and know that everything counts.
 
@@ -143,7 +143,7 @@ We loved our experience with SideQuests. When you start out, they give you the w
 ## 5. Nightfall
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/nfgtfo_rbmy6k.png)
+![Hexagamers](https://img.hexagamers.com/nfgtfo_rbmy6k.webp)
 
 If you get creeped out easily or jump at every manner of small noise (Kaitlyn...Whitney...), Nightfall may not be your cup of tea--but it's still 100% worth your unease. [](www.letsgtfo.ca)[GTFO](http://letsgtfo.ca) does an amazing job of setting their rooms up so they are themeatically attractive, but Nightfall is stunning. They brought the outdoors in to immerse you in the story. You and your friends are part of a rescue mission. Hikers have gone missing and the townspeople are convinced the legend of the creature has come true. Nothing good happens to those who are outside when night falls, and you need to hustle to find the hikers (or discover their outcome), and break into the cabin before you meet the same fate.
 
@@ -152,7 +152,7 @@ While there is only one room, it makes sense and it works really well. We broke 
 ## 6. Neurological
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/neuroEC_z64kxi.png)
+![Hexagamers](https://img.hexagamers.com/neuroEC_z64kxi.webp)
 
 Full disclosure: some of us don't agree with Neurological so high on this list, and the fact that we really pooped the bed during this room probably drives that just a smidge. However. Neurological is straight-up impressive. We didn't escape, and while the guys blame the girls for this, the lack of communication (or our struggle to communicate) is what really killed our forward motion. 
 
@@ -163,7 +163,7 @@ Neurological is challenging in so many ways on so many levels, both puzzle-wise 
 ## 7. Division 37
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/division37_dzrzrk.jpg)
+![Hexagamers](https://img.hexagamers.com/division37_dzrzrk.webp)
 
 [Exit](http://www.e-exit.ca/edmonton/) has several thematically-strong rooms, and the company staff is enthusiastic, knowledgeable and love their job. Sometimes the way the hints are given need a little tweaking (more prompting, less telling) but we have a good time with Exit's rooms and the challenges they present.
 
@@ -174,7 +174,7 @@ If you're new to escape rooms, this is a good one to try. Don't expect the prett
 ## 8. Visiting Hour
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/vhgtfo_yulbcb.jpg)
+![Hexagamers](https://img.hexagamers.com/vhgtfo_yulbcb.webp)
 
 Visiting Hour was our first experience with being split up, so it added an extra layer for us. We struggled through several elements of this room, but it was clever, thematically strong, immersive and challenging. There was a small hiccup where we wasted some time trying to complete a piece of the room, but the staff were on the ball and hopped in, helping us out without penalty.
 
@@ -183,7 +183,7 @@ Similar to other [GTFO](http://www.letsgtfo.ca) rooms, Visiting Hour kept goin
 ## 9. Thirst for Murder
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/thirstSP_g4abyx.jpg)
+![Hexagamers](https://img.hexagamers.com/thirstSP_g4abyx.webp)
 
 If [SmartyPantz](http://edmonton.smartypantz.ca) has a bloopers reel, we're on it. We had a disagreement about our starting move, and moved into the first challenge as a team. (SmartyPantz, if you have us on tape, please let us know. We want to see our lunacy in action.) The setup and theme for this room are both awesome. Props and staging are fantastic and the puzzles fit with the creepy theme. There's great flow to the room, but it isn't linear, so that can be frustrating and challenging for some. SmartyPantz uses walkie-talkies (and doesn't have clocks) to keep you as immersed as possible.
 
@@ -192,7 +192,7 @@ As vets, this room is easier than many we've tried, but we enjoyed the puzzles a
 ## 10. Morning Never Comes
 
 
-![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/morningSP_kqyyzo.jpg)
+![Hexagamers](https://img.hexagamers.com/morningSP_kqyyzo.webp)
 
 [SmartyPantz](http://edmonton.smartypantz.ca) is along the lines of Escape City and GTFO in how it executes its rooms. Each is set up like a play, with theatre-style props, scenes and even actors who ham up the parts to the max. It's a fantastic experience and so much fun. Morning Never Comes is a simple room, and above all other rooms we suggest to our friends, it is the ultimate intro to escape rooms. Keyword: intro.
 

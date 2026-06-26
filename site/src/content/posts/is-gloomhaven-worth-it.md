@@ -12,7 +12,7 @@ tags:
   - "cooperative-board-game"
   - "legacy-board-game"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781536490/hexagamers-reviews/is-gloomhaven-worth-it.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/is-gloomhaven-worth-it.webp"
 lastModified: 2026-06-12
 description: "Gloomhaven costs as much as five normal games and weighs more than a toddler. Is it actually worth it? The short answer, then the honest one."
 ---

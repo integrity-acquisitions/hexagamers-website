@@ -13,7 +13,7 @@ tags:
   - "dice-drafting-board-game"
   - "which-game-is-better"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781362957/hexagamers-reviews/azul-vs-sagrada-which-game-should-you-buy.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/azul-vs-sagrada-which-game-should-you-buy.webp"
 lastModified: 2026-06-12
 description: "Azul or Sagrada? Two gorgeous tile-and-tile-shaped games that look similar on the shelf but feel nothing alike. Here's how to pick the right one for your group."
 ---

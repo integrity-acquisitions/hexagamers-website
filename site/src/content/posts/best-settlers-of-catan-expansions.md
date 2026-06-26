@@ -10,7 +10,7 @@ tags:
   - "catan-expansions"
   - "best-expansions"
   - "strategy-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779722296/hexagamers-reviews/best-settlers-of-catan-expansions.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-settlers-of-catan-expansions.webp"
 lastModified: 2018-03-14
 description: "Already love Catan but feel like the base game has run its course? Here's our honest rundown of every major Catan expansion and which ones are actually worth buying."
 ---
@@ -29,15 +29,15 @@ A few things worth knowing before you buy: most of these require the base Catan 
 
 | Image | Expansion | Players | Time | Price |
 | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_Seafarers_ogw8fz.jpg)](#1-seafarers) | Seafarers | 3–4 | 90–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Cities_and_Knights_gtqxle.jpg)](#2-cities--knights) | Cities & Knights | 3–4 | 90–180 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Traders_and_Barbarians_vopqg9.jpg)](#3-traders--barbarians) | Traders & Barbarians | 2–4 | 60–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Explorers_and_Pirates_srlejv.jpg)](#4-explorers--pirates) | Explorers & Pirates | 3–4 | 90–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Settlers_of_America_hrjkxo.jpg)](#5-catan-histories--settlers-of-america) | Settlers of America | 3–4 | 60–120 min | $$$ |
+| [![](https://img.hexagamers.com/Catan_Seafarers_ogw8fz.webp)](#1-seafarers) | Seafarers | 3–4 | 90–120 min | $$$ |
+| [![](https://img.hexagamers.com/Catan_-_Cities_and_Knights_gtqxle.webp)](#2-cities--knights) | Cities & Knights | 3–4 | 90–180 min | $$$ |
+| [![](https://img.hexagamers.com/Catan_-_Traders_and_Barbarians_vopqg9.webp)](#3-traders--barbarians) | Traders & Barbarians | 2–4 | 60–120 min | $$$ |
+| [![](https://img.hexagamers.com/Catan_-_Explorers_and_Pirates_srlejv.webp)](#4-explorers--pirates) | Explorers & Pirates | 3–4 | 90–120 min | $$$ |
+| [![](https://img.hexagamers.com/Catan_-_Settlers_of_America_hrjkxo.webp)](#5-catan-histories--settlers-of-america) | Settlers of America | 3–4 | 60–120 min | $$$ |
 
 ## 1. Seafarers
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_Seafarers_ogw8fz.jpg)](https://www.amazon.com/dp/B0DYK3S5MJ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan_Seafarers_ogw8fz.webp)](https://www.amazon.com/dp/B0DYK3S5MJ/?tag=hexagamers-20)
 
 This is the one we recommend first, every time.
 
@@ -55,7 +55,7 @@ Comes with 3–4 player support. Grab the 5–6 player extension if your group r
 
 ## 2. Cities & Knights
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Cities_and_Knights_gtqxle.jpg)](https://www.amazon.com/dp/B0DY87W8SS/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan_-_Cities_and_Knights_gtqxle.webp)](https://www.amazon.com/dp/B0DY87W8SS/?tag=hexagamers-20)
 
 If Seafarers is where most groups start, Cities & Knights is where the serious Catan players end up.
 
@@ -71,7 +71,7 @@ But if your group takes Catan seriously and wants depth rather than just more ma
 
 ## 3. Traders & Barbarians
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Traders_and_Barbarians_vopqg9.jpg)](https://www.amazon.com/dp/B0DYF7552C/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan_-_Traders_and_Barbarians_vopqg9.webp)](https://www.amazon.com/dp/B0DYF7552C/?tag=hexagamers-20)
 
 This one gets overlooked more than it should.
 
@@ -87,7 +87,7 @@ This is the smart third buy — especially for the two-player mode, which is gen
 
 ## 4. Explorers & Pirates
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Explorers_and_Pirates_srlejv.jpg)](https://www.amazon.com/dp/B0DYF8J5C8/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan_-_Explorers_and_Pirates_srlejv.webp)](https://www.amazon.com/dp/B0DYF8J5C8/?tag=hexagamers-20)
 
 Harder to recommend broadly, but for the right group it clicks.
 
@@ -101,7 +101,7 @@ That's not necessarily a knock on it. Some groups want a bigger departure and fi
 
 ## 5. Catan: Histories — Settlers of America
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723166/Catan_-_Settlers_of_America_hrjkxo.jpg)](https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan_-_Settlers_of_America_hrjkxo.webp)](https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20)
 
 This one is standalone. You don't need the base Catan game to play it.
 

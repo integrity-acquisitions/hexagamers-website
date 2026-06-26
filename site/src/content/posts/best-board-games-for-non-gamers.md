@@ -19,7 +19,7 @@ tags:
   - "kingdomino"
   - "dixit"
   - "just-one"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597218/hexagamers-reviews/best-board-games-for-non-gamers.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-non-gamers.webp"
 lastModified: 2026-06-04
 description: "Ten board games that actually work with people who think they hate board games — easy to learn, fun within minutes, and no board game experience required."
 ---
@@ -42,20 +42,20 @@ If you want to go deeper on the gateway game concept, check out our [Best Gatewa
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#1-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#2-codenames-full-review-here) | Codenames | 2–8 | 15–30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300597/Sushi-Go_ocbhis.jpg)](#4-sushi-go) | Sushi Go! | 2–5 | 15–20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](#5-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](#6-carcassonne-full-review-here) | Carcassonne | 2–5 | 35–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#7-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/kingdomino.png)](#8-kingdomino) | Kingdomino | 2–4 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/dixit.jpg)](#9-dixit) | Dixit | 3–6 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](#10-just-one) | Just One | 3–7 | 20 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#1-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#2-codenames-full-review-here) | Codenames | 2–8 | 15–30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#4-sushi-go) | Sushi Go! | 2–5 | 15–20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](#5-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](#6-carcassonne-full-review-here) | Carcassonne | 2–5 | 35–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#7-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/kingdomino.webp)](#8-kingdomino) | Kingdomino | 2–4 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dixit.webp)](#9-dixit) | Dixit | 3–6 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](#10-just-one) | Just One | 3–7 | 20 min | $$ | — |
 
 ## 1. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
 This is the most reliable non-gamer game ever made. That's not an exaggeration — within our own group we've watched it land with people who insisted beforehand that they don't like board games, and then two hours later they were asking to play again. We've seen four separate couples buy it the next day.
 
@@ -71,7 +71,7 @@ We played the Europe version most, which has stations as a catch-up mechanic and
 
 ## 2. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames gets played with non-gamers constantly — and it works because it doesn't feel like a board game. It feels like a word puzzle you're playing against your friends.
 
@@ -87,7 +87,7 @@ It's also infinitely repeatable. The word grids are different every game, and af
 
 ## 3. Pandemic ([Full Review Here](/pandemic-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779479942/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is cooperative, which makes it one of the most reliable non-gamer picks in existence. When you take away the competitive pressure, you also take away the main thing that makes board games feel uncomfortable for people who aren't confident yet — losing in front of others. Here, everyone wins or everyone loses. No one goes home feeling picked on.
 
@@ -103,7 +103,7 @@ We've played this with people who had zero board game background and watched the
 
 ## 4. Sushi Go!
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779300597/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 If you need a game that takes under three minutes to explain and fifteen to play, this is it. Sushi Go is the opener. The warm-up. The "let's do one quick round while we wait for everyone to arrive" game that somehow becomes the whole evening.
 
@@ -117,7 +117,7 @@ Sushi Go also scales up well. There's a Sushi Go Party version with more dishes 
 
 ## 5. Splendor ([Full Review Here](/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463071/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is the game that looks like it might be complicated — there are gem chips, development cards, and noble tiles spread across the table — and then you explain the turn in about ninety seconds and everyone gets it immediately.
 
@@ -133,7 +133,7 @@ A full game runs about 30 minutes. That's the sweet spot for mixed groups: long 
 
 ## 6. Carcassonne ([Full Review Here](/carcassone-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
 
 There's no board at the start of a game of Carcassonne. Just one tile in the middle of the table. From there, players take turns drawing tiles and building out a medieval landscape together — roads connect to roads, cities to cities, farms to farms. You place little wooden Meeples on features to score points when they complete.
 
@@ -149,7 +149,7 @@ One house rule we've landed on: skip the farmers mechanic for the first game. It
 
 ## 7. Coup ([Full Review Here](/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is fifteen minutes, fits in a pocket, and produces more table talk than games that cost ten times more. It's the one we bring out to fill a gap in the evening and it somehow ends up running three rounds in a row because nobody wants to stop.
 
@@ -165,7 +165,7 @@ One caveat — the game rewards people willing to commit to the bit. If your gro
 
 ## 8. Kingdomino
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/kingdomino.png)](https://www.amazon.com/dp/B01N3A4070/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/kingdomino.webp)](https://www.amazon.com/dp/B01N3A4070/?tag=hexagamers-20)
 
 Kingdomino is dominoes if dominoes were about building a tiny kingdom and scoring points for it. Each turn you pick a double-sided tile — one half shows a terrain type, the other shows a different terrain — and connect it to your kingdom so at least one half matches an adjacent tile. Score at the end based on how large your matching terrain regions are and how many crowns they contain.
 
@@ -181,7 +181,7 @@ It won the Spiel des Jahres in 2017, which is the board game equivalent of a Mic
 
 ## 9. Dixit
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/dixit.jpg)](https://www.amazon.com/dp/B09BSP7B7V/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dixit.webp)](https://www.amazon.com/dp/B09BSP7B7V/?tag=hexagamers-20)
 
 Dixit is the game you bring out for the person who says "I'm not really into competition." It works for mixed groups — ages eight to eighty, gamers and non-gamers side by side — because the whole thing runs on imagination and intuition rather than strategy.
 
@@ -197,7 +197,7 @@ Non-gamers routinely love this one. The cards alone draw people in — there's a
 
 ## 10. Just One
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](https://www.amazon.com/dp/B07GJ7NDZQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](https://www.amazon.com/dp/B07GJ7NDZQ/?tag=hexagamers-20)
 
 Just One won the Spiel des Jahres in 2019 — same award Kingdomino won, same emphasis on accessibility — and it's one of the cleanest examples of a cooperative game that doesn't require any board game literacy at all.
 

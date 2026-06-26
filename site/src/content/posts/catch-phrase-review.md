@@ -8,7 +8,7 @@ tags:
   - "best-party-board-games"
   - "catch-phrase"
   - "party-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422483/hexagamers-reviews/catch-phrase-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/catch-phrase-review.webp"
 description: "Think you have a quick enough wit to give clues on the spot? Get your team to guess the phrase before the timer runs out — then pass it on. If the buzzer…"
 ---
 
@@ -16,7 +16,7 @@ description: "Think you have a quick enough wit to give clues on the spot? Get y
 
 Think you have a quick enough wit to give clues on the spot? Get your team to guess the phrase before the timer runs out — then pass it on. If the buzzer rings while you're holding it, the other team scores.
 
-![The Catch Phrase box](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-phrase-box_l53rft.jpg "Catch Phrase box")
+![The Catch Phrase box](https://img.hexagamers.com/Catch-phrase-box_l53rft.webp "Catch Phrase box")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">4+</span><span class="stat-label">Players</span></div>
@@ -54,9 +54,9 @@ At its core, Catch Phrase is a glorified Hot Potato that makes you use your brai
 
 **Electronic vs non-electronic:** Both versions are great. If you're taking it places, go electronic — no loose cards or scoreboard to manage. For home play, the non-electronic version is cheaper and you could always make new cards when the originals get stale.
 
-![The electronic version of Catch Phrase](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-Phrase-Electronic_me8g1p.jpg "Electronic Catch Phrase")
+![The electronic version of Catch Phrase](https://img.hexagamers.com/Catch-Phrase-Electronic_me8g1p.webp "Electronic Catch Phrase")
 
-![The non-electronic version of Catch Phrase](https://res.cloudinary.com/dt4ujaczs/image/upload/Catch-Phrase-Normal_georys.jpg "Non-electronic Catch Phrase")
+![The non-electronic version of Catch Phrase](https://img.hexagamers.com/Catch-Phrase-Normal_georys.webp "Non-electronic Catch Phrase")
 
 **The one real flaw:** with heavy play, you start recognizing answers. We played frequently for a couple months and started getting repeats. The fix is simple — put it away for a while and come back to it fresh.
 

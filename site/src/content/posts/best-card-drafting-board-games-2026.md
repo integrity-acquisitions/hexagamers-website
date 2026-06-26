@@ -12,7 +12,7 @@ tags:
   - "castle-combo"
   - "harmonies"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781878230/hexagamers-reviews/best-card-drafting-board-games-2026.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-card-drafting-board-games-2026.webp"
 lastModified: 2026-06-18
 description: "The best card drafting board games of the last few years (2023-2026) — the new pick-and-pass and open-drafting hits, not the 7 Wonders-era classics."
 ---
@@ -35,16 +35,16 @@ Click the thumbnail to jump down to the game write up.
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Forest_Shuffle_u81v6r.jpg)](#1-forest-shuffle) | Forest Shuffle | 2-5 | 40-60 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Faraway_f6jdcx.jpg)](#2-faraway) | Faraway | 2-6 | 15-20 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Castle_Combo_a2qrm9.jpg)](#3-castle-combo) | Castle Combo | 2-5 | 25-30 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Harmonies_ttd8l8.jpg)](#4-harmonies) | Harmonies | 1-4 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Molly_House_jgukqv.webp)](#5-molly-house) | Molly House | 1-5 | 90-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Ancient_Knowledge_szjilq.jpg)](#6-ancient-knowledge) | Ancient Knowledge | 2-4 | 60-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/Forest_Shuffle_u81v6r.webp)](#1-forest-shuffle) | Forest Shuffle | 2-5 | 40-60 min | $$ | — |
+| [![](https://img.hexagamers.com/Faraway_f6jdcx.webp)](#2-faraway) | Faraway | 2-6 | 15-20 min | $$ | — |
+| [![](https://img.hexagamers.com/Castle_Combo_a2qrm9.webp)](#3-castle-combo) | Castle Combo | 2-5 | 25-30 min | $$ | — |
+| [![](https://img.hexagamers.com/Harmonies_ttd8l8.webp)](#4-harmonies) | Harmonies | 1-4 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Molly_House_jgukqv.webp)](#5-molly-house) | Molly House | 1-5 | 90-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Ancient_Knowledge_szjilq.webp)](#6-ancient-knowledge) | Ancient Knowledge | 2-4 | 60-90 min | $$$ | — |
 
 ## 1. Forest Shuffle
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Forest_Shuffle_u81v6r.jpg)](https://www.amazon.com/dp/B0C87WK67Z/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Forest_Shuffle_u81v6r.webp)](https://www.amazon.com/dp/B0C87WK67Z/?tag=hexagamers-20)
 
 If you want one modern drafting game that does everything well, this is it. Forest Shuffle (2024) is a card game about building a thriving forest — you draft trees to form the canopy, then attach animals, plants, and fungi that score off each other in dozens of little combos. The whole game fits in a small box and plays in under an hour, but the decisions are real.
 
@@ -56,7 +56,7 @@ It was a Kennerspiel des Jahres nominee and it earns the buzz. For two to five p
 
 ## 2. Faraway
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Faraway_f6jdcx.jpg)](https://www.amazon.com/dp/B0CZG14VHH/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Faraway_f6jdcx.webp)](https://www.amazon.com/dp/B0CZG14VHH/?tag=hexagamers-20)
 
 Faraway (2023) is the clever little one. You play a string of regions, drafting cards into a row in front of you — but here's the twist that makes it sing: at the end you score your cards *in reverse order*, from the last one you played back to the first. So the card you grabbed early matters most for goals you only discover later.
 
@@ -68,7 +68,7 @@ It's cheap, it's small, and it punches absurdly above its size. A perfect filler
 
 ## 3. Castle Combo
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Castle_Combo_a2qrm9.jpg)](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Castle_Combo_a2qrm9.webp)](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
 
 Castle Combo (2024) won a Golden Geek for good reason — it's a twenty-five-minute combo machine. You draft character cards from a shared display, paying coins and slotting each into a 3x3 grid where its scoring power depends on the neighbors around it. Place well and one card's ability feeds the next, and the next, until your little castle is a humming point engine.
 
@@ -80,7 +80,7 @@ For two to five players who like Sushi Go!'s speed but want a touch more crunch,
 
 ## 4. Harmonies
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Harmonies_ttd8l8.jpg)](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Harmonies_ttd8l8.webp)](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
 
 Harmonies (2024) blends drafting with tile-laying into one of the most relaxing yet thinky games of recent years. You draft animal cards that set personal goals, then draft and stack colored tokens on your board to build the specific habitats those animals need — a river here, a mountain there, a forest just so.
 
@@ -92,7 +92,7 @@ For families, couples, or anyone who wants a pretty, low-stress puzzle with real
 
 ## 5. Molly House
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Molly_House_jgukqv.webp)](https://wehrlegig.com/products/molly-house)
+[![Hexagamers](https://img.hexagamers.com/Molly_House_jgukqv.webp)](https://wehrlegig.com/products/molly-house)
 
 Molly House (2024) is the most unusual game on the list — a card-drafting game with a real story to tell. Set in 1720s London, you're part of a queer underground community drafting cards to build joyful gatherings while watching for informers and constables. It mixes a semi-cooperative social layer over its drafting, and the theme is handled with genuine care.
 
@@ -104,7 +104,7 @@ We're including it for groups who want their drafting game to have something to 
 
 ## 6. Ancient Knowledge
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Ancient_Knowledge_szjilq.jpg)](https://www.amazon.com/dp/B0CGBRJM42/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Ancient_Knowledge_szjilq.webp)](https://www.amazon.com/dp/B0CGBRJM42/?tag=hexagamers-20)
 
 Ancient Knowledge (2023) is the chewy strategist's pick. You draft cards representing monuments and knowledge, build them into a timeline tableau, and then watch them slowly decay — the clever, almost melancholy core of the game is that your great works erode over time, converting into the knowledge that scores you points as they crumble.
 

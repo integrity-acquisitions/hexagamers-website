@@ -8,7 +8,7 @@ tags:
   - "cooperative-board-games"
   - "forbidden-desert"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458905/hexagamers-reviews/forbidden-desert-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/forbidden-desert-review.webp"
 description: "Your helicopter crashes in an ancient desert. Work together to excavate the parts of a legendary flying machine and escape before the storm overtakes you…"
 ---
 
@@ -16,7 +16,7 @@ description: "Your helicopter crashes in an ancient desert. Work together to exc
 
 Your helicopter crashes in an ancient desert. Work together to excavate the parts of a legendary flying machine and escape before the storm overtakes you or the heat drains your water supply.
 
-![The Forbidden Desert sand tiles laid out for play](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert-Tiles_kxxqvc.jpg "The Forbidden Desert board")
+![The Forbidden Desert sand tiles laid out for play](https://img.hexagamers.com/Forbidden-Desert-Tiles_kxxqvc.webp "The Forbidden Desert board")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
@@ -43,13 +43,13 @@ Forbidden Desert is a cooperative adventure game that requires your team to work
 
 Designed by Matt Leacock (same designer as Pandemic and Forbidden Island), it has that same "one more card and we lose" tension that makes cooperative games so addictive.
 
-![The Forbidden Desert box](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Dessert-Box_qbr1vb.jpg "The Forbidden Desert box")
+![The Forbidden Desert box](https://img.hexagamers.com/Forbidden-Dessert-Box_qbr1vb.webp "The Forbidden Desert box")
 
 ## Thoughts
 
 **The moving eye of the storm is the game's signature.** When storm cards are drawn, tiles shift around the board, moving the eye's location and burying tiles under sand. The way the storm dynamically reshapes the board creates tension that's unlike anything I've experienced in other games. Areas that were safe become dangerous without warning. You can never fully relax.
 
-![Sand tiles piling up as the storm blows in Forbidden Desert](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert-Sand-Tiles-2_qyaukp.jpg "Shifting sand tiles in Forbidden Desert")
+![Sand tiles piling up as the storm blows in Forbidden Desert](https://img.hexagamers.com/Forbidden-Desert-Sand-Tiles-2_qyaukp.webp "Shifting sand tiles in Forbidden Desert")
 
 **The hidden flying machine parts are brilliant.** Unlike Forbidden Island where treasure locations are known, in Forbidden Desert you have to excavate tiles to find where the parts are. Tiles have directional arrows pointing toward a hidden component — but since the storm moves tiles, the parts move too. This makes locating the machine a real challenge and a source of genuine drama near the end of the game.
 
@@ -59,10 +59,10 @@ Designed by Matt Leacock (same designer as Pandemic and Forbidden Island), it ha
 
 **Dual loss conditions keep you alert.** You're racing against both the storm (run out of sand tiles and you lose) and the sun (run out of water and you lose). Managing both simultaneously is where the real challenge lives.
 
-![Tracking each player's water supply in Forbidden Desert](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert-Water_foizuv.jpg "Water management in Forbidden Desert")
+![Tracking each player's water supply in Forbidden Desert](https://img.hexagamers.com/Forbidden-Desert-Water_foizuv.webp "Water management in Forbidden Desert")
 
 ## Conclusion
 
-![The equipment and clue cards in Forbidden Desert](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert-Cards_bmlnxc.jpg "Forbidden Desert cards")
+![The equipment and clue cards in Forbidden Desert](https://img.hexagamers.com/Forbidden-Desert-Cards_bmlnxc.webp "Forbidden Desert cards")
 
 Forbidden Desert is an excellent cooperative game at a very accessible price. The moving storm mechanic alone justifies the buy. If you're a Pandemic fan it may feel a bit easy at the highest difficulty, but for most groups and for introducing new players to cooperative games, it's a fantastic choice. Highly recommended.

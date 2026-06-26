@@ -10,7 +10,7 @@ tags:
   - "board-game"
   - "board-game-review"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780005332/hexagamers-reviews/best-board-games-for-3-players.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-3-players.webp"
 lastModified: 2026-05-28
 description: "Three players is a weird spot — too many for head-to-head, too few for big group games. These are the games that genuinely shine at exactly three."
 ---
@@ -33,22 +33,22 @@ If you're looking for more specific lists, check out our [Best Board Games for C
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#1-catan-full-review-here) | Catan | 3–4 | 60–120 min | $$ | 3.8 / 5 |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#2-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015892/hexagamers-box-art/pandemic.jpg)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#4-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | 4.7 / 5 |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#5-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015893/hexagamers-box-art/splendor.jpg)](#6-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](#7-carcassonne-full-review-here) | Carcassonne | 2–5 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](#8-dominion-full-review-here) | Dominion | 2–4 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#9-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](#10-agricola-full-review-here) | Agricola | 1–4 | 90–120 min | $$$ | 4.7 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](#1-catan-full-review-here) | Catan | 3–4 | 60–120 min | $$ | 3.8 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#2-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#4-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | 4.7 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#5-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](#6-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](#7-carcassonne-full-review-here) | Carcassonne | 2–5 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](#8-dominion-full-review-here) | Dominion | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#9-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Agricola.webp)](#10-agricola-full-review-here) | Agricola | 1–4 | 90–120 min | $$$ | 4.7 / 5 |
 
 ---
 
 ## 1. Catan ([Full Review Here](/catan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
 Catan is the reason a lot of people got back into board games. It's also a good litmus test for your friend group — after a few sessions you'll know exactly who at the table is willing to block a road just to spite someone.
 
@@ -68,7 +68,7 @@ We've had some of our most competitive post-game conversations over Catan. It's 
 
 ## 2. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20)
 
 If Catan is about negotiation, Ticket to Ride is about quiet competition. You're laying train routes across a map, completing destination tickets, and trying to connect cities before someone else takes the route you need.
 
@@ -88,7 +88,7 @@ Ticket to Ride is one of those games that feels breezy while you're playing it, 
 
 ## 3. Pandemic ([Full Review Here](/pandemic-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015892/hexagamers-box-art/pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Three players might be the best player count for Pandemic. Two can feel thin — each player is covering a lot of map. Four starts getting loud and can tip into analysis paralysis. Three keeps the communication real without turning into a committee meeting.
 
@@ -108,7 +108,7 @@ Strong pick for any three-person group, especially if you want something collabo
 
 ## 4. Azul ([Full Review Here](/azul-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
 Azul is a tile-drafting game. You're pulling colorful tiles from a central market and placing them on your personal player board, trying to complete rows and score points. Simple to explain. Takes about 30 minutes. Deceptively competitive.
 
@@ -128,7 +128,7 @@ One of our favorites. Comes out constantly.
 
 ## 5. Wingspan ([Full Review Here](/wingspan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
 Wingspan is an engine-building game about birds. You're filling a tableau with bird cards, each with a unique power, and trying to build chains of effects that snowball over four rounds.
 
@@ -148,7 +148,7 @@ At three, the pace is right and the competition is real without being aggressive
 
 ## 6. Splendor ([Full Review Here](/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780015893/hexagamers-box-art/splendor.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is a gem-collecting engine builder that plays in about 30 minutes and packs a surprising amount of decision-making into a small box. You're collecting gem tokens to buy development cards, which generate permanent gems, which help you buy more expensive cards — and eventually attract noble tiles worth big points.
 
@@ -166,7 +166,7 @@ A great filler that doesn't feel like a filler. Easy to teach, quick to play, an
 
 ## 7. Carcassonne ([Full Review Here](/carcassonne-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305614/Carcassonne-Original-2000.jpg)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](https://www.amazon.com/dp/B008ULAMSG/?tag=hexagamers-20)
 
 Carcassonne is a tile-laying game where you're building a medieval landscape together — placing tiles that form cities, roads, and fields — and then claiming features with your meeples to score points. It's one of the best gateway games in the hobby, and it works particularly well at three.
 
@@ -184,7 +184,7 @@ The meeple tension is what makes three the right number here. You only have a li
 
 ## 8. Dominion ([Full Review Here](/dominion-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299954/Dominion_z98xnd.jpg)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20)
 
 Dominion invented the deck-building genre. You start with a weak hand of cards, buy better ones from a central market, and try to build a deck that generates more victory points than anyone else. The mechanic has been copied dozens of times — nothing matched the original.
 
@@ -202,7 +202,7 @@ Dominion invented the deck-building genre. You start with a weak hand of cards, 
 
 ## 9. Coup ([Full Review Here](/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is a 15-minute bluffing game where everyone starts with two hidden role cards, and you're trying to eliminate everyone else's cards before they eliminate yours. Every turn you claim an action — and any action can be blocked or challenged. The catch: you can claim any action whether or not you actually have that card. Bluffing is not optional. It's the whole game.
 
@@ -220,7 +220,7 @@ At three, the game is quick, tight, and merciless.
 
 ## 10. Agricola ([Full Review Here](/agricola-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Agricola.webp)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
 
 Agricola is a worker placement game about running a farm in 17th-century Europe. You're feeding your family, expanding your house, cultivating fields, and raising animals — all while competing with the other players for a limited pool of action spaces. It's the longest and most complex game on this list.
 

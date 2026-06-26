@@ -17,12 +17,12 @@ tags:
   - "tzolkin"
   - "uwe-rosenberg"
   - "viticulture"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461193/hexagamers-articles/best-worker-placement-board-games-reviews.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-worker-placement-board-games-reviews.webp"
 lastModified: 2025-01-01
 description: "If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Worker-Replacement-Board-Games_uej59o.png "Best Worker Placement Board Games")
+![](https://img.hexagamers.com/Best-Worker-Replacement-Board-Games_uej59o.webp "Best Worker Placement Board Games")
 
 If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the more popular genres (or mechanics), and have a look at the best Worker Placement board games.
 
@@ -50,23 +50,23 @@ There are a bunch of different worker placement board games out there, so narrow
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](#1-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2-5 | 60 - 120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](#2-caylus) | Caylus | 2-5 | 60 - 150 min | $$$ |  |
-| [![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](/best-worker-placement-board-games-reviews#agricola/) | Agricola | 1-5 | 30 - 150 min | $$$ |  |
-| [![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](/best-worker-placement-board-games-reviews#caverna/) | Caverna | 1-7 | 30 - 210 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](#5-tzolkin) | Tzolk'in | 2-4 | 90 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](#6-alien-frontiers) | Alien Frontiers | 2-4 | 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](#7-the-manhattan-project) | The Manhattan Project | 2-5 | 120 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](#8-stone-age-full-review-here) | Stone Age | 2-4 | 60 - 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](#9-viticulture-essentials-edition) | Viticulture | 2-6 | 90 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](#10-le-havre) | Le Havre | 1-5 | 30 - 150 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Lords-Of-Waterdeep.webp)](#1-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2-5 | 60 - 120 min | $$$ |  |
+| [![](https://img.hexagamers.com/Caylus_iyfzka.webp)](#2-caylus) | Caylus | 2-5 | 60 - 150 min | $$$ |  |
+| [![Agricola](https://img.hexagamers.com/Agricola.webp)](/best-worker-placement-board-games-reviews#agricola/) | Agricola | 1-5 | 30 - 150 min | $$$ |  |
+| [![Caverna](https://img.hexagamers.com/Caverna_awaclr.webp)](/best-worker-placement-board-games-reviews#caverna/) | Caverna | 1-7 | 30 - 210 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Tzolkin_ryqv7x.webp)](#5-tzolkin) | Tzolk'in | 2-4 | 90 min | $$$ |  |
+| [![](https://img.hexagamers.com/Alien-Frontiers_mn5reu.webp)](#6-alien-frontiers) | Alien Frontiers | 2-4 | 90 min | $$$$ |  |
+| [![](https://img.hexagamers.com/The-Manhattan-Project_gwi9ev.webp)](#7-the-manhattan-project) | The Manhattan Project | 2-5 | 120 min | $$$ |  |
+| [![](https://img.hexagamers.com/Stone-Age_f5oj2l.webp)](#8-stone-age-full-review-here) | Stone Age | 2-4 | 60 - 90 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Viticulture_vfe5s9.webp)](#9-viticulture-essentials-edition) | Viticulture | 2-6 | 90 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Le-Havre_f6hujf.webp)](#10-le-havre) | Le Havre | 1-5 | 30 - 150 min | $$$$ |  |
 
 ## Best Worker Placement Board Games
 
 ## 1. Lords of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305603/Lords-Of-Waterdeep.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Lords-Of-Waterdeep.webp)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
 Lords of Waterdeep makes it to the top of our worker placement board game list for a few reasons. First off it is a fairly simple game, which makes it very accessible to almost everyone. The rules may seem overwhelming at first, but once the basics are understood, it becomes very easy to play. We even included this one in our [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/).
 
@@ -92,7 +92,7 @@ Not that you need it, but the topper to all the awesomeness mentioned above is t
 ## 2. Caylus
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Caylus_iyfzka.jpg)](https://www.amazon.com/dp/B082FS51D9/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Caylus_iyfzka.webp)](https://www.amazon.com/dp/B082FS51D9/?tag=hexagamers-20)
 
 Caylus is considered by some as the granddaddy of all these type of games. We thought about having it as overall best worker placement game, but decided that because of its complexity, it might not be the game for everyone.
 
@@ -116,7 +116,7 @@ It is an older game, but don’t let that deter you, since this one is fundament
 ## 3. Agricola ([Full Review Here](/agricola-review/))
 
 
-[![Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
+[![Agricola](https://img.hexagamers.com/Agricola.webp)](https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20)
 
 Agricola (and Caverna which is next) came in high on our top rated worker placement games. We thought about combining them into one spot on the list, but ultimately decided they each deserve their own spot. If you haven’t played these games before, they are from the same designer and play somewhat similar, check out our [Agricola Vs Caverna Post](/agricola-vs-caverna-which-game-should-you-buy/) to help you decide which one is best for you.
 
@@ -136,7 +136,7 @@ It also plays great with anywhere from 1-5 people.
 ## 4. Caverna
 
 
-[![Caverna](https://res.cloudinary.com/dt4ujaczs/image/upload/Caverna_awaclr.jpg)](https://www.amazon.com/dp/B00G3FV2TO/?tag=hexagamers-20)
+[![Caverna](https://img.hexagamers.com/Caverna_awaclr.webp)](https://www.amazon.com/dp/B00G3FV2TO/?tag=hexagamers-20)
 
 Caverna, like Agricola, is made by Uwe Rosenberg, and plays somewhat similar. In this game, you still have a farmyard which you must develop, but you also have the option to go and explore some caves!
 
@@ -152,7 +152,7 @@ The shear volume of rules/actions you can take with this game is one of the reas
 ## 5. Tzolk'in
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Tzolkin_ryqv7x.jpg)](https://www.amazon.com/dp/B009XBA390/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Tzolkin_ryqv7x.webp)](https://www.amazon.com/dp/B009XBA390/?tag=hexagamers-20)
 
 Tzolk’in: The Mayan Calendar is a good worker placement game for those that like to plan ahead. Its theme, as you guessed, is set during the Mayan times, and you are trying to win the favor of the gods.
 
@@ -178,7 +178,7 @@ Tzolk’in can be an unforgiving game with a lot of tension in it, but it is sti
 ## 6. Alien Frontiers
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Alien-Frontiers_mn5reu.png)](https://www.amazon.com/dp/B0BVRV6C1M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Alien-Frontiers_mn5reu.webp)](https://www.amazon.com/dp/B0BVRV6C1M/?tag=hexagamers-20)
 
 If you and your group like yatzee, space themes, and good worker placement board games, then this is the one for you!
 
@@ -198,7 +198,7 @@ This one has a great theme, some interesting mechanics, a bit of luck, and some 
 ## 7. The Manhattan Project
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The-Manhattan-Project_gwi9ev.jpg)](https://www.amazon.com/dp/B007GC2R6K/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The-Manhattan-Project_gwi9ev.webp)](https://www.amazon.com/dp/B007GC2R6K/?tag=hexagamers-20)
 
 The Manhattan Project is another highly rated Euro style worker or people placement board game. The theme of this one is pretty different compared to many of the other games that come across our tables.
 
@@ -218,7 +218,7 @@ If you are looking for more of a “Take That” style of game, The Manhattan Pr
 ## 8. Stone Age ([Full Review Here](/stone-age-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Stone-Age_f5oj2l.jpg)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Stone-Age_f5oj2l.webp)](https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20)
 
 Stone Age is another really good worker placement games. This one is a little lighter than some of the others, on par with a game like Lords of Waterdeep, but that doesn’t mean it is any less fun than the other games listed here. One of the reasons it is further down on the list is due to how hard it can be to find since (at the time of writing) they aren't printing any more of these.
 
@@ -240,7 +240,7 @@ If you want a game that is quick to understand and get playing, this one is a go
 ## 9. Viticulture Essentials Edition
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Viticulture_vfe5s9.jpg)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Viticulture_vfe5s9.webp)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
 
 Feel like drinking some wine while playing a board game about making wine in Tuscany?! Gotcha covered! Viticulture does just that in this [Stonemaier Game](https://stonemaiergames.com/).
 
@@ -260,7 +260,7 @@ The game plays well with any number of people. In fact, the number of available 
 ## 10. Le Havre
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Le-Havre_f6hujf.jpg)](https://www.amazon.com/dp/B01N17W07Y/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Le-Havre_f6hujf.webp)](https://www.amazon.com/dp/B01N17W07Y/?tag=hexagamers-20)
 
 Le Havre is one of the best worker placement board games around. We were going to put this one higher on the list, but we already had two games by [Uwe Rosenberg](https://en.wikipedia.org/wiki/Uwe_Rosenberg) on the list (Agricola and Caverna). This one follows some of same principles and mechanics that the other two have, yet is unique enough to be on the list and to be on our shelves as well. Plus, at the time of writing this article, this game is in short supply and can be a bit hard to find.
 

@@ -11,11 +11,11 @@ tags:
   - "settlers-of-catan-strategies"
   - "strategy"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Game-Board_g1jbhf.jpg"
+coverImage: "https://img.hexagamers.com/Catan-Game-Board_g1jbhf.webp"
 description: "> Read our full thoughts: Ryan's Review of Settlers of Catan"
 ---
 
-![Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305654/Catan-1-244x300.jpg)
+![Catan](https://img.hexagamers.com/Catan-1-244x300.webp)
 
 > Read our full thoughts: [Ryan's Review of Settlers of Catan](/catan-review/)
 

@@ -18,11 +18,11 @@ tags:
   - "strategy"
   - "strategy-board-game"
   - "zingo"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461243/hexagamers-articles/best-board-games-3-year-olds-reviews.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-3-year-olds-reviews.webp"
 description: "Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Board-Games-For-3-year-olds_zhz5zh.png "Best Board Games For 3 year olds")
+![](https://img.hexagamers.com/Best-Board-Games-For-3-year-olds_zhz5zh.webp "Best Board Games For 3 year olds")
 
 Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we couldn’t wait to get our kids started. Not only that but they can [learn so much through playing board games](/why-are-board-games-important-for-kids/).
 
@@ -38,16 +38,16 @@ Trying to find a new game for the tot on your list can be super overwhelming. Th
 
 | Image | Game | Players | Age | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](#1-hoot-owl-hootfull-review-here) | Hoot Owl Hoot | 2-4 | 4+ | 15 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](#2-zingo) | Zingo | 2-7 | 4+ | 5 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](#3-count-your-chickensfull-review-here) | Count Your Chickens | 2-4 | 3+ | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](#4-candy-land) | Candy Land | 2-4 | 3+ | 15 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](#5-hi-ho-cherry-o) |   Hi Ho Cherry-O   | 2-4 | 3-6 | 5-10 | $ |  |
+| [![](https://img.hexagamers.com/Hoot-Owl-Hoot_l1pss7.webp)](#1-hoot-owl-hootfull-review-here) | Hoot Owl Hoot | 2-4 | 4+ | 15 min | $$ |  |
+| [![](https://img.hexagamers.com/Zingo_z7nzvg.webp)](#2-zingo) | Zingo | 2-7 | 4+ | 5 min | $$ |  |
+| [![](https://img.hexagamers.com/Count-Your-Chickens_ntdfih.webp)](#3-count-your-chickensfull-review-here) | Count Your Chickens | 2-4 | 3+ | 15 min | $ |  |
+| [![](https://img.hexagamers.com/Candy-Land_urzvom.webp)](#4-candy-land) | Candy Land | 2-4 | 3+ | 15 min | $ |  |
+| [![](https://img.hexagamers.com/Hi-Ho-Cherry-O_yr2fbq.webp)](#5-hi-ho-cherry-o) |   Hi Ho Cherry-O   | 2-4 | 3-6 | 5-10 | $ |  |
 
 ## 1. Hoot Owl Hoot ([Full Review Here](/hoot-owl-hoot-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hoot-Owl-Hoot_l1pss7.jpg)](https://www.amazon.com/dp/B004HVKAAI/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Hoot-Owl-Hoot_l1pss7.webp)](https://www.amazon.com/dp/B004HVKAAI/?tag=hexagamers-20)
 
 Quick baby owls! The night is almost over, let's get you back to your nest before the sun rises!
 
@@ -79,7 +79,7 @@ Great for working on:
 ## 2. Zingo
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Zingo_z7nzvg.jpg)](https://www.amazon.com/dp/B01DY818JG/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Zingo_z7nzvg.webp)](https://www.amazon.com/dp/B01DY818JG/?tag=hexagamers-20)
 
 Match up the picture tiles coming out of the Zingo Zinger with the images on your board. Be the first to fill up all your squares and shout Zingo!
 
@@ -109,7 +109,7 @@ Be sure to check out Zingo Word Builder on our Best Board Games For 4 Year Olds 
 ## 3. Count Your Chickens ([Full Review Here](/count-your-chickens-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Count-Your-Chickens_ntdfih.jpg)](https://www.amazon.com/dp/B004HVKAAS/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Count-Your-Chickens_ntdfih.webp)](https://www.amazon.com/dp/B004HVKAAS/?tag=hexagamers-20)
 
 Uh oh, Mama Hen is on her way back to the coop and all the baby chicks are out in the field. Can you help get all 40 baby chicks home before their Mama returns?
 
@@ -133,7 +133,7 @@ Great for working on:
 ## 4. Candy Land
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Candy-Land_urzvom.jpg)](https://www.amazon.com/dp/B00000DMF5/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Candy-Land_urzvom.webp)](https://www.amazon.com/dp/B00000DMF5/?tag=hexagamers-20)
 
 Race your gingerbread man along the rainbow path to try to be the first to reach King Kandy's Castle!
 
@@ -159,7 +159,7 @@ Great for working on:
 ## 5. Hi Ho Cherry O
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hi-Ho-Cherry-O_yr2fbq.jpg)](https://www.amazon.com/dp/B00000IWGQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Hi-Ho-Cherry-O_yr2fbq.webp)](https://www.amazon.com/dp/B00000IWGQ/?tag=hexagamers-20)
 
 The cherries are ripe, it's time to pick them! Be the first to pick all the cherries off of your tree and win the game.
 

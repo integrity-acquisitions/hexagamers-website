@@ -20,7 +20,7 @@ tags:
   - "cards-against-humanity"
   - "camel-up"
   - "two-rooms-and-a-boom"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781798183/hexagamers-reviews/best-board-games-for-8-players.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-8-players.webp"
 lastModified: 2026-06-18
 description: "Eight players kills most board games dead. Here are ten that don't just tolerate the crowd — they need it to work."
 ---
@@ -39,22 +39,22 @@ We pulled from BGG's large-group recommendation polls, Reddit threads asking the
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg)](#1-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941305/Secret_Hitler_a0jv7r.jpg)](#2-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](#4-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780940519/One_night_ultimate_werewolf_pvnehl.jpg)](#5-one-night-ultimate-werewolf) | One Night Ultimate Werewolf | 3–10 | 10 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941306/Spyfall_kbjmjb.jpg)](#6-spyfall) | Spyfall | 3–8 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780668918/sushi-go-party-edition_xq83ml.jpg)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299637/Cards-Against-Humanity_ebqnyd.jpg)](#8-cards-against-humanity) | Cards Against Humanity | 4–20+ | 30–90 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299585/Camel-Up-1_siqkeb.jpg)](#9-camel-up) | Camel Up | 2–8 | 20–30 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941307/Two_Rooms_and_a_Boom_ya3g8d.jpg)](#10-two-rooms-and-a-boom) | Two Rooms and a Boom | 6–30 | 15–30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](#1-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#2-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](#4-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/One_night_ultimate_werewolf_pvnehl.webp)](#5-one-night-ultimate-werewolf) | One Night Ultimate Werewolf | 3–10 | 10 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Spyfall_kbjmjb.webp)](#6-spyfall) | Spyfall | 3–8 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/sushi-go-party-edition_xq83ml.webp)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp)](#8-cards-against-humanity) | Cards Against Humanity | 4–20+ | 30–90 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Camel-Up-1_siqkeb.webp)](#9-camel-up) | Camel Up | 2–8 | 20–30 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Two_Rooms_and_a_Boom_ya3g8d.webp)](#10-two-rooms-and-a-boom) | Two Rooms and a Boom | 6–30 | 15–30 min | $ | — |
 
 ---
 
 ## 1. The Resistance: Avalon ([Full Review Here](/the-resistance-avalon-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg)](https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20)
 
 If you only buy one game off this list, make it this one. Avalon is a hidden-loyalty game where the table splits into loyal servants of Arthur and a small group of evil minions trying to sabotage them. Players take turns proposing teams to go on quests, everyone votes the team up or down, and the chosen members secretly pass or fail the mission. Three successes and the good side wins. Three failures and evil takes it. Nobody knows for certain who anyone is, and that's the whole game.
 
@@ -68,7 +68,7 @@ One note: this is a strategy game with party-game energy, not a true party game.
 
 ## 2. Secret Hitler
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941305/Secret_Hitler_a0jv7r.jpg)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
 
 Secret Hitler is Avalon's louder, more paranoid cousin, and it's just as good at eight. The table is secretly divided into liberals and fascists, and the fascists know each other while the liberals are working blind. Players take turns as President and Chancellor, enacting policies drawn from a deck — but because the draws are hidden, a fascist in power can claim they "had no choice" while quietly pushing the table toward disaster. Find and stop the hidden Hitler, or watch the wrong people seize control.
 
@@ -80,7 +80,7 @@ The theme is pointed, and the game knows it — the whole design is a tense, unc
 
 ## 3. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames splits everyone into two teams. A grid of 25 word cards sits in the middle, and each team's spymaster knows which words belong to their side. The spymaster gives a one-word clue and a number — "ocean, three" — and their teammates try to guess which words on the grid that clue points to, without accidentally hitting the other team's cards or the assassin that ends the game on the spot.
 
@@ -92,7 +92,7 @@ Linking two or more words with a single clue is harder than it looks, and that d
 
 ## 4. Telestrations
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](https://www.amazon.com/dp/B001SN8GF4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](https://www.amazon.com/dp/B001SN8GF4/?tag=hexagamers-20)
 
 Telestrations is the game of telephone, except you sketch instead of whisper. Everyone gets a little erasable booklet, writes down a word, then passes it. The next person draws that word, passes it on, and the person after that has to guess what the drawing is meant to be — then sketch *their* guess. By the time the booklet makes it back to you, your "lighthouse" has become a "rocket ship eating a sandwich," and you read the chain out loud to the table.
 
@@ -104,7 +104,7 @@ What sells it is that you don't need to be good at drawing. You need to be *bad*
 
 ## 5. One Night Ultimate Werewolf ([Full Review Here](/one-night-ultimate-werewolf-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780940519/One_night_ultimate_werewolf_pvnehl.jpg)](https://www.amazon.com/dp/B00HS7GG5G/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/One_night_ultimate_werewolf_pvnehl.webp)](https://www.amazon.com/dp/B00HS7GG5G/?tag=hexagamers-20)
 
 Classic Werewolf had a problem: players got eliminated and then sat there bored for the rest of the night. One Night fixes that by compressing the whole thing into a single round. Everyone gets a secret role, a companion app walks the table through one night of secret actions, and then you have about five minutes to argue out who the werewolves are before a single vote decides it. No elimination, no sitting out — you play again right away.
 
@@ -116,7 +116,7 @@ Because each game runs about ten minutes, it has a "one more round" pull that's 
 
 ## 6. Spyfall
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941306/Spyfall_kbjmjb.jpg)](https://www.amazon.com/dp/B078HTBQYJ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Spyfall_kbjmjb.webp)](https://www.amazon.com/dp/B078HTBQYJ/?tag=hexagamers-20)
 
 Spyfall is a deduction game built entirely out of awkward small talk. Everyone at the table gets a card showing the same location — a casino, a submarine, a hospital — except one player, the spy, who has no idea where everyone is. Players take turns asking each other pointed questions about the location, trying to expose the spy without giving away too much. The spy is listening hard, trying to figure out the location before they get caught. Either side can win, and the tension runs both ways.
 
@@ -128,7 +128,7 @@ It plays in about fifteen minutes and the rounds are short enough to run several
 
 ## 7. Sushi Go Party!
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780668918/sushi-go-party-edition_xq83ml.jpg)](https://www.amazon.com/dp/B01CETNKE2/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/sushi-go-party-edition_xq83ml.webp)](https://www.amazon.com/dp/B01CETNKE2/?tag=hexagamers-20)
 
 Sushi Go Party! is the bigger-table version of the beloved little card-drafting game. Everyone holds a hand of cards, picks one to keep, and passes the rest to their neighbour — then does it again with the hand they just received, until the cards run out. You're collecting sets of sushi dishes that score in different ways: some want pairs, some reward whoever has the most, some are worthless unless you commit. The "Party" edition bumps the player cap up to eight and lets you swap which dishes are in play.
 
@@ -140,7 +140,7 @@ The catch is the planning. You can only scheme so far ahead, because you don't k
 
 ## 8. Cards Against Humanity ([Full Review Here](/cards-against-humanity-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299637/Cards-Against-Humanity_ebqnyd.jpg)](https://www.amazon.com/dp/B0771YL7DZ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp)](https://www.amazon.com/dp/B0771YL7DZ/?tag=hexagamers-20)
 
 You almost certainly already know this one. A rotating judge plays a fill-in-the-blank prompt card, everyone else submits the most ridiculous white card from their hand, and the judge picks their favourite. Repeat until someone's had enough. It's crude, it's simple, and it lives or dies entirely on the people playing it.
 
@@ -152,7 +152,7 @@ We'll be honest about the caveat, because the game won't be: it's only as good a
 
 ## 9. Camel Up ([Full Review Here](/camel-up-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299585/Camel-Up-1_siqkeb.jpg)](https://www.amazon.com/dp/B09KWZMXLX/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Camel-Up-1_siqkeb.webp)](https://www.amazon.com/dp/B09KWZMXLX/?tag=hexagamers-20)
 
 Camel Up is a betting game dressed up as a camel race. Dice come tumbling out of a little pyramid to move the camels around the track, and your job is to bet on who'll win each leg — and the overall race — before everyone else catches the same idea. The camels stack on top of each other, so a camel at the bottom of a pile can carry the whole stack forward, which means the lead changes in ways nobody quite sees coming.
 
@@ -164,7 +164,7 @@ There's heavy luck here, no question, but you're always making a calculated gues
 
 ## 10. Two Rooms and a Boom
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941307/Two_Rooms_and_a_Boom_ya3g8d.jpg)](https://www.amazon.com/dp/B0BP7462RQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Two_Rooms_and_a_Boom_ya3g8d.webp)](https://www.amazon.com/dp/B0BP7462RQ/?tag=hexagamers-20)
 
 This is the one that needs the crowd most. Two Rooms and a Boom splits everyone into two physical rooms, and the whole game runs on a hidden role in each: the Bomber on the red team and the President on the blue team. Over a series of timed rounds, the rooms swap hostages back and forth, and at the end, the blue team wins if the President and Bomber end up apart — the red team wins if they're together when the timer runs out. Everyone's trying to figure out, move, or hide the people who matter.
 

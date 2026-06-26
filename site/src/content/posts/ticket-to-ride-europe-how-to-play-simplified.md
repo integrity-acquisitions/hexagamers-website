@@ -12,11 +12,11 @@ tags:
   - "ticket-to-ride-europe"
   - "ticket-to-ride-europe-how-to-play"
   - "trains"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460212/hexagamers-guides/ticket-to-ride-europe-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/ticket-to-ride-europe-how-to-play-simplified.webp"
 description: "Connect cities across Europe with coloured trains to complete routes and score points. Longer routes are worth more points. But watch out — rivals may be…"
 ---
 
-![Ticket to Ride: Europe](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-to-Ride-Europe-Game-Board_cnyswt.jpg)
+![Ticket to Ride: Europe](https://img.hexagamers.com/Ticket-to-Ride-Europe-Game-Board_cnyswt.webp)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>

@@ -11,7 +11,7 @@ tags:
   - "engine-building"
   - "gateway-game"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780494472/hexagamers-reviews/splendor-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/splendor-how-to-play-simplified.webp"
 lastModified: 2026-06-03
 description: "You're a Renaissance merchant collecting gem tokens, using them to buy gem cards, then better ones on your way to 15 prestige points. Learn Splendor in five minutes."
 ---

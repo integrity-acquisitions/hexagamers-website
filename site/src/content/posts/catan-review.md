@@ -10,7 +10,7 @@ tags:
   - "catan"
   - "gateway-games"
   - "settlers-of-catan"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422325/hexagamers-reviews/catan-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/catan-review.webp"
 lastModified: 2025-01-01
 description: "Collect resources, build settlements, roads, and cities, and race to become the most dominant colony in Catan. Trade with your opponents when you need what…"
 ---
@@ -19,7 +19,7 @@ description: "Collect resources, build settlements, roads, and cities, and race 
 
 Collect resources, build settlements, roads, and cities, and race to become the most dominant colony in Catan. Trade with your opponents when you need what they have — just don't let them get too far ahead.
 
-![A Catan game board set up with settlements and roads](https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Game-Board_g1jbhf.jpg "A Catan board mid-game")
+![A Catan game board set up with settlements and roads](https://img.hexagamers.com/Catan-Game-Board_g1jbhf.webp "A Catan board mid-game")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3 – 4</span><span class="stat-label">Players</span></div>
@@ -51,7 +51,7 @@ If you've found this review, you've almost certainly heard of Catan. You've prob
 
 My quick take: I enjoy the game, I understand why it's the gateway game, and it will always be in my collection — but it isn't my favourite.
 
-![The contents of a Catan box laid out](https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Contents_yvo5y4.jpg "Catan box contents")
+![The contents of a Catan box laid out](https://img.hexagamers.com/Catan-Contents_yvo5y4.webp "Catan box contents")
 
 ## Thoughts
 
@@ -65,18 +65,18 @@ Catan is one of those games that pulls people into the board game world. For tha
 
 **What I love: trading.** This is where Catan truly shines. The negotiation around resources — who you'll trade with, at what rate, who you're quietly helping toward a win — adds a social layer that no other mechanic replicates. Trade embargoes happen. Alliances form. Someone gets everyone to stop trading with Whitney because she's three turns from winning. The passion and argumentation that erupts around the trading phase is genuinely entertaining.
 
-![Catan resource and development cards held by a player](https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Resources-and-Development-Cards-2_ikhjkr.jpg "Catan resource and development cards")
+![Catan resource and development cards held by a player](https://img.hexagamers.com/Catan-Resources-and-Development-Cards-2_ikhjkr.webp "Catan resource and development cards")
 
 **Development cards** add a needed wild card. Not knowing whether your opponent's held card is a VP, a Knight, or a Monopoly means you can't fully predict their next move. That uncertainty keeps you slightly on edge throughout.
 
 **The Robber** is both the most loved and hated mechanic. Rolling a 7 or playing a Knight lets you move it to block someone's resource tile and steal from them. Whoever you place it on becomes your sworn enemy for approximately the rest of the game. I've created enemies at a Catan table that outlasted the evening. Worth it.
 
-![The robber piece blocking a resource tile in Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Robber_tj13yh.jpg "The robber in Catan")
+![The robber piece blocking a resource tile in Catan](https://img.hexagamers.com/Catan-Robber_tj13yh.webp "The robber in Catan")
 
 **The random board is excellent.** Every game looks different, which gives Catan genuine longevity. Some boards are unfair — one resource clustered in a corner — but honestly that adds to the fun. It creates different constraints and forces creative play.
 
 ## Conclusion
 
-![The Longest Road and Largest Army bonus cards in Catan](https://res.cloudinary.com/dt4ujaczs/image/upload/Catan-Longest-Road-and-Largest-Army-Cards_it9bao.jpg "Longest Road and Largest Army cards")
+![The Longest Road and Largest Army bonus cards in Catan](https://img.hexagamers.com/Catan-Longest-Road-and-Largest-Army-Cards_it9bao.webp "Longest Road and Largest Army cards")
 
 Catan is a must-own for anyone starting out. It's the game you play with people who've never played "real" board games, and it opens the door. For experienced players it stays on the shelf as a reliable, fun option for mixed groups — especially when the trading gets heated. The luck factor and slow early game are real frustrations, but they're also what make the game accessible. Go in knowing lady luck might not be on your side tonight, and you'll have a good time.

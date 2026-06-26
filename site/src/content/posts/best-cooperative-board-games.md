@@ -14,12 +14,12 @@ tags:
   - "mysterium"
   - "pandemic"
   - "robinson-crusoe-adventure-on-the-cursed-island"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461176/hexagamers-articles/best-cooperative-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-cooperative-board-games.webp"
 lastModified: 2025-01-01
 description: "Cooperative Board Games! One of our favorite categories!"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cooperative_gyb8mb.png "Cooperative")
+![](https://img.hexagamers.com/Cooperative_gyb8mb.webp "Cooperative")
 
 > Want what's new instead of the all-time greats? See our [Best Cooperative Board Games in 2026](/best-cooperative-board-games-2026/) list — the standout co-ops released in the last few years.
 
@@ -45,18 +45,18 @@ Click the thumbnail to jump down to the game write up
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#1-pandemicfull-review-here) | Pandemic | 2-4 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](#2-robinson-crusoe-adventure-on-the-cursed-island) | Robinson Crusoe: Adventure on the Cursed Island | 1-4 | 90-180 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](#3-mysterium) | Mysterium | 2-7 | 42 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](#4-flash-point-fire-rescuefull-review-here) | Flash Point: Fire Rescue | 1-6 | 45 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](#5-eldritch-horror) | Eldritch Horror | 1-8 | 120-240 min | $$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](#6-forbidden-desertfull-review-here) | Forbidden Desert | 2-5 | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](#7-betrayal-at-house-on-the-hillfull-review-here) | Betrayal at House on the Hill | 3-6 | 60 min | $$ |  |
+| [![](https://img.hexagamers.com/Pandemic.webp)](#1-pandemicfull-review-here) | Pandemic | 2-4 | 45 min | $$$ |  |
+| [![](https://img.hexagamers.com/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.webp)](#2-robinson-crusoe-adventure-on-the-cursed-island) | Robinson Crusoe: Adventure on the Cursed Island | 1-4 | 90-180 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Mysterium_x7x39l.webp)](#3-mysterium) | Mysterium | 2-7 | 42 min | $$$ |  |
+| [![](https://img.hexagamers.com/Flash-Point-Fire-Rescue_h0uvkf.webp)](#4-flash-point-fire-rescuefull-review-here) | Flash Point: Fire Rescue | 1-6 | 45 min | $$$ |  |
+| [![](https://img.hexagamers.com/Eldritch-Horror_c5pooz.webp)](#5-eldritch-horror) | Eldritch Horror | 1-8 | 120-240 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Forbidden-Desert_bfbd8t.webp)](#6-forbidden-desertfull-review-here) | Forbidden Desert | 2-5 | 45 min | $$ |  |
+| [![](https://img.hexagamers.com/Betrayal-1.webp)](#7-betrayal-at-house-on-the-hillfull-review-here) | Betrayal at House on the Hill | 3-6 | 60 min | $$ |  |
 
 ## 1. Pandemic ([Full Review Here](/codenames-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is by far our favorite co-operative board game. In this game you and your teammates (2-4 players) are battling against the board to cure and eradicate (wipe out) diseases before they take over the world.
 
@@ -76,7 +76,7 @@ Whether you own a coop game already or are looking to add one to your collection
 ## 2. Robinson Crusoe: Adventure on the Cursed Island
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](https://www.amazon.com/dp/B01HDYFCJO/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.webp)](https://www.amazon.com/dp/B01HDYFCJO/?tag=hexagamers-20)
 
 Robinson Crusoe takes place on a deserted island. You and your friends have been shipwrecked and must complete one of the 6 game scenarios to make it off the island!
 
@@ -90,7 +90,7 @@ For this reason the dominant player issue can come up, but with Robinson Crusoe 
 ## 3. Mysterium
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mysterium_x7x39l.jpg)](https://www.amazon.com/dp/B013TJ5P80/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Mysterium_x7x39l.webp)](https://www.amazon.com/dp/B013TJ5P80/?tag=hexagamers-20)
 
 Welcome to the haunted mansion of Mysterium. This one made our list of top cooperative boards games because we love its unique twist. One player, while still part of the team, plays the role of the ghost and doesn't get to talk the entire time. The remaining players are the investigators.
 
@@ -106,7 +106,7 @@ If we had one complaint it would be that although it says 2-7 players it plays b
 ## 4. Flash Point: Fire Rescue ([Full Review Here](/flash-point-fire-rescue-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Flash-Point-Fire-Rescue_h0uvkf.jpg)](https://www.amazon.com/dp/B0084M8UEE/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Flash-Point-Fire-Rescue_h0uvkf.webp)](https://www.amazon.com/dp/B0084M8UEE/?tag=hexagamers-20)
 
 Flash Point fire rescue is often compared to Pandemic. It is set in a burning building and your team's objective as firefighters is to rescue occupants from the building before it collapses.
 
@@ -120,7 +120,7 @@ Theme wise, Flash Point is excellent, it's more realistic than Pandemic since yo
 ## 5. Eldritch Horror
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](https://www.amazon.com/dp/1616617667/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Eldritch-Horror_c5pooz.webp)](https://www.amazon.com/dp/1616617667/?tag=hexagamers-20)
 
 Eldritch Horror takes place around the world. You and 7 friends (but we prefer it with 4 players), are working together as a team of investigators trying to prevent the end of the world by keeping the Ancient One from awakening.
 
@@ -140,7 +140,7 @@ Looking for more Board Games you can play solo? Check out...[Best Single Player
 ## 6. Forbidden Desert ([Full Review Here](/forbidden-desert-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Forbidden-Desert_bfbd8t.webp)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
 
 Similar to Robinson Crusoe, Forbidden Desert also has you stranded, but this time in the Desert. Your plane has crashed and you need to scour the desert to find the pieces so that you can rebuild, and eventually escape.
 
@@ -156,7 +156,7 @@ That being said, the game is very well done it requires a lot of teamwork and it
 ## 7. Betrayal at House on the Hill ([Full Review Here](/betrayal-at-house-on-the-hill-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305599/Betrayal-1.jpg)](https://www.amazon.com/dp/B08Q44HS82/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Betrayal-1.webp)](https://www.amazon.com/dp/B08Q44HS82/?tag=hexagamers-20)
 
 For our final coop board game Honorable Mention we have the most disputed game of our collection.
 

@@ -11,7 +11,7 @@ tags:
   - "slay-the-spire-board-game"
   - "star-wars-deckbuilding-game"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1782142091/hexagamers-reviews/best-deck-building-board-games-2026.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-deck-building-board-games-2026.webp"
 lastModified: 2026-06-18
 description: "The best deck building board games of the last few years (2023-2026) — the new releases reshaping the genre, not the old Dominion-era classics."
 ---
@@ -34,17 +34,17 @@ Click the thumbnail to jump down to the game write up.
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Dune_-_Imperium_Uprising_numiud.jpg)](#1-dune-imperium-uprising) | Dune: Imperium – Uprising | 1-6 | 60-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Slay_the_Spire_-_The_Board_Game_wnknvs.jpg)](#2-slay-the-spire-the-board-game) | Slay the Spire: The Board Game | 1-4 | 60+ min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Star_Wars_-_The_Deckbuilding_Game_mtvh3j.jpg)](#3-star-wars-the-deckbuilding-game) | Star Wars: The Deckbuilding Game | 2 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Star_Wars_-_The_Deckbuilding_Game_Clone_Wars_mo9xhz.jpg)](#4-star-wars-the-deckbuilding-game-clone-wars) | Star Wars: The Deckbuilding Game – Clone Wars | 2-4 | 45 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Ascension_Legends_ljahrr.webp)](#5-ascension-legends) | Ascension Legends | 1-4 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Endeavor_-_Deep_Sea-1_sjvjfx.webp)](#6-endeavor-deep-sea) | Endeavor: Deep Sea | 1-4 | 60-90 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Leviathan_Wilds_bn6hce.webp)](#7-leviathan-wilds) | Leviathan Wilds | 1-4 | 45-60 min | $$$ | — |
+| [![](https://img.hexagamers.com/Dune_-_Imperium_Uprising_numiud.webp)](#1-dune-imperium-uprising) | Dune: Imperium – Uprising | 1-6 | 60-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Slay_the_Spire_-_The_Board_Game_wnknvs.webp)](#2-slay-the-spire-the-board-game) | Slay the Spire: The Board Game | 1-4 | 60+ min | $$$$ | — |
+| [![](https://img.hexagamers.com/Star_Wars_-_The_Deckbuilding_Game_mtvh3j.webp)](#3-star-wars-the-deckbuilding-game) | Star Wars: The Deckbuilding Game | 2 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Star_Wars_-_The_Deckbuilding_Game_Clone_Wars_mo9xhz.webp)](#4-star-wars-the-deckbuilding-game-clone-wars) | Star Wars: The Deckbuilding Game – Clone Wars | 2-4 | 45 min | $$$ | — |
+| [![](https://img.hexagamers.com/Ascension_Legends_ljahrr.webp)](#5-ascension-legends) | Ascension Legends | 1-4 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Endeavor_-_Deep_Sea-1_sjvjfx.webp)](#6-endeavor-deep-sea) | Endeavor: Deep Sea | 1-4 | 60-90 min | $$$$ | — |
+| [![](https://img.hexagamers.com/Leviathan_Wilds_bn6hce.webp)](#7-leviathan-wilds) | Leviathan Wilds | 1-4 | 45-60 min | $$$ | — |
 
 ## 1. Dune: Imperium – Uprising
 
-[![Dune: Imperium – Uprising](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Dune_-_Imperium_Uprising_numiud.jpg)](https://www.amazon.com/dp/B0CF3MVMKH/?tag=hexagamers-20)
+[![Dune: Imperium – Uprising](https://img.hexagamers.com/Dune_-_Imperium_Uprising_numiud.webp)](https://www.amazon.com/dp/B0CF3MVMKH/?tag=hexagamers-20)
 
 If one game proves where deck building went, it's this one. Dune: Imperium – Uprising (2023) is a standalone follow-up to the wildly popular Dune: Imperium, and it fuses deck building with worker placement so tightly you stop thinking of them as separate systems. The cards in your hand don't just generate money and combat — they decide *where* your agents can go on the board that turn. A weak hand isn't only weak resources, it's a turn with no good options.
 
@@ -56,7 +56,7 @@ You don't need the first Dune: Imperium to play Uprising — it stands fully on 
 
 ## 2. Slay the Spire: The Board Game
 
-[![Slay the Spire: The Board Game](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Slay_the_Spire_-_The_Board_Game_wnknvs.jpg)](https://www.amazon.com/dp/B0D8LZ6W9L/?tag=hexagamers-20)
+[![Slay the Spire: The Board Game](https://img.hexagamers.com/Slay_the_Spire_-_The_Board_Game_wnknvs.webp)](https://www.amazon.com/dp/B0D8LZ6W9L/?tag=hexagamers-20)
 
 The tabletop version of the genre-defining video game landed in 2024, and it's the purest jolt of "my deck became a monster" on this list. You start with a feeble pile of cards and climb a branching spire, picking up cards and relics that combo into something genuinely broken by the end — then you find out whether it's broken enough to survive the boss.
 
@@ -68,7 +68,7 @@ Be ready for a real teach and 60+ minutes, plus a big-box footprint. This is the
 
 ## 3. Star Wars: The Deckbuilding Game
 
-[![Star Wars: The Deckbuilding Game](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Star_Wars_-_The_Deckbuilding_Game_mtvh3j.jpg)](https://www.amazon.com/dp/B0BLT6F5VY/?tag=hexagamers-20)
+[![Star Wars: The Deckbuilding Game](https://img.hexagamers.com/Star_Wars_-_The_Deckbuilding_Game_mtvh3j.webp)](https://www.amazon.com/dp/B0BLT6F5VY/?tag=hexagamers-20)
 
 This is the closest thing on the list to the lean, classic feel — and it's a fantastic two-player duel. Released in 2023 by Fantasy Flight, one player runs the Empire and the other the Rebellion, each buying from a shared galaxy row to build a deck that attacks the other side's bases. First to blow up three enemy bases wins.
 
@@ -80,7 +80,7 @@ For couples or any pair who want a quick, sharp head-to-head, this is the easy p
 
 ## 4. Star Wars: The Deckbuilding Game – Clone Wars
 
-[![Star Wars: The Deckbuilding Game – Clone Wars](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812899/Star_Wars_-_The_Deckbuilding_Game_Clone_Wars_mo9xhz.jpg)](https://www.amazon.com/dp/B0D4C1S1Q3/?tag=hexagamers-20)
+[![Star Wars: The Deckbuilding Game – Clone Wars](https://img.hexagamers.com/Star_Wars_-_The_Deckbuilding_Game_Clone_Wars_mo9xhz.webp)](https://www.amazon.com/dp/B0D4C1S1Q3/?tag=hexagamers-20)
 
 The 2024 standalone expands the duel into a 2-4 player, team-based fight set during the Clone Wars. You can still play one-on-one, but the new mode lets Republic and Separatist sides field multiple players, with shared bases to defend and a bigger tactical board to fight across.
 
@@ -92,7 +92,7 @@ You don't need the original to play it — Clone Wars is a complete game in its 
 
 ## 5. Ascension Legends
 
-[![Ascension Legends](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Ascension_Legends_ljahrr.webp)](https://www.boardgamebliss.com/products/ascension-legends)
+[![Ascension Legends](https://img.hexagamers.com/Ascension_Legends_ljahrr.webp)](https://www.boardgamebliss.com/products/ascension-legends)
 
 For anyone who misses the clean, old-school center-row deck builder, Ascension Legends is the recent release that keeps the faith. It's a fresh standalone set in the long-running Ascension line, built so newcomers can sit down cold while veterans still find new combos. You buy heroes and constructs from a shifting center row, bank runes and power, and race to out-value the table.
 
@@ -104,7 +104,7 @@ This is the comfort-food pick. If "deck building" to you means the tidy engine-b
 
 ## 6. Endeavor: Deep Sea
 
-[![Endeavor: Deep Sea](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812898/Endeavor_-_Deep_Sea-1_sjvjfx.webp)](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+[![Endeavor: Deep Sea](https://img.hexagamers.com/Endeavor_-_Deep_Sea-1_sjvjfx.webp)](https://www.boardgamebliss.com/products/endeavor-deep-sea)
 
 Endeavor: Deep Sea (2024) isn't a deck builder in the strict sense, but it earns a spot for the same reason so much of this list is hybrid: it captures the *feeling* of building toward an unstoppable engine, and it does it beautifully. You crew deep-sea research expeditions, recruiting specialists and upgrading your ship so each dive reaches further than the last.
 
@@ -116,7 +116,7 @@ We're including it for engine-building fans who like the deck-builder payoff but
 
 ## 7. Leviathan Wilds
 
-[![Leviathan Wilds](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Leviathan_Wilds_bn6hce.webp)](https://leviathanwilds.com/)
+[![Leviathan Wilds](https://img.hexagamers.com/Leviathan_Wilds_bn6hce.webp)](https://leviathanwilds.com/)
 
 Leviathan Wilds (2024) rounds out the list as a lighter, story-forward pick. It's a co-op (and excellent solo) climbing game where you scale enormous corrupted beasts to heal them, managing a hand of action cards that you play to move, grip, and recover as you ascend.
 

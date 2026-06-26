@@ -12,7 +12,7 @@ tags:
   - "strategy"
   - "family-board-games"
   - "party-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779462693/hexagamers-reviews/games-that-play-better-with-4-players.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/games-that-play-better-with-4-players.webp"
 lastModified: 2026-05-22
 description: "Four players is the sweet spot for most game nights. Here are the titles that seem to work better as four player games than two or three player games., and generally are just games worth buying."
 ---
@@ -31,17 +31,17 @@ If you're looking for more recommendations, we also have lists for [best gateway
 
 | Image | Game | Players | Time | Price |
 | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#1-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#2-catan-full-review-here) | Catan | 3–4 | 60–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](#3-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#4-azul) | Azul | 2–4 | 30–45 min | $$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#5-codenames-full-review-here) | Codenames | 2–8+ | 15–30 min | $ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](#6-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2–5 | 60–120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](#7-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ |
+| [![](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#1-wingspan-full-review-here) | Wingspan | 1–5 | 40–70 min | $$$ |
+| [![](https://img.hexagamers.com/Catan-1.webp)](#2-catan-full-review-here) | Catan | 3–4 | 60–120 min | $$$ |
+| [![](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#3-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ |
+| [![](https://img.hexagamers.com/Azul_znrp2h.webp)](#4-azul) | Azul | 2–4 | 30–45 min | $$ |
+| [![](https://img.hexagamers.com/Codenames.webp)](#5-codenames-full-review-here) | Codenames | 2–8+ | 15–30 min | $ |
+| [![](https://img.hexagamers.com/Lords_of_Waterdeep_louwng.webp)](#6-lords-of-waterdeep-full-review-here) | Lords of Waterdeep | 2–5 | 60–120 min | $$$ |
+| [![](https://img.hexagamers.com/Splendor_nfjkdp.webp)](#7-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ |
 
 ## 1. Wingspan ([Full Review Here](/wingspan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
 Wingspan works best with four. Three feels thin — you don't have enough competition over bird habitats to matter. Four players means the round card drafts tighten up, the inter-round action competition gets real, and the egg/food economy actually feels like a constraint instead of an afterthought.
 
@@ -53,7 +53,7 @@ The habitat competition and card draft get tense in a way that two and three can
 
 ## 2. Catan ([Full Review Here](/catan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
 This was one of the first modern board games that we played, and we played it as a couple — I thought the trading felt forced and the robber was annoying. After a few more plays I got it. Catan is basically a social dynamics game wearing a resource game's clothes, and at four you finally have enough players for that social layer to do anything. Two people trading is a transaction. Four people trading is politics.
 
@@ -65,7 +65,7 @@ It's essentially designed for this count. Five and six (with expansion) get chao
 
 ## 3. Ticket to Ride ([Full Review Here](/ticket-to-ride-europe-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463072/hexagamers-box-art/ticket-to-ride.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
 I used to think Ticket to Ride was just a gateway game you graduate away from. Then we played it with four competitive people and I had to revise that. Route blocking becomes a real weapon at four — someone will cut off your longest path on purpose, and you either adapt or lose six points on a failed destination. That sting is what makes it fun.
 
@@ -77,7 +77,7 @@ Enough pressure on routes to matter, not so many players that turns take forever
 
 ## 4. Azul
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
 Azul is the surprise on this list. It looks like a light abstract game — colorful tiles, clean design, could be a kids game. It is not a kids game. At four players, the tile-drafting becomes a puzzle of denying as much as claiming, and someone always ends the game furious about a tile they needed that someone else "accidentally" pulled.
 
@@ -89,7 +89,7 @@ The factory display tile counts are built for this player count. At two it's sol
 
 ## 5. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 You need four for Codenames. Two-player cooperative works, but it's not the same game — you're missing the friction of one person knowing exactly what the Spymaster means and another person confidently going for the wrong card. That moment where your teammate chooses the assassin card and you can't say anything: that's what Codenames is. It only exists at four-plus.
 
@@ -101,7 +101,7 @@ It's a team game, and you need teams. Once you have them, this is one of the mos
 
 ## 6. Lords of Waterdeep ([Full Review Here](/lords-of-waterdeep-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Lords_of_Waterdeep_louwng.jpg)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Lords_of_Waterdeep_louwng.webp)](https://www.amazon.com/dp/0786959916/?tag=hexagamers-20)
 
 Lords of Waterdeep is a worker placement game that doesn't feel like a worker placement game until someone explains why they just blocked the spot you needed. D&D theme, clean mechanics, and a quest card system that keeps it moving without getting bogged down. At four, the board fills up enough that every placement decision has weight. At two it feels sparse.
 
@@ -113,7 +113,7 @@ Worker placement lives and dies by player count. Four is the minimum before the 
 
 ## 7. Splendor ([Full Review Here](/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Splendor_nfjkdp.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is the fastest teach on this list. The rules fit on a single card. But at four players the gem chip economy gets stretched just enough that you start feeling real pressure — someone's always three moves ahead, and the card development choices that felt free at two become hard decisions at four.
 

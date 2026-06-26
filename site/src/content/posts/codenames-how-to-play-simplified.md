@@ -10,14 +10,14 @@ tags:
   - "how-to-play-simplified"
   - "party-game"
   - "spy"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312319/hexagamers-guides/codenames-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/codenames-how-to-play-simplified.webp"
 lastModified: 2025-01-01
 description: "Two spy teams compete to contact all their agents first. Your Spymaster gives one-word clues linking multiple codenames on the grid — but guess wrong and…"
 ---
 
 Two spy teams compete to contact all their agents first. Your Spymaster gives one-word clues linking multiple codenames on the grid — but guess wrong and you might hand the game to your rivals, or hit the assassin and lose instantly.
 
-![A 5x5 grid of Codenames word cards laid out on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/Codenames-5-x-5-1_rinoii.jpg "The 5x5 grid of word cards")
+![A 5x5 grid of Codenames word cards laid out on the table](https://img.hexagamers.com/Codenames-5-x-5-1_rinoii.webp "The 5x5 grid of word cards")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>
@@ -29,7 +29,7 @@ Two spy teams compete to contact all their agents first. Your Spymaster gives on
 
 ## Setup
 
-![A Codenames key card, seen only by the Spymasters](https://res.cloudinary.com/dt4ujaczs/image/upload/Codenames-Key-1_xnm9kz.jpg "A Codenames key card")
+![A Codenames key card, seen only by the Spymasters](https://img.hexagamers.com/Codenames-Key-1_xnm9kz.webp "A Codenames key card")
 
 <div class="steps">
   <div class="step"><span class="step-num">1</span><div>Lay out <strong>25 word cards</strong> in a 5×5 grid in the centre of the table.</div></div>
@@ -40,7 +40,7 @@ Two spy teams compete to contact all their agents first. Your Spymaster gives on
 
 ## How a Turn Works
 
-![The coloured agent cards placed on guessed words](https://res.cloudinary.com/dt4ujaczs/image/upload/Codenames-Agents_simjv8.jpg "Codenames agent cards")
+![The coloured agent cards placed on guessed words](https://img.hexagamers.com/Codenames-Agents_simjv8.webp "Codenames agent cards")
 
 <div class="steps">
   <div class="step"><span class="step-num">1</span><div>The active Spymaster gives a <strong>one-word clue</strong> followed by a number: the clue word plus how many cards on the grid it relates to. Example: <em>"Animals: 3"</em></div></div>
@@ -62,7 +62,7 @@ Two spy teams compete to contact all their agents first. Your Spymaster gives on
     <p class="rule-num">INSTANT LOSS</p>
     <p class="rule-title">Hit the assassin</p>
     <p>If any team touches the assassin card, that team immediately loses — no matter how many agents remain.</p>
-    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Codenames-Assassin1_vy03rg.jpg" alt="The assassin card in Codenames" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;">
+    <img src="https://img.hexagamers.com/Codenames-Assassin1_vy03rg.webp" alt="The assassin card in Codenames" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;">
   </div>
 </div>
 

@@ -9,7 +9,7 @@ tags:
   - "7-wonders-how-to-play"
   - "card-drafting"
   - "how-to-play-simplified"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312265/hexagamers-guides/7-wonders-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/7-wonders-how-to-play-simplified.webp"
 lastModified: 2025-01-01
 description: "Build an empire across three ages of card drafting. Collect resources, construct buildings, develop armies, and complete your Wonder to earn more Victory…"
 ---

@@ -13,11 +13,11 @@ tags:
   - "lying"
   - "micro-game"
   - "stealing"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312394/hexagamers-guides/coup-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/coup-how-to-play-simplified.webp"
 description: "Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from, tax, assassinate, and Coup your opponents — or at least convincingly…"
 ---
 
-![Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312394/hexagamers-guides/coup-how-to-play-simplified.jpg)
+![Coup](https://img.hexagamers.com/hexagamers-guides/coup-how-to-play-simplified.webp)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 6</span><span class="stat-label">Players</span></div>
@@ -35,9 +35,9 @@ Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from
 - Coins
 - 6 action reference cards (one per player)
 
-![The Coup character cards](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Character-Cards_xufhqm.jpg "Coup character cards")
+![The Coup character cards](https://img.hexagamers.com/Coup-Character-Cards_xufhqm.webp "Coup character cards")
 
-![The coins used to pay for actions](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Coins_wus8te.jpg "Coup coins")
+![The coins used to pay for actions](https://img.hexagamers.com/Coup-Coins_wus8te.webp "Coup coins")
 
 ## Setup
 
@@ -54,7 +54,7 @@ On your turn, you declare an action. Here's the key: **you can perform the actio
 
 After you declare, every other player has three options:
 
-![The Coup cheat sheet listing every action and counter-action](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Cheat-Sheet-2_avqcbk.jpg "Coup cheat sheet")
+![The Coup cheat sheet listing every action and counter-action](https://img.hexagamers.com/Coup-Cheat-Sheet-2_avqcbk.webp "Coup cheat sheet")
 
 <div class="rule-cards">
   <div class="rule-card">
@@ -104,7 +104,7 @@ Aggressive calling without evidence burns you fast. Patient players who pick the
 
 Once you've got the base game down, there are several rule variations worth trying — see our [Alternative Coup Variations](/coup-alternative-game-play-variations/) guide.
 
-![A reference sheet of alternative Coup game-play rules](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Alternative-Game-Play-Rules_dpwfvl.jpg "Alternative Coup rules")
+![A reference sheet of alternative Coup game-play rules](https://img.hexagamers.com/Coup-Alternative-Game-Play-Rules_dpwfvl.webp "Alternative Coup rules")
 
 ## Frequently Asked Questions
 

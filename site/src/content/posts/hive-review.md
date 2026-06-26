@@ -8,7 +8,7 @@ tags:
   - "hive"
   - "strategy-board-game"
   - "two-player"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458968/hexagamers-reviews/hive-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/hive-review.webp"
 description: "Two players face off with hexagonal bug tiles. Protect your Queen Bee while surrounding your opponent's — using ants, beetles, grasshoppers, and spiders…"
 ---
 

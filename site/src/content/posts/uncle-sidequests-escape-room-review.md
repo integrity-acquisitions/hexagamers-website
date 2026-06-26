@@ -8,7 +8,7 @@ tags:
   - "escape-room-review"
   - "sidequests"
   - "yeg"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779311522/hexagamers-reviews/uncle-sidequests-escape-room-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/uncle-sidequests-escape-room-review.webp"
 description: "A puzzle-heavy prison break room from SideQuests. Linear and non-linear sections, heavy clue density, and a high challenge floor. Not for beginners."
 ---
 

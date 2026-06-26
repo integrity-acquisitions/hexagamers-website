@@ -9,7 +9,7 @@ tags:
   - "dimension"
   - "fast-paced"
   - "puzzle-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458920/hexagamers-reviews/dimension-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/dimension-review.webp"
 description: "Race the clock to stack coloured balls in a pyramid that satisfies a randomly drawn set of rules. Six rounds, one minute each. Fast-paced, decision-heavy,…"
 ---
 
@@ -17,7 +17,7 @@ description: "Race the clock to stack coloured balls in a pyramid that satisfies
 
 Race the clock to stack coloured balls in a pyramid that satisfies a randomly drawn set of rules. Six rounds, one minute each. Fast-paced, decision-heavy, and surprisingly brain-burning.
 
-![A completed Dimension pyramid of coloured balls](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Played-Board_izbz0z.jpg "A finished Dimension pyramid")
+![A completed Dimension pyramid of coloured balls](https://img.hexagamers.com/Dimension-Played-Board_izbz0z.webp "A finished Dimension pyramid")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">1 – 4</span><span class="stat-label">Players</span></div>
@@ -45,33 +45,33 @@ You know when you pick up a Christmas gift and just know it's a board game? That
 
 The packaging said "fast-paced puzzle game." The staff at the game shop had recommended it highly. I was curious and skeptical. Turns out: it's really fun.
 
-![The Dimension board game box](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Box_ea2d1k.jpg "The Dimension box")
+![The Dimension board game box](https://img.hexagamers.com/Dimension-Box_ea2d1k.webp "The Dimension box")
 
 ## Thoughts
 
 Setup is minimal: one game board per player, coloured balls, rule cards, a timer, and point tokens. That's the whole game. Easy to explain in under five minutes.
 
-![A Dimension player board with coloured balls](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Game-Board_cvcclk.jpg "A Dimension player board")
+![A Dimension player board with coloured balls](https://img.hexagamers.com/Dimension-Game-Board_cvcclk.webp "A Dimension player board")
 
 **How it plays:** lay out 6 rule cards face-up, flip the timer, and build your pyramid of balls so it satisfies as many rules as possible — all within one minute. Points come from following rules and bonus tokens go to the first player who calls "done" with a valid pyramid.
 
-![Dimension rule cards laid out with the timer](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Rules-and-Timer_ldwhfx.jpg "Dimension rule cards and timer")
+![Dimension rule cards laid out with the timer](https://img.hexagamers.com/Dimension-Rules-and-Timer_ldwhfx.webp "Dimension rule cards and timer")
 
 **The timer is everything.** With only 60 seconds, you have to process the rules fast, find a configuration that satisfies them, and place the balls precisely. Your brain shifts into a different gear. Some rounds click instantly. Others leave you scrambling until the last second.
 
 **Critical decisions appear regularly.** Sometimes two rules directly contradict each other — "blue cannot touch orange" and "blue must touch orange" in the same round. You have to decide which rule to break for the least cost, or whether removing a colour entirely gets you more points. These micro-decisions are satisfying to navigate.
 
-![A Dimension rule card showing the "cannot touch" restriction](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Cannot-Touch-Rule_uwtytn.jpg "A Dimension 'cannot touch' rule card")
+![A Dimension rule card showing the "cannot touch" restriction](https://img.hexagamers.com/Dimension-Cannot-Touch-Rule_uwtytn.webp "A Dimension 'cannot touch' rule card")
 
 **Our group house rule:** first player to correctly finish their pyramid and shout "done" gets a bonus token. This added stress, energy, and became the deciding factor in most games. Highly recommended.
 
-![Dimension bonus tokens](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Bonus-Tokens_hscelr.jpg "Dimension bonus tokens")
+![Dimension bonus tokens](https://img.hexagamers.com/Dimension-Bonus-Tokens_hscelr.webp "Dimension bonus tokens")
 
 **The 6-round default is short** — we found we always wanted to play more. Easy fix: just agree on more rounds before starting. The score stays meaningful regardless.
 
 **The one component gripe:** there are 24 tokens at the 50-point value and not enough low-value ones. Most rounds don't use the high tokens until the very end. Annoying to dig through; not a gameplay issue.
 
-![Dimension point tokens](https://res.cloudinary.com/dt4ujaczs/image/upload/Dimension-Point-Tokens_chovas.jpg "Dimension point tokens")
+![Dimension point tokens](https://img.hexagamers.com/Dimension-Point-Tokens_chovas.webp "Dimension point tokens")
 
 ## Conclusion
 

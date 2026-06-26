@@ -8,11 +8,11 @@ tags:
   - "catan"
   - "catan-meme"
   - "memes"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312213/Robber_on_my_tile_meme_jeh8zm.jpg"
+coverImage: "https://img.hexagamers.com/Robber_on_my_tile_meme_jeh8zm.webp"
 ---
 
 <div class="meme-post">
 
-![Catan Robber Meme](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312213/Robber_on_my_tile_meme_jeh8zm.jpg)
+![Catan Robber Meme](https://img.hexagamers.com/Robber_on_my_tile_meme_jeh8zm.webp)
 
 </div>

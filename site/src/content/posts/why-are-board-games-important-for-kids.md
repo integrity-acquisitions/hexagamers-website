@@ -7,7 +7,7 @@ tags:
   - "board-games-for-kids"
   - "board-games-that-teach-math"
   - "learning-with-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779313160/hexagamers-articles/why-are-board-games-important-for-kids.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/why-are-board-games-important-for-kids.webp"
 description: "Board games are a fun way to spend time together as a family — and an excuse to put down the screens. But beyond the enjoyment, they're quietly building…"
 ---
 

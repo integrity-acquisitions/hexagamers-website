@@ -10,7 +10,7 @@ tags:
   - "gambling-board-game"
   - "party-game"
   - "simple-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779421811/hexagamers-reviews/camel-up-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/camel-up-review.webp"
 description: "Bet your hard-earned coins at the high-stakes camel track. Camels sprint around the course through legs of the race while you place wagers on who wins each…"
 ---
 
@@ -18,7 +18,7 @@ description: "Bet your hard-earned coins at the high-stakes camel track. Camels 
 
 Bet your hard-earned coins at the high-stakes camel track. Camels sprint around the course through legs of the race while you place wagers on who wins each leg and the overall race. Camels can ride on top of each other — which changes everything.
 
-![The Camel Up race track set up for play](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-Game-Board_zlsorx.jpg "The Camel Up board")
+![The Camel Up race track set up for play](https://img.hexagamers.com/Camel-Up-Game-Board_zlsorx.webp "The Camel Up board")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>
@@ -51,15 +51,15 @@ When you first set up Camel Up, you'll notice it's all pretty simple — and tha
 
 The standout component is the pyramid dice shaker, which you assemble once and reuse every game. It holds all the coloured dice (one per camel) and releases them one at a time. Clever design that creates genuine suspense with every shake.
 
-![The Camel Up pyramid dice shaker and coloured dice](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-Pyramid-and-Dice_kxbao7.jpg "The Camel Up pyramid and dice")
+![The Camel Up pyramid dice shaker and coloured dice](https://img.hexagamers.com/Camel-Up-Pyramid-and-Dice_kxbao7.webp "The Camel Up pyramid and dice")
 
 **The stacking mechanic is what makes this game.** When a camel moves, any camels riding on top of it come along for the ride. The top camel is always in first. This means the last-place camel can leapfrog to first in a single roll if the right dice comes out of the pyramid. You genuinely have no idea who will move next or how it will shake out. That uncertainty is pure gambling — in the best way.
 
-![Camels stacked on top of each other in Camel Up](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-Camels-Stacked_omjdt5.jpg "Stacked camels in Camel Up")
+![Camels stacked on top of each other in Camel Up](https://img.hexagamers.com/Camel-Up-Camels-Stacked_omjdt5.webp "Stacked camels in Camel Up")
 
 You can bet on the leg winner (limited cards that pay out decreasingly the more people pick the same camel), or on the overall race winner and loser. The overall bets are where games are won and lost. First person to correctly call the overall winner gets the most coins; wait too long and the payout shrinks to almost nothing.
 
-![Betting cards in Camel Up](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-Bets_yv7en5.jpg "Camel Up betting cards")
+![Betting cards in Camel Up](https://img.hexagamers.com/Camel-Up-Bets_yv7en5.webp "Camel Up betting cards")
 
 You can also place desert tiles on the track to help or hinder camels — and rolling the dice yourself earns a guaranteed coin. There's some minor strategy in timing your bets and tile placements, but don't expect Agricola-level depth.
 
@@ -67,6 +67,6 @@ You can also place desert tiles on the track to help or hinder camels — and ro
 
 ## Conclusion
 
-![Stacks of coins won and lost in Camel Up](https://res.cloudinary.com/dt4ujaczs/image/upload/Camel-Up-Money_x0qlfm.jpg "Coins in Camel Up")
+![Stacks of coins won and lost in Camel Up](https://img.hexagamers.com/Camel-Up-Money_x0qlfm.webp "Coins in Camel Up")
 
 I probably wouldn't have bought this for myself, but I'm glad it's in the collection. It plays with anyone, sets up fast, and never overstays its welcome. We've had nights where it was supposed to be a warm-up game and ended up being the whole evening. Lots of laughs, very little real frustration — exactly what a light gambling game should be.

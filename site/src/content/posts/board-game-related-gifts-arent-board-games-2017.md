@@ -133,13 +133,13 @@ tags:
   - "wrist-band"
   - "wyrmwood"
   - "yeg"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461912/hexagamers-articles/board-game-related-gifts-arent-board-games-2017.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/board-game-related-gifts-arent-board-games-2017.webp"
 description: "For great board games to give or gifts for Settlers of Catan fans, we've got you covered! If you're hesitant to buy a board game or want a more unique…"
 ---
 
 More...
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/BestChristmasGifts-2_pwnezd.png "BestChristmasGifts")
+![](https://img.hexagamers.com/BestChristmasGifts-2_pwnezd.webp "BestChristmasGifts")
 
 **Thinking Outside the (Board Game) Box*
 
@@ -157,7 +157,7 @@ Another idea for the gamer in your life is to **challenge their brains** with a 
 - Sleeve protectors for **board games with cards** are always awesome. These come in especially handy when you play the same game repeatedly, saving the cards from wear and tear (and spills, and sticky hands, and children...)
 - If your giftee likes **unique pieces**, [Meeple Source](https://www.meeplesource.com/) makes hundreds of custom meeples, tokens, game upgrade sets and even box organizers.  If you want to create your own unique order, you can choose from a [huge variety of game pieces](https://www.meeplesource.com/products.php?cat=12). (Side note: if you're in the YEG area, [Mission Fun and Games](http://www.missionfunandgames.com) in St. Albert carries different custom-painted and coloured meeples!)
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/yokohama-pieces_zivfmg.jpg "yokohama pieces")
+![](https://img.hexagamers.com/yokohama-pieces_zivfmg.webp "yokohama pieces")
 
 Yokohama token upgrades from Meeple Source.
 
@@ -168,13 +168,13 @@ Yokohama token upgrades from Meeple Source.
 - The people and animal [custom meeples and player tokens from epicycledesigns on Etsy](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Fshop%2Fepicycledesigns) give board games a cute flair.
 [Jenefer Ham](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fshop%2FJeneferHamGlass) makes amazing glass game tokens and jewelry. We especially love the [Pandemic set](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Flisting%2F266213845%2Fpandemic-glass-virus).
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Iberia-tokens_c1wtku.jpg "Pandemic Iberia tokens")
+![](https://img.hexagamers.com/Pandemic-Iberia-tokens_c1wtku.webp "Pandemic Iberia tokens")
 
 Pandemic Iberia tokens from Jenefer Ham.
 
 - If you know someone who loves [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/), chances are you've heard complaints about the **clips for character trait trackers**. The app is fine, but [these clips](https://www.shapeways.com/product/G55FCRZR8/replacement-clips-betrayal-at-house-on-the-hill) solve that problem easily while using game components. Your giftee will love and think of you every time they play!
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Betrayal-trait-clips2_sgp95m.jpg "Betrayal trait clips")
+![](https://img.hexagamers.com/Betrayal-trait-clips2_sgp95m.webp "Betrayal trait clips")
 
 Upgraded character trait clips for Betrayal at House on the Hill.
 
@@ -191,28 +191,28 @@ There is no shortage of board game-themed jewelry for guys and girls alike, incl
 - [Meeple & crystal necklace](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F496269374%2Fmeeple-necklace-purple-with-clear) 
 - [Meeple pendant necklaces](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F170655617%2Ftransluscent-board-game-meeple-pendantsluscent-board-game-meeple-pendant) available in different colours and lengths
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/meeple-pendant-necklace_m0yzbg.jpg "meeple pendant necklace")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F170655617%2Ftransluscent-board-game-meeple-pendant)
+[![](https://img.hexagamers.com/meeple-pendant-necklace_m0yzbg.webp "meeple pendant necklace")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F170655617%2Ftransluscent-board-game-meeple-pendant)
 
 Clothing
 
 - Know someone who's expecting or has a little gamer? This [baby bandana/drool bib](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F264636114%2Fbandana-bib-settlers-of-catan-baby-bib) is a super cute idea, especially if there's an upcoming baby shower!
 - If you're the one expecting, how about this [pregnancy announcement baby onesie](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F562871519%2Fpregnancy-reveal-board-game-themed)?
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/baby-onesie_tzmuis.jpg "baby onesie")
+![](https://img.hexagamers.com/baby-onesie_tzmuis.webp "baby onesie")
 
 - ["Board games destroy families" t-shirt](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F494090506%2Fkids-clothing-kids-shirt-funny-t-shirt) comes in junior and adult sizes. (Nobody knows this better than parents of three-year-olds or moody teenagers.)
 - This [Monopoly bow tie](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F518812342%2Fmonopoly-bow-tie-monopoly-wedding-banker) is a classic for classy and retro-loving gamer.
 
 - Cardboard Clothing makes and sells a lot of different [t-shirts for different board games](http://cardboardclothing.com/product-category/tee-shirts/), like this Ticket to Ride tee.
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/SNY_Tshirt_zdxxid.png "SNY_Tshirt")
+![](https://img.hexagamers.com/SNY_Tshirt_zdxxid.webp "SNY_Tshirt")
 
 - We like the cheeky ["I play board games" t-shirt](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F561886435%2Fchits-and-giggles-v-neck-t-shirt), among other cute designs, from TabletopThreads
 - [Settlers of Catan sheep hoodie](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F163395334%2Fboard-game-gift-catan-sweatshirt-geek) for cold basement game nights
 - [Settlers of Catan zippered pouch](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F218969281%2Fcatan-bag-board-game-zipper-pouch-small)
 - This ["I Have Meeple Skills"](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F492554636%2Fi-have-meeple-skills-carcassonne) t-shirt made us chuckle out loud :-)
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/il_570xN.1170974721_d3t5_xmllx7.jpg "il_570xN.1170974721_d3t5")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F492554636%2Fi-have-meeple-skills-carcassonne)
+[![](https://img.hexagamers.com/il_570xN.1170974721_d3t5_xmllx7.webp "il_570xN.1170974721_d3t5")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F492554636%2Fi-have-meeple-skills-carcassonne)
 
 Household Accents & Accessories
 
@@ -225,7 +225,7 @@ Household Accents & Accessories
 
 Fjg
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/games-poster_yhemxl.jpg "games poster")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F241368595%2Fboard-game-mechanics-poster-tabletop-and)
+[![](https://img.hexagamers.com/games-poster_yhemxl.webp "games poster")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F241368595%2Fboard-game-mechanics-poster-tabletop-and)
 
 Glassware
 
@@ -236,7 +236,7 @@ Glassware
 - ["I Beat You" coffee mug](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F514795268%2Fboard-game-accessories-scrabble-mug-game)
 - As every Pandemic player can attest to, this [Pandemic coffee mug](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F524848429%2Fpandemic-mug-colour-options-11oz-whitendemic-mug-colour-options-11oz-white) is sadly realistic.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/pandemic-coffee-mug_nuayl5.jpg "pandemic coffee mug")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F524848429%2Fpandemic-mug-colour-options-11oz-white)
+[![](https://img.hexagamers.com/pandemic-coffee-mug_nuayl5.webp "pandemic coffee mug")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F524848429%2Fpandemic-mug-colour-options-11oz-white)
 
 It's not for lack of trying!
 
@@ -247,14 +247,14 @@ Furniture & DIY
 - Quilts, blankets and throws that look like board games, or mimic the board setup for you to play on (Clue and Scrabble, for instance) are a wonderful multi-use gift that will be treasured for years.
 - This [Rubik's cube coffee table](https://www.pinterest.ca/pin/548383692102341406/) looks awesome and has great storage.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/rubiks-cube-table_za8qu0.jpg "rubik's cube table")](https://www.pinterest.ca/pin/548383692102341406/)
+[![](https://img.hexagamers.com/rubiks-cube-table_za8qu0.webp "rubik's cube table")](https://www.pinterest.ca/pin/548383692102341406/)
 
 Just For Fun
 
 - ["Future Gamer" vinyl sticker for cars and snowboards](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F534464696%2Ffuture-gamer-on-board-car-vinyl-decal) and [in French](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F504600612%2Fgamer-on-boardbaby-on-board-sticker)
 - [Meeple vinyl stickers](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F494881631%2Fmeeple-heart-vinyl-decal-for-board-game) for your laptop, phone, car or any other surface that needs some sprucing up.
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/meeple-sticker_gsbu8v.jpg "meeple sticker")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F494881631%2Fmeeple-heart-vinyl-decal-for-board-game)
+[![](https://img.hexagamers.com/meeple-sticker_gsbu8v.webp "meeple sticker")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F494881631%2Fmeeple-heart-vinyl-decal-for-board-game)
 
 - [I Heart Meeples vinyl sticker](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F482534342%2Fiheartmeeple-vinyl-decal-for-board-game) 
 - These cute [Catan-themed Christmas cards](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F257031424%2Fmerry-catanmas-christmas-greeting-card) are perfect for and from board game lovers.
@@ -262,7 +262,7 @@ Just For Fun
 - A [meeple tote bag](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F533331511%2Fglitter-meeple-standard-tote-bag-board) for carrying games
 - Lastly, no Christmas is complete without a [Meeple Christmas tree ornament](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F514126572%2Fbeautiful-leafy-filigree-meeple-ornament)
 
-[![](https://res.cloudinary.com/dt4ujaczs/image/upload/meeple-ornament_crckva.jpg "meeple ornament")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F514126572%2Fbeautiful-leafy-filigree-meeple-ornament)
+[![](https://img.hexagamers.com/meeple-ornament_crckva.webp "meeple ornament")](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F514126572%2Fbeautiful-leafy-filigree-meeple-ornament)
 
 You Can't Say There Aren't Options!
 

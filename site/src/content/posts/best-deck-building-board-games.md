@@ -17,7 +17,7 @@ tags:
   - "legendary-a-marvel-deck-building-game"
   - "star-realms"
   - "valley-of-the-kings"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461264/hexagamers-articles/best-deck-building-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-deck-building-board-games.webp"
 lastModified: 2025-01-01
 description: "As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you…"
 ---
@@ -45,20 +45,20 @@ Have a look at some of the highest rated games, with small reviews, according to
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg) |   Dominion   |   2-4   |   30 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg) |   Star Realms   |   2   |   20 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg) |   Legendary: A Marvel Deck Building Game   |   1-5   |   45 min   |   $$$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg) |   Ascension: Deckbuilding Game   |   1-4   |   30 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg) |   Friday   |   1   |   25 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg) |   Valley of the Kings   |   2-4   |   45 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg) |   Eminent Domain   |   2-4   |   45 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg) |   Clank!   |   2- 4   |   30-60 min   |   $$$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg) |   Core Worlds   |   2-5   |   60-120 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Dominion_z98xnd.webp) |   Dominion   |   2-4   |   30 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Star-Realms_imhgpf.webp) |   Star Realms   |   2   |   20 min   |   $   |  |
+| ![](https://img.hexagamers.com/Legendary-A-Marvel-Deck-Building-Game_t07mta.webp) |   Legendary: A Marvel Deck Building Game   |   1-5   |   45 min   |   $$$$   |  |
+| ![](https://img.hexagamers.com/Ascension-Deckbuilding-Game_tnz6vy.webp) |   Ascension: Deckbuilding Game   |   1-4   |   30 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Friday_yl0jj5.webp) |   Friday   |   1   |   25 min   |   $   |  |
+| ![](https://img.hexagamers.com/Valley-of-the-Kings_vx8gql.webp) |   Valley of the Kings   |   2-4   |   45 min   |   $   |  |
+| ![](https://img.hexagamers.com/Eminent-Domain_hmtv0g.webp) |   Eminent Domain   |   2-4   |   45 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Clank_fvlzvn.webp) |   Clank!   |   2- 4   |   30-60 min   |   $$$$   |  |
+| ![](https://img.hexagamers.com/Core-Worlds_eazgik.webp) |   Core Worlds   |   2-5   |   60-120 min   |   $$$   |  |
 
 ## 1. Dominion ([Full Review Here](/dominion-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dominion_z98xnd.jpg)](http://amzn.to/2n1RoKh)
+[![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](http://amzn.to/2n1RoKh)
 
 This one is at the top of our list for a number of reasons. Not only did this game somewhat kickoff this genre when it was introduced back in 2008, but it is still highly regarded as the best in class. Dominion has very simple mechanics (can be broken down into ABC), so it is perfect for starting into the genre, no matter what your experience level is. In fact, it made our [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/) for that reason.
 
@@ -78,7 +78,7 @@ This is one is easy to get started with, and it is said that the other games in 
 ## 2. Star Realms
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Star-Realms_imhgpf.jpg)](http://amzn.to/2ntT02a)
+[![Hexagamers](https://img.hexagamers.com/Star-Realms_imhgpf.webp)](http://amzn.to/2ntT02a)
 
 
 This game is near the top of the list because of its accessibility and the fact that it’s good to see it as a contradiction to Dominion.
@@ -103,7 +103,7 @@ One of the downsides to the game is the score cards aren’t the best. With the 
 ## 3. Legendary: A Marvel Deck Building Game
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Legendary-A-Marvel-Deck-Building-Game_t07mta.jpg)](https://www.amazon.com/dp/B00A4KHEK0/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Legendary-A-Marvel-Deck-Building-Game_t07mta.webp)](https://www.amazon.com/dp/B00A4KHEK0/?tag=hexagamers-20)
 
 
 Looking for a fun theme, this is your game. In this game you get to build a deck based on the superheroes from the Marvel Universe!
@@ -126,7 +126,7 @@ If Marvel isn’t your cup of tea, then Legendary Encounters: An Alien Deck Buil
 ## 4. Ascension: Deckbuilding Game
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ascension-Deckbuilding-Game_tnz6vy.jpg)](http://amzn.to/2nEjKh0)
+[![Hexagamers](https://img.hexagamers.com/Ascension-Deckbuilding-Game_tnz6vy.webp)](http://amzn.to/2nEjKh0)
 
 
 This game is made for 1-4 players (plays best with 2 or more players) and comes from _Magic: The Gathering_ Pro Tour champions. That said, you know this one is chock full of your fantasy needs, and this theme is a big premise of the game.
@@ -147,7 +147,7 @@ Otherwise, the game mechanics are good, and it’s very easy to enjoy this one.
 ## 5. Friday
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://amzn.to/2nEoJy0)
+[![Hexagamers](https://img.hexagamers.com/Friday_yl0jj5.webp)](http://amzn.to/2nEoJy0)
 
 Feel like playing a game where the theme is being stranded on an island and have to survive against various dangers? This is the deck builder game is for you. This game take the theme a little bit further by being a 1 player game.
 
@@ -165,7 +165,7 @@ That said, though, there are different difficulty levels you can choose from (le
 ## 6. Valley of the Kings
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Valley-of-the-Kings_vx8gql.jpg)](http://amzn.to/2mJkc8O)
+[![Hexagamers](https://img.hexagamers.com/Valley-of-the-Kings_vx8gql.webp)](http://amzn.to/2mJkc8O)
 
 
 In Valley of the Kings, you are set in ancient Egypt where you are trying to fill our tomb full of useful goods like food, amulets, statues, and other treasures. One of the twists with this game is that your deck is useless at the end of the game, and you only get points for the actual card that you entomb while playing.
@@ -186,7 +186,7 @@ The theme is fun, and it has great artwork, plus some cool facts to learn. This 
 ## 7. Eminent Domain
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eminent-Domain_hmtv0g.jpg)](http://amzn.to/2nEyJYk)
+[![Hexagamers](https://img.hexagamers.com/Eminent-Domain_hmtv0g.webp)](http://amzn.to/2nEyJYk)
 
 Another space themed deck building game has made it onto our list of highest rated games! This one is slightly different from the other, and is a great theme.
 
@@ -208,7 +208,7 @@ Check this one out if you are looking to have some more strategy base to your de
 ## 8. Clank!
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Clank_fvlzvn.jpg)](http://amzn.to/2n1XQ3S)
+[![Hexagamers](https://img.hexagamers.com/Clank_fvlzvn.webp)](http://amzn.to/2n1XQ3S)
 
 
 Clank is a new, action filled, strategy based, fun, 2-4 player, deck building game (enough descriptors for you?). This one should probably be higher on the list, but we haven’t had enough time to thoroughly evaluate it yet (only played it a couple times as of writing).
@@ -229,7 +229,7 @@ You will find this one lighter and more fun than some of those taxing strategy g
 ## 1. Core Worlds
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Core-Worlds_eazgik.jpg)](https://www.amazon.com/dp/B0060K9W94/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Core-Worlds_eazgik.webp)](https://www.amazon.com/dp/B0060K9W94/?tag=hexagamers-20)
 
 Core Worlds is a well-integrated space themed deck building game, and makes our top list as an honorable mention.
 

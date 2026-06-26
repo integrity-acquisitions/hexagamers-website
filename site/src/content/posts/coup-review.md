@@ -10,7 +10,7 @@ tags:
   - "coup-review"
   - "micro-game"
   - "resistance-universe"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422573/hexagamers-reviews/coup-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/coup-review.webp"
 description: "In this micro-game set in The Resistance Universe, you hold two secret character cards with special abilities. Use them — or bluff having them — to coup,…"
 ---
 
@@ -18,7 +18,7 @@ description: "In this micro-game set in The Resistance Universe, you hold two se
 
 In this micro-game set in The Resistance Universe, you hold two secret character cards with special abilities. Use them — or bluff having them — to coup, tax, steal, and assassinate your way to being the last player standing.
 
-![A game of Coup in progress on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg "A game of Coup in progress")
+![A game of Coup in progress on the table](https://img.hexagamers.com/Coup-1_mcfcul.webp "A game of Coup in progress")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 6</span><span class="stat-label">Players</span></div>
@@ -50,19 +50,19 @@ I walked into games night a few minutes late one night and people had already st
 
 I learned most of the rules just by watching. Very easy to learn, and immediately my brain was spinning with strategies.
 
-![The character cards in Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Character-Cards_xufhqm.jpg "Coup character cards")
+![The character cards in Coup](https://img.hexagamers.com/Coup-Character-Cards_xufhqm.webp "Coup character cards")
 
 ## Thoughts
 
 This was my first trip into The Resistance Universe. A few characters feel stronger than others — the Duke is the quickest path to 7 coins and a Coup, which you'd expect to mean everyone claims to be the Duke. And they do. We once had all six players claim Duke at the same time. That's when the calling-out begins.
 
-![Coins used to pay for actions in Coup](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Coins_wus8te.jpg "Coup coins")
+![Coins used to pay for actions in Coup](https://img.hexagamers.com/Coup-Coins_wus8te.webp "Coup coins")
 
 **Calling bluffs is the heartbeat of this game.** If you're wrong, you lose an influence. If you're right, they do. The games are short enough that you recover quickly — usually with revenge incoming in the next round.
 
 **The cheat sheet is well designed.** Every action and counter-action is listed on a small reference card. New players can check it without revealing their hand. It makes teaching the game to newcomers seamless.
 
-![The Coup cheat sheet listing actions and counter-actions](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-Cheat-Sheet_hcgdq0.jpg "Coup cheat sheet")
+![The Coup cheat sheet listing actions and counter-actions](https://img.hexagamers.com/Coup-Cheat-Sheet_hcgdq0.webp "Coup cheat sheet")
 
 **The compact format is a genuine feature.** Small box, very few components. We took it to Mexico. It's the kind of game you pack without thinking twice.
 

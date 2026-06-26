@@ -7,7 +7,7 @@ tags:
   - "murder-mystery-party"
   - "mymysteryparty"
   - "hosting-a-party"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/Karate-Smiley_mefu3r.jpg"
+coverImage: "https://img.hexagamers.com/Karate-Smiley_mefu3r.webp"
 description: "We hosted our first murder mystery party using an 80s-themed download from MyMysteryParty.com. This is a no-spoilers review covering the purchase…"
 ---
 

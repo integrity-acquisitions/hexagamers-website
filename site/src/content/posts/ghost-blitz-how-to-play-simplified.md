@@ -11,11 +11,11 @@ tags:
   - "ghost-blitz-how-to-play"
   - "how-to-play-simplified"
   - "quick"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460241/hexagamers-guides/ghost-blitz-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/ghost-blitz-how-to-play-simplified.webp"
 description: "The mysterious pictures taken in the ghost's house have some errors. In this fast-paced game you must figure out which item in the picture is correct — or…"
 ---
 
-![Ghost Blitz](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg)
+![Ghost Blitz](https://img.hexagamers.com/Ghost-Blitz-2-Items_ivdigo.webp)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>

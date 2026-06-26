@@ -11,7 +11,7 @@ tags:
   - "push-your-luck"
   - "quick-games"
   - "travel-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779716576/hexagamers-reviews/flip-7-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/flip-7-review.webp"
 lastModified: 2026-05-23
 description: "Flip 7 is a push-your-luck card game that fits in your pocket and plays in minutes. High luck, low strategy — but that's kind of the point."
 ---

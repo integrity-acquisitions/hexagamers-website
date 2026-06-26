@@ -9,11 +9,11 @@ tags:
   - "best-murder-mystery-party"
   - "murder-mystery"
   - "party-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461201/hexagamers-articles/best-murder-mystery-party-companies.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-murder-mystery-party-companies.webp"
 description: "> **Disclaimer:** We haven't played every game on this list — this is a consolidated research guide. As we play more, we'll update it with first-hand…"
 ---
 
-![Best Murder Mystery Party Companies](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305604/Best-Murder-Mystery-Party-Companies.jpg)
+![Best Murder Mystery Party Companies](https://img.hexagamers.com/Best-Murder-Mystery-Party-Companies.webp)
 
 > **Disclaimer:** We haven't played every game on this list — this is a consolidated research guide. As we play more, we'll update it with first-hand reviews.
 
@@ -44,7 +44,7 @@ This list focuses exclusively on **unscripted** murder mystery party companies.
 
 ## 1. [My Mystery Party](http://mymysteryparty.com/)
 
-![My Mystery Party](https://res.cloudinary.com/dt4ujaczs/image/upload/My-Mystery-Party_zo5iyh.png)
+![My Mystery Party](https://img.hexagamers.com/My-Mystery-Party_zo5iyh.webp)
 
 **Our top pick — and the one we used for our first party.**
 
@@ -63,7 +63,7 @@ Highlights:
 
 ## 2. [Night of Mystery](https://www.nightofmystery.com/)
 
-![Night of Mystery](https://res.cloudinary.com/dt4ujaczs/image/upload/Night-of-Mystery_o8ddb9.jpg)
+![Night of Mystery](https://img.hexagamers.com/Night-of-Mystery_o8ddb9.webp)
 
 Very similar to My Mystery Party in structure and quality. What sets Night of Mystery apart is its **extra player objectives** — secondary goals layered on top of the murder mystery (e.g., "collect enough money to pay off your gambling debts" or "get someone to carry your purse all night"). This adds a second layer that makes it genuinely ambiguous whether someone is in-character or pursuing a hidden goal.
 
@@ -73,7 +73,7 @@ The host can play with full control over how much they know. Price scales with p
 
 ## 3. [Shot in the Dark Mysteries](http://www.shotinthedarkmysteries.com/)
 
-![Shot in the Dark Mysteries](https://res.cloudinary.com/dt4ujaczs/image/upload/Shot-In-The-Dark-Mysteries-logo_kuef0p.png)
+![Shot in the Dark Mysteries](https://img.hexagamers.com/Shot-In-The-Dark-Mysteries-logo_kuef0p.webp)
 
 Excellent customer service — they replied to us almost immediately and their site has a genuinely helpful, supportive tone. Games are fully downloadable with emailable suspect guides and well-marked files for the Big Reveal.
 
@@ -85,7 +85,7 @@ Also caters specifically to kids and teens if that's your audience. About 35 dif
 
 ## 4. [Playing with Murder](http://www.playingwithmurder.com/)
 
-![Playing with Murder](https://res.cloudinary.com/dt4ujaczs/image/upload/Playing-With-Murder-1_jqb5cs.png)
+![Playing with Murder](https://img.hexagamers.com/Playing-With-Murder-1_jqb5cs.webp)
 
 Claims to produce more complex mysteries than average. Here the host knows the murderer and victim from the start and plays more as a narrator/facilitator — moving things along and answering questions rather than being a suspect.
 
@@ -99,7 +99,7 @@ Their download package is extensive and includes extras you may not realize you 
 
 ## 5. [Party Time Mysteries](http://partytimemysteries.com/index.html)
 
-![Party Time Mysteries](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305605/Party-Time-Mysteries-279x300.png)
+![Party Time Mysteries](https://img.hexagamers.com/Party-Time-Mysteries-279x300.webp)
 
 A smaller company with around half a dozen games, but they check most of the boxes. Download-only. Host can play without knowing the murderer. Players have objectives and play money to accumulate throughout the night. Character backstories tend to be longer here, so guests may need more prep time.
 
@@ -109,7 +109,7 @@ Game sizes: 10–18 players, some with expansion packs. Duration: 1.5–3 hours.
 
 ## 6. [Freeform Games](https://www.freeformgames.com/)
 
-![Freeform Games](https://res.cloudinary.com/dt4ujaczs/image/upload/Free-Form-Games-from-email_y4n9o5.png)
+![Freeform Games](https://img.hexagamers.com/Free-Form-Games-from-email_y4n9o5.webp)
 
 Adds a unique twist: each character gets **special abilities** (e.g., pickpocket money from another player, force someone to share information) usable a limited number of times. This requires real strategy about when to deploy your ability, and adds uncertainty — you can't tell if someone's acting strangely because of their character or because they just used an ability.
 
@@ -119,7 +119,7 @@ Good theme selection, reasonable pricing, and 6–40 player range. The host has 
 
 ## 7. [Haley Productions](https://www.haleyproductions.com/)
 
-![Haley Productions](https://res.cloudinary.com/dt4ujaczs/image/upload/Haley-Productions_z35lze.gif)
+![Haley Productions](https://img.hexagamers.com/Haley-Productions_z35lze.gif)
 
 Built for large groups: 20–125+ people. Their setup is different — 6–8 primary suspects are deeply involved from the start while the rest of the guests play as detectives. Primary suspects have backstories and clues to share as guests mingle and ask questions.
 

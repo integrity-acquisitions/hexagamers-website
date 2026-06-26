@@ -15,7 +15,7 @@ tags:
   - "sea-salt-and-paper"
   - "undaunted-2200"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483936/hexagamers-reviews/best-solo-board-games-2026.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-solo-board-games-2026.webp"
 lastModified: 2026-06-26
 description: "The best solo board games released in the last few years (2023-2026) — the new one-player games and great solo modes worth your table, not the old standbys."
 ---
@@ -36,17 +36,17 @@ Click the thumbnail to jump down to the game write up.
 
 | Image | Game | Players | Time | Price |
 | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Sky_Team_yrvt2z.jpg)](#1-sky-team) | Sky Team | 1-2 | 15 min | $$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/The_White_Castle_hhdlxb.jpg)](#2-the-white-castle) | The White Castle | 1-4 | 80 min | $$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Voidfall_scroxh.webp)](#3-voidfall) | Voidfall | 1-4 | 100-240 min | $$$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Ezra_and_Nehemiah_bj20yu.jpg)](#4-ezra-and-nehemiah) | Ezra and Nehemiah | 1-4 | 60-120 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Undaunted_2200_-_Callisto_y0s8vl.jpg)](#5-undaunted-2200-callisto) | Undaunted 2200: Callisto | 1-2 | 60-90 min | $$$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Wandering_Towers_wal6yo.jpg)](#6-wandering-towers) | Wandering Towers | 1-6 | 40 min | $$ |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Civolution_ubclpt.jpg)](#7-civolution) | Civolution | 1-4 | 100-180 min | $$$$ |
+| [![](https://img.hexagamers.com/Sky_Team_yrvt2z.webp)](#1-sky-team) | Sky Team | 1-2 | 15 min | $$ |
+| [![](https://img.hexagamers.com/The_White_Castle_hhdlxb.webp)](#2-the-white-castle) | The White Castle | 1-4 | 80 min | $$ |
+| [![](https://img.hexagamers.com/Voidfall_scroxh.webp)](#3-voidfall) | Voidfall | 1-4 | 100-240 min | $$$$ |
+| [![](https://img.hexagamers.com/Ezra_and_Nehemiah_bj20yu.webp)](#4-ezra-and-nehemiah) | Ezra and Nehemiah | 1-4 | 60-120 min | $$$ |
+| [![](https://img.hexagamers.com/Undaunted_2200_-_Callisto_y0s8vl.webp)](#5-undaunted-2200-callisto) | Undaunted 2200: Callisto | 1-2 | 60-90 min | $$$ |
+| [![](https://img.hexagamers.com/Wandering_Towers_wal6yo.webp)](#6-wandering-towers) | Wandering Towers | 1-6 | 40 min | $$ |
+| [![](https://img.hexagamers.com/Civolution_ubclpt.webp)](#7-civolution) | Civolution | 1-4 | 100-180 min | $$$$ |
 
 ## 1. Sky Team
 
-[![Sky Team](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781812897/Sky_Team_yrvt2z.jpg)](https://www.amazon.com/dp/B0CHD8RCSJ/?tag=hexagamers-20)
+[![Sky Team](https://img.hexagamers.com/Sky_Team_yrvt2z.webp)](https://www.amazon.com/dp/B0CHD8RCSJ/?tag=hexagamers-20)
 
 Sky Team is technically a two-player game, but stay with us — its solo mode is one of the best small-box solo experiences in years, and the game itself is so good we couldn't leave it off. You and a partner (or a clever solo automa) are the pilot and co-pilot landing a plane, placing dice into your half of the cockpit to manage speed, flaps, brakes, and a runway full of competing demands. The catch: you can't talk.
 
@@ -58,7 +58,7 @@ It's tight, it's quick, and it teaches in five minutes. The only knock is that i
 
 ## 2. The White Castle
 
-[![The White Castle](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/The_White_Castle_hhdlxb.jpg)](https://www.amazon.com/dp/B0CFWWHZW6/?tag=hexagamers-20)
+[![The White Castle](https://img.hexagamers.com/The_White_Castle_hhdlxb.webp)](https://www.amazon.com/dp/B0CFWWHZW6/?tag=hexagamers-20)
 
 The small-box euro that's been on everyone's table for two years running, and its solo mode is a genuine reason to buy it rather than a tacked-on afterthought. You get a tight three-round game in a box the size of a paperback, packing more decision-making into 80 minutes than games three times its size.
 
@@ -70,7 +70,7 @@ There's almost no downtime and almost no luck to blame, which is exactly what yo
 
 ## 3. Voidfall
 
-![Voidfall](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Voidfall_scroxh.webp)
+![Voidfall](https://img.hexagamers.com/Voidfall_scroxh.webp)
 
 If you want the deep end, Voidfall is the deep end. It's a heavy 4X space game — explore, expand, exploit, exterminate — that made waves partly because it's built as a serious solo experience first and a multiplayer game second. There's no dice, no random combat, no luck swinging your hours of planning. Everything is deterministic, which means a loss is always your fault and a win is always earned.
 
@@ -80,7 +80,7 @@ Fair warning: this is a big, long, table-hogging commitment with a real learning
 
 ## 4. Ezra and Nehemiah
 
-[![Ezra and Nehemiah](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Ezra_and_Nehemiah_bj20yu.jpg)](https://www.amazon.com/dp/B0D1524S13/?tag=hexagamers-20)
+[![Ezra and Nehemiah](https://img.hexagamers.com/Ezra_and_Nehemiah_bj20yu.webp)](https://www.amazon.com/dp/B0D1524S13/?tag=hexagamers-20)
 
 From the team behind the West Kingdom and South Tigris games comes their most ambitious knot yet, and the solo automa is one of the better-tuned ones in the heavy-euro space. The game hands you three full systems running at once — worker placement, deck building, and area control — and asks you to keep all three turning.
 
@@ -92,7 +92,7 @@ It's long and it leans toward the experienced end of the shelf, and the theme �
 
 ## 5. Undaunted 2200: Callisto
 
-[![Undaunted 2200: Callisto](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Undaunted_2200_-_Callisto_y0s8vl.jpg)](https://www.amazon.com/dp/1472862848/?tag=hexagamers-20)
+[![Undaunted 2200: Callisto](https://img.hexagamers.com/Undaunted_2200_-_Callisto_y0s8vl.webp)](https://www.amazon.com/dp/1472862848/?tag=hexagamers-20)
 
 The Undaunted series took its tense deck-building skirmish system to a sci-fi setting with Callisto, and crucially built a real solo campaign into the box. You're commanding a small squad across a linked series of missions on Jupiter's moon, drawing cards to move, attack, and seize objectives while your deck slowly tells the story of how your unit is holding up.
 
@@ -104,7 +104,7 @@ It's a meatier teach than its small footprint suggests, and the campaign asks fo
 
 ## 6. Wandering Towers
 
-[![Wandering Towers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782483539/Wandering_Towers_wal6yo.jpg)](https://www.amazon.com/dp/B0C1ZP8Y89/?tag=hexagamers-20)
+[![Wandering Towers](https://img.hexagamers.com/Wandering_Towers_wal6yo.webp)](https://www.amazon.com/dp/B0C1ZP8Y89/?tag=hexagamers-20)
 
 Not every solo night needs to be a three-hour epic, and Wandering Towers is the light, charming counterweight on this list. It's a family-weight race where you're moving wizards toward Ravenskeep while physically picking up and stacking towers that swallow pieces as they slide across the board. The toy factor is real — moving the towers around feels great in the hand.
 
@@ -116,7 +116,7 @@ The catch is depth — this is a snack, not a meal, and a strategy gamer will ex
 
 ## 7. Civolution
 
-[![Civolution](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Civolution_ubclpt.jpg)](https://www.amazon.com/dp/B0DF472C58/?tag=hexagamers-20)
+[![Civolution](https://img.hexagamers.com/Civolution_ubclpt.webp)](https://www.amazon.com/dp/B0DF472C58/?tag=hexagamers-20)
 
 We'll round out with another monster for the solo-curious heavy-euro crowd. Civolution is Stefan Feld's giant, solo-friendly civilization sandbox, and "giant" is the operative word. You roll dice and spend them to trigger actions off an ever-growing matrix of technologies, building a little people and pushing them forward across the ages.
 

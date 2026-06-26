@@ -18,7 +18,7 @@ tags:
   - "doomlings"
   - "herd-mentality"
   - "just-one"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724002/hexagamers-reviews/best-board-games-for-teens.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-teens.webp"
 lastModified: 2026-05-25
 description: "The best board games for teens that actually hold their attention — social, strategic, and fast enough to compete with a phone."
 ---
@@ -37,22 +37,22 @@ What we looked for: quick enough to hold attention, social enough to matter, and
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#1-codenames-full-review-here) | Codenames | 4+ | 15 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](#2-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](#3-catan-full-review-here) | Catan | 3–4 | 60–90 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Herd_Mentality_qjwucc.jpg)](#4-herd-mentality) | Herd Mentality | 4–20 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](#5-just-one) | Just One | 3–7 | 20 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](#6-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#7-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Doomlings_ykomwz.jpg)](#8-doomlings) | Doomlings | 2–6 | 20–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Everdell_x5mxlz.jpg)](#9-everdell) | Everdell | 1–4 | 40–80 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#10-sushi-go-full-review-here) | Sushi Go! | 2–5 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#1-codenames-full-review-here) | Codenames | 4+ | 15 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#2-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](#3-catan-full-review-here) | Catan | 3–4 | 60–90 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Herd_Mentality_qjwucc.webp)](#4-herd-mentality) | Herd Mentality | 4–20 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](#5-just-one) | Just One | 3–7 | 20 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](#6-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#7-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Doomlings_ykomwz.webp)](#8-doomlings) | Doomlings | 2–6 | 20–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](#9-everdell) | Everdell | 1–4 | 40–80 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#10-sushi-go-full-review-here) | Sushi Go! | 2–5 | 15 min | $ | — |
 
 ---
 
 ## 1. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames is a team word game where a Spymaster gives single-word clues to get their teammates to guess the right cards on the table — without accidentally pointing them toward the other team's agents or, worse, the assassin. The setup is a grid of 25 words. Your Spymaster knows which ones are yours. They give you one word and a number. You figure out which cards they meant.
 
@@ -70,7 +70,7 @@ If you have a group of mixed ages, Codenames is probably the safest pick on this
 
 ## 2. Coup ([Full Review Here](/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Everyone has two character cards face-down. Everyone claims to have whichever character gives them the action they want. Nobody has to tell the truth. If no one calls your bluff, the action stands. If someone does — one of you loses an influence. Last player standing wins.
 
@@ -90,7 +90,7 @@ The buy-in is low — the game costs under $15, takes five minutes to explain, a
 
 ## 3. Catan ([Full Review Here](/catan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305601/Catan-1.jpg)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Catan-1.webp)](https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20)
 
 Catan is the game that got millions of people into modern board games, and it earns its reputation. You're building settlements, collecting resources, and trading with other players — all while trying to be the first to 10 victory points. The board is different every game. The dice decide what you produce each round. The trades are where the real game happens.
 
@@ -108,7 +108,7 @@ The 60–90 minute playtime is at the ceiling of what most teen groups will tole
 
 ## 4. Herd Mentality
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Herd_Mentality_qjwucc.jpg)](https://www.amazon.com/dp/B093HBBMPT/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Herd_Mentality_qjwucc.webp)](https://www.amazon.com/dp/B093HBBMPT/?tag=hexagamers-20)
 
 Herd Mentality flips the usual game objective on its head. Instead of trying to give the most creative or unique answer, you're trying to match the majority. Everyone writes their response to a question simultaneously, and if you're in the majority, you score points. If you're the odd one out — the pink cow — you lose them.
 
@@ -124,7 +124,7 @@ It handles up to 20 players, which makes it genuinely useful for bigger gatherin
 
 ## 5. Just One
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](https://www.amazon.com/dp/B0FB6MQ3WB/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](https://www.amazon.com/dp/B0FB6MQ3WB/?tag=hexagamers-20)
 
 Just One is a cooperative word game where one player has to guess a mystery word, and everyone else writes a one-word clue to help them. The twist: before the guesser sees anything, all the clues are revealed to each other first — and any duplicates get erased. If two people both write "water" for the word "ocean," neither clue counts.
 
@@ -142,7 +142,7 @@ Because it's cooperative, there's no elimination and no one feels singled out. E
 
 ## 6. Telestrations
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Telestrations_da3zgk.jpg)](https://www.amazon.com/dp/B0083J768O/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](https://www.amazon.com/dp/B0083J768O/?tag=hexagamers-20)
 
 Telestrations is the telephone game, but with drawing. You start with a word, draw it, pass your sketchbook to the next player, they guess what you drew, the next player draws that guess, and so on around the table. By the end, whatever began as "lighthouse" has usually become something unrecognizable and deeply funny.
 
@@ -158,7 +158,7 @@ It scales from 4 to 8 players and plays in about 30 minutes. It's also one of th
 
 ## 7. Azul ([Full Review Here](/azul-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
 Azul is a tile-drafting game where you pull colored tiles from shared factory displays and place them into your personal pattern board. Complete rows to score your wall. Leave tiles unplaced at the end of a round and take penalty points.
 
@@ -174,7 +174,7 @@ The decision space is tight and every move matters. You're not just drafting for
 
 ## 8. Doomlings
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Doomlings_ykomwz.jpg)](https://www.amazon.com/dp/B0B8L1CGDR/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Doomlings_ykomwz.webp)](https://www.amazon.com/dp/B0B8L1CGDR/?tag=hexagamers-20)
 
 Doomlings is an end-of-the-world card game where you're building a species and evolving traits before an extinction event wipes everyone out. Each turn you draft trait cards — things like "Big Brain," "Opposable Thumbs," or "Venomous" — trying to build the highest-scoring combination when the apocalypse hits. The catch is that catastrophe cards can blow up parts of your strategy at any moment.
 
@@ -190,7 +190,7 @@ A solid choice if the group wants something with a bit more personality than a s
 
 ## 9. Everdell
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779724231/Everdell_x5mxlz.jpg)](https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20)
 
 Everdell is a worker placement and tableau building game set in a woodland world of critters and constructions. You send workers out to gather resources, then spend those resources to play cards into your city — each card adds new abilities, new resources, or bonus scoring. The goal is to build the most efficient, highest-scoring tableau by the end of three seasons.
 
@@ -208,7 +208,7 @@ If your teen has played Catan and wants something more, Everdell is the directio
 
 ## 10. Sushi Go! ([Full Review Here](/best-gateway-board-games-for-beginners-with-reviews/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 Sushi Go! is a card drafting game where you pick a card from your hand and pass the rest to the next player. Collect sets of sushi over three rounds, score your combos, shuffle and deal again. The whole thing takes 15 minutes.
 

@@ -19,12 +19,12 @@ tags:
   - "times-up"
   - "wits-and-wagers"
   - "would-you-rather"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461178/hexagamers-articles/best-party-board-games-with-reviews.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-party-board-games-with-reviews.webp"
 lastModified: 2025-01-01
 description: "If you are done with board games you can play by yourself, and are ready to invite some people over, we have just the list of games for you to try. This…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-party-board-games_ngfjyl.png "Best party board games")
+![](https://img.hexagamers.com/Best-party-board-games_ngfjyl.webp "Best party board games")
 
 If you are done with [board games you can play by yourself](/best-one-player-solo-board-games-with-reviews/), and are ready to invite some people over, we have just the list of games for you to try. This list of the best party board games has been narrowed down from 100’s of options to help you get the most out of your night.
 
@@ -46,21 +46,21 @@ As always, we encourage you to contribute with your thoughts and suggestions in 
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg) |   Codenames   |   2-8+   |   15 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cards-Against-Humanity_ebqnyd.jpg) |   Cards Against Humanity   |   4-30   |   30 min   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Joking-Hazard_a1kabd.jpg) |   Joking Hazard   |   3-10   |   30-90 min   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305588/Catch-Phrase.jpg) |   Catch Phrase!   |   4-16   |   30 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Times-Up_qu7ihg.jpg) |   Time's Up!   |   4-18   |   60 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Telestrations_x20e6v.jpg) |   Telestrations   |   4-8   |   30 min   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Say-Anything_hj6mf8.jpg) |   Say Anything   |   3-8   |   30 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Wits-and-Wagers-Party-Edition_vnulhk.jpg) |   Wits And Wagers Party   |   4-18   |   25 min   |   $   |  |
-| ![Pit Board Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Pit_wklzl7.jpg) |   Pit   |   3-8   |   10-90 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Would-You-Rather_q2u33b.jpg) |   Would You Rather?   |   3-8   |   20 min   |   $   |  |
+| ![](https://img.hexagamers.com/Codenames.webp) |   Codenames   |   2-8+   |   15 min   |   $   |  |
+| ![](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp) |   Cards Against Humanity   |   4-30   |   30 min   |   $$   |  |
+| ![](https://img.hexagamers.com/Joking-Hazard_a1kabd.webp) |   Joking Hazard   |   3-10   |   30-90 min   |   $$   |  |
+| ![](https://img.hexagamers.com/Catch-Phrase.webp) |   Catch Phrase!   |   4-16   |   30 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Times-Up_qu7ihg.webp) |   Time's Up!   |   4-18   |   60 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Telestrations_x20e6v.webp) |   Telestrations   |   4-8   |   30 min   |   $$   |  |
+| ![](https://img.hexagamers.com/Say-Anything_hj6mf8.webp) |   Say Anything   |   3-8   |   30 min   |   $   |  |
+| ![](https://img.hexagamers.com/Wits-and-Wagers-Party-Edition_vnulhk.webp) |   Wits And Wagers Party   |   4-18   |   25 min   |   $   |  |
+| ![Pit Board Game](https://img.hexagamers.com/Pit_wklzl7.webp) |   Pit   |   3-8   |   10-90 min   |   $   |  |
+| ![](https://img.hexagamers.com/Would-You-Rather_q2u33b.webp) |   Would You Rather?   |   3-8   |   20 min   |   $   |  |
 
 ## 1. Codenames ([Full Review Here](/codenames-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B014Q1XX9S/?tag=hexagamers-20)
 
 Codenames is first on our list because of its immense popularity with our group (and others). It was recommended to us by a few different groups of gamers, and we have since recommended it to others as well.
 
@@ -84,7 +84,7 @@ As an additional note here. They have come up with a whole bunch of different ve
 ## 2. Cards Against Humanity ([Full Review Here](/cards-against-humanity-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Cards-Against-Humanity_ebqnyd.jpg)](https://www.amazon.com/dp/B004S8F7QM/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp)](https://www.amazon.com/dp/B004S8F7QM/?tag=hexagamers-20)
 
 At this point, it seems that everyone knows about Cards Against Humanity, but we’d be remised if we didn’t include it in our list of the highest rated party games.
 
@@ -108,7 +108,7 @@ This one is good for some laughs, though it may not be one you want to play with
 ## 3. Joking Hazard
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Joking-Hazard_a1kabd.jpg)](http://amzn.to/2n7YFtJ)
+[![Hexagamers](https://img.hexagamers.com/Joking-Hazard_a1kabd.webp)](http://amzn.to/2n7YFtJ)
 
 If you like the concept of Cards Against Humanity but are looking for something a little different, but want the same crudeness there are a few options, but our favourite right now is Joking Hazard.
 
@@ -130,7 +130,7 @@ It is a simple game, so it is easy to teach and learn, with lots of great laughs
 ## 4. Catch Phrase! ([Full Review Here](/catch-phrase-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305588/Catch-Phrase.jpg)](http://amzn.to/2mOwPAk)
+[![Hexagamers](https://img.hexagamers.com/Catch-Phrase.webp)](http://amzn.to/2mOwPAk)
 
 If you are looking for a game that gets everyone’s blood flowing, and has lots of feverish yelling, Catch Phrase is the one you are probably looking for.
 
@@ -154,7 +154,7 @@ Note: If you like the concept of having your team trying to guess your clue with
 ## 5. Time’s Up! ([Full Review Here](/times-up-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Times-Up_qu7ihg.jpg)](https://www.amazon.com/dp/B014D21HH0/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Times-Up_qu7ihg.webp)](https://www.amazon.com/dp/B014D21HH0/?tag=hexagamers-20)
 
 Time’s Up is somewhat similar to Catch Phrase in that you are trying to get your team to guess clues from the cards in front of you, but with a bit of a twist.
 
@@ -178,7 +178,7 @@ This one is a good one to have on the shelf when having groups of people over.
 ## 6. Telestrations
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Telestrations_x20e6v.jpg)](https://www.amazon.com/dp/B0F699VTB2/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Telestrations_x20e6v.webp)](https://www.amazon.com/dp/B0F699VTB2/?tag=hexagamers-20)
 
 If you are looking for a more laid back party board game that gets everyone involved Telestrations may be the one for your group.
 
@@ -202,7 +202,7 @@ Yes you can get it on Amazon, which is nice because it makes it way easier to se
 ## 7. Say Anything
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Say-Anything_hj6mf8.jpg)](http://amzn.to/2n80Opk)
+[![Hexagamers](https://img.hexagamers.com/Say-Anything_hj6mf8.webp)](http://amzn.to/2n80Opk)
 
 Say Anything is the game you can bring out if you have a group of people looking to get to know each other, or just have a good laugh.
 
@@ -228,7 +228,7 @@ This game has a tonne of reviews on Amazon, and is a highly rated party game for
 ## 8. Wits and Wagers Party ([Full Review Here](/wits-and-wagers-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Wits-and-Wagers-Party-Edition_vnulhk.jpg)](http://amzn.to/2n2gNDO)
+[![Hexagamers](https://img.hexagamers.com/Wits-and-Wagers-Party-Edition_vnulhk.webp)](http://amzn.to/2n2gNDO)
 
 Wits and Wagers is somewhat similar to Say Anything, but is more trivia based. We all seem to have a friend who is really good at trivia… and usually they dominate those type of games and it becomes no fun for anyone else. Wits and Wagers tries to eliminate that problem and does so fairly effectively.
 
@@ -248,7 +248,7 @@ This one doesn’t have a lot of yelling or isn’t super high energy, but does 
 ## 9. Pit ([Full Review Here](/pit-review/))
 
 
-[![Pit Board Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Pit_wklzl7.jpg)](http://amzn.to/2nYn0jj)
+[![Pit Board Game](https://img.hexagamers.com/Pit_wklzl7.webp)](http://amzn.to/2nYn0jj)
 
 Looking for a really quick game that involves a lot of yelling, high energy, and a lot of player interaction? Pit is the one you want.
 
@@ -272,7 +272,7 @@ You can play this one with a bunch of people (8), with very little set up. It ca
 ## 1. Would You Rather?
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Would-You-Rather_q2u33b.jpg)](http://amzn.to/2nEAowT)
+[![Hexagamers](https://img.hexagamers.com/Would-You-Rather_q2u33b.webp)](http://amzn.to/2nEAowT)
 
 Would You Rather is a game that makes you choose between 2 sets of options. The range of questions can be something simple, or something disgusting, or anywhere in between.
 

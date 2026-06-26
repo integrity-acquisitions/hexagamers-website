@@ -12,7 +12,7 @@ tags:
   - "micro-board-game"
   - "quick"
   - "thinking-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779425007/hexagamers-reviews/ghost-blitz-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/ghost-blitz-review.webp"
 description: "The mysterious pictures taken in the ghost's house have errors. In this fast-paced game you must figure out which item in the picture is correct — or which…"
 ---
 
@@ -20,7 +20,7 @@ description: "The mysterious pictures taken in the ghost's house have errors. In
 
 The mysterious pictures taken in the ghost's house have errors. In this fast-paced game you must figure out which item in the picture is correct — or which one is completely missing. First to grab the right item scores a point. Grab the wrong one and your opponent scores instead.
 
-![The five wooden items used in Ghost Blitz](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-Items_zk3dz4.jpg "Ghost Blitz items")
+![The five wooden items used in Ghost Blitz](https://img.hexagamers.com/Ghost-Blitz-Items_zk3dz4.webp "Ghost Blitz items")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 8</span><span class="stat-label">Players</span></div>
@@ -51,7 +51,7 @@ Charlene and Kaitlyn insisted I play Ghost Blitz, claiming it would suit someone
 
 You have 5 physical items, each with two characteristics: shape and color. Cards are flipped one at a time. Some cards represent one item correctly — grab that one. Others represent four of the five items with something wrong about each — grab the missing one.
 
-![A card showing the item depicted in the correct color and shape](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Right-Item-Card_oqicpc.jpg "A card with the correct item — grab it")
+![A card showing the item depicted in the correct color and shape](https://img.hexagamers.com/Ghost-Blitz-2-Right-Item-Card_oqicpc.webp "A card with the correct item — grab it")
 
 It sounds easy. It is not.
 
@@ -59,17 +59,17 @@ There's something about the stress of racing an opponent to a quick decision tha
 
 What I really like: no build-up time. Flip, decode, grab. Some games ease you in — Ghost Blitz throws you straight into the deep end from card one.
 
-![A card where none of the items appear in the right color — grab the missing one](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Wrong-Color-Item_ay3i75.jpg "A card with no correct color — grab the missing item")
+![A card where none of the items appear in the right color — grab the missing one](https://img.hexagamers.com/Ghost-Blitz-2-Wrong-Color-Item_ay3i75.webp "A card with no correct color — grab the missing item")
 
 ## What Makes It Work
 
-![The deck of Ghost Blitz cards](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Cards_ylvsky.jpg "Ghost Blitz cards")
+![The deck of Ghost Blitz cards](https://img.hexagamers.com/Ghost-Blitz-2-Cards_ylvsky.webp "Ghost Blitz cards")
 
 **The card variety is excellent.** There's no way to memorize the deck, so each session feels fresh. More importantly, the game design doesn't let your brain settle into a comfortable groove — sometimes you're grabbing the correct item, sometimes the missing one. Your strategy has to shift constantly.
 
 **The penalty system is smart.** If you grab the wrong item, your opponent gets the point. This stops people from randomly grabbing items hoping to luck into a point, which would destroy the game.
 
-![The wooden items lined up ready to grab](https://res.cloudinary.com/dt4ujaczs/image/upload/Ghost-Blitz-2-Items_ivdigo.jpg "Ghost Blitz items ready to grab")
+![The wooden items lined up ready to grab](https://img.hexagamers.com/Ghost-Blitz-2-Items_ivdigo.webp "Ghost Blitz items ready to grab")
 
 **Head-to-head is the best format.** The box says 2–8, and we tried teams and large groups — both work, but feel chaotic. The two-player duel is where Ghost Blitz really shines. Every card becomes a direct competition, and you can actually track the mental battle happening across the table.
 

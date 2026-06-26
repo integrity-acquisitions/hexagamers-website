@@ -41,12 +41,12 @@ tags:
   - "treasure-hunter"
   - "von-drachen-und-schafen"
   - "zman"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461260/hexagamers-articles/best-card-drafting-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-card-drafting-board-games.webp"
 lastModified: 2025-01-01
 description: "(Click the image to jump to our comparison table)"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Card-Drafting-Board-Games_tmvodv.png "Best Card Drafting Board Games")
+![](https://img.hexagamers.com/Best-Card-Drafting-Board-Games_tmvodv.webp "Best Card Drafting Board Games")
 
 (Click the image to jump to our comparison table)
 
@@ -62,21 +62,21 @@ So what is card drafting? It's choice. Instead of drawing cards randomly from a 
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](#1-7-wondersfull-review-here) |   7 Wonders   |   2-7   |   30 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305596/sheriff-box-1024x1002.jpg)](#2-sheriff-of-nottinghamfull-review-here) |   Sheriff of Nottingham   |   3-5   |   60 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Dragons-Hoard-Von-Drachen_zgxxcp.jpg)](#3-dragons-hoard-von-drachen-und-schafen-full-review-here) |   Dragon's Hoard (Von Drachen und Schafen)   |   2-4   |   25-45min   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-To-Ride_kioksk.jpg)](#4-ticket-to-ridefull-review-of-ticket-to-ride-europe) |   Ticket to Ride   |   2-5   |   30-60  min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305597/Treasure-Hunter-1014x1024.jpg)](#5-treasure-hunter) |   Treasure Hunter   |   2-6   |   40 min   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Citadels-2016_zu5wlu.jpg)](#6-citadels) |   Citadels   |   2-8   |   30-60 min   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Nevermore_ltk4bn.jpg)](#7-nevermore) |   Nevermore   |   3-6   |   45-60 min   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tides-Of-Time_oyehrb.jpg)](#8-tides-of-time) |   Tides of Time   |   2   |   15-20 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Fairy-Tale_ilp3s0.jpg)](#9-fairy-tale) |   Fairy Tale   |   2-5   |   30 min   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](#10-sushi-go) |   Sushi Go!   |   2-5   |   15 min   |   $   |  |
+| [![](https://img.hexagamers.com/7-Wonders.webp)](#1-7-wondersfull-review-here) |   7 Wonders   |   2-7   |   30 min   |   $$$   |  |
+| [![](https://img.hexagamers.com/sheriff-box-1024x1002.webp)](#2-sheriff-of-nottinghamfull-review-here) |   Sheriff of Nottingham   |   3-5   |   60 min   |   $$$   |  |
+| [![](https://img.hexagamers.com/Dragons-Hoard-Von-Drachen_zgxxcp.webp)](#3-dragons-hoard-von-drachen-und-schafen-full-review-here) |   Dragon's Hoard (Von Drachen und Schafen)   |   2-4   |   25-45min   |   $$   |  |
+| [![](https://img.hexagamers.com/Ticket-To-Ride_kioksk.webp)](#4-ticket-to-ridefull-review-of-ticket-to-ride-europe) |   Ticket to Ride   |   2-5   |   30-60  min   |   $$$   |  |
+| [![](https://img.hexagamers.com/Treasure-Hunter-1014x1024.webp)](#5-treasure-hunter) |   Treasure Hunter   |   2-6   |   40 min   |   $$$   |  |
+| [![](https://img.hexagamers.com/Citadels-2016_zu5wlu.webp)](#6-citadels) |   Citadels   |   2-8   |   30-60 min   |   $$   |  |
+| [![](https://img.hexagamers.com/Nevermore_ltk4bn.webp)](#7-nevermore) |   Nevermore   |   3-6   |   45-60 min   |   $$   |  |
+| [![](https://img.hexagamers.com/Tides-Of-Time_oyehrb.webp)](#8-tides-of-time) |   Tides of Time   |   2   |   15-20 min   |   $   |  |
+| [![](https://img.hexagamers.com/Fairy-Tale_ilp3s0.webp)](#9-fairy-tale) |   Fairy Tale   |   2-5   |   30 min   |   $   |  |
+| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#10-sushi-go) |   Sushi Go!   |   2-5   |   15 min   |   $   |  |
 
 ## 1. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B08F65MX4L/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](https://www.amazon.com/dp/B08F65MX4L/?tag=hexagamers-20)
 
 Seven Wonders tops our list for many reasons. Its intense strategizing may not be for everyone, but this game hits so many high points we recommend you give it a chance even if strategy isn't your thing. From colourful, artistic illustrations and high-quality game pieces to buying, fighting, building and piggy-backing, 7 Wonders draws many elements from different genres to give players different pathways to win.
 
@@ -96,7 +96,7 @@ With all of these offerings, 7 Wonders is one of the best card drafting games yo
 ## 2. Sheriff of Nottingham ([Full Review Here](/sheriff-of-nottingham-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305596/sheriff-box-1024x1002.jpg)](https://www.amazon.com/dp/B007EZMABG/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/sheriff-box-1024x1002.webp)](https://www.amazon.com/dp/B007EZMABG/?tag=hexagamers-20)
 
 Sheriff is fun and interactive and isn't as intensely strategic as 7 Wonders. It's a pretty game with colorful illustrations and high-quality game pieces, and it relies heavily on your bluffing ability and your relationships and interactions with other players rather than your individual ability to build or buy cards. (Everyone has equal ground there.)
 
@@ -108,7 +108,7 @@ Sheriff isn't as complex in rules as Wonders, but you still have to work every r
 ## 3. Dragon's Hoard (Von Drachen und Schafen) ([Full Review Here](/dragons-hoard-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Dragons-Hoard-Von-Drachen_zgxxcp.jpg)](https://www.amazon.com/dp/B00S5R2DQO/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Dragons-Hoard-Von-Drachen_zgxxcp.webp)](https://www.amazon.com/dp/B00S5R2DQO/?tag=hexagamers-20)
 
 Dragon's Hoard is a fun and interactive game that will appeal to gamers whether or not they like fantasy. As a dragon, you collect sheep to buy treasures and battle to win victory points, all while avoiding wizards, thieves and angry mobs. It's fairly simple to understand and play, and doesn't have a board so the setup is simple.
 
@@ -124,7 +124,7 @@ We always have fun with this game. It isn't as intense as 7 Wonders, but it's as
 ## 4. Ticket to Ride ([Full Review of Ticket to Ride Europe](/ticket-to-ride-europe-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Ticket-To-Ride_kioksk.jpg)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Ticket-To-Ride_kioksk.webp)](https://www.amazon.com/dp/B0F8PKN4B7/?tag=hexagamers-20)
 
 Perhaps one of the most well-known games, Ticket to Ride nevertheless surprises many gamers by being a card drafting board game. Ticket to Ride is popular for a reason--it's easy to learn, doesn't require players to track their own scores, is great for all ages and has many different boards that enable both individual and team play. In fact, it made our [Best Gateway Boardgames for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) list!
 
@@ -140,7 +140,7 @@ Every game is different, even with the same map, because you can't replicate wha
 ## 5. Treasure Hunter
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305597/Treasure-Hunter-1014x1024.jpg)](https://www.amazon.com/dp/B016MLRGO8/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Treasure-Hunter-1014x1024.webp)](https://www.amazon.com/dp/B016MLRGO8/?tag=hexagamers-20)
 
 In Treasure Hunter, your quest for legendary treasures takes you through jungles, mountains and caves and battles with goblins to walk away the richest hunter among you all. We have a lot of fun with this game. It's highly interactive and every player has a chance to make up for lost ground during each phase of each round. The game is easy to set up and has a great board with self-explanatory references, something we appreciate and look for in games (no matter how often we play games, we seem to forget at least one or two rules...).
 
@@ -154,7 +154,7 @@ There is always some kind of punishment or bonus for hunters who have the most o
 ## 6. Citadels
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Citadels-2016_zu5wlu.jpg)](https://www.amazon.com/dp/B09CDSJMP5/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Citadels-2016_zu5wlu.webp)](https://www.amazon.com/dp/B09CDSJMP5/?tag=hexagamers-20)
 
 As a city leader, your aim is to be the most prosperous through building city districts. When the eighth district is built, the game is over. Sounds easy, right? It would be, if there weren't assassins, thieves, special powers and cards with abilities. Citadels is a great group game with a lot of interaction and different elements from different genres--stacking, bonuses, role-playing, drafting, building, and more.
 
@@ -168,7 +168,7 @@ The way Citadels adapts to different players and the different characters with t
 ## 7. Nevermore
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Nevermore_ltk4bn.jpg)](https://www.amazon.com/dp/0986392006/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Nevermore_ltk4bn.webp)](https://www.amazon.com/dp/0986392006/?tag=hexagamers-20)
 
 Nevermore is highly interactive, easy to learn and a lot of fun. One of the best elements of this game is the players who are turned into ravens (and unable to win the game) aren't actually out of the game. Ravens can be turned back into people and they can, fittingly, peck other players--sometimes to death (you're welcome, Wes!). A raven's ability to peck other players, deal damage and still be part of the game is our favourite part. There's nothing worse than being out of the game early and having to wait out the rest of the game by yourself (we're looking at you, [Betrayal at House on the Hill](/betrayal-at-house-on-the-hill-review/)).
 
@@ -180,7 +180,7 @@ That's about as complicated as it gets, and really, it's pretty simple when you'
 ## 8. Tides of Time
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Tides-Of-Time_oyehrb.jpg)](https://www.amazon.com/dp/B01029SR1M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Tides-Of-Time_oyehrb.webp)](https://www.amazon.com/dp/B01029SR1M/?tag=hexagamers-20)
 
 Tides of Time is a micro-game with only 18 cards, played by two people. While replayability is lower than other games on our list, we love that Tides of Time is so quick and easy to play, cheap and great for travel.
 
@@ -196,7 +196,7 @@ Like Sushi Go!, Tides of Time is a great intro to card drafting. Every card is c
 ## 9. Fairy Tale
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Fairy-Tale_ilp3s0.jpg)](https://www.amazon.com/dp/B00IKUH7E4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Fairy-Tale_ilp3s0.webp)](https://www.amazon.com/dp/B00IKUH7E4/?tag=hexagamers-20)
 
 Fairy Tale is the predecessor to 7 Wonders, and its complexity falls between it and Sushi Go!. Fairy Tale is highly interactive, and there are plenty of opportunities to impact other players' plans and scoring--a big plus for us.
 
@@ -212,7 +212,7 @@ Cards are nicely illustrated, though tailored to the fantasy fanatics, so not ev
 ## 10. Sushi Go!
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sushi-Go_ocbhis.jpg)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
 As a sushi lover, your task is to nab the best sushi dishes that will earn you the most victory points. Sushi Go! is played over three rounds, and you're dealt a number of cards that changes depending on how many players are playing.
 

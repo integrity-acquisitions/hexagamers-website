@@ -15,7 +15,7 @@ tags:
   - "solo-board-games"
   - "strategy"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779421645/hexagamers-reviews/agricola-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/agricola-review.webp"
 lastModified: 2025-01-01
 description: "Your two meeples are settled into their wood house on their plot of land — but harvest is coming and they have no food. Place your meeples to grow crops,…"
 ---
@@ -24,7 +24,7 @@ description: "Your two meeples are settled into their wood house on their plot o
 
 Your two meeples are settled into their wood house on their plot of land — but harvest is coming and they have no food. Place your meeples to grow crops, raise animals, get jobs, and expand your house before the season ends. Your neighbour is eyeing the same spots.
 
-![An Agricola game board mid-harvest](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Game-Board-with-Harvest_lwmfvq.jpg "An Agricola board at harvest")
+![An Agricola game board mid-harvest](https://img.hexagamers.com/Agricola-Game-Board-with-Harvest_lwmfvq.webp "An Agricola board at harvest")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">1 – 4</span><span class="stat-label">Players</span></div>
@@ -54,17 +54,17 @@ This review is based on the revised May 2016 version of Agricola.
 
 I was gifted Agricola for my birthday and was super excited — we'd been talking about adding it to our collection for a long time. We were looking for a game with more strategy and less luck. My first thought upon opening the box was: wow, there are a lot of pieces and a lot of rules. It's overwhelming at first, but once you start playing it's really not that complex.
 
-![The Agricola box and contents](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Game-Board-box_rx6omk.jpg "The Agricola box")
+![The Agricola box and contents](https://img.hexagamers.com/Agricola-Game-Board-box_rx6omk.webp "The Agricola box")
 
 ## Thoughts
 
 Agricola is a worker placement game — there are a limited number of spots on the board to place your meeples, and you alternate placing them with your opponents. To start you have two meeples, an open field, 7 occupations, and 7 minor improvement cards. The cards you're dealt are the only real luck element. Sometimes they give you huge benefits; sometimes they barely help. Beyond that, dice rolls and random draws are eliminated.
 
-![An Agricola player board with fields and pastures](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Player-Board_y3lzu4.jpg "An Agricola player board")
+![An Agricola player board with fields and pastures](https://img.hexagamers.com/Agricola-Player-Board_y3lzu4.webp "An Agricola player board")
 
 **Your goal:** grow crops, obtain animals, upgrade your house, grow your family, and feed everyone at harvest time. There are 14 rounds grouped into 6 stages. At the end of each stage comes harvest. Early on you have 4 rounds to prepare — by the end you have just one. This game is, at all times, stressful. You never feel safe because you constantly need more food. I both love and hate this about it — the difficulty is exactly what makes it so good.
 
-![The round tracker showing Agricola's stages and harvests](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Round-Tracker_zvxtkg.jpg "The Agricola round tracker")
+![The round tracker showing Agricola's stages and harvests](https://img.hexagamers.com/Agricola-Round-Tracker_zvxtkg.webp "The Agricola round tracker")
 
 The action spaces give you options: collect food, plant crops, build fences, play occupation or improvement cards. You're constantly competing for the same spots. Your plan changes every turn because the space you want might be taken. There are so many things to think about, and while you could try a similar strategy each game, the random cards you're dealt force you to adapt.
 
@@ -72,10 +72,10 @@ Every round a new action card flips over, gradually expanding your options. As r
 
 The pieces in the 2016 reprint are excellent. The wooden animals are shaped like actual animals — pigs look like pigs, not colored circles. This makes it much easier to track your board and adds to the immersion. My biggest complaint: there's no box organizer. With this many components, setup and takedown take far longer than they should. A Lords of Waterdeep-style insert would fix this completely.
 
-![The shaped wooden animals and resource pieces in Agricola](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Wooden-Pieces_hngbeo.jpg "Agricola's wooden pieces")
+![The shaped wooden animals and resource pieces in Agricola](https://img.hexagamers.com/Agricola-Wooden-Pieces_hngbeo.webp "Agricola's wooden pieces")
 
 ## Conclusion
 
-![Agricola occupation and improvement cards](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-Card_evigva.jpg "Agricola cards")
+![Agricola occupation and improvement cards](https://img.hexagamers.com/Agricola-Card_evigva.webp "Agricola cards")
 
 Agricola quickly became one of our favourites. It's challenging, stressful, and fun. It rewards different strategies and forces you outside your comfort zone if you want full points. Games run about 30 minutes per player — ideal length for a longer game. Whether you're playing solo or with friends, you'll get enormous value from this one.

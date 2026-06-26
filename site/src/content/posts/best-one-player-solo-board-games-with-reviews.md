@@ -20,12 +20,12 @@ tags:
   - "sentinels-of-the-multiverse"
   - "single-player-games"
   - "solo-board-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461289/hexagamers-articles/best-one-player-solo-board-games-with-reviews.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-one-player-solo-board-games-with-reviews.webp"
 lastModified: 2025-01-01
 description: "When you think of board games, you think of getting together with friends and family, having some fun, arguing with one another maybe, and generally…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-solo_nrxo7i.png "Best solo")
+![](https://img.hexagamers.com/Best-solo_nrxo7i.webp "Best solo")
 
 When you think of board games, you think of getting together with friends and family, having some fun, arguing with one another maybe, and generally enjoying the comradery. Rightfully so, that is what makes games nights so awesome.
 
@@ -45,20 +45,20 @@ As always, you may or may not agree with the choices made on this list of the to
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg) |   Mage Knight Board Game   |   1-4   |   150 min   |   $$$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg) |   Friday   |   1   |   25 min   |   $   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg) |   Robinson Crusoe: An Adventure On The Cursed Island   |   1-4   |   90-180 min   |   $$$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg) |   Agricola   |   1-5   |   30-150 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg) |   Eldritch Horror   |   1-8   |   120-240 min   |   $$$$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg) |   Imperial Settlers   |   1-4   |   45-90 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg) |   Pandemic   |   2-4   |   45 min   |   $$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg) |   Lord Of The Rings: The Card Game   |   1-2   |   60 min   |   $$$   |  |
-| ![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg) |   Sentinels Of The Multiverse   |   1-5   |   30-60 min   |   $$   |  |
+| ![](https://img.hexagamers.com/Mage-Knight-Board-Game_uejj8y.webp) |   Mage Knight Board Game   |   1-4   |   150 min   |   $$$$   |  |
+| ![](https://img.hexagamers.com/Friday_yl0jj5.webp) |   Friday   |   1   |   25 min   |   $   |  |
+| ![](https://img.hexagamers.com/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.webp) |   Robinson Crusoe: An Adventure On The Cursed Island   |   1-4   |   90-180 min   |   $$$$   |  |
+| ![](https://img.hexagamers.com/Agricola.webp) |   Agricola   |   1-5   |   30-150 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Eldritch-Horror_c5pooz.webp) |   Eldritch Horror   |   1-8   |   120-240 min   |   $$$$$   |  |
+| ![](https://img.hexagamers.com/Imperial-Settlers_pxjcam.webp) |   Imperial Settlers   |   1-4   |   45-90 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Pandemic.webp) |   Pandemic   |   2-4   |   45 min   |   $$   |  |
+| ![](https://img.hexagamers.com/Lord-Of-The-Rings-The-Card-Game_xhdn5b.webp) |   Lord Of The Rings: The Card Game   |   1-2   |   60 min   |   $$$   |  |
+| ![](https://img.hexagamers.com/Sentinels-Of-The-Multiverse_drxh03.webp) |   Sentinels Of The Multiverse   |   1-5   |   30-60 min   |   $$   |  |
 
 ## 1. Mage Knight Board Game
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Mage-Knight-Board-Game_uejj8y.jpg)](http://amzn.to/2ntQV6g)
+[![Hexagamers](https://img.hexagamers.com/Mage-Knight-Board-Game_uejj8y.webp)](http://amzn.to/2ntQV6g)
 
 You are a Mage Knight in this game that must level yourself up, build your army, and generally get stronger (cards in your deck) as the game progresses. You will explore dungeons, caves, and even try to conquer cities as you go. Trying to avoid getting hurt and thus making your deck weaker.
 
@@ -82,7 +82,7 @@ This one is complex, so it might not be for everyone, but for someone who wants 
 ## 2. Friday
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Friday_yl0jj5.jpg)](http://amzn.to/2nEmk6G)
+[![Hexagamers](https://img.hexagamers.com/Friday_yl0jj5.webp)](http://amzn.to/2nEmk6G)
 
 Looking for something a little less intense, maybe a little easier to set up? Friday, might be the game you looking for.
 
@@ -100,7 +100,7 @@ Other than pretending you are on a vacation on a (deserted) island, this game al
 ## 3. Robinson Crusoe: An Adventure On The Cursed Island
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.jpg)](http://amzn.to/2nu1SFf)
+[![Hexagamers](https://img.hexagamers.com/Robinson-Crusoe-Adventures-Of-The-Cursed-Island_d7dflt.webp)](http://amzn.to/2nu1SFf)
 
 Let’s stick with the deserted island theme for a bit, except let’s make it a little more cursed, you know, for fun…
 
@@ -122,7 +122,7 @@ This game has a lot of strategy, and definitely some luck involved with a bit of
 ## 4. Agricola ([Full Review Here](/agricola-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305591/Agricola.jpg)](http://amzn.to/2n7G8Od)
+[![Hexagamers](https://img.hexagamers.com/Agricola.webp)](http://amzn.to/2n7G8Od)
 
 Ok enough of being on an island, let’s go do some farming!! Ok, maybe that’s not the first thing you would do when you got off a deserted island, but hey, maybe being that far from the ocean is the thing for you.
 
@@ -146,7 +146,7 @@ As a note on this one, this game also has a big brother/sister in Caverna, where
 ## 5. Eldritch Horror
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Eldritch-Horror_c5pooz.jpg)](http://amzn.to/2nEwd4c)
+[![Hexagamers](https://img.hexagamers.com/Eldritch-Horror_c5pooz.webp)](http://amzn.to/2nEwd4c)
 
 Looking to battle some evil that is coming to destroy the world? We have you covered with this mystery/horror themed board game.
 
@@ -170,7 +170,7 @@ The game is intense, and be prepared to lose… a lot… but that’s what makes
 ## 6. Imperial Settlers
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Imperial-Settlers_pxjcam.jpg)](http://amzn.to/2mJLwDI)
+[![Hexagamers](https://img.hexagamers.com/Imperial-Settlers_pxjcam.webp)](http://amzn.to/2mJLwDI)
 
 In Imperial Settlers, as you might guess from the title of the game, you are going to choose 1 of 4 civilizations and try to be the fastest and best settler of a new land.
 
@@ -192,7 +192,7 @@ The other positives for Imperial Settlers are its price point, and the fact that
 ## 7. Pandemic ([Full Review Here](/codenames-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](http://amzn.to/2n26akg)
+[![Hexagamers](https://img.hexagamers.com/Pandemic.webp)](http://amzn.to/2n26akg)
 
 You may have noticed that Pandemic is made for 2-4 players, yet it made the list for Top Solo Board Games. What gives?
 
@@ -216,7 +216,7 @@ Check this one out, it made this list and our best cooperative board games for a
 ## 8. Lord Of The Rings: The Card Game
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Lord-Of-The-Rings-The-Card-Game_xhdn5b.jpg)](http://amzn.to/2n2gJE9)
+[![Hexagamers](https://img.hexagamers.com/Lord-Of-The-Rings-The-Card-Game_xhdn5b.webp)](http://amzn.to/2n2gJE9)
 
 Attention Lord of the Rings fans, and well anyone who likes a good fantasy themed board game. This card constructing/deck building game is built for 1-2 players in the base set, and is, of course, set in middle earth.
 
@@ -236,7 +236,7 @@ If you are looking for a fantasy themed, adventure style board game to play by y
 ## 9. Sentinels Of The Multiverse
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sentinels-Of-The-Multiverse_drxh03.jpg)](http://amzn.to/2ngcMOd)
+[![Hexagamers](https://img.hexagamers.com/Sentinels-Of-The-Multiverse_drxh03.webp)](http://amzn.to/2ngcMOd)
 
 In need of a futuristic, super hero themed solo player board game? Sentinels of the Multiverse should fill that void for you.
 

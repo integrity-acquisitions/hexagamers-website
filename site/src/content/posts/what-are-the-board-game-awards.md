@@ -12,11 +12,11 @@ tags:
   - "dice-tower-awards"
   - "origins-awards"
   - "as-dor"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781108455/hexagamers-reviews/what-are-the-board-game-awards.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/what-are-the-board-game-awards.webp"
 description: "Spiel des Jahres, Golden Geek, Dice Tower, As d'Or — board games win a lot of awards, but what do they actually mean? A plain-English guide to who hands them out, when, and why."
 ---
 
-![Board game award badges — Spiel des Jahres, Golden Geek, Dice Tower, As d'Or, and the Origins Awards](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781108455/hexagamers-reviews/what-are-the-board-game-awards.jpg)
+![Board game award badges — Spiel des Jahres, Golden Geek, Dice Tower, As d'Or, and the Origins Awards](https://img.hexagamers.com/hexagamers-reviews/what-are-the-board-game-awards.webp)
 
 You've probably seen the little badges. A red dot on a box, a gold logo on a Kickstarter page, a "winner" sticker on the shelf at the game store. Board games hand out a *lot* of awards, and once you start paying attention you realise nobody ever explains what any of them actually mean.
 
@@ -26,7 +26,7 @@ One thing to keep in mind before we start. There's no single "board game Oscars.
 
 ## Spiel des Jahres — the big red one
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Spiel-des-jahres-logo_myg0e7" alt="Spiel des Jahres logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
+<img src="https://img.hexagamers.com/Spiel-des-jahres-logo_myg0e7" alt="Spiel des Jahres logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
 If you only learn one award, learn this one. The [**Spiel des Jahres**](https://www.spiel-des-jahres.de/en/) ("Game of the Year" in German) is the most influential board game award there is. It started in Germany in 1978, with the first prize handed out in 1979, and the red badge ("der rote Pöppel," the red meeple) on a box can sell hundreds of thousands of extra copies.
 
@@ -52,13 +52,13 @@ Want a sense of the two younger categories? On the heavier **Kennerspiel** side,
 
 **Most recent winners (2025):**
 
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Bomb_Busters_sg0lrf.jpg" alt="Bomb Busters box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20) Bomb Busters *(Spiel des Jahres)* — [Check price on Amazon](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Kennerspiel)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Topp_die_Torte_w7tdnv.jpg" alt="Topp die Torte box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20) Topp die Torte *(Kinderspiel)* — [Check price on Amazon](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Bomb_Busters_sg0lrf.webp" alt="Bomb Busters box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20) Bomb Busters *(Spiel des Jahres)* — [Check price on Amazon](https://www.amazon.com/dp/B0DF4K8KS3/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Kennerspiel)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- [<img src="https://img.hexagamers.com/Topp_die_Torte_w7tdnv.webp" alt="Topp die Torte box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20) Topp die Torte *(Kinderspiel)* — [Check price on Amazon](https://www.amazon.com/dp/B0DD4FZSVX/?tag=hexagamers-20)
 
 ## Golden Geek Awards — the people's vote
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/board-game-geek-award-logo_kyfs1p" alt="Golden Geek Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
+<img src="https://img.hexagamers.com/board-game-geek-award-logo_kyfs1p" alt="Golden Geek Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
 The **Golden Geek Awards** are the opposite philosophy. Instead of a small expert jury, these get voted on by the huge community at [BoardGameGeek](https://boardgamegeek.com), the giant database and forum that most serious hobbyists treat as home base. They started in 2006 and are presented each year around the BGG.Con event in Dallas, Texas.
 
@@ -74,13 +74,13 @@ Because it's community-driven, it's the broadest award going. There are categori
 
 **Most recent winners (2024 games):**
 
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence *(Heavy)* — [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Harmonies_irl1j9.jpg" alt="Harmonies box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20) Harmonies *(Medium)* — [Check price on Amazon](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Castle_Combo_kfeq9n.jpg" alt="Castle Combo box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20) Castle Combo *(Light)* — [Check price on Amazon](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.webp" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence *(Heavy)* — [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Harmonies_irl1j9.webp" alt="Harmonies box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20) Harmonies *(Medium)* — [Check price on Amazon](https://www.amazon.com/dp/B0CVNPHPZY/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Castle_Combo_kfeq9n.webp" alt="Castle Combo box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20) Castle Combo *(Light)* — [Check price on Amazon](https://www.amazon.com/dp/B0DHWGS11S/?tag=hexagamers-20)
 
 ## The Dice Tower Awards — the critics' pick
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/dice-tower-logo_ez8dma" alt="The Dice Tower Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
+<img src="https://img.hexagamers.com/dice-tower-logo_ez8dma" alt="The Dice Tower Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
 [The Dice Tower](https://www.dicetower.com) is one of the longest-running board game media outlets, with reviews, podcasts, and a mountain of YouTube videos behind it. Their annual **Dice Tower Awards** are chosen by a committee of well-known podcasters, reviewers, and bloggers from across the hobby, so think of these as the "critics' circle" award rather than a public vote or a single jury.
 
@@ -91,11 +91,11 @@ Categories cover the ground you'd expect: game of the year, best artwork, best s
 - [Pandemic](/pandemic-review/) — the co-op classic where you team up to stop four diseases from wiping out the planet. [Check price on Amazon](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 - [Wingspan](/wingspan-review/) — turns up on a lot of these lists, and for good reason. [Check price on Amazon](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
-**Most recent winner:** [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.jpg" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin:0 0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year. [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
+**Most recent winner:** [<img src="https://img.hexagamers.com/SETI_-_Search_for_Extraterrestrial_Intelligence_gsnar3.webp" alt="SETI box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin:0 0.4rem;" />](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20) SETI: Search for Extraterrestrial Intelligence took the Dice Tower Game of the Year. [Check price on Amazon](https://www.amazon.com/dp/B0CZBCRC3S/?tag=hexagamers-20)
 
 ## As d'Or — the French one from Cannes
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/as-dor-jeu-de-lannee_ttshuy" alt="As d'Or — Jeu de l'Année logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
+<img src="https://img.hexagamers.com/as-dor-jeu-de-lannee_ttshuy" alt="As d'Or — Jeu de l'Année logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
 The [**As d'Or**](https://www.festivaldesjeux-cannes.com/en/festival-as-d-or-jeu-de-l-annee) ("Golden Ace") is France's biggest board game award, and it carries a lot of weight in Europe. The city of Cannes launched it in 1988, and it's handed out each year at the Festival International des Jeux in Cannes. Yes, the same Cannes as the film festival, different event.
 
@@ -110,14 +110,14 @@ A jury of players, journalists, and industry pros tests hundreds of games across
 
 **Most recent winners (2025):**
 
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Odin_iixfdq.jpg" alt="Odin box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20) Odin *(general audience)* — [Check price on Amazon](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Behind_grabdb.webp" alt="Behind box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/behind) Behind *(intermediate)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/behind)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Kutn%C3%A1_Hora_-_The_City_of_Silver_wzt8do.jpg" alt="Kutná Hora: The City of Silver box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20) Kutná Hora: The City of Silver *(expert)* — [Check price on Amazon](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Op%C3%A9ration_Noisettes_b9sjjf.webp" alt="Opération Noisettes box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20) Opération Noisettes *(children's)* — [Check price on Amazon.ca](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20)
+- [<img src="https://img.hexagamers.com/Odin_iixfdq.webp" alt="Odin box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20) Odin *(general audience)* — [Check price on Amazon](https://www.amazon.com/dp/B0CRRV27SG/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Behind_grabdb.webp" alt="Behind box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/behind) Behind *(intermediate)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/behind)
+- [<img src="https://img.hexagamers.com/Kutn%C3%A1_Hora_-_The_City_of_Silver_wzt8do.webp" alt="Kutná Hora: The City of Silver box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20) Kutná Hora: The City of Silver *(expert)* — [Check price on Amazon](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Op%C3%A9ration_Noisettes_b9sjjf.webp" alt="Opération Noisettes box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20) Opération Noisettes *(children's)* — [Check price on Amazon.ca](https://www.amazon.ca/dp/B0D1K21411/?tag=hexagamers07-20)
 
 ## Origins Awards — the long-running American one
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Origins-Awards-Logo_gypnbh" alt="Origins Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
+<img src="https://img.hexagamers.com/Origins-Awards-Logo_gypnbh" alt="Origins Awards logo" height="70" style="height:70px;width:auto;margin:0.5rem 0;" />
 
 The [**Origins Awards**](https://www.originsawards.net/) are one of the oldest awards in the hobby, first handed out back in 1975 at the very first Origins Game Fair in Baltimore. They're run by GAMA (the Game Manufacturers Association), the trade body for the tabletop industry, and presented each year at the Origins Game Fair in Columbus, Ohio.
 
@@ -130,21 +130,21 @@ These cover a wider tabletop world than just board games, reaching into card gam
 
 **Most recent winners (2024 games):** Origins splits into a lot of categories, so this is just the core board game slate.
 
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Seaside_ke9tgy.jpg" alt="Seaside box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20) Seaside *(Gateway Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Heavy Strategy)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Fromage_yzafpx.jpg" alt="Fromage box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20) Fromage *(Light Strategy)* — [Check price on Amazon](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/v1779504841/Flip_7_pm9kzi.jpg" alt="Flip 7 box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20) [Flip 7](/flip-7-review/) *(Party Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)
-- [<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/marvel_united_multiverse_vohx1v.jpg" alt="Marvel United: Multiverse box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20) Marvel United: Multiverse *(Co-Op/Solo)* — [Check price on Amazon](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Seaside_ke9tgy.webp" alt="Seaside box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20) Seaside *(Gateway Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0D9KYQSLZ/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Endeavor_-_Deep_Sea_issyql.webp" alt="Endeavor: Deep Sea box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.boardgamebliss.com/products/endeavor-deep-sea) Endeavor: Deep Sea *(Heavy Strategy)* — [See it at Board Game Bliss](https://www.boardgamebliss.com/products/endeavor-deep-sea)
+- [<img src="https://img.hexagamers.com/Fromage_yzafpx.webp" alt="Fromage box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20) Fromage *(Light Strategy)* — [Check price on Amazon](https://www.amazon.com/dp/B0D6BDGBXC/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/Flip_7_pm9kzi.webp" alt="Flip 7 box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20) [Flip 7](/flip-7-review/) *(Party Game)* — [Check price on Amazon](https://www.amazon.com/dp/B0DWGVM7RY/?tag=hexagamers-20)
+- [<img src="https://img.hexagamers.com/marvel_united_multiverse_vohx1v.webp" alt="Marvel United: Multiverse box art" height="90" style="height:90px;width:auto;vertical-align:middle;margin-right:0.4rem;" />](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20) Marvel United: Multiverse *(Co-Op/Solo)* — [Check price on Amazon](https://www.amazon.com/dp/B0D5RZL1L6/?tag=hexagamers-20)
 
 ## A few more worth knowing
 
 Once you go down the rabbit hole there are dozens, but these come up often enough to be worth a sentence each:
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/international-gamers-award_tqq4kj" alt="International Gamers Award logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**International Gamers Awards (IGA)**](https://www.internationalgamersawards.net/) — specifically for strategy board games and historical simulation games. If you like the heavier, more strategic end of the hobby, this one is aimed squarely at you. Winners skew big and brainy: Terraforming Mars is a good example ([on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)).
+<img src="https://img.hexagamers.com/international-gamers-award_tqq4kj" alt="International Gamers Award logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**International Gamers Awards (IGA)**](https://www.internationalgamersawards.net/) — specifically for strategy board games and historical simulation games. If you like the heavier, more strategic end of the hobby, this one is aimed squarely at you. Winners skew big and brainy: Terraforming Mars is a good example ([on Amazon](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)).
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/uk-games-expo-logo_jm9yzu" alt="UK Games Expo Awards logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**UK Games Expo Awards**](https://www.ukgamesexpo.co.uk/whats-on/show/uk-games-expo-awards/) — handed out at the UK Games Expo (the UK's largest tabletop convention) each summer. Split into a big set of Judges' Choice categories covering Euro-style, strategic, card games, abstract games, narrative and legacy games, and accessories, plus a People's Choice public vote.
+<img src="https://img.hexagamers.com/uk-games-expo-logo_jm9yzu" alt="UK Games Expo Awards logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**UK Games Expo Awards**](https://www.ukgamesexpo.co.uk/whats-on/show/uk-games-expo-awards/) — handed out at the UK Games Expo (the UK's largest tabletop convention) each summer. Split into a big set of Judges' Choice categories covering Euro-style, strategic, card games, abstract games, narrative and legacy games, and accessories, plus a People's Choice public vote.
 
-<img src="https://res.cloudinary.com/dt4ujaczs/image/upload/mensa-mind-games-logo_rzdhnc" alt="Mensa Select / Mensa Mind Games logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**Mensa Select**](https://mensamindgames.com/) — chosen by the high-IQ society Mensa for games that are original, challenging, and well-designed. An unusual angle, but it's been a quiet stamp of quality for clever games for decades.
+<img src="https://img.hexagamers.com/mensa-mind-games-logo_rzdhnc" alt="Mensa Select / Mensa Mind Games logo" height="55" style="height:55px;width:auto;vertical-align:middle;margin-right:0.5rem;" /> [**Mensa Select**](https://mensamindgames.com/) — chosen by the high-IQ society Mensa for games that are original, challenging, and well-designed. An unusual angle, but it's been a quiet stamp of quality for clever games for decades.
 
 **Spiel der Spiele** — Austria's national game award. Similar family-friendly spirit to its German cousin, just across the border.
 

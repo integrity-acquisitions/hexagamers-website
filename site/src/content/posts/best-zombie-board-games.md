@@ -19,7 +19,7 @@ tags:
   - "zombie-dice"
   - "zombie-fluxx"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781278892/hexagamers-articles/best-zombie-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-zombie-board-games.webp"
 lastModified: 2026-06-12
 description: "Our pick of the best zombie board games, from tense co-op survival to backstabbing betrayal and quick brain-eating dice fillers."
 ---
@@ -39,22 +39,22 @@ We tried to pick across price and weight so there's something here whether you w
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305608/Dead-of-Winter-1024x1014.jpg)](#1-dead-of-winter-a-crossroads-game) | Dead of Winter | 2-5 | 60-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Zombicide_-_Black_Plague_qinizl.jpg)](#2-zombicide-black-plague) | Zombicide: Black Plague | 1-6 | 60-180 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Last_Night_on_Earth_dwbvge.jpg)](#3-last-night-on-earth) | Last Night on Earth | 2-6 | 60-90 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Zombie_Kidz_Evolution_ncj82a.jpg)](#4-zombie-kidz-evolution) | Zombie Kidz Evolution | 2-4 | 15 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Tiny_Epic_Zombies_kmyfrp.webp)](#5-tiny-epic-zombies) | Tiny Epic Zombies | 1-5 | 30-45 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Dawn_of_the_Zeds_3rd_Ed._yeh2kt.jpg)](#6-dawn-of-the-zeds-third-edition) | Dawn of the Zeds | 1-5 | 90-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/City_of_Horror_iykjys.webp)](#7-city-of-horror) | City of Horror | 3-6 | 60-90 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781278465/The_Walking_Dead_all_out_war_w0c0zk.webp)](#8-the-walking-dead-all-out-war) | The Walking Dead: All Out War | 1-2 | 45-90 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277695/Zombie_Dice_cff5vz.jpg)](#9-zombie-dice) | Zombie Dice | 2+ | 10-20 min | $ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458903/hexagamers-reviews/zombie-fluxx-review.jpg)](#10-zombie-fluxx-full-review-here) | Zombie Fluxx | 2-6 | 10-40 min | $ | — |
+| [![](https://img.hexagamers.com/Dead-of-Winter-1024x1014.webp)](#1-dead-of-winter-a-crossroads-game) | Dead of Winter | 2-5 | 60-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Zombicide_-_Black_Plague_qinizl.webp)](#2-zombicide-black-plague) | Zombicide: Black Plague | 1-6 | 60-180 min | $$$$ | — |
+| [![](https://img.hexagamers.com/Last_Night_on_Earth_dwbvge.webp)](#3-last-night-on-earth) | Last Night on Earth | 2-6 | 60-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/Zombie_Kidz_Evolution_ncj82a.webp)](#4-zombie-kidz-evolution) | Zombie Kidz Evolution | 2-4 | 15 min | $$ | — |
+| [![](https://img.hexagamers.com/Tiny_Epic_Zombies_kmyfrp.webp)](#5-tiny-epic-zombies) | Tiny Epic Zombies | 1-5 | 30-45 min | $$ | — |
+| [![](https://img.hexagamers.com/Dawn_of_the_Zeds_3rd_Ed._yeh2kt.webp)](#6-dawn-of-the-zeds-third-edition) | Dawn of the Zeds | 1-5 | 90-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/City_of_Horror_iykjys.webp)](#7-city-of-horror) | City of Horror | 3-6 | 60-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/The_Walking_Dead_all_out_war_w0c0zk.webp)](#8-the-walking-dead-all-out-war) | The Walking Dead: All Out War | 1-2 | 45-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/Zombie_Dice_cff5vz.webp)](#9-zombie-dice) | Zombie Dice | 2+ | 10-20 min | $ | — |
+| [![](https://img.hexagamers.com/hexagamers-reviews/zombie-fluxx-review.webp)](#10-zombie-fluxx-full-review-here) | Zombie Fluxx | 2-6 | 10-40 min | $ | — |
 
 ## Best Zombie Board Games Reviews
 
 ## 1. Dead of Winter: A Crossroads Game
 
-[![Dead of Winter](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305608/Dead-of-Winter-1024x1014.jpg)](https://www.amazon.com/dp/B00HFKITJC/?tag=hexagamers-20)
+[![Dead of Winter](https://img.hexagamers.com/Dead-of-Winter-1024x1014.webp)](https://www.amazon.com/dp/B00HFKITJC/?tag=hexagamers-20)
 
 If you only ever play one zombie game, this is the one we'd point you toward. Dead of Winter puts your group in a freezing, half-dead colony where the zombies at the gate are almost the small problem. The big problem is the people sitting at the table with you.
 
@@ -68,7 +68,7 @@ It's a chunkier game to learn and it runs long, so it's not a casual pull-off-th
 
 ## 2. Zombicide: Black Plague
 
-[![Zombicide: Black Plague](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Zombicide_-_Black_Plague_qinizl.jpg)](https://www.amazon.com/dp/B011MIVWV4/?tag=hexagamers-20)
+[![Zombicide: Black Plague](https://img.hexagamers.com/Zombicide_-_Black_Plague_qinizl.webp)](https://www.amazon.com/dp/B011MIVWV4/?tag=hexagamers-20)
 
 This is the one for people who want to actually fight the horde instead of hiding from it. Zombicide: Black Plague drops the modern-day setting of the original and reskins the whole thing as medieval fantasy. You're survivors with swords and spells carving through waves of undead, and the box is stuffed with miniatures.
 
@@ -82,7 +82,7 @@ The honest downside is price and table space. This is a big, expensive box, and 
 
 ## 3. Last Night on Earth
 
-[![Last Night on Earth](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Last_Night_on_Earth_dwbvge.jpg)](https://www.amazon.com/dp/0979658500/?tag=hexagamers-20)
+[![Last Night on Earth](https://img.hexagamers.com/Last_Night_on_Earth_dwbvge.webp)](https://www.amazon.com/dp/0979658500/?tag=hexagamers-20)
 
 Last Night on Earth is the one that plays like a B-movie, and it knows it. One or two players take the zombies, everyone else plays small-town heroes, and the two sides go head to head over a scenario like "escape town" or "stop the spread." It even comes with a soundtrack CD, which tells you exactly how seriously it takes itself.
 
@@ -96,7 +96,7 @@ Pull this one out when you've got someone who loves playing the villain. Handing
 
 ## 4. Zombie Kidz Evolution
 
-[![Zombie Kidz Evolution](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Zombie_Kidz_Evolution_ncj82a.jpg)](https://www.amazon.com/dp/B07M5BFVP2/?tag=hexagamers-20)
+[![Zombie Kidz Evolution](https://img.hexagamers.com/Zombie_Kidz_Evolution_ncj82a.webp)](https://www.amazon.com/dp/B07M5BFVP2/?tag=hexagamers-20)
 
 Don't let the kid theme fool you into skipping this one. Zombie Kidz Evolution sits at the top of BoardGameGeek's children's rankings for a reason, and a big part of why is the legacy hook. You and the kids work together to keep zombies out of the school, and as you win games you unlock envelopes that add new rules, stickers, and surprises.
 
@@ -110,7 +110,7 @@ This is our pick for families and for getting younger players into the hobby. It
 
 ## 5. Tiny Epic Zombies
 
-[![Tiny Epic Zombies](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Tiny_Epic_Zombies_kmyfrp.webp)](https://www.amazon.ca/dp/B0CKZL6YZW/?tag=hexagamers-20)
+[![Tiny Epic Zombies](https://img.hexagamers.com/Tiny_Epic_Zombies_kmyfrp.webp)](https://www.amazon.ca/dp/B0CKZL6YZW/?tag=hexagamers-20)
 
 Tiny Epic Zombies pulls off something most zombie games don't even attempt. It fits a whole outbreak into a box barely bigger than a deck of cards. You're survivors trapped in a shopping mall, fighting through rooms, and the whole thing packs down to nothing.
 
@@ -124,7 +124,7 @@ The tradeoff for that compact size is fiddliness. There's a fair bit packed into
 
 ## 6. Dawn of the Zeds (Third Edition)
 
-[![Dawn of the Zeds](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/Dawn_of_the_Zeds_3rd_Ed._yeh2kt.jpg)](https://www.amazon.com/dp/B07JKQHYW6/?tag=hexagamers-20)
+[![Dawn of the Zeds](https://img.hexagamers.com/Dawn_of_the_Zeds_3rd_Ed._yeh2kt.webp)](https://www.amazon.com/dp/B07JKQHYW6/?tag=hexagamers-20)
 
 Dawn of the Zeds is the thinky one. It's a cooperative tower-defense-style game where you're defending the town of Farmingdale as the undead pour in from the edges of the map, and it plays beautifully solo — which is rarer in this genre than you'd expect.
 
@@ -138,7 +138,7 @@ It is the heaviest brain-burn on this list and the rulebook reflects that, so it
 
 ## 7. City of Horror
 
-[![City of Horror](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277694/City_of_Horror_iykjys.webp)](https://www.amazon.com/dp/B009ROKVUE/?tag=hexagamers-20)
+[![City of Horror](https://img.hexagamers.com/City_of_Horror_iykjys.webp)](https://www.amazon.com/dp/B009ROKVUE/?tag=hexagamers-20)
 
 If Dead of Winter's betrayal is a slow burn, City of Horror is the version where you just feed your friends to the zombies on purpose. It's a semi-cooperative survival game built almost entirely around negotiation, voting, and sacrifice. The undead are a threat, sure, but the real game is the deals you cut to make sure it's not your character getting eaten.
 
@@ -152,7 +152,7 @@ It's not a deep tactical game and it's not trying to be. It's a social pressure 
 
 ## 8. The Walking Dead: All Out War
 
-[![The Walking Dead: All Out War](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781278465/The_Walking_Dead_all_out_war_w0c0zk.webp)](https://walkingdeadalloutwar.com/)
+[![The Walking Dead: All Out War](https://img.hexagamers.com/The_Walking_Dead_all_out_war_w0c0zk.webp)](https://walkingdeadalloutwar.com/)
 
 This is the pick for the licensed-IP crowd and anyone curious about tabletop miniatures skirmishing. The Walking Dead: All Out War is a head-to-head game where two players run rival groups of survivors fighting over supplies, with the walkers lurching around as a shared third threat that punishes anyone who makes too much noise.
 
@@ -166,7 +166,7 @@ The catch is that it's built around expansions and collecting, so the starter is
 
 ## 9. Zombie Dice
 
-[![Zombie Dice](https://res.cloudinary.com/dt4ujaczs/image/upload/v1781277695/Zombie_Dice_cff5vz.jpg)](https://www.amazon.com/dp/B003IKMR0U/?tag=hexagamers-20)
+[![Zombie Dice](https://img.hexagamers.com/Zombie_Dice_cff5vz.webp)](https://www.amazon.com/dp/B003IKMR0U/?tag=hexagamers-20)
 
 Sometimes you want the whole zombie experience in a tube you can finish before your drink gets warm. Zombie Dice flips the script. You're the zombie, rolling to eat as many brains as you can before three shotgun blasts take you out.
 
@@ -180,7 +180,7 @@ There's basically no strategy beyond knowing when to stop, so it's not a main-ev
 
 ## 10. Zombie Fluxx ([Full Review Here](/zombie-fluxx-review/))
 
-[![Zombie Fluxx](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458903/hexagamers-reviews/zombie-fluxx-review.jpg)](https://www.amazon.com/dp/B006BA2Y70/?tag=hexagamers-20)
+[![Zombie Fluxx](https://img.hexagamers.com/hexagamers-reviews/zombie-fluxx-review.webp)](https://www.amazon.com/dp/B006BA2Y70/?tag=hexagamers-20)
 
 Zombie Fluxx is the chaos pick, and we've got a [full review of it here](/zombie-fluxx-review/) if you want the deep dive. It takes the ever-shifting Fluxx card game, where the rules and the win condition change constantly as you play, and pours zombies all over it. New rule cards rewrite how turns work mid-game, and a creeping zombie deck threatens to give everyone an unwinnable losing condition if too many shamble out.
 

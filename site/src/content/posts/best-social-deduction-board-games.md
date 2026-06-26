@@ -72,12 +72,12 @@ tags:
   - "z-man-games"
   - "zombie"
   - "zombies"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461210/hexagamers-articles/best-social-deduction-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-social-deduction-board-games.webp"
 lastModified: 2025-01-01
 description: "In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who.…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Social-Deduction-Board-Games-2_ckqi7r.png "Best Social Deduction Board Games")
+![](https://img.hexagamers.com/Best-Social-Deduction-Board-Games-2_ckqi7r.webp "Best Social Deduction Board Games")
 
 In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who. Players or teams are often pitted against each other to achieve a common or individual goal, and this goal helps them win the game. Logic, bluffing, strategy and often some kind of special ability or skill help you along the road--but if logic and strategy aren't your strong suit, don't worry! A little bluffing (and throwing your friends under the bus) can go a long way. There truly is something for everyone of every age in this genre, and it's a great one to turn to for big groups, parties and even ice breakers. We outlined our top 10 social deduction board games below, and we chose them based on their engagement, creativity, replayability, innovation and sheer amount of fun. These just scratch the surface, though. There are many more out there, just waiting for you to play them, too!
 
@@ -87,21 +87,21 @@ In social deduction board games, everyone has a role--often kept secret--and pla
 
 |   Image   |   Game    |   Players   |   Time   |   Price   |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| [![The Resistance Avalon Review](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg "The Resistance - Avalon")](#1avalon) |   **Avalon**   |   5-10   |   30 mins.   |   $   |  |
-| [![Bang The Dice Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Bang-The-Dice-Game_ydbqhk.jpg "Bang The Dice Game")](#2-bang-the-dice-game) |   **Bang: The Dice Game**   |   3-8   |   15 mins.   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Secret-Hitler_dbucne.png "Secret Hitler")](#3-secret-hitler) |   **Secret Hitler**   |   5-10   |   45 mins.   |   $$   |  |
-| [![Deception board game review](https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg "Deception")](#4-deception-murder-in-hong-kong) |   **Deception: Murder in Hong Kong**   |   4-12   |   20 mins.   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg "Coup")](#5-coup) |   **Coup**   |   2-6   |   15 mins.   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Saboteur-2_ookt48.jpg "Saboteur 2")](#6-saboteur-2) |   **Saboteur 2**   |   2-12   |   30 mins.   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mascarade_eofyb8.jpg "Mascarade")](#7-mascarade) |   **Mascarade**   |   2-13   |   30 mins.   |   $$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305608/Dead-of-Winter-1024x1014.jpg "Dead of Winter")](#8-dead-of-winter) |   **Dead of Winter**   |   2-5   |   100 mins.   |   $$$   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305609/Tortuga-1667-1024x926.jpg "Tortuga 1667")](#9-tortuga-1667) |   **Tortuga 1667**   |   2-9   |   20-40 mins.   |   $   |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/love-letter-box_hhhrlq.jpg "love letter box")](#10-love-letter) |   **Love Letter**   |   2-4   |   20 mins.   |   $   |  |
+| [![The Resistance Avalon Review](https://img.hexagamers.com/The-Resistance-Avalon.webp "The Resistance - Avalon")](#1avalon) |   **Avalon**   |   5-10   |   30 mins.   |   $   |  |
+| [![Bang The Dice Game](https://img.hexagamers.com/Bang-The-Dice-Game_ydbqhk.webp "Bang The Dice Game")](#2-bang-the-dice-game) |   **Bang: The Dice Game**   |   3-8   |   15 mins.   |   $   |  |
+| [![](https://img.hexagamers.com/Secret-Hitler_dbucne-png.webp "Secret Hitler")](#3-secret-hitler) |   **Secret Hitler**   |   5-10   |   45 mins.   |   $$   |  |
+| [![Deception board game review](https://img.hexagamers.com/Deception_vsf1eo.webp "Deception")](#4-deception-murder-in-hong-kong) |   **Deception: Murder in Hong Kong**   |   4-12   |   20 mins.   |   $$   |  |
+| [![](https://img.hexagamers.com/Coup-1_mcfcul.webp "Coup")](#5-coup) |   **Coup**   |   2-6   |   15 mins.   |   $   |  |
+| [![](https://img.hexagamers.com/Saboteur-2_ookt48.webp "Saboteur 2")](#6-saboteur-2) |   **Saboteur 2**   |   2-12   |   30 mins.   |   $   |  |
+| [![](https://img.hexagamers.com/Mascarade_eofyb8.webp "Mascarade")](#7-mascarade) |   **Mascarade**   |   2-13   |   30 mins.   |   $$   |  |
+| [![](https://img.hexagamers.com/Dead-of-Winter-1024x1014.webp "Dead of Winter")](#8-dead-of-winter) |   **Dead of Winter**   |   2-5   |   100 mins.   |   $$$   |  |
+| [![](https://img.hexagamers.com/Tortuga-1667-1024x926.webp "Tortuga 1667")](#9-tortuga-1667) |   **Tortuga 1667**   |   2-9   |   20-40 mins.   |   $   |  |
+| [![](https://img.hexagamers.com/love-letter-box_hhhrlq.webp "love letter box")](#10-love-letter) |   **Love Letter**   |   2-4   |   20 mins.   |   $   |  |
 
 ## 1.Avalon
 
 
-![The Resistance Avalon Review](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg "The Resistance - Avalon")
+![The Resistance Avalon Review](https://img.hexagamers.com/The-Resistance-Avalon.webp "The Resistance - Avalon")
 
 We love [Avalon](/the-resistance-avalon-review/). In fact, we love it so much, we play it nearly every time the six of us are together. It's a fantastic small group game for 5-10 players and takes only about 30 minutes (although, for us, we spend so much time yelling over each other and arguing, games can last up to an hour). Set in the time of Arthur, everyone is given a secret role of good or evil, and some have special powers. 
 
@@ -118,7 +118,7 @@ If you're looking for a social deduction game you can play over and over, a game
 ## 2. Bang! The Dice Game
 
 
-![Bang The Dice Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Bang-The-Dice-Game_ydbqhk.jpg "Bang The Dice Game")
+![Bang The Dice Game](https://img.hexagamers.com/Bang-The-Dice-Game_ydbqhk.webp "Bang The Dice Game")
 
 Three words: [SO MUCH FUN](/bang-the-dice-game-review/). We know a lot of people don't enjoy the original Bang!, and we feel the dice version is a vast improvement. In the wild west, outlaws, renegades, deputies and a sheriff are fighting to keep order in their town. Only the sheriff is revealed, while any deputies, outlaws and renegades are kept secret, left for everyone to deduce who's restoring order and who's creating chaos. Each player gets a role and a character. The character is a fun wild west card that defines how many life points and what special abilities you have. With the dice and the extra character abilities (which can seriously alter outcomes), Bang! The Dice Game is a little more complex than Avalon (although still fairly simple to learn and play).
 
@@ -129,7 +129,7 @@ The trick, and where social deduction plays in: you only know who the sheriff is
 ## 3. Secret Hitler
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Secret-Hitler_dbucne.png "Secret Hitler")
+![](https://img.hexagamers.com/Secret-Hitler_dbucne-png.webp "Secret Hitler")
 
 Secret Hitler is designed for an older audience (17+) and is a longer social deduction game (about 45 minutes). You'll need at least five players for it, but it's a lot of fun, and it really keeps your brain engaged throughout the game. The group is divided secretly into fascists and liberals (there are always more liberals), and one Hitler. Each team is working towards securing their team's government via a tracking board to win the game. While the fascists know Hitler, Hitler (usually) doesn't know them, and the liberals are completely in the dark. 
 
@@ -142,7 +142,7 @@ We love the ease of learning Secret Hitler coupled with its complexities and spe
 ## 4. Deception: Murder in Hong Kong
 
 
-![Deception board game review](https://res.cloudinary.com/dt4ujaczs/image/upload/Deception_vsf1eo.jpg "Deception")
+![Deception board game review](https://img.hexagamers.com/Deception_vsf1eo.webp "Deception")
 
 This is a very cool and creative game. We love the blend of mystery and whodunnit with role play and social deduction. (See [Charlene's review](/deception-murder-hong-kong/).) It's a quick game, usually lasting only 20 minutes, and plays with as few as four and as many as 12. A murder was committed, and as investigators, you must work together to find the means and clue left by the murderer in your group. At the start of the game, everyone is dealt face-up four means and four clue cards, and a secret identity (except for the forensic scientist, known to everyone). The murderer reveals himself secretly to the forensic scientist and identifies a means and clue card in his hand. It is then up to the forensic scientist to lead the investigators over three rounds to find these cards.
 
@@ -153,7 +153,7 @@ The best twist about this game is the forensic scientist isn't allowed to talk. 
 ## 5. Coup
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Coup-1_mcfcul.jpg "Coup")
+![](https://img.hexagamers.com/Coup-1_mcfcul.webp "Coup")
 
 Rounding out our top five social deduction games, [Coup](/coup-review/) is practically the definition of social deduction. It's a mini game consisting only of cards and coins, and it can be played in 15 minutes or less. Everyone gets two secret role cards, a few dollars, and a random player goes first. Your purpose is to be the last one standing by either paying to assassinate other players, collecting enough coins (by taking from the bank or stealing from players) to call a coup on someone else, or by flying under the radar until everyone else is dead. Each role has different powers from stealing other players' money, taking extra cash from the bank, assassinating or blocking assassinations, trading roles, and more. Each role has a counteraction, and you can counter any action on any turn--it doesn't have to affect you, or even be your turn! Strategic kindness can pay off for you in the long run. This is probably our favourite part. It's infuriating to have someone destroy your strategy and reveal your intent, especially when it doesn't affect them, but it's so satisfying to be the one to destroy someone else's strategy and reveal their intent. 
 
@@ -162,7 +162,7 @@ Coup is a light and fun game, and it's not intimidating to people new to board g
 ## 6. Saboteur 2
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Saboteur-2_ookt48.jpg "Saboteur 2")
+![](https://img.hexagamers.com/Saboteur-2_ookt48.webp "Saboteur 2")
 
 Saboteur 2 is a bit of an oddball in the social deduction world. It's partially a bluffing game, partially a cooperative game and partially a social deduction game. It's also more complex and has more happening than its mother, [Saboteur](https://www.amazon.ca/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=saboteur) (which you'll need to play the expansion). If you've played the original but not the sequel, trust us and don't judge Saboteur 2 without first playing it.
 
@@ -175,7 +175,7 @@ We really enjoy this game. We're big on bluffing and secrecy and casting suspici
 ## 7. Mascarade
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Mascarade_eofyb8.jpg "Mascarade")
+![](https://img.hexagamers.com/Mascarade_eofyb8.webp "Mascarade")
 
 Mascarade is a fun and brain-twisting social deduction game. Its rules, actions and goals are simple, but of course, winning the game is not. Everyone is dealt a role and six coins, with the aim to be the first to collect 13 coins. Roles are laid face up, players get to look and memorize everyone's role, and then the cards are flipped face-down. On your turn, you choose one of three actions: perform the special ability associated with your (supposed) role, take someone else's role card and switch it with yours (or pretend to!), or look at your role.
 
@@ -186,7 +186,7 @@ It's a hectic game and while there isn't a lot of complexity, there is a lot hap
 ## 8. Dead of Winter
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305608/Dead-of-Winter-1024x1014.jpg "Dead of Winter")
+![](https://img.hexagamers.com/Dead-of-Winter-1024x1014.webp "Dead of Winter")
 
 This is a very cool game, but it's also quite lengthy and complex. If you have some time to dedicate, Dead of Winter is a good investment and a good exercise for your brain. It's a semi-cooperative, semi-social deduction board game. As a colony, you and your friends are trying to survive after a zombie apocalypse, but as a leader, you're also in charge of a group of survivors with your own secret objective. You only win if you complete your secret objective, and the game ends if the colony objective is complete, if morale reaches zero or if the rounds are over. What's more, one of the players may be given a betrayer objective, so they'll appear to work with the colony while secretly working against everyone. These betrayer objectives aren't a guarantee, so you never know if someone is actually with or against you--and sometimes their objectives clash with yours, so they may seem like a traitor even if they're not.
 
@@ -197,7 +197,7 @@ Honestly, there's so much happening in this game, we can't explain it all. Suffi
 ## 9. Tortuga 1667
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305609/Tortuga-1667-1024x926.jpg "Tortuga 1667")
+![](https://img.hexagamers.com/Tortuga-1667-1024x926.webp "Tortuga 1667")
 
 As a pirate in 1667, you and your crew plan to rob a Spanish Galleon and split the treasure--only, you have no intention of keeping your word. And, you're pretty sure your mates intend to mutiny against you.
 
@@ -208,7 +208,7 @@ In the case of a tie during an odd-numbered player game, the lone Dutchman wins.
 ## 10. Love Letter
 
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/love-letter-box_hhhrlq.jpg "love letter box")
+![](https://img.hexagamers.com/love-letter-box_hhhrlq.webp "love letter box")
 
 Smitten with the Princess, you are trying to get your love letter to her to gain her attention. As she's been devastated by her mother's arrest, she refuses to see any suitors, so you must rely on a court messenger to deliver your letter. 
 

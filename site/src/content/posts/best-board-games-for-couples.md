@@ -11,7 +11,7 @@ tags:
   - "couples-games"
   - "board-games-for-two"
   - "date-night-games"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779731920/hexagamers-reviews/best-board-games-for-couples.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-couples.webp"
 lastModified: 2026-05-25
 description: "The best board games for couples — from quick fillers to deep strategy nights — with honest picks your partner will actually want to play again."
 ---
@@ -34,22 +34,22 @@ How we picked them: every game here is either designed exclusively for two playe
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Patchwork_htst3r.jpg)](#1-patchwork) | Patchwork | 2 | 15–30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730132/7_Wonders_Duel_suc1at.jpg)](#2-7-wonders-duel) | 7 Wonders Duel | 2 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Jaipur_imtlky.jpg)](#3-jaipur) | Jaipur | 2 | 30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](#4-lost-cities) | Lost Cities | 2 | 30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hanamikoji_qlabbz.webp)](#5-hanamikoji) | Hanamikoji | 2 | 15–20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The_Fox_in_the_Forest_ny0xqh.jpg)](#6-the-fox-in-the-forest) | The Fox in the Forest | 2 | 30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](#7-splendor) | Splendor | 2–4 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](#8-azul) | Azul | 2–4 | 30–45 min | $$ | 4.7 / 5 |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Targi_amlp6d.jpg)](#9-targi) | Targi | 2 | 60 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](#10-wingspan) | Wingspan | 1–5 | 40–70 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Patchwork_htst3r.webp)](#1-patchwork) | Patchwork | 2 | 15–30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/7_Wonders_Duel_suc1at.webp)](#2-7-wonders-duel) | 7 Wonders Duel | 2 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Jaipur_imtlky.webp)](#3-jaipur) | Jaipur | 2 | 30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Lost_Cities_u84kze.webp)](#4-lost-cities) | Lost Cities | 2 | 30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Hanamikoji_qlabbz.webp)](#5-hanamikoji) | Hanamikoji | 2 | 15–20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/The_Fox_in_the_Forest_ny0xqh.webp)](#6-the-fox-in-the-forest) | The Fox in the Forest | 2 | 30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Splendor_nfjkdp.webp)](#7-splendor) | Splendor | 2–4 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#8-azul) | Azul | 2–4 | 30–45 min | $$ | 4.7 / 5 |
+| [![Hexagamers](https://img.hexagamers.com/Targi_amlp6d.webp)](#9-targi) | Targi | 2 | 60 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#10-wingspan) | Wingspan | 1–5 | 40–70 min | $$$ | — |
 
 ---
 
 ## 1. Patchwork
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Patchwork_htst3r.jpg)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Patchwork_htst3r.webp)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
 
 Patchwork is a two-player game about building a quilt. That premise shouldn't work. And then you sit down with your partner, play one round, and immediately understand why it shows up on every couples game list without fail.
 
@@ -67,7 +67,7 @@ This is the one we'd start with if you've never played a dedicated two-player ga
 
 ## 2. 7 Wonders Duel
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779730132/7_Wonders_Duel_suc1at.jpg)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/7_Wonders_Duel_suc1at.webp)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
 
 7 Wonders Duel is the two-player version of 7 Wonders, and it's better than the original for this format. That's not a knock on 7 Wonders — it's just that Duel was designed from the ground up for two people, and every decision in it reflects that.
 
@@ -83,7 +83,7 @@ It plays in 30 minutes once you know it. The first teach is longer — figure 20
 
 ## 3. Jaipur
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779729708/Jaipur_imtlky.jpg)](https://www.amazon.com/dp/B07DW5T9LH/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Jaipur_imtlky.webp)](https://www.amazon.com/dp/B07DW5T9LH/?tag=hexagamers-20)
 
 Jaipur is a two-player card game about trading goods in an Indian market. You're a merchant competing to earn more rupees than your rival by collecting and selling sets of camels, spices, cloth, leather, silver, gold, and diamonds.
 
@@ -99,7 +99,7 @@ Great pick if one of you is newer to hobby games. Rules are simple, decisions ar
 
 ## 4. Lost Cities
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779726175/Lost_Cities_u84kze.webp)](https://www.amazon.com/dp/B07KLWPHFF/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Lost_Cities_u84kze.webp)](https://www.amazon.com/dp/B07KLWPHFF/?tag=hexagamers-20)
 
 Lost Cities has been on shelves since 1999 and it keeps showing up on two-player recommendation lists because it earned its place there. Designed by Reiner Knizia, it's one of the cleanest examples of a game that's simple to explain and quietly agonizing to play.
 
@@ -115,7 +115,7 @@ Lost Cities doesn't have the visual appeal of Azul or the physical presence of W
 
 ## 5. Hanamikoji
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hanamikoji_qlabbz.webp)](https://www.amazon.com/dp/B09YVM2658/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Hanamikoji_qlabbz.webp)](https://www.amazon.com/dp/B09YVM2658/?tag=hexagamers-20)
 
 Hanamikoji is the most underrated game on this list. It plays in 15 to 20 minutes, the rules take five minutes to explain, and it generates more genuine tension per minute than almost anything else in this category.
 
@@ -131,7 +131,7 @@ The art is beautiful — illustrated in a Japanese woodblock style — and the b
 
 ## 6. The Fox in the Forest
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/The_Fox_in_the_Forest_ny0xqh.jpg)](https://www.amazon.com/dp/B06XP7ZDH1/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The_Fox_in_the_Forest_ny0xqh.webp)](https://www.amazon.com/dp/B06XP7ZDH1/?tag=hexagamers-20)
 
 The Fox in the Forest is a trick-taking game for exactly two players. If you grew up playing Hearts or Spades and want something in that family but built specifically for two, this is it.
 
@@ -147,7 +147,7 @@ Plays in 30 minutes, rules explained in five. Beautiful illustrated art. Small b
 
 ## 7. Splendor ([Full Review Here](/splendor-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779466013/Splendor_nfjkdp.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Splendor_nfjkdp.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Splendor is one of the cleanest engine-building games around. You're a Renaissance gem merchant collecting colored tokens, spending them to buy development cards, and using those cards to buy more valuable cards — until someone reaches 15 prestige points and the game ends.
 
@@ -163,7 +163,7 @@ It plays 2–4, so it's also a good option when friends come over.
 
 ## 8. Azul ([Full Review Here](/azul-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463454/Azul_znrp2h.jpg)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20)
 
 Azul is a tile-drafting game about decorating the walls of a Portuguese palace. The tiles are thick resin pieces that feel genuinely good to pick up. People who don't play board games will reach over and handle them just because they're satisfying to touch.
 
@@ -190,7 +190,7 @@ At two players it runs under 45 minutes. The decision space is compact enough th
 
 ## 9. Targi
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Targi_amlp6d.jpg)](https://www.amazon.com/dp/B07B7TTRDF/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Targi_amlp6d.webp)](https://www.amazon.com/dp/B07B7TTRDF/?tag=hexagamers-20)
 
 Targi is a two-player worker placement game set among the Tuareg people of the Sahara. It's strictly for two, built around a mechanic where you place your three workers on the outer border of a 5×5 card grid — and wherever two of your workers share a row and column, that intersection is where you actually take an action. Your opponent's workers block some of those intersections, so placement is always a contested puzzle.
 
@@ -204,7 +204,7 @@ It runs around 60 minutes and rewards repeated plays as you start to understand 
 
 ## 10. Wingspan ([Full Review Here](/wingspan-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779463069/hexagamers-box-art/wingspan.jpg)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20)
 
 Wingspan is an engine builder where you're attracting birds to habitats on a nature reserve. It's visually one of the most appealing games in the hobby — illustrated bird cards with real species facts on each one, a wooden dice tower shaped like a miniature bird feeder, and components that feel considered rather than cheap.
 

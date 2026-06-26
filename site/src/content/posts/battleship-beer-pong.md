@@ -10,11 +10,11 @@ tags:
   - "beer-pong"
   - "drinking-games"
   - "memes"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299544/battleship-beer-pong_qv2fzu.jpg"
+coverImage: "https://img.hexagamers.com/battleship-beer-pong_qv2fzu.webp"
 description: "Battleship Beer Pong — the mashup nobody asked for but everybody needs."
 ---
 
-![Battleship Beer Pong](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299544/battleship-beer-pong_qv2fzu.jpg)
+![Battleship Beer Pong](https://img.hexagamers.com/battleship-beer-pong_qv2fzu.webp)
 
 Battleship Beer Pong — the mashup nobody asked for but everybody needs.
 

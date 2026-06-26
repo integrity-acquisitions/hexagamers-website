@@ -8,7 +8,7 @@ tags:
   - "card-game"
   - "zombie-fluxx"
   - "zombies"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458903/hexagamers-reviews/zombie-fluxx-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/zombie-fluxx-review.webp"
 description: "The rules constantly change mid-game. Draw a card, play a card — but rule cards alter how many you draw and play, goal cards change the win condition, and…"
 ---
 

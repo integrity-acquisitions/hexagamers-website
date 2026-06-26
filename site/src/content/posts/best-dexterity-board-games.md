@@ -16,7 +16,7 @@ tags:
   - "ice-cool"
   - "junk-art"
   - "catacombs"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939904/hexagamers-reviews/best-dexterity-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-dexterity-board-games.webp"
 lastModified: 2026-05-28
 description: "The best dexterity board games ranked — from flicking and stacking to magnet hockey and penguin racing. Our top picks for every group and skill level."
 ---
@@ -46,22 +46,22 @@ We didn't limit ourselves to games we already owned. This is what we consider th
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939636/hexagamers-box-art/crokinole.jpg)](#1-crokinole-full-review-here) | Crokinole | 2–4 | 30 min | $$$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939637/hexagamers-box-art/klask.jpg)](#2-klask-full-review-here) | Klask | 2 | 15–30 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939638/hexagamers-box-art/rhino-hero.jpg)](#3-rhino-hero-full-review-here) | Rhino Hero | 2–5 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939639/hexagamers-box-art/ice-cool.jpg)](#4-ice-cool-full-review-here) | Ice Cool | 2–4 | 20–30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939641/hexagamers-box-art/junk-art.jpg)](#5-junk-art-full-review-here) | Junk Art | 2–6 | 30 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939642/hexagamers-box-art/flick-em-up.webp)](#6-flick-em-up-full-review-here) | Flick 'em Up | 2–10 | 30–45 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939642/hexagamers-box-art/catacombs.webp)](#7-catacombs-full-review-here) | Catacombs | 2–5 | 60–120 min | $$$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939644/hexagamers-box-art/suspend.jpg)](#8-suspend-full-review-here) | Suspend | 2–4 | 20 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939644/hexagamers-box-art/beasts-of-balance.webp)](#9-beasts-of-balance-full-review-here) | Beasts of Balance | 1–4 | 30 min | $$$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939672/hexagamers-box-art/ghost-blitz.jpg)](#10-ghost-blitz-full-review-here) | Ghost Blitz | 2–8 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crokinole.webp)](#1-crokinole-full-review-here) | Crokinole | 2–4 | 30 min | $$$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/klask.webp)](#2-klask-full-review-here) | Klask | 2 | 15–30 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/rhino-hero.webp)](#3-rhino-hero-full-review-here) | Rhino Hero | 2–5 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ice-cool.webp)](#4-ice-cool-full-review-here) | Ice Cool | 2–4 | 20–30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/junk-art.webp)](#5-junk-art-full-review-here) | Junk Art | 2–6 | 30 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/flick-em-up.webp)](#6-flick-em-up-full-review-here) | Flick 'em Up | 2–10 | 30–45 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/catacombs.webp)](#7-catacombs-full-review-here) | Catacombs | 2–5 | 60–120 min | $$$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/suspend.webp)](#8-suspend-full-review-here) | Suspend | 2–4 | 20 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/beasts-of-balance.webp)](#9-beasts-of-balance-full-review-here) | Beasts of Balance | 1–4 | 30 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ghost-blitz.webp)](#10-ghost-blitz-full-review-here) | Ghost Blitz | 2–8 | 20 min | $ | — |
 
 ---
 
 ## 1. Crokinole
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939636/hexagamers-box-art/crokinole.jpg)](https://www.amazon.com/dp/B07R3DDVBB/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crokinole.webp)](https://www.amazon.com/dp/B07R3DDVBB/?tag=hexagamers-20)
 
 If there's a single game that earns the crown of best dexterity game ever made, most serious enthusiasts would say it's Crokinole. And honestly? They're right.
 
@@ -81,7 +81,7 @@ If you can try one before committing — at a game café or a friend's place —
 
 ## 2. Klask
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939637/hexagamers-box-art/klask.jpg)](https://www.amazon.com/dp/B07PKJZQ9G/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/klask.webp)](https://www.amazon.com/dp/B07PKJZQ9G/?tag=hexagamers-20)
 
 Klask is what happens when someone asks "what if air hockey had magnets and a scoring system that punishes you for getting too close to your own goal?" It's from Denmark, it won a ton of awards when it came out, and it absolutely delivers.
 
@@ -99,7 +99,7 @@ Worth every penny at its price point.
 
 ## 3. Rhino Hero
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939638/hexagamers-box-art/rhino-hero.jpg)](https://www.amazon.com/dp/B006ZBLFHA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/rhino-hero.webp)](https://www.amazon.com/dp/B006ZBLFHA/?tag=hexagamers-20)
 
 Rhino Hero is the purest version of "build it up until someone knocks it over." It plays 2–5, takes about 15 minutes, and is one of those rare games that genuinely works for a six-year-old and a sixty-year-old at the same table.
 
@@ -117,7 +117,7 @@ If you have kids or mixed-age groups and want a dexterity game that generates ac
 
 ## 4. Ice Cool
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939639/hexagamers-box-art/ice-cool.jpg)](https://www.amazon.com/dp/B01FH06V14/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ice-cool.webp)](https://www.amazon.com/dp/B01FH06V14/?tag=hexagamers-20)
 
 Ice Cool is a flicking game set inside a penguin school, and that premise is exactly as delightful as it sounds. The box itself forms the game board — three rooms that slot together — and the penguin pieces are bottom-heavy rounded pieces that wobble and curve when you flick them right.
 
@@ -133,7 +133,7 @@ Ice Cool is best at 3–4 players. At two it works but loses some chaos. At the 
 
 ## 5. Junk Art
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939641/hexagamers-box-art/junk-art.jpg)](https://www.amazon.com/dp/B0FN8TP7ZK/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/junk-art.webp)](https://www.amazon.com/dp/B0FN8TP7ZK/?tag=hexagamers-20)
 
 Junk Art is a stacking game that comes with more weird-shaped wooden and plastic pieces than you'll know what to do with. Cylinders, cones, rectangles, little curved bits. The goal is to stack them into structures without anything falling off.
 
@@ -151,7 +151,7 @@ One caveat: it's pricier than other stacking games in this category. But the var
 
 ## 6. Flick 'em Up
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939642/hexagamers-box-art/flick-em-up.webp)](https://boardgamegeek.com/boardgame/169124/flick-em-up)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/flick-em-up.webp)](https://boardgamegeek.com/boardgame/169124/flick-em-up)
 
 Flick 'em Up takes the dexterity mechanic and builds an actual scenario game around it. You're playing cowboys and outlaws in a wild west showdown. Buildings get arranged on the table. Characters take cover. You flick wooden discs to move your cowboys and flick bullets to shoot opponents.
 
@@ -169,7 +169,7 @@ The wooden version is the one to get if you can find it. The plastic version exi
 
 ## 7. Catacombs
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939642/hexagamers-box-art/catacombs.webp)](https://www.amazon.ca/Elzra-Corp-ELZ1000-Catacombs-Game/dp/B0189A5T7Q)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/catacombs.webp)](https://www.amazon.ca/Elzra-Corp-ELZ1000-Catacombs-Game/dp/B0189A5T7Q)
 
 Catacombs is the deepest game on this list by a significant margin. It's a dungeon crawler where one player controls the monsters and up to four others play heroes — but instead of dice and stat blocks, all combat is resolved by flicking wooden discs.
 
@@ -187,7 +187,7 @@ For groups that want dexterity with genuine depth — a game that feels like a d
 
 ## 8. Suspend
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939644/hexagamers-box-art/suspend.jpg)](https://www.amazon.com/dp/B0DSCJHN9T/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/suspend.webp)](https://www.amazon.com/dp/B0DSCJHN9T/?tag=hexagamers-20)
 
 Suspend is simpler and cheaper than most games on this list, but it earns its spot because of how well it works for mixed groups and kids.
 
@@ -205,7 +205,7 @@ At its price point, it's one of the best value dexterity games available. Doesn'
 
 ## 9. Beasts of Balance
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939644/hexagamers-box-art/beasts-of-balance.webp)](https://beastsofbalance.com/)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/beasts-of-balance.webp)](https://beastsofbalance.com/)
 
 Beasts of Balance is the tech-forward entry on this list. You stack beautifully sculpted animal and artifact pieces on a digital scale base, and each piece gets scanned by NFC when placed — triggering animations on a companion app showing your creatures evolving and earning you points.
 
@@ -223,7 +223,7 @@ For families with kids in the 6–12 range who respond to digital feedback, this
 
 ## 10. Ghost Blitz ([Full Review Here](/ghost-blitz-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779939672/hexagamers-box-art/ghost-blitz.jpg)](https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ghost-blitz.webp)](https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20)
 
 Ghost Blitz sits at the lighter end of dexterity games — it's more reaction speed than physical skill, but there's enough "grab the right thing fast before someone else does" energy that it earns its place.
 

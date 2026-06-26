@@ -9,7 +9,7 @@ tags:
   - "danger-the-game"
   - "party-board-game"
   - "party-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779422614/hexagamers-reviews/danger-the-game-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/danger-the-game-review.webp"
 description: "Danger The Game is described as \"the storytelling party game of bizarre dangers and rescues.\" One player is in a ridiculously dangerous situation — it's…"
 ---
 
@@ -17,7 +17,7 @@ description: "Danger The Game is described as \"the storytelling party game of b
 
 Danger The Game is described as "the storytelling party game of bizarre dangers and rescues." One player is in a ridiculously dangerous situation — it's everyone else's job to rescue them using the Tools and Skills in their hand. The catch: there's direct competition for the most amazing rescue.
 
-![Example cards laid out from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Examples-of-Cards_niprco.jpg "Example cards from Danger The Game")
+![Example cards laid out from Danger The Game](https://img.hexagamers.com/Danger-The-Game-Examples-of-Cards_niprco.webp "Example cards from Danger The Game")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3+</span><span class="stat-label">Players</span></div>
@@ -52,7 +52,7 @@ Right out of the box, the craftsmanship impressed me. The box is compact — ide
 
 Setup is essentially zero. Rules fit on one small page — three pages total only because there are three variants. You can explain the game to a new group and be playing in minutes.
 
-![The rules card for Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Rules_x93g1d.jpg "Danger The Game rules")
+![The rules card for Danger The Game](https://img.hexagamers.com/Danger-The-Game-Rules_x93g1d.webp "Danger The Game rules")
 
 ## How It Plays
 
@@ -62,9 +62,9 @@ Simple — which is exactly the point. It's a blank canvas that lives or dies by
 
 **Replayability is genuinely high.** The combination of a random Danger card, random Tool cards, and random Skill cards makes each game unique. The three variants (Base, Plot Twist, Dastardly) add layers of complexity: Plot Twist cards let you sabotage rivals' stories, and Dastardly mode ups the imagination requirement significantly.
 
-![The different card types in Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Card-Types_jsd5g3.jpg "Card types in Danger The Game")
+![The different card types in Danger The Game](https://img.hexagamers.com/Danger-The-Game-Card-Types_jsd5g3.webp "Card types in Danger The Game")
 
-![A Plot Twist card from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Plot-Twist_injra3.jpg "A Plot Twist card in Danger The Game")
+![A Plot Twist card from Danger The Game](https://img.hexagamers.com/Danger-The-Game-Plot-Twist_injra3.webp "A Plot Twist card in Danger The Game")
 
 ## The Group Is Everything
 
@@ -78,6 +78,6 @@ The rebuttal mechanic is genuinely fun. Poking holes in someone's outlandish res
 
 ## Conclusion
 
-![A Skill card from Danger The Game](https://res.cloudinary.com/dt4ujaczs/image/upload/Danger-The-Game-Skill-Card_txhhwf.jpg "A Skill card in Danger The Game")
+![A Skill card from Danger The Game](https://img.hexagamers.com/Danger-The-Game-Skill-Card_txhhwf.webp "A Skill card in Danger The Game")
 
 Danger The Game isn't for everyone, and it isn't for every group. But with the right crowd in the right mood, it's a quick, energetic, and genuinely fun party game. Don't expect it to carry the night on its own — expect it to hand your group the tools to carry the night themselves.

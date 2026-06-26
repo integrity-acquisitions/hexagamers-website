@@ -8,7 +8,7 @@ tags:
   - "escape-room-review"
   - "gtfo"
   - "yeg"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779310005/hexagamers-reviews/directive-gtfo-escape-room-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/directive-gtfo-escape-room-review.webp"
 description: "GTFO's hardest room. A 45-minute mission to infiltrate, complete an objective, and escape undetected. Recommended for 6 players and experienced teams only."
 ---
 

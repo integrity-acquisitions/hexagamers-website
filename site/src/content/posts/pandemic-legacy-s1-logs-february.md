@@ -7,7 +7,7 @@ tags:
   - "pandemic"
   - "pandemic-legacy"
   - "cooperative"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779462045/hexagamers-articles/pandemic-legacy-s1-logs-february.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/pandemic-legacy-s1-logs-february.webp"
 description: "> **Spoiler warning:** This post contains details about Pandemic Legacy Season 1. Don't read if you want to experience it fresh."
 ---
 
@@ -45,4 +45,4 @@ Black Plague cured. Three out of four. I'm exhausted.
 
 Ho Chi Minh is rioting. We couldn't treat Red Death fast enough. We pulled our people out before scarring, at least. Not the ending we wanted. But March is coming.
 
-![Pandemic Legacy — February End](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Legacy-February-End_ywsgch.jpg)
+![Pandemic Legacy — February End](https://img.hexagamers.com/Pandemic-Legacy-February-End_ywsgch.webp)

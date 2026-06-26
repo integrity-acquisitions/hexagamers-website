@@ -10,11 +10,11 @@ tags:
   - "mammut-how-to-play"
   - "simplified-rules"
   - "stealing"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460229/hexagamers-guides/mammut-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/mammut-how-to-play-simplified.webp"
 description: "It's the prehistoric era and your tribe has just returned from a mammoth hunt. Now you must divide the spoils — but other tribe members can steal your…"
 ---
 
-![Mammut – How To Play](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-How-To-Play-Simplified-1_gauxdc.png)
+![Mammut – How To Play](https://img.hexagamers.com/Mammut-How-To-Play-Simplified-1_gauxdc.webp)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
@@ -56,13 +56,13 @@ After each of the 5 rounds, scoring happens. Then everything resets and the hunt
     <p class="rule-num">Tile Type</p>
     <p class="rule-title">Question Mark Tiles</p>
     <p>Face-down tiles with an unknown item on the back. You don't know what you're getting until it's yours — great for risk-takers.</p>
-    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Question-Mark-Tile-1_nzlcs1.jpg" alt="Question Mark Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
+    <img src="https://img.hexagamers.com/Mammutt-Question-Mark-Tile-1_nzlcs1.webp" alt="Question Mark Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
   </div>
   <div class="rule-card">
     <p class="rule-num">Tile Type</p>
     <p class="rule-title">The Shaman Tile</p>
     <p>Determines tie-breakers. Whoever owns the Shaman tile (or is closest to it, clockwise or counter-clockwise depending on how it lands) wins any tied scoring category.</p>
-    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Shaman-Tile-1_dgbs3w.jpg" alt="Shaman Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
+    <img src="https://img.hexagamers.com/Shaman-Tile-1_dgbs3w.webp" alt="Shaman Tile" style="border-radius:6px;margin-top:0.5rem;width:100%" />
   </div>
 </div>
 
@@ -73,7 +73,7 @@ Each player has action cards that can be played on their turn. They either:
 - **Change how a loot category scores** (9 different options) — useful for tilting the final tally in your favour
 - **Affect the pile** — flip tiles, peek at question mark tiles, or otherwise manipulate what's available
 
-![Action Card](https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Action-card-1_fxdten.jpg)
+![Action Card](https://img.hexagamers.com/Mammut-Action-card-1_fxdten.webp)
 
 ## Scoring
 
@@ -92,9 +92,9 @@ Scoring follows a classic "most gets bonus, least gets penalty" pattern across m
 The scoring table is printed right on the game board — no need to memorize anything.
 
 <div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin:1rem 0">
-  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Furs-1_ck4qxb.jpg" alt="Furs" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
-  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammut-Fire-1_oj9oz7.jpg" alt="Fire tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
-  <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Mammutt-Tusk-Victory-Points-1_t8v7mk.jpg" alt="Victory Point tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+  <img src="https://img.hexagamers.com/Mammut-Furs-1_ck4qxb.webp" alt="Furs" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+  <img src="https://img.hexagamers.com/Mammut-Fire-1_oj9oz7.webp" alt="Fire tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
+  <img src="https://img.hexagamers.com/Mammutt-Tusk-Victory-Points-1_t8v7mk.webp" alt="Victory Point tiles" style="border-radius:6px;flex:1;min-width:120px;object-fit:cover" />
 </div>
 
 ## Winning

@@ -8,13 +8,13 @@ tags:
   - "gallerist"
   - "how-to-play-simplified"
   - "worker-placement"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460251/hexagamers-guides/gallerist-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/gallerist-play-simplified.webp"
 description: "You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and…"
 ---
 
 You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and sell works, and build your gallery's reputation to win.
 
-![An overview of The Gallerist set up and ready to play](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Overview-2-1_jk1vdj.jpg "The Gallerist set up")
+![An overview of The Gallerist set up and ready to play](https://img.hexagamers.com/Gallerist-Overview-2-1_jk1vdj.webp "The Gallerist set up")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">1 – 4</span><span class="stat-label">Players</span></div>
@@ -32,7 +32,7 @@ The Gallerist is a worker placement game. On your turn, you move your **Galleris
 
 **The Kick-Out Mechanic:** When you move your pawn to an action centre, you may leave an assistant behind. If another player enters that space, your assistant is kicked out and can immediately take a special **Executive Action** (move visitors or assign to a contract). This keeps all players engaged between turns.
 
-![A player board in The Gallerist, where your assistants and resources live](https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-Player-Board-1_bweobg.jpg "The Gallerist player board")
+![A player board in The Gallerist, where your assistants and resources live](https://img.hexagamers.com/Gallerist-Player-Board-1_bweobg.webp "The Gallerist player board")
 
 ## Visitors (Meeples)
 
@@ -68,7 +68,7 @@ Visitors start in the plaza bag. Use all visitors in a 4-player game; remove 2 f
     <p class="rule-num">4. INTERNATIONAL MARKET</p>
     <p class="rule-title">Gain reputation or bid on renowned works</p>
     <p><strong>Take Reputation Tile:</strong> Gain immediate and end-game bonuses. Requires matching sold/displayed art and lobby visitors. <strong>Bid on Art:</strong> Spend influence to acquire renowned artworks worth bonus VP.</p>
-    <img src="https://res.cloudinary.com/dt4ujaczs/image/upload/Gallerist-International-Market-1_jqan4p.jpg" alt="The International Market board in The Gallerist" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;">
+    <img src="https://img.hexagamers.com/Gallerist-International-Market-1_jqan4p.webp" alt="The International Market board in The Gallerist" style="width:100%;border-radius:var(--radius-lg);margin-top:0.5rem;">
   </div>
 </div>
 

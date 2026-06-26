@@ -9,7 +9,7 @@ tags:
   - "one-night-ultimate-werewolf"
   - "party-game"
   - "social-deduction"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779426391/hexagamers-reviews/one-night-ultimate-werewolf-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/one-night-ultimate-werewolf-review.webp"
 description: "One round. Everyone gets a secret role, the app guides the night phase, and then you have five minutes to figure out who the werewolves are before voting.…"
 ---
 
@@ -17,7 +17,7 @@ description: "One round. Everyone gets a secret role, the app guides the night p
 
 One round. Everyone gets a secret role, the app guides the night phase, and then you have five minutes to figure out who the werewolves are before voting. Villagers win if they eliminate a werewolf. Werewolves win if they survive.
 
-![The One Night Ultimate Werewolf role cards laid face-up](https://res.cloudinary.com/dt4ujaczs/image/upload/One-Night-Ultimate-Werewolf-cards-up-1_a4fzom.jpg "One Night Ultimate Werewolf cards")
+![The One Night Ultimate Werewolf role cards laid face-up](https://img.hexagamers.com/One-Night-Ultimate-Werewolf-cards-up-1_a4fzom.webp "One Night Ultimate Werewolf cards")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">3 – 10+</span><span class="stat-label">Players</span></div>
@@ -49,13 +49,13 @@ That said, I understand why the app works here. Reading role scripts aloud while
 
 **The game is fast and easy to learn.** Set up roles, follow the app, wake up, argue for five minutes, vote. If you've played other social deduction games, you'll pick this up in one round.
 
-![The table layout with role cards dealt face-up before play](https://res.cloudinary.com/dt4ujaczs/image/upload/One-Night-Ultimate-Werewolf-layout-faceup_ocos0o.jpg "The table layout")
+![The table layout with role cards dealt face-up before play](https://img.hexagamers.com/One-Night-Ultimate-Werewolf-layout-faceup_ocos0o.webp "The table layout")
 
 **The role variety is impressive.** Drunk, Alpha Wolf, Seer, Doppelganger, Village Idiot — each changes the game significantly.
 
-![A spread of the different role cards in One Night Ultimate Werewolf](https://res.cloudinary.com/dt4ujaczs/image/upload/One-Night-Ultimate-Werewolf-roles_lgtzel.jpg "One Night Ultimate Werewolf roles") The app dynamically adjusts to whatever roles are in play, which removes a huge amount of setup friction.
+![A spread of the different role cards in One Night Ultimate Werewolf](https://img.hexagamers.com/One-Night-Ultimate-Werewolf-roles_lgtzel.webp "One Night Ultimate Werewolf roles") The app dynamically adjusts to whatever roles are in play, which removes a huge amount of setup friction.
 
-![The Werewolf role card](https://res.cloudinary.com/dt4ujaczs/image/upload/One-Night-Ultimate-Werewolf-Werewolf-1-784x1024_s5cgu9.jpg "The Werewolf role card")
+![The Werewolf role card](https://img.hexagamers.com/One-Night-Ultimate-Werewolf-Werewolf-1-784x1024_s5cgu9.webp "The Werewolf role card")
 
 **The deduction problem:** with only five minutes of discussion after a completely silent night phase, there's very little actual evidence to work with. Werewolves know each other. Maybe the Seer glimpsed one card. Everyone else is genuinely guessing. In Avalon, you build real evidence across multiple rounds. Here, you're mostly BS-ing convincingly. It feels like guessing with extra steps.
 

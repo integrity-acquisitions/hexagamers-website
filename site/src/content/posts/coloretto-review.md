@@ -9,7 +9,7 @@ tags:
   - "card-game"
   - "coloretto"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458084/hexagamers-reviews/coloretto-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/coloretto-review.webp"
 description: "Match chameleons of the same colour to score points. The more of one colour you collect, the more they're worth — but collecting too many different colours…"
 ---
 
@@ -17,7 +17,7 @@ description: "Match chameleons of the same colour to score points. The more of o
 
 Match chameleons of the same colour to score points. The more of one colour you collect, the more they're worth — but collecting too many different colours turns them into negative points.
 
-![A game of Coloretto in play with row cards on the table](https://res.cloudinary.com/dt4ujaczs/image/upload/Coloretto-in-play_irleza.jpg "Coloretto in play")
+![A game of Coloretto in play with row cards on the table](https://img.hexagamers.com/Coloretto-in-play_irleza.webp "Coloretto in play")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
@@ -51,7 +51,7 @@ You're trying to collect up to three colours — anything beyond that counts aga
 
 **The card-down variant adds challenge.** By default, collected cards are face-up, so everyone knows each other's scores. Playing with cards hidden adds memory and uncertainty. Both modes work well.
 
-![The Coloretto box](https://res.cloudinary.com/dt4ujaczs/image/upload/Coloretto-Box_g0d4xi.jpg "Coloretto box")
+![The Coloretto box](https://img.hexagamers.com/Coloretto-Box_g0d4xi.webp "Coloretto box")
 
 **Great for any collection size.** Coloretto fits in a small box, travels easily, and leaves no pieces behind. Summary cards for each player make the scoring transparent — no one accidentally loses points they didn't know they were accumulating.
 

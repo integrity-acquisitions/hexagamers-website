@@ -19,7 +19,7 @@ tags:
   - "viticulture"
   - "just-one"
   - "resistance-avalon"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1780669433/hexagamers-reviews/best-board-games-for-6-players.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-6-players.webp"
 lastModified: 2026-06-05
 description: "Six players is the count that breaks most games — here are ten that don't just survive it, they're actually better for it."
 ---
@@ -38,22 +38,22 @@ We pulled from BGG community polls, Reddit recommendation threads, and our own g
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](#1-coup) | Coup | 2–6 | 15 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg)](#2-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](#4-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941305/Secret_Hitler_a0jv7r.jpg)](#5-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941303/Skull_kfpcyd.jpg)](#6-skull) | Skull | 3–6 | 30 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780668918/sushi-go-party-edition_xq83ml.jpg)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/dixit.jpg)](#8-dixit) | Dixit | 3–6 | 30–45 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](#9-just-one) | Just One | 2–7 | 20 min | $$ | — |
-| [![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486314/hexagamers-box-art/viticulture.png)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#1-coup) | Coup | 2–6 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](#2-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](#4-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#5-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Skull_kfpcyd.webp)](#6-skull) | Skull | 3–6 | 30 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/sushi-go-party-edition_xq83ml.webp)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dixit.webp)](#8-dixit) | Dixit | 3–6 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](#9-just-one) | Just One | 2–7 | 20 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/viticulture.webp)](#10-viticulture-essential-edition) | Viticulture | 1–6 | 45–90 min | $$ | — |
 
 ---
 
 ## 1. Coup ([Full Review Here](/coup-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299737/Coup-1_mcfcul.jpg)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20)
 
 Coup is a bluffing game where everyone starts with two face-down cards from a deck of five characters. On your turn you take an action — collect coins, tax, steal, assassinate — either honestly or by claiming a character you may or may not actually have. Anyone can challenge you. Right call: you lose a card. Wrong call: they do. The first player out of cards is eliminated. Last one standing wins.
 
@@ -69,7 +69,7 @@ One thing to watch at six: games can end in two or three wild turns if someone g
 
 ## 2. The Resistance: Avalon ([Full Review Here](/the-resistance-avalon-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305607/The-Resistance-Avalon.jpg)](https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20)
 
 Avalon is a hidden identity game set in Arthurian legend. Most players are Loyal Servants of Arthur trying to complete five quests; a few are secret Minions of Mordred working to sabotage them. Good doesn't know who's evil. Evil knows each other. Players vote on quest teams, watch who succeeds or fails each mission, and argue about what that means until three quests go one way or the other.
 
@@ -85,7 +85,7 @@ The 10–20 minutes after each game, when everyone finally explains what they we
 
 ## 3. Codenames ([Full Review Here](/codenames-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305586/Codenames.jpg)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Codenames.webp)](https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20)
 
 Codenames divides six players into two teams of three. A 5×5 grid of word cards goes on the table. Each team's Spymaster can see the key showing which words belong to which team. The Spymaster gives a one-word clue pointing to multiple cards at once — the rest of their team guesses. Touch the assassin card and the game ends for the wrong team immediately.
 
@@ -101,7 +101,7 @@ Works at almost any experience level. We've played it with first-time gamers and
 
 ## 4. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305595/7-Wonders.jpg)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders is a card drafting game where you're building a civilization over three ages. Each round you pick one card from a hand, execute your action simultaneously with everyone else, and pass the rest to your neighbour. Military, science, commerce, monument stages — multiple scoring paths running in parallel, all decided in about thirty minutes. Every time. With three players or seven.
 
@@ -117,7 +117,7 @@ The science track is the ceiling option — three matching symbol sets and the p
 
 ## 5. Secret Hitler
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941305/Secret_Hitler_a0jv7r.jpg)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
 
 Secret Hitler is a hidden role game set in 1930s Germany. Players are secretly divided into Liberals and Fascists. Each round, the group elects a President and Chancellor who work together to enact a policy drawn from a random deck. Liberals win by passing five Liberal policies or killing Hitler before he's elected. Fascists win by passing six Fascist policies, or getting Hitler elected Chancellor once three Fascist policies are already in play.
 
@@ -133,7 +133,7 @@ Not for every group: the theme is deliberately provocative and the accusations g
 
 ## 6. Skull
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779941303/Skull_kfpcyd.jpg)](https://www.amazon.com/dp/B08R2BPLSN/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Skull_kfpcyd.webp)](https://www.amazon.com/dp/B08R2BPLSN/?tag=hexagamers-20)
 
 Skull gives each player four coasters: three printed with flowers, one with a skull. Each round, everyone places one coaster face-down in a stack in front of them. Then someone makes a bid — "I can flip N coasters without hitting a skull." Others raise the bid or fold. The highest bidder flips that many starting with their own stack before touching anyone else's. Hit a skull, even your own, and you lose one coaster. Win two bids and remove your skull from the game permanently. Lose your last coaster and you're out.
 
@@ -149,7 +149,7 @@ Skull gets underestimated every time someone sees it for the first time. The com
 
 ## 7. Sushi Go Party!
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780668918/sushi-go-party-edition_xq83ml.jpg)](https://www.amazon.ca/dp/B01CETNKE2/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/sushi-go-party-edition_xq83ml.webp)](https://www.amazon.ca/dp/B01CETNKE2/?tag=hexagamers-20)
 
 Sushi Go Party! is a card drafting game where you're building the best sushi meal across three rounds. Pick one card from your hand, pass the rest to the next player, repeat until hands are empty. Nigiri, sashimi, dumplings, ramen — each dish scores differently, and knowing what to keep vs. what to let pass is the whole game. The Party edition adds a customizable menu where you choose which dishes are in play each session, keeping the combination space fresh across multiple plays.
 
@@ -165,7 +165,7 @@ It's lighter than most games on this list, and it's meant to be. Not every game 
 
 ## 8. Dixit
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1780597113/hexagamers-box-art/dixit.jpg)](https://www.amazon.com/dp/B09BSP7B7V/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dixit.webp)](https://www.amazon.com/dp/B09BSP7B7V/?tag=hexagamers-20)
 
 Dixit is a storytelling card game played with hand-sized cards covered in dreamlike illustrated art — the kind of imagery that reads like a children's picture book or a concept art portfolio depending on your mood. On your turn as Storyteller, you give a clue for one of your cards: a word, a phrase, a sound, anything. Everyone else plays a card from their hand that fits. All cards are revealed face-up and players vote on which was the original.
 
@@ -181,7 +181,7 @@ Dixit works well with mixed groups — non-gamers find it immediately accessible
 
 ## 9. Just One
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779723430/Just_One_wcosf1.jpg)](https://www.amazon.com/dp/B07GJ7NDZQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Just_One_wcosf1.webp)](https://www.amazon.com/dp/B07GJ7NDZQ/?tag=hexagamers-20)
 
 Just One is a cooperative word game. One player is the guesser and looks away while everyone else writes a single hint for the secret word on their easel. Before the guesser sees anything, identical hints are cancelled out. If four people all wrote the same obvious answer, only one survives. If all five wrote it, none of them do.
 
@@ -197,7 +197,7 @@ Also the best game on this list for genuinely mixed groups. The cooperative stru
 
 ## 10. Viticulture Essential Edition
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779486314/hexagamers-box-art/viticulture.png)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/viticulture.webp)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)
 
 Viticulture is a worker placement game set in a Tuscan vineyard. Plant vine cards, harvest grapes, age the resulting wine in cellars, fill orders to earn victory points. Summer and winter phases each year give you different action sets. Workers go to action spaces — limited spaces shared across all players — and whatever your opponents claim before you is gone for the season.
 

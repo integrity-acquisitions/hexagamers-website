@@ -13,7 +13,7 @@ tags:
   - "kingdom-style"
   - "market-style"
   - "victory-points"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779313118/hexagamers-articles/guide-to-understanding-deck-building-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/guide-to-understanding-deck-building-games.webp"
 description: "*You may have heard of the genre within board gaming called Deck Building, and are wondering if it is something you might enjoy. Well, in this guide, we…"
 ---
 

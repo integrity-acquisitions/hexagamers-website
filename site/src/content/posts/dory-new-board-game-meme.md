@@ -6,11 +6,11 @@ categories:
 tags: 
   - "dory"
   - "memes"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299963/Dory-New-board-game_zwf02m.jpg"
+coverImage: "https://img.hexagamers.com/Dory-New-board-game_zwf02m.webp"
 ---
 
 <div class="meme-post">
 
-![New Board Game You Say?!](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779299963/Dory-New-board-game_zwf02m.jpg)
+![New Board Game You Say?!](https://img.hexagamers.com/Dory-New-board-game_zwf02m.webp)
 
 </div>

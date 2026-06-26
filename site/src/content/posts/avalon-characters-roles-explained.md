@@ -11,7 +11,7 @@ tags:
   - "bluffing-board-game"
   - "social-deduction-games"
   - "the-resistance"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1781190524/hexagamers-reviews/avalon-characters-roles-explained.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/avalon-characters-roles-explained.webp"
 lastModified: 2026-06-11
 description: "Every character in The Resistance: Avalon explained — Merlin, Percival, Mordred, Morgana, Oberon and the rest, plus who sees whom and which roles to use."
 ---
@@ -23,7 +23,7 @@ This is a plain breakdown of every character in *The Resistance: Avalon* — wha
 > Our full review: [The Resistance: Avalon Review](/the-resistance-avalon-review/)
 > Learn the rules first: [Avalon How To Play — Simplified](/the-resistance-avalon-how-to-play-simplified/)
 
-![The special role cards in Avalon — Merlin, Percival, Morgana and more](https://res.cloudinary.com/dt4ujaczs/image/upload/Avalon-Special-Roles-Cards_vddxlz.jpg "Special role cards in Avalon")
+![The special role cards in Avalon — Merlin, Percival, Morgana and more](https://img.hexagamers.com/Avalon-Special-Roles-Cards_vddxlz.webp "Special role cards in Avalon")
 
 ## The Two Teams
 

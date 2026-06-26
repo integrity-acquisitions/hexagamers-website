@@ -8,7 +8,7 @@ tags:
   - "love-letter"
   - "micro-game"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779425114/hexagamers-reviews/love-letter-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/love-letter-review.webp"
 description: "The Princess is locked away in her tower. Suitors compete to get their letter to her first — using 16 cards and social deduction. Each turn you hold one…"
 ---
 
@@ -16,7 +16,7 @@ description: "The Princess is locked away in her tower. Suitors compete to get t
 
 The Princess is locked away in her tower. Suitors compete to get their letter to her first — using 16 cards and social deduction. Each turn you hold one card and draw one more, then play one, following its action. Last player standing, or highest card when the deck runs out, wins the round.
 
-![The Love Letter cards and tokens laid out](https://res.cloudinary.com/dt4ujaczs/image/upload/Love-Letter-Cards-and-Tokens_o9bi2t.jpg "Love Letter cards and tokens")
+![The Love Letter cards and tokens laid out](https://img.hexagamers.com/Love-Letter-Cards-and-Tokens_o9bi2t.webp "Love Letter cards and tokens")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -41,7 +41,7 @@ The Princess is locked away in her tower. Suitors compete to get their letter to
 
 Love Letter is a micro game built around deducing what card your opponents are holding. On your turn, you pick up one card, hold two briefly, and must play one — following that card's action. Guards guess an opponent's card. Handmaids grant protection. Princes force discards. The person with the highest card wins the round.
 
-![The eight character role cards in Love Letter](https://res.cloudinary.com/dt4ujaczs/image/upload/Love-Letter-Role-Cards_jkqruz.jpg "Love Letter role cards")
+![The eight character role cards in Love Letter](https://img.hexagamers.com/Love-Letter-Role-Cards_jkqruz.webp "Love Letter role cards")
 
 ## Thoughts
 
@@ -51,7 +51,7 @@ Love Letter is a micro game built around deducing what card your opponents are h
 
 **The different editions are worth noting.** Love Letter has been released as Batman, Adventure Time, The Hobbit, and many others. Gameplay is essentially the same across versions. The Batman edition adds a bonus point for eliminating another player while holding the Batman card — a nice tweak.
 
-![The ranked Love Letter roles from Guard to Princess](https://res.cloudinary.com/dt4ujaczs/image/upload/Love-Letter-Roles_unf1il.jpg "The Love Letter roles ranked")
+![The ranked Love Letter roles from Guard to Princess](https://img.hexagamers.com/Love-Letter-Roles_unf1il.webp "The Love Letter roles ranked")
 
 **As a starter or filler game it shines.** Perfect for opening a game night, filling a short gap, or introducing total newcomers to card game mechanics. The lore is surprisingly well developed — AEG wrote a full story connected to their Tempest game line (Courtier sets up Love Letter, Dominaire follows it). Worth reading the rulebook for if you're into that.
 
@@ -59,6 +59,6 @@ Love Letter is a micro game built around deducing what card your opponents are h
 
 ## Conclusion
 
-![The small Love Letter box](https://res.cloudinary.com/dt4ujaczs/image/upload/Love-Letter-Box-2_qqsyma.jpg "The Love Letter box")
+![The small Love Letter box](https://img.hexagamers.com/Love-Letter-Box-2_qqsyma.webp "The Love Letter box")
 
 Love Letter is the right pick if you want something quick, cheap, and easy to travel with. It doesn't have the depth of Coup or Avalon, but it fills a different need — the pure, fast micro-game slot. Great gift, great starter, great between-game filler. Doesn't hold your attention all night, but it was never meant to.

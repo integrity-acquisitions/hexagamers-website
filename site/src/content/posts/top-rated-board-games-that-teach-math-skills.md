@@ -13,7 +13,7 @@ tags:
   - "rummikub"
   - "sequence-num6ers"
   - "sum-swamp"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461945/hexagamers-articles/top-rated-board-games-that-teach-math-skills.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/top-rated-board-games-that-teach-math-skills.webp"
 description: "Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill…"
 ---
 
@@ -41,16 +41,16 @@ We didn’t want to fully assume that those learning math are young people, so m
 
 | Image | Game | Players | Ages | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](#1-rummikub) | Rummikub | 2-4 | 8+ | 60 min | $ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](#2-cashflow-for-kids) | Cashflow For Kids | 2-6 | 6+ | 60 min | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](#3-qwirkle) | Qwirkle | 2-4 | 6+ | 45 min | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](#4-sequence-num6ers) | Sequence Num6ers | 2-6 | 7+ | \-- | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](#5-sum-swamp) | Sum Swamp | 2-4 | 5+ | 20 min | $$$ |  |
+| [![](https://img.hexagamers.com/Rummikub_r6ozin.webp)](#1-rummikub) | Rummikub | 2-4 | 8+ | 60 min | $ |  |
+| [![](https://img.hexagamers.com/Cashflow-For-Kids_yknp5s.webp)](#2-cashflow-for-kids) | Cashflow For Kids | 2-6 | 6+ | 60 min | $$$ |  |
+| [![](https://img.hexagamers.com/Qwirkle_sgunyg.webp)](#3-qwirkle) | Qwirkle | 2-4 | 6+ | 45 min | $$ |  |
+| [![](https://img.hexagamers.com/Sequence-Num6ers_gotbqt.webp)](#4-sequence-num6ers) | Sequence Num6ers | 2-6 | 7+ | \-- | $$ |  |
+| [![](https://img.hexagamers.com/Sum-Swamp_hxsqja.webp)](#5-sum-swamp) | Sum Swamp | 2-4 | 5+ | 20 min | $$$ |  |
 
 ## 1. Rummikub
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Rummikub_r6ozin.jpg)](https://www.amazon.com/dp/B00000IZJB/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Rummikub_r6ozin.webp)](https://www.amazon.com/dp/B00000IZJB/?tag=hexagamers-20)
 
 This game makes it to our top rated math board games because of its manipulation and strategy requirements. It’s a classic game played by 2-4 players and suitable for kids above seven years. Rummikub is the invention of Mr. Efraim Hertzano. Mr. Hertzano came up with Rummikub after all cards had been outlawed in Romania back in the 40s. Through sheer determination and passion, it was an overnight success even in the USA.
 
@@ -89,7 +89,7 @@ Just to put some emphasis on how good it is, Rummikub has won 6 games of the yea
 ## 2. Cashflow For Kids
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Cashflow-For-Kids_yknp5s.jpg)](https://www.amazon.com/dp/B00M085AMI/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Cashflow-For-Kids_yknp5s.webp)](https://www.amazon.com/dp/B00M085AMI/?tag=hexagamers-20)
 
 Cashflow for Kids is the version of Cashflow by the Richdad group more suited for young kids. If you aren’t familiar with this board game, it is very business oriented, but don’t let that intimidate you.
 
@@ -113,7 +113,7 @@ For the older people that like the sound of this one, check out Cashflow 101 and
 ## 3. Qwirkle
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Qwirkle_sgunyg.jpg)](https://www.amazon.com/dp/1933054395/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Qwirkle_sgunyg.webp)](https://www.amazon.com/dp/1933054395/?tag=hexagamers-20)
 
 Qwirkle is a 2-4 player game that has a scrabble hereditary only that instead of literacy skills, Qwirkle will test your kids’ pattern recognition skills and once you delve deeper into the game strategy comes into play.
 
@@ -131,7 +131,7 @@ Suitable for kids above 6 years.
 ## 4. Sequence Num6ers
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sequence-Num6ers_gotbqt.jpg)](https://www.amazon.com/dp/B001UEMQLQ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sequence-Num6ers_gotbqt.webp)](https://www.amazon.com/dp/B001UEMQLQ/?tag=hexagamers-20)
 
 Sequence numbers is a great board game where kids try to attain 5 chips in a row while stopping others kids from doing it.
 
@@ -149,7 +149,7 @@ There is a bit of luck of the draw involved in this one, so keep an eye out for 
 ## 5. Sum Swamp
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Sum-Swamp_hxsqja.jpg)](https://www.amazon.com/dp/B00004TDLD/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Sum-Swamp_hxsqja.webp)](https://www.amazon.com/dp/B00004TDLD/?tag=hexagamers-20)
 
 Honestly, some kid games can be boring for an adult to play. However, this is not the case with sum swamp. This is one engaging game that teaches kids addition, subtraction, speed drills and mental maths. Sum Swamp has some great reviews and had to make it on to our best board games that teach math skills list.
 

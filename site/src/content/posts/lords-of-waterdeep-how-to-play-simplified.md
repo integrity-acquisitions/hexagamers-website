@@ -11,11 +11,11 @@ tags:
   - "dungeons-and-dragons"
   - "lords-of-waterdeep"
   - "worker-placement-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779460195/hexagamers-guides/lords-of-waterdeep-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/lords-of-waterdeep-how-to-play-simplified.webp"
 description: "You are a powerful Lord vying for control of Waterdeep. Send your workers out to collect resources, use those resources to complete quests, and earn…"
 ---
 
-![Lords of Waterdeep](https://res.cloudinary.com/dt4ujaczs/image/upload/Lords-of-Waterdeep-Player-Cards_mxxbzs.jpg)
+![Lords of Waterdeep](https://img.hexagamers.com/Lords-of-Waterdeep-Player-Cards_mxxbzs.webp)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>

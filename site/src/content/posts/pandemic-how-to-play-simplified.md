@@ -9,14 +9,14 @@ tags:
   - "pandemic"
   - "pandemic-how-to-play"
   - "pandemic-shuffling"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779312591/hexagamers-guides/pandemic-how-to-play-simplified.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-guides/pandemic-how-to-play-simplified.webp"
 lastModified: 2025-01-01
 description: "Four deadly diseases are spreading globally. Work together with up to 3 colleagues, using your specialized roles, to cure all four before the world is…"
 ---
 
 Four deadly diseases are spreading globally. Work together with up to 3 colleagues, using your specialized roles, to cure all four before the world is overwhelmed.
 
-![The Pandemic game board showing the world map and disease cubes](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Game-Board-1_u5wj61.jpg "The Pandemic game board")
+![The Pandemic game board showing the world map and disease cubes](https://img.hexagamers.com/Pandemic-Game-Board-1_u5wj61.webp "The Pandemic game board")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -47,13 +47,13 @@ Instead of shuffling Epidemic cards directly into the full deck:
 
 This guarantees Epidemics are spread evenly across the game — but within each section they can still cluster. You might get two back-to-back, but never three in a row.
 
-![Splitting the deck into piles for Pandemic shuffling](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Shuffling_edamw6.jpg "Pandemic shuffling")
+![Splitting the deck into piles for Pandemic shuffling](https://img.hexagamers.com/Pandemic-Shuffling_edamw6.webp "Pandemic shuffling")
 
 ## How a Turn Works
 
 Each player takes **4 actions** per turn, then draws 2 player cards, then draws Infection cards.
 
-![A reference of the actions available on a Pandemic turn](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Play-Actions-1_ob7t6l.jpg "Pandemic turn actions")
+![A reference of the actions available on a Pandemic turn](https://img.hexagamers.com/Pandemic-Play-Actions-1_ob7t6l.webp "Pandemic turn actions")
 
 **Your 4 actions (spend any combination):**
 - Move to an adjacent city
@@ -79,7 +79,7 @@ When a city would receive a 4th cube of the same colour, an **Outbreak** occurs:
 
 ## How to Win
 
-![The role cards in Pandemic, each with a special ability](https://res.cloudinary.com/dt4ujaczs/image/upload/Pandemic-Roles-1_yilmqy.jpg "Pandemic role cards")
+![The role cards in Pandemic, each with a special ability](https://img.hexagamers.com/Pandemic-Roles-1_yilmqy.webp "Pandemic role cards")
 
 Cure all 4 diseases. To cure a disease: discard **5 city cards of the same colour** (4 if you're the Scientist) while at a Research Station.
 

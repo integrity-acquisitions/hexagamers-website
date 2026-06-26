@@ -8,7 +8,7 @@ tags:
   - "cooperative-board-games"
   - "forbidden-island"
   - "strategy-board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779458995/hexagamers-reviews/forbidden-island-review.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/forbidden-island-review.webp"
 description: "Four sacred treasures are hidden on a sinking island. Work together to retrieve all four, get back to Fool's Landing, and escape by helicopter before the…"
 ---
 
@@ -16,7 +16,7 @@ description: "Four sacred treasures are hidden on a sinking island. Work togethe
 
 Four sacred treasures are hidden on a sinking island. Work together to retrieve all four, get back to Fool's Landing, and escape by helicopter before the island goes under.
 
-![The Forbidden Island tiles laid out as the island](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Tiles_t7lwwp.jpg "The Forbidden Island board")
+![The Forbidden Island tiles laid out as the island](https://img.hexagamers.com/Forbidden-Island-Tiles_t7lwwp.webp "The Forbidden Island board")
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -42,7 +42,7 @@ Four sacred treasures are hidden on a sinking island. Work together to retrieve 
 
 Cooperative games are at the heart of why I love board gaming — the conversation, the shared strategy, everyone working toward one goal. Forbidden Island delivers most of what I want in a co-op and is one I'd recommend without hesitation to newer or younger players.
 
-![The Forbidden Island tin box](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Box_iokoh1.jpg "The Forbidden Island box")
+![The Forbidden Island tin box](https://img.hexagamers.com/Forbidden-Island-Box_iokoh1.webp "The Forbidden Island box")
 
 ## Thoughts
 
@@ -52,18 +52,18 @@ Forbidden Island is the entry-level Matt Leacock cooperative experience. The sam
 
 **Adventurer roles add variety.** Six role cards are shuffled and randomly dealt. Each player has a special ability — the Navigator can move others, the Engineer can shore up two tiles per action, the Diver can move through flooded tiles. These roles encourage different approaches and force communication.
 
-![The adventurer role cards in Forbidden Island](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Roles_rhy2t4.jpg "Forbidden Island role cards")
+![The adventurer role cards in Forbidden Island](https://img.hexagamers.com/Forbidden-Island-Roles_rhy2t4.webp "Forbidden Island role cards")
 
 **Why it's a great starter co-op:** knowledge players have of the game doesn't create a huge advantage. The random setup means you can't fully plan ahead. And because you win and lose together, it softens the impact of mistakes — new players don't feel like they ruined the game for everyone.
 
 **The challenge ceiling is low.** Even at maximum difficulty, Forbidden Island rarely creates the genuine nail-biting tension of Pandemic. Each treasure has two locations it can be recovered from, which acts as a safety buffer. We've won at high difficulty more consistently than we'd like. It doesn't fail to entertain, but experienced co-op players will outgrow it quickly.
 
-![The water level meter that sets Forbidden Island's difficulty](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Water-level_iwzxwz.jpg "The Forbidden Island water meter")
+![The water level meter that sets Forbidden Island's difficulty](https://img.hexagamers.com/Forbidden-Island-Water-level_iwzxwz.webp "The Forbidden Island water meter")
 
 **The tin packaging is genuinely great.** Compact, sturdy, perfect for travel. The tiles are well made and hold up to heavy use.
 
 ## Conclusion
 
-![The four treasures players race to collect in Forbidden Island](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Island-Items_drubty.jpg "The treasures in Forbidden Island")
+![The four treasures players race to collect in Forbidden Island](https://img.hexagamers.com/Forbidden-Island-Items_drubty.webp "The treasures in Forbidden Island")
 
 Forbidden Island is an excellent first cooperative game — especially for families and newer gamers. At its low price point, the production quality and replayability are impressive. Once you've played it a few times and want more challenge, step up to Forbidden Desert and eventually Pandemic. Each is a meaningful upgrade in complexity and tension.

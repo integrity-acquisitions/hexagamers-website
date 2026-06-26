@@ -15,7 +15,7 @@ tags:
   - "civolution"
   - "seti"
   - "board-game"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1782244117/hexagamers-reviews/best-worker-placement-board-games-2026.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-worker-placement-board-games-2026.webp"
 lastModified: 2026-06-23
 description: "The best worker placement board games released in the last few years (2023-2026) — the new heavy euros worth clearing space for, not the old standbys."
 ---
@@ -36,18 +36,18 @@ Click the thumbnail to jump down to the game write up.
 
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Nucleum_ur60na.jpg)](#1-nucleum) | Nucleum | 1-4 | 60-150 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/The_White_Castle_hhdlxb.jpg)](#2-the-white-castle) | The White Castle | 1-4 | 80 min | $$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.jpg)](#3-kutna-hora-the-city-of-silver) | Kutná Hora: The City of Silver | 2-4 | 90-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Inventions_-_Evolution_of_Ideas_ppdjfc.jpg)](#4-inventions-evolution-of-ideas) | Inventions: Evolution of Ideas | 1-4 | 60-150 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Ezra_and_Nehemiah_bj20yu.jpg)](#5-ezra-and-nehemiah) | Ezra and Nehemiah | 1-4 | 60-120 min | $$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Daitoshi_txyalt.jpg)](#6-daitoshi) | Daitoshi | 1-4 | 90-150 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Civolution_ubclpt.jpg)](#7-civolution) | Civolution | 1-4 | 100-180 min | $$$$ | — |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/SETI_-_Search_for_Extraterrestrial_Intelligence_r0wmgr.jpg)](#8-seti-search-for-extraterrestrial-intelligence) | SETI: Search for Extraterrestrial Intelligence | 1-4 | 40-160 min | $$$$ | — |
+| [![](https://img.hexagamers.com/Nucleum_ur60na.webp)](#1-nucleum) | Nucleum | 1-4 | 60-150 min | $$$$ | — |
+| [![](https://img.hexagamers.com/The_White_Castle_hhdlxb.webp)](#2-the-white-castle) | The White Castle | 1-4 | 80 min | $$ | — |
+| [![](https://img.hexagamers.com/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](#3-kutna-hora-the-city-of-silver) | Kutná Hora: The City of Silver | 2-4 | 90-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Inventions_-_Evolution_of_Ideas_ppdjfc.webp)](#4-inventions-evolution-of-ideas) | Inventions: Evolution of Ideas | 1-4 | 60-150 min | $$$$ | — |
+| [![](https://img.hexagamers.com/Ezra_and_Nehemiah_bj20yu.webp)](#5-ezra-and-nehemiah) | Ezra and Nehemiah | 1-4 | 60-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Daitoshi_txyalt.webp)](#6-daitoshi) | Daitoshi | 1-4 | 90-150 min | $$$$ | — |
+| [![](https://img.hexagamers.com/Civolution_ubclpt.webp)](#7-civolution) | Civolution | 1-4 | 100-180 min | $$$$ | — |
+| [![](https://img.hexagamers.com/SETI_-_Search_for_Extraterrestrial_Intelligence_r0wmgr.webp)](#8-seti-search-for-extraterrestrial-intelligence) | SETI: Search for Extraterrestrial Intelligence | 1-4 | 40-160 min | $$$$ | — |
 
 ## 1. Nucleum
 
-[![Nucleum](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Nucleum_ur60na.jpg)](https://www.amazon.com/dp/B0CNTH6DPH/?tag=hexagamers-20)
+[![Nucleum](https://img.hexagamers.com/Nucleum_ur60na.webp)](https://www.amazon.com/dp/B0CNTH6DPH/?tag=hexagamers-20)
 
 If you only buy one heavy game off this list, Nucleum is the one we keep coming back to. You're an industrialist in 19th-century Saxony, and your workers aren't placed onto a shared central board so much as woven into a network you're building across the map — connecting buildings, powering them, and chaining one action into the next.
 
@@ -59,7 +59,7 @@ It's heavy. The first game will run long while everyone learns the icons. But it
 
 ## 2. The White Castle
 
-[![The White Castle](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/The_White_Castle_hhdlxb.jpg)](https://www.amazon.com/dp/B0CFWWHZW6/?tag=hexagamers-20)
+[![The White Castle](https://img.hexagamers.com/The_White_Castle_hhdlxb.webp)](https://www.amazon.com/dp/B0CFWWHZW6/?tag=hexagamers-20)
 
 Here's the small-box surprise of the bunch. The White Castle gives you a tight three-round game that fits in a box the size of a paperback, and somehow packs more decision-making into 80 minutes than games three times its size.
 
@@ -71,7 +71,7 @@ What sells it is the lack of downtime. The game's short, the choices are sharp, 
 
 ## 3. Kutná Hora: The City of Silver
 
-[![Kutná Hora: The City of Silver](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.jpg)](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
+[![Kutná Hora: The City of Silver](https://img.hexagamers.com/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
 
 Kutná Hora does something we'd never quite seen before: the prices on the board move based on what everyone does. Build a lot of one type of house and its value swings. Sell too much silver and the price drops. The whole economy breathes with the table, and reading where it's heading is most of the game.
 
@@ -83,7 +83,7 @@ It's a thinky one, and it can run long with players prone to analysis paralysis.
 
 ## 4. Inventions: Evolution of Ideas
 
-[![Inventions: Evolution of Ideas](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Inventions_-_Evolution_of_Ideas_ppdjfc.jpg)](https://www.amazon.com/dp/B0D1DMD2MT/?tag=hexagamers-20)
+[![Inventions: Evolution of Ideas](https://img.hexagamers.com/Inventions_-_Evolution_of_Ideas_ppdjfc.webp)](https://www.amazon.com/dp/B0D1DMD2MT/?tag=hexagamers-20)
 
 This is the Lacerda one, and if you know Lacerda, you already know what that means: a beautiful, dense, interlocking machine where every action feeds three others. Inventions has you spreading ideas across history, claiming inventions and the knowledge cards that power them.
 
@@ -95,7 +95,7 @@ Fair warning: this is the heaviest game on the list, and the rulebook is a commi
 
 ## 5. Ezra and Nehemiah
 
-[![Ezra and Nehemiah](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Ezra_and_Nehemiah_bj20yu.jpg)](https://www.amazon.com/dp/B0D1524S13/?tag=hexagamers-20)
+[![Ezra and Nehemiah](https://img.hexagamers.com/Ezra_and_Nehemiah_bj20yu.webp)](https://www.amazon.com/dp/B0D1524S13/?tag=hexagamers-20)
 
 From the team behind the West Kingdom and South Tigris games comes their most ambitious knot yet. Ezra and Nehemiah hands you three full systems running at once — worker placement, deck building, and area control — and asks you to keep all three turning. It sounds like too much. It mostly isn't.
 
@@ -107,7 +107,7 @@ It's long and it leans toward the experienced end of the shelf. The theme — re
 
 ## 6. Daitoshi
 
-[![Daitoshi](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/Daitoshi_txyalt.jpg)](https://www.amazon.com/dp/B0DKPCWNJ1/?tag=hexagamers-20)
+[![Daitoshi](https://img.hexagamers.com/Daitoshi_txyalt.webp)](https://www.amazon.com/dp/B0DKPCWNJ1/?tag=hexagamers-20)
 
 Daitoshi comes from the same Spanish studio behind The Red Cathedral and The White Castle, and it's the maximalist one — the game where they clearly said "what if we put everything in." Steampunk Japan, a great machine you keep feeding, workers, hexes to harvest, and a steady tension between industry and the spirits of the forest you're chewing through.
 
@@ -119,7 +119,7 @@ This is a long, busy, table-hogging game with a real learning curve, and it asks
 
 ## 7. Civolution
 
-[![Civolution](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243557/Civolution_ubclpt.jpg)](https://www.amazon.com/dp/B0DF472C58/?tag=hexagamers-20)
+[![Civolution](https://img.hexagamers.com/Civolution_ubclpt.webp)](https://www.amazon.com/dp/B0DF472C58/?tag=hexagamers-20)
 
 A small note up front: Civolution is more dice-selection than pure worker placement, but it scratches the exact same itch, so we're not going to be precious about it. This is Stefan Feld's giant solo-friendly civilization sandbox, and "giant" is the operative word.
 
@@ -131,7 +131,7 @@ It's sprawling, the setup is real, and at full count it can run past three hours
 
 ## 8. SETI: Search for Extraterrestrial Intelligence
 
-[![SETI: Search for Extraterrestrial Intelligence](https://res.cloudinary.com/dt4ujaczs/image/upload/v1782243558/SETI_-_Search_for_Extraterrestrial_Intelligence_r0wmgr.jpg)](https://www.amazon.com/dp/B0DJPL7BFP/?tag=hexagamers-20)
+[![SETI: Search for Extraterrestrial Intelligence](https://img.hexagamers.com/SETI_-_Search_for_Extraterrestrial_Intelligence_r0wmgr.webp)](https://www.amazon.com/dp/B0DJPL7BFP/?tag=hexagamers-20)
 
 The other slight stretch on the list, and worth it. SETI blends action selection with worker placement as you run a space agency scanning the real solar system for signs of life — launching probes, landing rovers, and slowly piecing together whether something's out there.
 

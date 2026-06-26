@@ -30,12 +30,12 @@ tags:
   - "strategy"
   - "tides-of-madness"
   - "tides-of-time"
-coverImage: "https://res.cloudinary.com/dt4ujaczs/image/upload/v1779461222/hexagamers-articles/best-two-player-board-games.jpg"
+coverImage: "https://img.hexagamers.com/hexagamers-articles/best-two-player-board-games.webp"
 lastModified: 2025-01-01
 description: "Finding the best 2 player board games can be difficult. Many games have a tailored, two player variant that often involves a \"ghost\" player the other two…"
 ---
 
-![](https://res.cloudinary.com/dt4ujaczs/image/upload/Best-Two-Player_sdyuug.png "Best Two Player")
+![](https://img.hexagamers.com/Best-Two-Player_sdyuug.webp "Best Two Player")
 
 Finding the best 2 player board games can be difficult. Many games have a tailored, two player variant that often involves a "ghost" player the other two play for, or involve each player taking more than one turn.
 
@@ -47,23 +47,23 @@ Some variants work well and some fall flat. Other games are strictly two player,
 
 | Image | Game | Players | Time | Price |   Our Rating   |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/7-Wonders-Duel_mmyudp.jpg)](#1-7-wonders-duel) | 7 Wonders Duel | 2 | 30 mins | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](#2-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 minutes | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305610/P1020774-e1490403854185-793x1024.jpg)](#3-splendor-full-review-here) | Splendor | 2-4 | 30 minutes | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](#4-pandemic-full-review-here) | Pandemic | 1-4 | 60 minutes | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Hive_zc8kxe.jpg)](#5-hive) | Hive | 2 | 20 minutes | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Akrotiri_y1qxyd.jpg)](#6-akrotiri) | Akrotiri | 2 | 45 minutes | $$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-All-Creatures-Big-and-Small_t6mjvi.jpg)](#7-agricola-all-creatures-big--small) | Agricola: All Creatures Big and Small | 2 | 30 minutes | $$$$$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](#8-forbidden-desert) | Forbidden Desert | 2-5 | 45 minutes | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305611/Patchwork.jpg)](#9-patchwork) | Patchwork | 2 | 15 minutes | $$ |  |
-| [![](https://res.cloudinary.com/dt4ujaczs/image/upload/Tides-Of-Time_oyehrb.jpg)](#10-tides-of-timemadness) | Tides of Time | 2 | 20 minutes | $ |  |
+| [![](https://img.hexagamers.com/7-Wonders-Duel_mmyudp.webp)](#1-7-wonders-duel) | 7 Wonders Duel | 2 | 30 mins | $$ |  |
+| [![](https://img.hexagamers.com/Carcassonne-1_yvv5cv.webp)](#2-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 minutes | $$$ |  |
+| [![](https://img.hexagamers.com/P1020774-e1490403854185-793x1024.webp)](#3-splendor-full-review-here) | Splendor | 2-4 | 30 minutes | $$$ |  |
+| [![](https://img.hexagamers.com/Pandemic.webp)](#4-pandemic-full-review-here) | Pandemic | 1-4 | 60 minutes | $$$ |  |
+| [![](https://img.hexagamers.com/Hive_zc8kxe.webp)](#5-hive) | Hive | 2 | 20 minutes | $$$ |  |
+| [![](https://img.hexagamers.com/Akrotiri_y1qxyd.webp)](#6-akrotiri) | Akrotiri | 2 | 45 minutes | $$$ |  |
+| [![](https://img.hexagamers.com/Agricola-All-Creatures-Big-and-Small_t6mjvi.webp)](#7-agricola-all-creatures-big--small) | Agricola: All Creatures Big and Small | 2 | 30 minutes | $$$$$ |  |
+| [![](https://img.hexagamers.com/Forbidden-Desert_bfbd8t.webp)](#8-forbidden-desert) | Forbidden Desert | 2-5 | 45 minutes | $$ |  |
+| [![](https://img.hexagamers.com/Patchwork.webp)](#9-patchwork) | Patchwork | 2 | 15 minutes | $$ |  |
+| [![](https://img.hexagamers.com/Tides-Of-Time_oyehrb.webp)](#10-tides-of-timemadness) | Tides of Time | 2 | 20 minutes | $ |  |
 
 # Top Ten Two Player Board Games Reviews
 
 ## 1. 7 Wonders Duel
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/7-Wonders-Duel_mmyudp.jpg)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/7-Wonders-Duel_mmyudp.webp)](https://www.amazon.com/dp/B014DMSTXK/?tag=hexagamers-20)
 
 The full [7 Wonders game](/7-wonders-review/) has a two player variant, but we find the ghost player becomes a dumping ground for hate drafting. There seems to be a set strategy to win the two player variant, and Whitney and Wes played it so much they started using a 45-second timer per hand to add an additional challenge. Enter 7 Wonders Duel.
 
@@ -79,7 +79,7 @@ There's a lot going on and a lot to keep at the forefront of your mind, so if yo
 ## 2. Carcassonne ([Full Review Here](/carcassone-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Carcassonne-1_yvv5cv.jpg)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Carcassonne-1_yvv5cv.webp)](https://www.amazon.com/dp/B00NX627HW/?tag=hexagamers-20)
 
 Carcassonne is fairly simple (unless you're Whitney), in fact it made our list of [Top Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/), and can involve up to eight players with expansion, but is still an engaging, fun and challenging game with two.
 
@@ -93,7 +93,7 @@ There is more luck in this game than in 7 Wonders Duel, and it's less of a brain
 ## 3. Splendor ([Full Review Here](/splendor-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305610/P1020774-e1490403854185-793x1024.jpg)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/P1020774-e1490403854185-793x1024.webp)](https://www.amazon.com/dp/B00IZEUFIA/?tag=hexagamers-20)
 
 Somewhere between a [deck building](/best-deck-building-board-games/) and [card drafting game](/best-card-drafting-board-games/), but with tokens, [Splendor](/splendor-review/) pits players against each other in a race to achieve 15 points. Players take turns collecting up to three tokens per turn (to a max of 10 in your hand), or exchanging tokens for gem cards. The more gem cards you have, the cheaper they become to purchase, making the expensive and high point cards more affordable. The addition of bonus tiles both players are fighting to claim first adds an additional challenge.
 
@@ -105,7 +105,7 @@ As it uses only cards and tokens, Splendor is an easy and quick setup that can b
 ## 4. Pandemic ([Full Review Here](/pandemic-review/))
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305598/Pandemic.jpg)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Pandemic.webp)](https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20)
 
 Pandemic is played as a cooperative game (it's actually one of the [Top Cooperative Board Games](/best-cooperative-board-games/)) where players team up and fight the game instead of each other. (We managed to convert ultra-competitive Whitney into a co-op game lover, and we're confident you'll find at least one you love, too, if Pandemic isn't it!) It may sound simplistic and boring, but it's anything but--and competitive players will find there's no shortage of competition in this game.
 
@@ -119,7 +119,7 @@ This generally isn't a quick game, so if you don't have an hour to dedicate, don
 ## 5. Hive
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Hive_zc8kxe.jpg)](https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Hive_zc8kxe.webp)](https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20)
 
 Hive is a tile laying game, a bit like Dominoes, except without drawing and matching. Designed for two players only, each player takes a stack of 11 tiles in black or white and uses the tiles with the aim of surrounding their opponent's queen bee.
 
@@ -133,7 +133,7 @@ Our only minor complaints are the cost is a little high for a small tile game, a
 ## 6. Akrotiri
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Akrotiri_y1qxyd.jpg)](https://www.amazon.com/dp/B00P8QC338/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Akrotiri_y1qxyd.webp)](https://www.amazon.com/dp/B00P8QC338/?tag=hexagamers-20)
 
 Akrotiri is a more traditional board game designed for two players only, so comes with the benefit of no ghost player or rule modifications. It strikes us as a mix between Puerto Rico and [Settlers of Catan](/catan-review/). Players become explorers of Ancient Greece, uncovering land each turn, finding and shipping resources back to Thera, earning money, achieving goals and excavating temples.
 
@@ -145,7 +145,7 @@ Akrotiri ends when a player excavates his/her sixth temple (and if this player i
 ## 7. Agricola: All Creatures Big & Small
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Agricola-All-Creatures-Big-and-Small_t6mjvi.jpg)](https://www.amazon.com/dp/B07DY9K4WS/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Agricola-All-Creatures-Big-and-Small_t6mjvi.webp)](https://www.amazon.com/dp/B07DY9K4WS/?tag=hexagamers-20)
 
 If you love [Agricola](/agricola-review/) but hate the time is takes to play (hello, two hour brain drain...), All Creatures Big & Small (ACBAS) may be just what the doctor ordered.
 
@@ -161,7 +161,7 @@ We like Agricola, but we don't like how long it takes to play, so ACBAS is a hug
 ## 8. Forbidden Desert
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Forbidden-Desert_bfbd8t.jpg)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Forbidden-Desert_bfbd8t.webp)](https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20)
 
 Forbidden Desert builds on its predecessor, Forbidden Island. As a co-op game, you play as a team to beat the board--in this case, a desert you're stranded in, working together to build a flying machine and escape before you are killed by one of three outcomes. You don't need a third ghost player to begin, nor do you need to adjust the rules or mechanics of the game.
 
@@ -175,7 +175,7 @@ Forbidden Desert is a little more complicated and in-depth than Forbidden Island
 ## 9. Patchwork
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/v1779305611/Patchwork.jpg)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Patchwork.webp)](https://www.amazon.com/dp/B00RCCAPPE/?tag=hexagamers-20)
 
 Patchwork combines different elements and boards to create a single game for two players. It reminds us of a cross between Blokus and Tetris. Players place their token on the tracking board (called a central time board in Patchwork) and take five buttons (money) and a quilting board. The oddly-shaped patches to fill your quilt board are placed around the central board, a neutral tracking token is placed at the cheapest patch, and you're ready to play.
 
@@ -193,7 +193,7 @@ It's a fairly simple game and there's less interaction and strategy involved tha
 ## 10. Tides of Time/Madness
 
 
-[![Hexagamers](https://res.cloudinary.com/dt4ujaczs/image/upload/Tides-Of-Time_oyehrb.jpg)](https://www.amazon.com/dp/B01029SR1M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Tides-Of-Time_oyehrb.webp)](https://www.amazon.com/dp/B01029SR1M/?tag=hexagamers-20)
 
 Tides of Time is the predecessor to Tides of Madness, both designed for two players only. Both games seem to divide players; some love the games, some don't, and as a micro-game, it's a cheap gamble. Tides has a lot going for it, and we really like that it's super quick to set up and play. After three rounds, the player with the most points wins.
 
