@@ -1,6 +1,6 @@
 ---
 title: "Best Party Board Games in 2026"
-date: 2026-06-26
+date: 2026-06-29
 categories:
   - "favourites-lists"
   - "games"
@@ -14,7 +14,7 @@ tags:
   - "poetry-for-neanderthals"
   - "board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-party-board-games-2026.webp"
-lastModified: 2026-06-26
+lastModified: 2026-06-29
 description: "The best party board games released in the last few years (2023-2026) — the new big-group, high-energy games worth a game night, not the old standbys."
 ---
 
@@ -78,7 +78,7 @@ It only seats four directly, so for a big party you're running it in teams or as
 
 ## 4. Trekking Through History
 
-[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/trekking-through-history.webp)](https://www.amazon.com/s?k=Trekking+Through+History+board+game&tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/trekking-through-history.webp)](https://www.underdoggames.com/products/trekking-through-history)
 
 A slightly heavier pick for the group that wants a party game with a little meat on it. Trekking Through History sends you bouncing around to meet historical figures, collecting itinerary cards and managing a clever time-track where the less time an action costs, the better your turn order stays. It's accessible, it's gorgeous, and it sneaks in just enough strategy to satisfy the gamers at the table.
 
@@ -86,7 +86,7 @@ We're calling it a party game on the strength of its approachability and its tab
 
 It's the most strategic game on this list, so a pure "loud and silly" crowd might find it a touch quiet. But for a mixed group that wants something a little more substantial than a shouting game while still being easy to learn, it's a great bridge.
 
-<a href="https://www.amazon.com/s?k=Trekking+Through+History+board+game&tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.underdoggames.com/products/trekking-through-history" class="check-price-btn" target="_blank" rel="nofollow noopener">Buy from Underdog Games</a>
 
 ## 5. Poetry for Neanderthals
 
