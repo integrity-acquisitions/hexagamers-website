@@ -30,7 +30,7 @@ You're a bird enthusiast attracting birds to three habitats on your player mat. 
 
 > Featured on: [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/)
 
-> See also: [How To Play Wingspan](/wingspan-how-to-play-simplified/) · [Wingspan vs Everdell](/wingspan-vs-everdell/)
+> See also: [How To Play Wingspan](/wingspan-how-to-play-simplified/) · [Wingspan vs Everdell](/wingspan-vs-everdell/) · [Catan vs Wingspan](/catan-vs-wingspan/)
 
 ## Ryan's Review
 
