@@ -24,7 +24,7 @@ Four sacred treasures are hidden on a sinking island. Work together to retrieve 
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [Forbidden Desert Review](/forbidden-desert-review/) · [Pandemic Review](/pandemic-review/)
+> See also: [How To Play Forbidden Island](/forbidden-island-how-to-play-simplified/) · [Forbidden Desert Review](/forbidden-desert-review/) · [Pandemic Review](/pandemic-review/)
 
 ## Kaitlyn's Review
 
