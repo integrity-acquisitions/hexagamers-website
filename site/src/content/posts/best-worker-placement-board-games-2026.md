@@ -38,7 +38,7 @@ Click the thumbnail to jump down to the game write up.
 | --- | --- | --- | --- | --- | --- |
 | [![](https://img.hexagamers.com/Nucleum_ur60na.webp)](#1-nucleum) | Nucleum | 1-4 | 60-150 min | $$$$ | — |
 | [![](https://img.hexagamers.com/The_White_Castle_hhdlxb.webp)](#2-the-white-castle) | The White Castle | 1-4 | 80 min | $$ | — |
-| [![](https://img.hexagamers.com/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](#3-kutna-hora-the-city-of-silver) | Kutná Hora: The City of Silver | 2-4 | 90-120 min | $$$ | — |
+| [![](https://img.hexagamers.com/Kutn%25C3%25A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](#3-kutna-hora-the-city-of-silver) | Kutná Hora: The City of Silver | 2-4 | 90-120 min | $$$ | — |
 | [![](https://img.hexagamers.com/Inventions_-_Evolution_of_Ideas_ppdjfc.webp)](#4-inventions-evolution-of-ideas) | Inventions: Evolution of Ideas | 1-4 | 60-150 min | $$$$ | — |
 | [![](https://img.hexagamers.com/Ezra_and_Nehemiah_bj20yu.webp)](#5-ezra-and-nehemiah) | Ezra and Nehemiah | 1-4 | 60-120 min | $$$ | — |
 | [![](https://img.hexagamers.com/Daitoshi_txyalt.webp)](#6-daitoshi) | Daitoshi | 1-4 | 90-150 min | $$$$ | — |
@@ -71,7 +71,7 @@ What sells it is the lack of downtime. The game's short, the choices are sharp, 
 
 ## 3. Kutná Hora: The City of Silver
 
-[![Kutná Hora: The City of Silver](https://img.hexagamers.com/Kutn%C3%A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
+[![Kutná Hora: The City of Silver](https://img.hexagamers.com/Kutn%25C3%25A1_Hora_-_The_City_of_Silver_yfhj8a.webp)](https://www.amazon.com/dp/B0CKX7J4X6/?tag=hexagamers-20)
 
 Kutná Hora does something we'd never quite seen before: the prices on the board move based on what everyone does. Build a lot of one type of house and its value swings. Sell too much silver and the price drops. The whole economy breathes with the table, and reading where it's heading is most of the game.
 
