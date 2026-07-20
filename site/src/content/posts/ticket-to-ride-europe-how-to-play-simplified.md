@@ -1,5 +1,5 @@
 ---
-title: "Ticket To Ride: Europe – How To Play (Simplified)"
+title: "How to Play Ticket to Ride: Europe — Rules Explained Simply"
 date: 2017-08-11
 categories: 
   - "games"
@@ -13,7 +13,7 @@ tags:
   - "ticket-to-ride-europe-how-to-play"
   - "trains"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/ticket-to-ride-europe-how-to-play-simplified.webp"
-description: "Connect cities across Europe with coloured trains to complete routes and score points. Longer routes are worth more points. But watch out — rivals may be…"
+description: "Learn the rules of Ticket to Ride: Europe in five minutes — setup, turn actions, scoring, and how stations, tunnels and ferries work. Start playing tonight."
 ---
 
 ![Ticket to Ride: Europe](https://img.hexagamers.com/Ticket-to-Ride-Europe-Game-Board_cnyswt.webp)
