@@ -10,7 +10,7 @@ tags:
   - "cooperative-board-games"
   - "how-to-play-simplified"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/betrayal-at-house-on-the-hill-how-to-play-simplified.webp"
-description: "You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the…"
+description: "How to play Betrayal at House on the Hill, simplified — exploring rooms, omens and the Haunt roll, then how the game flips once the traitor is revealed."
 ---
 
 You're trapped inside a haunted house. Explore room by room, find items and omens — until someone triggers the Haunt, one player may turn traitor, and the game completely transforms.

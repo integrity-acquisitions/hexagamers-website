@@ -12,7 +12,7 @@ tags:
   - "games-for-large-groups"
   - "party-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/cash-n-guns-review.webp"
-description: "You're a mobster divvying up stolen loot over eight rounds. Everyone's armed with a foam gun and a hand of cards — five \"click\" blanks and three \"bang\"…"
+description: "Cash 'n Guns review — the foam-gun standoff game for 4 to 8 players. How it plays, who it's for, and whether the party gimmick actually holds up after a few nights."
 ---
 
 ## Overview

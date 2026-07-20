@@ -12,7 +12,7 @@ tags:
   - "lords-of-waterdeep"
   - "worker-placement-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/lords-of-waterdeep-how-to-play-simplified.webp"
-description: "You are a powerful Lord vying for control of Waterdeep. Send your workers out to collect resources, use those resources to complete quests, and earn…"
+description: "How to play Lords of Waterdeep, simplified — setup, worker placement, quests, Intrigue cards and scoring across all 8 rounds. The full rules without the rulebook."
 ---
 
 ![Lords of Waterdeep](https://img.hexagamers.com/Lords-of-Waterdeep-Player-Cards_mxxbzs.webp)

@@ -12,7 +12,7 @@ tags:
   - "settlers-of-catan"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/catan-review.webp"
 lastModified: 2025-01-01
-description: "Collect resources, build settlements, roads, and cities, and race to become the most dominant colony in Catan. Trade with your opponents when you need what…"
+description: "Is Catan actually fun? An honest review after years of plays — the trading, the robber, the runaway leader, and whether it still deserves a spot on your shelf."
 ---
 
 ## Overview

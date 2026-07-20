@@ -10,7 +10,7 @@ tags:
   - "murder-mystery"
   - "party-games"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-murder-mystery-party-companies.webp"
-description: "> **Disclaimer:** We haven't played every game on this list — this is a consolidated research guide. As we play more, we'll update it with first-hand…"
+description: "We compared the top murder mystery party companies — Night of Mystery, My Mystery Party, Shot in the Dark and more. Scripted vs unscripted, pricing, group size."
 ---
 
 ![Best Murder Mystery Party Companies](https://img.hexagamers.com/Best-Murder-Mystery-Party-Companies.webp)

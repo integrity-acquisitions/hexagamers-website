@@ -19,7 +19,7 @@ tags:
   - "strategy"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-2-year-olds-reviews.webp"
-description: "Board games are a fantastic way to start building children's language and development from a young age. They can even do so much more than that (see our…"
+description: "The best board games for 2 year olds, reviewed — simple games that build colour recognition, counting, turn-taking and fine motor skills for toddlers."
 ---
 
 ![](https://img.hexagamers.com/Two-Year-Olds_dospuv.webp "Two Year Olds")

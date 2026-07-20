@@ -74,7 +74,7 @@ tags:
   - "zombies"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-social-deduction-board-games.webp"
 lastModified: 2025-01-01
-description: "In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who.…"
+description: "The best social deduction board games — hidden roles, bluffing and betrayal. If you love Secret Hitler or Avalon, here's what to play next, with player counts."
 ---
 
 ![](https://img.hexagamers.com/Best-Social-Deduction-Board-Games-2_ckqi7r.webp "Best Social Deduction Board Games")

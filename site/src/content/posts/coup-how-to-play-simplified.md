@@ -14,7 +14,7 @@ tags:
   - "micro-game"
   - "stealing"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/coup-how-to-play-simplified.webp"
-description: "Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from, tax, assassinate, and Coup your opponents — or at least convincingly…"
+description: "How to play Coup, simplified — every character, action and counteraction in one place, plus a quick cheat sheet. The whole 15-minute bluffing game explained."
 ---
 
 ![Coup](https://img.hexagamers.com/hexagamers-guides/coup-how-to-play-simplified.webp)

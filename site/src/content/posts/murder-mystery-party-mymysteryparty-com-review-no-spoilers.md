@@ -8,7 +8,7 @@ tags:
   - "mymysteryparty"
   - "hosting-a-party"
 coverImage: "https://img.hexagamers.com/Karate-Smiley_mefu3r.webp"
-description: "We hosted our first murder mystery party using an 80s-themed download from MyMysteryParty.com. This is a no-spoilers review covering the purchase…"
+description: "An honest, no-spoilers MyMysteryParty.com review — what you get for your money, how good the packet is, and how our 80s murder mystery night actually played out."
 ---
 
 ## Overview

@@ -11,7 +11,7 @@ tags:
   - "pandemic-shuffling"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/pandemic-how-to-play-simplified.webp"
 lastModified: 2025-01-01
-description: "Four deadly diseases are spreading globally. Work together with up to 3 colleagues, using your specialized roles, to cure all four before the world is…"
+description: "How to play Pandemic, simplified — setup, your four actions per turn, outbreaks and epidemics, and every role's ability. Cure all four diseases as a team."
 ---
 
 Four deadly diseases are spreading globally. Work together with up to 3 colleagues, using your specialized roles, to cure all four before the world is overwhelmed.

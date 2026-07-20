@@ -13,7 +13,7 @@ tags:
   - "the-resistance"
   - "the-resistance-avalon"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/the-resistance-avalon-review.webp"
-description: "Good versus evil — the future of Camelot hangs in the balance. You and your fellow players are split into secret teams: loyal knights of Arthur versus the…"
+description: "The Resistance: Avalon review — how it plays at 5, 6, 7 and 10 players, how it compares to Secret Hitler, and whether the Merlin twist is worth it for your group."
 ---
 
 ## Overview

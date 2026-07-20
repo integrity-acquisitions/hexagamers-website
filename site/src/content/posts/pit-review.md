@@ -10,7 +10,7 @@ tags:
   - "stock-market-game"
   - "trading"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/pit-review.webp"
-description: "You're a trader trying to corner the market on a single commodity. Shout out how many cards you want to trade, swap blindly with anyone who matches your…"
+description: "Pit review — the loud, fast commodity-trading card game for 3 to 8 players. How the shouting and blind swapping works, and why it's still a great party opener."
 ---
 
 ## Overview

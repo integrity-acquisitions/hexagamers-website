@@ -11,7 +11,7 @@ tags:
   - "lying"
   - "micro-game"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/coup-alternative-game-play-variations.webp"
-description: "Coup is a 15-minute bluffing game where you lie to, steal from, tax, assassinate, and Coup your way to being the last player standing. We went through a…"
+description: "Coup house rules and variants we've actually tested — new roles, team modes and rule tweaks for when the standard 15-minute bluff starts feeling too familiar."
 ---
 
 Coup is a 15-minute bluffing game where you lie to, steal from, tax, assassinate, and Coup your way to being the last player standing. We went through a phase of playing it at every get-together — and then introducing it to friends who did the same.

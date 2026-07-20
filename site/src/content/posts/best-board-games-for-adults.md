@@ -70,7 +70,7 @@ tags:
   - "xxxopoly"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-for-adults.webp"
 lastModified: 2025-01-01
-description: "Are you celebrating an occasion? Valentine's Day? Christmas? A birthday or anniversary? Whatever it is, there's a board game to make the occasion…"
+description: "The best board games for adults — date nights, dinner parties and grown-up game nights. Risqué party games, couples games and group favourites, with player counts."
 ---
 
 ![Best Board Games for Adult couples](https://img.hexagamers.com/Best-Board-Games-For-Adults_pizuvp.webp "Best Board Games For Adults")

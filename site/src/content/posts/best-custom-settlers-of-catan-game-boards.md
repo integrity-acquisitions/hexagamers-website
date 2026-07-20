@@ -11,7 +11,7 @@ tags:
   - "custom-game-boards"
   - "settlers-of-catan"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-custom-settlers-of-catan-game-boards.webp"
-description: "Catan or Settlers of Catan as many still know it, is one of the more popular strategy board games on the market. It is great for beginners (it made it on…"
+description: "The best custom Catan boards and pieces we could find — handmade wooden sets, 3D terrain, resin tiles and upgraded resource pieces, with credit to their makers."
 ---
 
 ![Best Custom Catan Boards](https://img.hexagamers.com/Custom-Catan-Boards-Header.webp)

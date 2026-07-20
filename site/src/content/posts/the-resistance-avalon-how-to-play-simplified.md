@@ -10,7 +10,7 @@ tags:
   - "bluffing-board-game"
   - "how-to-play-simplified"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/the-resistance-avalon-how-to-play-simplified.webp"
-description: "Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missions — but Evil players are hiding among them, trying to sabotage from…"
+description: "How to play The Resistance: Avalon, simplified — setup, the five missions, team voting, and every role from Merlin to Mordred. Learn the game in five minutes."
 ---
 
 Good vs Evil. Secret identities. Five missions. The Good team must pass 3 missions — but Evil players are hiding among them, trying to sabotage from within. Good wins if the missions succeed. Evil wins if they fail — or if they correctly identify and assassinate Merlin at the end.
