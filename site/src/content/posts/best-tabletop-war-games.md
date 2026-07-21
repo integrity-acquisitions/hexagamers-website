@@ -28,7 +28,7 @@ Ask ten people what a "war game" is and you will get ten answers. Some picture a
 
 I lean toward that wider definition here. A war game, for this list, is a game where conflict is the engine. Not a side activity, not a tiebreaker — the reason you sit down. That covers the hardcore historical stuff, but it also covers the big thematic epics and the leaner tactical games that get you fighting in 20 minutes.
 
-[Click here to jump to the comparison table...](/best-tabletop-war-games#table/)
+[Click here to jump to the comparison table...](#best-tabletop-war-games-comparison-table)
 
 One thing I'll flag up front: this is a list of board and card war games, the kind that come complete in a box. If you're after miniatures war gaming (Warhammer 40K, Star Wars: Legion, A Song of Ice and Fire), that's a related but different hobby with its own painting, list-building, and buy-in. Everything below you can open, punch, and play the same night.
 

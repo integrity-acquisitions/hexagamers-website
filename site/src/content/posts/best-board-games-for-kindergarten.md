@@ -21,7 +21,7 @@ description: "The best board games for kindergarten — cooperative, colourful, 
 
 Kindergarten-age kids are right at the edge of what a real board game asks of them. They can take turns, match colours, and count a little, but reading and long attention spans aren't reliable yet. The best games for this age meet them exactly there — bright, quick, and built around things a five-year-old already loves doing.
 
-[Click here to jump to the comparison table...](/best-board-games-for-kindergarten#table/)
+[Click here to jump to the comparison table...](#best-board-games-for-kindergarten-comparison-table)
 
 We leaned heavily toward cooperative games here, where everyone plays against the board instead of each other. At this age that's a gift — there's no melting down over losing, no targeting a sibling, just a little team working toward a goal together. We also favoured games that need no reading, use chunky pieces small hands can manage, and wrap up in fifteen minutes before the wiggles set in. A few quietly teach counting, colours, and memory without the kids ever noticing they're learning.
 

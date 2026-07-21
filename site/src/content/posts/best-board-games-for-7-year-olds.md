@@ -23,7 +23,7 @@ Seven is the age where kids graduate out of the kids' section. They've outgrown 
 
 That gap is what this list is for. Everything here asks a seven-year-old to make a real decision, not just spin a spinner and move, while keeping the reading load low enough that they can play without an adult reading every card aloud.
 
-[Click here to jump to the comparison table...](/best-board-games-for-7-year-olds#table/)
+[Click here to jump to the comparison table...](#best-board-games-for-7-year-olds-comparison-table)
 
 We had two hard rules picking these. First, there has to be an actual choice on your turn. A game where the dice decide everything teaches a kid nothing and bores the adult playing with them. Second, a seven-year-old has to be able to play it mostly on their own steam. A few of these need help adding up the score at the end, and we've flagged those, but none of them require a parent narrating the rules the whole way through.
 

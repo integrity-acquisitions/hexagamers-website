@@ -24,7 +24,7 @@ description: "The best family board games that actually work with mixed ages at 
 
 A real family game has a hard job. It has to hold an eight-year-old's attention, give the adults something to actually think about, and teach in five minutes so nobody loses interest before the first turn. Most games are good at one of those. The ones below are good at all three.
 
-[Click here to jump to the comparison table...](/best-family-board-games#table/)
+[Click here to jump to the comparison table...](#best-family-board-games-comparison-table)
 
 We left off the pure little-kid games — the memory-flip, roll-and-move stuff that adults endure rather than enjoy. This list is for the mixed table: parents, grandparents, and kids old enough to read a card, all playing the same game and all having a genuinely good time. A few of these we still pull out at adult game nights when there isn't a child in sight, which is the real test.
 

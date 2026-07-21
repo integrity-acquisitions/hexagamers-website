@@ -26,7 +26,7 @@ description: "If you haven’t played board games in a long time, say, since you
 
 If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are the most popular board games among players. Yes, those are some great games, but nowadays there is a lot more to choose from when it comes to board games.
 
-[Click here to jump to the comparison table...](/best-gateway-board-games-for-beginners-with-reviews#table/)
+[Click here to jump to the comparison table...](#best-gateway-board-games-for-beginners-comparison-table)
 
 There are all sorts of different genres, difficulty/strategy levels, and styles of games. If you are looking to learn more about the current state of board games, you might be interested in [Everything you need to know about board games](/everything-you-need-to-know-about-board-games/).
 
@@ -60,7 +60,7 @@ The main thing to remember here is that we are looking for games that will make 
 
 It would be almost impossible to cover every game in our best gateway board games for beginners list, but hopefully you find something that peaks your interest!
 
-## Best Gateway Board Games For Beginners Comparison Table
+## Best Gateway Board Games For Beginners Comparison Table
 
 (Click the thumbnail to jump down to the review)
 
