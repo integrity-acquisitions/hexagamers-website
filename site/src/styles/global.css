@@ -230,3 +230,52 @@ h4 { font-size: 1.1rem; }
   max-height: 220px;
   object-fit: contain;
 }
+
+/* ── Print: pages with a cheat sheet print the card only ── */
+@media print {
+  body:has(.cheat-sheet) header:not(.post-header),
+  body:has(.cheat-sheet) nav,
+  body:has(.cheat-sheet) footer,
+  body:has(.cheat-sheet) .post-sidebar,
+  body:has(.cheat-sheet) .related-posts,
+  body:has(.cheat-sheet) .post-meta,
+  body:has(.cheat-sheet) .game-stats,
+  body:has(.cheat-sheet) .thumbnail-disclaimer,
+  body:has(.cheat-sheet) .print-hint {
+    display: none !important;
+  }
+  /* Hide every direct child of the content column except the card itself */
+  body:has(.cheat-sheet) .post-content > *:not(.cheat-sheet) { display: none !important; }
+  body:has(.cheat-sheet) .post-header { padding: 0 0 0.75rem !important; }
+  body:has(.cheat-sheet) .post-title {
+    font-size: 20pt !important;
+    color: #000 !important;
+    margin: 0 !important;
+  }
+  body:has(.cheat-sheet) .post-body-wrap {
+    display: block !important;
+    padding: 0 !important;
+    max-width: none !important;
+  }
+  body:has(.cheat-sheet) .cheat-sheet {
+    background: #fff !important;
+    border: 1px solid #999 !important;
+    padding: 0 !important;
+    gap: 1.1rem !important;
+  }
+  body:has(.cheat-sheet) .cheat-sheet,
+  body:has(.cheat-sheet) .cheat-sheet * {
+    color: #000 !important;
+  }
+  body:has(.cheat-sheet) .cheat-heading {
+    color: #000 !important;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.25rem;
+  }
+  body:has(.cheat-sheet) .cheat-table th,
+  body:has(.cheat-sheet) .cheat-table td {
+    border-color: #ccc !important;
+  }
+  body:has(.cheat-sheet) { background: #fff !important; }
+  @page { margin: 1.4cm; }
+}

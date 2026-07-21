@@ -581,6 +581,70 @@ const itemListSchema = listItems?.length ? {
   margin-top: 0.25rem !important;
 }
 
+/* Printable cheat sheet / reference card */
+.post-content :global(.cheat-sheet) {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin: 1.25rem 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+.post-content :global(.cheat-heading) {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin: 0 0 0.6rem;
+}
+.post-content :global(.cheat-table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.88rem;
+}
+.post-content :global(.cheat-table th) {
+  text-align: left;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  font-weight: 600;
+  padding: 0 0.75rem 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.post-content :global(.cheat-table td) {
+  padding: 0.6rem 0.75rem 0.6rem 0;
+  color: var(--text-2);
+  line-height: 1.5;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.post-content :global(.cheat-table tr:last-child td) { border-bottom: none; }
+.post-content :global(.cheat-table strong) { color: var(--text); }
+.post-content :global(.cheat-rules) {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.post-content :global(.cheat-rules li) {
+  color: var(--text-2);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+.post-content :global(.cheat-rules strong) { color: var(--text); }
+.post-content :global(.print-hint) { margin: 0 0 2rem; }
+.post-content :global(.print-btn) {
+  border: none;
+  cursor: pointer;
+  font: inherit;
+}
+
 /* FAQ accordion */
 .post-content :global(.faq) {
   display: flex;
@@ -640,6 +704,8 @@ const itemListSchema = listItems?.length ? {
   .post-content :global(.game-stats) { flex-wrap: wrap; }
   .post-content :global(.stat) { min-width: 33%; }
 }
+
+.post-content :global(.cheat-sheet) { break-inside: avoid; }
 
 /* ── Likes / Dislikes pro-con cards ── */
 .post-content :global(h3:has(+ ul)) {
