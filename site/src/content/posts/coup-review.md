@@ -26,7 +26,7 @@ In this micro-game set in The Resistance Universe, you hold two secret character
   <div class="stat"><span class="stat-value">13+</span><span class="stat-label">Age</span></div>
 </div>
 
-> See also: [How To Play Coup – Simplified](/coup-how-to-play-simplified/)
+> See also: [How To Play Coup – Simplified](/coup-how-to-play-simplified/) · [Printable Coup Cheat Sheet](/coup-cheat-sheet/)
 
 > Featured on: [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 

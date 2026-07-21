@@ -29,6 +29,8 @@ Coup is a fast-paced bluffing game set in a dystopian future. Lie to, steal from
 
 > Full thoughts: [Coup Review](/coup-review/) · Want more variety? [Alternative Coup Variations](/coup-alternative-game-play-variations/)
 
+> **Lost your reference cards?** Our [printable Coup cheat sheet](/coup-cheat-sheet/) puts every character, action and block on one page.
+
 ## What's In The Box
 
 - 15 playing cards (3 of each of 5 characters)
@@ -55,6 +57,8 @@ On your turn, you declare an action. Here's the key: **you can perform the actio
 After you declare, every other player has three options:
 
 ![The Coup cheat sheet listing every action and counter-action](https://img.hexagamers.com/Coup-Cheat-Sheet-2_avqcbk.webp "Coup cheat sheet")
+
+*Want this at the table? We've made a [printable Coup cheat sheet](/coup-cheat-sheet/) — every character, action, coin cost and block on a single page.*
 
 <div class="rule-cards">
   <div class="rule-card">

@@ -30,7 +30,7 @@ Connect cities across Europe with coloured trains to complete routes and score p
 
 > Also on our list: [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> **Note:** This guide covers the core rules to get you started — not every edge case. Read the rulebook for full detail.
+> **Note:** This guide covers the core rules to get you started — not every edge case. For the full detail, grab the [official rules PDF](/ticket-to-ride-europe-rules-pdf/) — we link the publisher's own rulebook alongside a complete rules summary.
 
 ## The Objective
 

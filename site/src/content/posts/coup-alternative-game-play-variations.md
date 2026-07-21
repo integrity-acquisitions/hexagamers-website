@@ -20,6 +20,7 @@ After enough plays, any game can start to feel familiar. Before you put it back 
 
 > New to Coup? Start with our [How To Play Coup – Simplified](/coup-how-to-play-simplified/) guide.
 > Read our full [Coup Review](/coup-review/).
+> Keep the [printable cheat sheet](/coup-cheat-sheet/) handy for the base actions and blocks.
 
 > **Note:** We won't re-explain the base rules here — these are add-ons and swaps, not replacements.
 
