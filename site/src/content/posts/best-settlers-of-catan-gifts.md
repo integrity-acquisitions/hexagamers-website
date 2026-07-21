@@ -95,7 +95,7 @@ tags:
   - "wood"
   - "wood-coaster"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-settlers-of-catan-gifts.webp"
-description: "Settlers of Catan (Catan) is one of the best-known and best-loved board games in circulation today. For many, it was and remains the gateway game: the…"
+description: "The best Catan gifts for the Settlers fan in your life — t-shirts, wall art, socks, coasters, pillows and more. Handpicked gift ideas beyond another expansion."
 ---
 
 ![Best Settlers of Catan Gifts](https://img.hexagamers.com/Best-Catan-Gifts_p9aic6.webp)

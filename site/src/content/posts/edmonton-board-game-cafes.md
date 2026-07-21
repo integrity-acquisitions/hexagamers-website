@@ -43,7 +43,7 @@ tags:
   - "yeg"
   - "yyc"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/edmonton-board-game-cafes.webp"
-description: "Board game enthusiasts have capitalized on the hobby's popularity explosion. One of the results? Board game cafes. Cafes have popped up all across the…"
+description: "Every board game cafe in Edmonton, compared — Board N Brew, Gamers' Lodge, Hexagon, Table Top Cafe and more. Library size, food, fees and which one to pick."
 ---
 
 ![](https://img.hexagamers.com/Edmonton-Board-Game-Cafes_ufp4a3.webp "Edmonton Board Game Cafes")

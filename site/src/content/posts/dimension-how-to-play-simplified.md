@@ -13,7 +13,7 @@ tags:
   - "how-to-play-simplified"
   - "puzzle-games"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/dimension-how-to-play-simplified.webp"
-description: "Dimension is a fast-paced puzzle game. Stack different coloured balls to match a randomly drawn set of rule cards — all against a ticking timer. It tests…"
+description: "How to play Dimension, simplified — setup, the seven rule cards, scoring, and penalties. Learn the ball-stacking puzzle game in about five minutes."
 ---
 
 ![Dimension](https://img.hexagamers.com/hexagamers-guides/dimension-how-to-play-simplified.webp)

@@ -61,7 +61,7 @@ tags:
   - "two-player"
   - "yamatai"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/cultural-themed-board-games-asia.webp"
-description: "Kon'nichiwa! East meets West in these board games. It doesn't really matter whether you've been to, lived in, are from, dream of or know nothing about…"
+description: "The best Asian-themed board games — Tokaido, Hanamikoji, Takenoko, Lanterns, Sushi Go and more. Beautiful games steeped in the art and culture of Asia."
 ---
 
 Kon'nichiwa! East meets West in these board games. It doesn't really matter whether you've been to, lived in, are from, dream of or know nothing about Asia! Our list of **10 board games that incorporate Asian culture**, history and traditions has something for every player, whatever kind of game you like--[co-operative board games](/best-cooperative-board-games/), [two-player board games](/best-two-player-board-games/), strategy, cards, battle, group, tiles, or even if you don't know what you like and are just getting started. Our 10 favourites may not jive with yours, so if we're missing one of your favourites, let us know! There are so many out there to play. Now, onto the games... 

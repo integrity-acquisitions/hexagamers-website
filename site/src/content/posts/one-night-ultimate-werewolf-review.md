@@ -10,7 +10,7 @@ tags:
   - "party-game"
   - "social-deduction"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/one-night-ultimate-werewolf-review.webp"
-description: "One round. Everyone gets a secret role, the app guides the night phase, and then you have five minutes to figure out who the werewolves are before voting.…"
+description: "Our review of One Night Ultimate Werewolf — social deduction in a single ten-minute round, no elimination. How the roles work and how big a group you need."
 ---
 
 ## Overview

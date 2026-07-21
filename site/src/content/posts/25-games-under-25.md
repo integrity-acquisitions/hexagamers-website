@@ -100,7 +100,7 @@ tags:
   - "what"
   - "work"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/25-games-under-25.webp"
-description: "Board games make a great gift for all occasions, and we chose 25 great games under $25 to suit every need: white elephant gift exchange, birthday,…"
+description: "25 board games you can buy for under $25 — Patchwork, Love Letter, Sushi Go!, Codenames and more. Great picks for gift exchanges, birthdays and stocking stuffers."
 ---
 
 ![](https://img.hexagamers.com/25-Games_ohoiim.webp "25 Games")

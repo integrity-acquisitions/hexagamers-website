@@ -9,7 +9,7 @@ tags:
   - "forbidden-island"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/forbidden-island-review.webp"
-description: "Four sacred treasures are hidden on a sinking island. Work together to retrieve all four, get back to Fool's Landing, and escape by helicopter before the…"
+description: "Our review of Forbidden Island, the co-operative treasure hunt on a sinking island. How it plays, difficulty levels, player count, and whether it's worth buying."
 ---
 
 ## Overview

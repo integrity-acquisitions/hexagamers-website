@@ -9,7 +9,7 @@ tags:
   - "gloom"
   - "strategy-card-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/gloom-review.webp"
-description: "Control an eccentric family of misfits and make their lives as miserable as possible. Heap tragedies and untimely deaths on your own family while cheering…"
+description: "Our review of Gloom, the card game where you make your family miserable before killing them off. How the transparent cards work and whether the joke lasts."
 ---
 
 ## Overview

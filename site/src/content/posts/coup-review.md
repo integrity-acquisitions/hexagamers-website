@@ -11,7 +11,7 @@ tags:
   - "micro-game"
   - "resistance-universe"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/coup-review.webp"
-description: "In this micro-game set in The Resistance Universe, you hold two secret character cards with special abilities. Use them — or bluff having them — to coup,…"
+description: "Our review of Coup, the two-minute bluffing card game set in The Resistance universe. How it plays, best player count, and whether it earns a spot in your bag."
 ---
 
 ## Overview

@@ -66,7 +66,7 @@ tags:
   - "x-realm"
   - "yeg"
 coverImage: "https://img.hexagamers.com/20170218_145403_jghljp.webp"
-description: "The escape room craze only continues to grow with new companies and new rooms appearing every few months. At their core, each concept is the same--solve…"
+description: "The best escape rooms in Edmonton, ranked and reviewed — The Heist, Nightfall, Division 37 and more, with the companies running them, difficulty and group size."
 ---
 
 ![](https://img.hexagamers.com/20170218_145403_jghljp.webp)

@@ -32,7 +32,7 @@ tags:
   - "tides-of-time"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-two-player-board-games.webp"
 lastModified: 2025-01-01
-description: "Finding the best 2 player board games can be difficult. Many games have a tailored, two player variant that often involves a \"ghost\" player the other two…"
+description: "The best 2 player board games, reviewed and compared — 7 Wonders Duel, Patchwork, Hive, Splendor, Carcassonne and more. Games built for two, not scaled down."
 ---
 
 ![](https://img.hexagamers.com/Best-Two-Player_sdyuug.webp "Best Two Player")

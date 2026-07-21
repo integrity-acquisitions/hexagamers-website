@@ -9,7 +9,7 @@ tags:
   - "catch-phrase"
   - "party-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/catch-phrase-review.webp"
-description: "Think you have a quick enough wit to give clues on the spot? Get your team to guess the phrase before the timer runs out — then pass it on. If the buzzer…"
+description: "What is Catch Phrase and is it any good? Our review of the fast-talking word-guessing party game — how it plays, best group size, and when it works at game night."
 ---
 
 ## Overview

@@ -16,7 +16,7 @@ tags:
   - "strategy-board-game"
   - "worker-placement-board-game"
 coverImage: "https://img.hexagamers.com/P1090929_woooxm.webp"
-description: "Board games have come a long way from Monopoly and Life. Today's landscape is vast, innovative, and sometimes overwhelming. \"Where do I start? What games…"
+description: "New to modern board games? A beginner's guide to reading the box, the main game types — deck building, co-op, party, worker placement — and where to start."
 ---
 
 ![Board games](https://img.hexagamers.com/P1090929_woooxm.webp)

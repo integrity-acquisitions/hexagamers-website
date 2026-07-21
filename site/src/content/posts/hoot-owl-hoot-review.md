@@ -10,7 +10,7 @@ tags:
   - "cooperative-board-games"
   - "hoot-owl-hoot"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/hoot-owl-hoot-review.webp"
-description: "The sun is rising! Work together to fly all the owls back to the nest before daylight. Play colour cards to move owls forward, but if you draw a sun card,…"
+description: "Our review of Hoot Owl Hoot, the co-operative colour-matching game for ages 4+. How it plays, how long it lasts, and whether young kids actually stay hooked."
 ---
 
 ## Overview

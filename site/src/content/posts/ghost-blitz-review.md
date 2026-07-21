@@ -13,7 +13,7 @@ tags:
   - "quick"
   - "thinking-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/ghost-blitz-review.webp"
-description: "The mysterious pictures taken in the ghost's house have errors. In this fast-paced game you must figure out which item in the picture is correct — or which…"
+description: "Our review of Ghost Blitz (Geistesblitz) — the fast reaction game where you grab the right wooden piece first. How it plays, who it suits, and is it worth buying?"
 ---
 
 ## Overview

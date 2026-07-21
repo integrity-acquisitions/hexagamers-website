@@ -9,7 +9,7 @@ tags:
   - "how-to-play-simplified"
   - "worker-placement"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/gallerist-play-simplified.webp"
-description: "You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and…"
+description: "How to play The Gallerist, simplified — actions, artists, buying and selling art, and endgame scoring. Vital Lacerda's heavy euro explained without the rulebook."
 ---
 
 You're an art gallery owner competing to collect the most money through fame, influence, and smart art dealing. Discover artists, promote them, buy and sell works, and build your gallery's reputation to win.

@@ -22,7 +22,7 @@ tags:
   - "solo-board-games"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-one-player-solo-board-games-with-reviews.webp"
 lastModified: 2025-01-01
-description: "When you think of board games, you think of getting together with friends and family, having some fun, arguing with one another maybe, and generally…"
+description: "The best solo board games you can play by yourself — Mage Knight, Robinson Crusoe, Friday, Eldritch Horror and more, with reviews and a comparison table."
 ---
 
 ![](https://img.hexagamers.com/Best-solo_nrxo7i.webp "Best solo")

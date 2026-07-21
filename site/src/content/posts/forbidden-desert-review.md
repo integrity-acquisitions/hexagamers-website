@@ -9,7 +9,7 @@ tags:
   - "forbidden-desert"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/forbidden-desert-review.webp"
-description: "Your helicopter crashes in an ancient desert. Work together to excavate the parts of a legendary flying machine and escape before the storm overtakes you…"
+description: "Our review of Forbidden Desert, the co-operative sequel to Forbidden Island. How it plays, why the shifting storm makes it harder, and whether it's worth buying."
 ---
 
 ## Overview

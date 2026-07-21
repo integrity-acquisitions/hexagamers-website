@@ -9,7 +9,7 @@ tags:
   - "micro-game"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/love-letter-review.webp"
-description: "The Princess is locked away in her tower. Suitors compete to get their letter to her first — using 16 cards and social deduction. Each turn you hold one…"
+description: "Our review of Love Letter, the 16-card deduction game. How many players it takes, how a round plays out, and why it keeps ending up in people's bags."
 ---
 
 ## Overview

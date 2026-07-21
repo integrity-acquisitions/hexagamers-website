@@ -10,7 +10,7 @@ tags:
   - "ticket-to-ride-europe"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/ticket-to-ride-europe-review.webp"
 lastModified: 2025-01-01
-description: "Collect coloured train cards and claim railway routes across Europe to complete your destination tickets. Longer routes score more points — but your rivals…"
+description: "Is Ticket to Ride Europe a good game, and is it easy to learn? Our review covers how it plays, how it differs from the original, and whether it's worth buying."
 ---
 
 ## Overview

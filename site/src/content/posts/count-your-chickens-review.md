@@ -11,7 +11,7 @@ tags:
   - "count-your-chickens"
   - "counting"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/count-your-chickens-review.webp"
-description: "Mama Hen's baby chicks have gotten loose. Work together to spin the spinner, count your spaces, and collect chicks back into the coop before Mama Hen…"
+description: "Our review of Count Your Chickens, the co-operative counting game for ages 3+. How it plays, whether preschoolers stay engaged, and if it's worth the shelf space."
 ---
 
 ## Overview
