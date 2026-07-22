@@ -45,7 +45,7 @@ What we looked for: quick enough to hold attention, social enough to matter, and
 | [![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](#6-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#7-azul-full-review-here) | Azul | 2–4 | 30–45 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Doomlings_ykomwz.webp)](#8-doomlings) | Doomlings | 2–6 | 20–45 min | $$ | — |
-| [![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](#9-everdell) | Everdell | 1–4 | 40–80 min | $$$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](#9-everdell-full-review-here) | Everdell | 1–4 | 40–80 min | $$$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#10-sushi-go-full-review-here) | Sushi Go! | 2–5 | 15 min | $ | — |
 
 ---
@@ -188,21 +188,21 @@ A solid choice if the group wants something with a bit more personality than a s
 
 ---
 
-## 9. Everdell
+## 9. Everdell ([Full Review Here](/everdell-review/))
 
-[![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Everdell_x5mxlz.webp)](https://www.amazon.com/dp/B09ZWQTTNR/?tag=hexagamers-20)
 
-Everdell is a worker placement and tableau building game set in a woodland world of critters and constructions. You send workers out to gather resources, then spend those resources to play cards into your city — each card adds new abilities, new resources, or bonus scoring. The goal is to build the most efficient, highest-scoring tableau by the end of three seasons.
+Everdell is a worker placement and tableau building game set in a woodland world of critters and constructions. You send workers out to gather resources, then spend those resources to play cards into your city — each card adds new abilities, new resources, or bonus scoring. The goal is to build the most efficient, highest-scoring tableau by the end of the fourth and final season.
 
 It's more involved than anything else on this list, but the theme and production quality do a lot of work. The giant cardboard Ever Tree in the center of the table looks impressive enough to draw people in before a single rule gets explained. The art is warm and detailed. Even people who don't care about mechanics tend to get drawn in by the visual.
 
-For teens with a longer attention span and an interest in strategy, this is the step up from gateway games. It's not hard to learn — the iconography is clear and a first game runs 60–90 minutes — but it has enough depth that the second and third plays feel meaningfully different. Each card combination opens new strategies, and figuring out which engine to build each game is genuinely satisfying.
+For teens with a longer attention span and an interest in strategy, this is the step up from gateway games. The teach is the one hurdle — budget a rules video before the first session rather than learning at the table, and expect a first game to run 60–90 minutes. Past that it opens up fast, and the second and third plays feel meaningfully different. Each card combination opens new strategies, and figuring out which engine to build each game is genuinely satisfying.
 
 If your teen has played Catan and wants something more, Everdell is the direction to point them.
 
 > See also: [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/)
 
-<a href="https://www.amazon.com/dp/B0792JY6G4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B09ZWQTTNR/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
@@ -226,7 +226,7 @@ Good for teens who claim they don't like board games. Hard to argue with somethi
 
 ## Conclusion
 
-If we had to pick one to start with: Coup. Cheap, fast, chaotic, and teen groups almost never stop at one game. If you want something with more staying power as a longer evening anchor, Codenames or Catan both hold up across dozens of plays. And if you're looking for something the site hasn't reviewed yet — Everdell is the one we'd most want to sit down and play properly with a group.
+If we had to pick one to start with: Coup. Cheap, fast, chaotic, and teen groups almost never stop at one game. If you want something with more staying power as a longer evening anchor, Codenames or Catan both hold up across dozens of plays. And if you want the one with the most depth and the best table presence, that's Everdell — we've now given it a [full review](/everdell-review/).
 
 The list spans a range on purpose. Something here for a competitive group, a social group, a group that wants to cooperate, and a group that just wants to laugh for 20 minutes. Pick to your crowd.
 

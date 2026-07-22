@@ -32,7 +32,7 @@ Short answer: they feel completely different at the table. The longer answer is 
 | **Weight** | Medium | Medium-heavy |
 | **Price** | ~$60 | ~$60 |
 
-> See also: [Wingspan Review](/wingspan-review/) · [How To Play Wingspan](/wingspan-how-to-play-simplified/)
+> See also: [Wingspan Review](/wingspan-review/) · [Everdell Review](/everdell-review/) · [How To Play Wingspan](/wingspan-how-to-play-simplified/)
 
 > Featured on: [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/) · [Best Worker Placement Games](/best-worker-placement-board-games-reviews/)
 
