@@ -10,7 +10,7 @@ tags:
   - "party-board-game"
   - "party-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/danger-the-game-review.webp"
-description: "Danger The Game is described as \"the storytelling party game of bizarre dangers and rescues.\" One player is in a ridiculously dangerous situation — it's…"
+description: "Our review of Danger, the storytelling party game where one player is trapped in a bizarre situation and everyone else competes to pull off the best rescue."
 ---
 
 ## Overview

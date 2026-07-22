@@ -11,7 +11,7 @@ tags:
   - "fantasy"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/dragons-hoard-review.webp"
-description: "You're a dragon collecting treasure — coins, princes, wishing trees, and more. Steal sheep from farmers and spend them to buy treasure for your lair. Race…"
+description: "Our Dragon's Hoard review — the card game where you play a dragon stealing sheep from farmers to buy treasure, and sic angry mobs on everyone else's lair."
 ---
 
 ## Overview

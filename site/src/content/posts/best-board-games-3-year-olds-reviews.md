@@ -19,7 +19,7 @@ tags:
   - "strategy-board-game"
   - "zingo"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-3-year-olds-reviews.webp"
-description: "Board games are a fantastic way to spend quality time with the little ones in your life. We love that games bring people together, and as avid gamers we…"
+description: "The best board games for 3 year olds, reviewed by parents — Hoot Owl Hoot, Zingo, Count Your Chickens, Candy Land and Hi Ho Cherry-O, and why each works."
 ---
 
 ![](https://img.hexagamers.com/Best-Board-Games-For-3-year-olds_zhz5zh.webp "Best Board Games For 3 year olds")

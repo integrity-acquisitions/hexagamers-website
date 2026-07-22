@@ -9,7 +9,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/hive-review.webp"
-description: "Two players face off with hexagonal bug tiles. Protect your Queen Bee while surrounding your opponent's — using ants, beetles, grasshoppers, and spiders…"
+description: "Our Hive review — the two-player bug tile game with no board. How ants, beetles, grasshoppers and spiders move, and why it travels better than chess."
 ---
 
 ## Overview

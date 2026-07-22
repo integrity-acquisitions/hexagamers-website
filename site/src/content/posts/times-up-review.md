@@ -8,7 +8,7 @@ tags:
   - "party-board-game"
   - "times-up"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/times-up-review.webp"
-description: "Teams compete to guess famous, historical, and fictional names across three progressive rounds — describing, one-word cluing, and finally silent charades.…"
+description: "Our Time's Up! review — the party game where the same names get guessed three times, from describing to one word to charades. Player count, length and verdict."
 ---
 
 ## Overview

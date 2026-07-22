@@ -10,7 +10,7 @@ tags:
   - "strategy-board-game"
   - "takenoko"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/takenoko-review.webp"
-description: "In imperial Japan, the Chinese Emperor has gifted you a panda. You must irrigate land, grow coloured bamboo, tend the gardens, and keep the panda fed — all…"
+description: "Our Takenoko review — the panda and bamboo game from imperial Japan. Player count, play time, what the objectives feel like, and who it actually suits."
 ---
 
 ## Overview

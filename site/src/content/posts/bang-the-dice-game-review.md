@@ -13,7 +13,7 @@ tags:
   - "micro-game"
   - "western-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/bang-the-dice-game-review.webp"
-description: "You’re in the middle of a wild west shootout with hidden roles — Sheriff, Deputy, Outlaw, or Renegade. Roll the dice to shoot enemies, collect beers for…"
+description: "Our Bang! The Dice Game review — hidden roles, wild west shootouts, and five dice. How Sheriff, Deputy, Outlaw and Renegade play, and how long a round runs."
 ---
 
 ## Overview

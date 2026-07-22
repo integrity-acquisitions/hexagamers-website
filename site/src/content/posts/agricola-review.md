@@ -17,7 +17,7 @@ tags:
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/agricola-review.webp"
 lastModified: 2025-01-01
-description: "Your two meeples are settled into their wood house on their plot of land — but harvest is coming and they have no food. Place your meeples to grow crops,…"
+description: "Our Agricola review — Uwe Rosenberg's farming worker placement classic. Feed your family, expand your house, and find out if the pressure is your kind of fun."
 ---
 
 ## Overview

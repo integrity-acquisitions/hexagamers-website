@@ -9,7 +9,7 @@ tags:
   - "sheriff-of-nottingham"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/sheriff-of-nottingham-review.webp"
-description: "You're a merchant trying to bring goods into Nottingham — legally or otherwise. Declare what's in your pouch, bluff the Sheriff, bribe them to look away,…"
+description: "Our Sheriff of Nottingham review — the bluffing game where you smuggle goods past the Sheriff, bribe your way out, and find out who at the table can lie."
 ---
 
 ## Overview

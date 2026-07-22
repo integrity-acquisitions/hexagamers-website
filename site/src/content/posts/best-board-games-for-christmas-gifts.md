@@ -114,7 +114,7 @@ tags:
   - "worker-placement"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-for-christmas-gifts.webp"
 lastModified: 2025-01-01
-description: "There are thousands of board games available to buy in all genres for all audiences. Games can take hours or minutes, be brain-draining or light and silly,…"
+description: "Our board game Christmas gift guide, sorted by who you're buying for — party games, kids' games, two-player picks, co-ops and games that make you think."
 ---
 
 ![](https://img.hexagamers.com/Christmas-Gifts_eecg2k.webp "Christmas Gifts")

@@ -12,7 +12,7 @@ tags:
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/dominion-review.webp"
 lastModified: 2025-01-01
-description: "Build your deck, acquire resources, play action cards, and collect Victory Points to claim dominion before your opponents. The classic deck-building game…"
+description: "Our Dominion review — the deck-building game that started the genre. How the kingdom cards keep it fresh, player count, play time, and who should buy it."
 ---
 
 ## Overview

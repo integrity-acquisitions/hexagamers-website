@@ -19,7 +19,7 @@ tags:
   - "viticulture"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-worker-placement-board-games-reviews.webp"
 lastModified: 2025-01-01
-description: "If you have been playing board games for any time, you have probably found yourself trying out a few different genres. Today we will explore one of the…"
+description: "The ten best worker placement board games, reviewed — Lords of Waterdeep, Agricola, Caverna, Caylus, Tzolk'in, Stone Age, Le Havre and more, ranked in order."
 ---
 
 ![](https://img.hexagamers.com/Best-Worker-Replacement-Board-Games_uej59o.webp "Best Worker Placement Board Games")

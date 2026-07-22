@@ -11,7 +11,7 @@ tags:
   - "worker-placement-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/lords-of-waterdeep-review.webp"
 lastModified: 2025-01-01
-description: "You are a powerful Lord sending workers across the city of Waterdeep to collect resources, complete quests, and build your influence. The Lord with the…"
+description: "Our Lords of Waterdeep review: the worker placement game that hides real strategy behind a friendly D&D theme. Player count, play time and what we thought."
 ---
 
 ## Overview

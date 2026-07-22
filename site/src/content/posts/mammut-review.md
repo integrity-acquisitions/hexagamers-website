@@ -9,7 +9,7 @@ tags:
   - "mammut"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/mammut-review.webp"
-description: "Back from the mammoth hunt, your tribe must divide the spoils. Take what you need — but not too much, or the next player steals your whole pile. Manage…"
+description: "Our Mammut review — the tile-drafting game where you divide the mammoth hunt spoils, and taking too much means the next player steals your entire pile."
 ---
 
 ## Overview

@@ -12,7 +12,7 @@ tags:
   - "how-to-play-simplified"
   - "quick"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/ghost-blitz-how-to-play-simplified.webp"
-description: "The mysterious pictures taken in the ghost's house have some errors. In this fast-paced game you must figure out which item in the picture is correct — or…"
+description: "Ghost Blitz rules made simple: how the five wooden pieces work, when to grab the exact item and when to grab the one that's missing, plus setup and scoring."
 ---
 
 ![Ghost Blitz](https://img.hexagamers.com/Ghost-Blitz-2-Items_ivdigo.webp)

@@ -14,7 +14,7 @@ tags:
   - "sequence-num6ers"
   - "sum-swamp"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/top-rated-board-games-that-teach-math-skills.webp"
-description: "Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill…"
+description: "Five board games that teach math skills without feeling like homework — Rummikub, Qwirkle, Sum Swamp, Sequence Num6ers and Cashflow For Kids, each reviewed."
 ---
 
 Mathematics can hardly be termed as an exciting subject, for most anyways. At least not when using the same old teaching tactics. I.e. flash cards, drill tests, and memorization exercises. These make mathematics dull and kids end up shunning it. However, with a bit of effort and creativity, math can be very interesting if not the most interesting subject.

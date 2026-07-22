@@ -11,7 +11,7 @@ tags:
   - "party-game"
   - "simple-board-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/camel-up-review.webp"
-description: "Bet your hard-earned coins at the high-stakes camel track. Camels sprint around the course through legs of the race while you place wagers on who wins each…"
+description: "Our Camel Up review — the camel racing betting game where camels stack on each other's backs and one die roll can flip the whole race. Player count and verdict."
 ---
 
 ## Overview

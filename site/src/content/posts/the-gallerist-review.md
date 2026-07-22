@@ -10,7 +10,7 @@ tags:
   - "the-gallerist"
   - "worker-placement"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/the-gallerist-review.webp"
-description: "You're an art gallery owner in a competitive market. Discover artists, promote them to fame, acquire and sell works, manage your gallery's influence, and…"
+description: "Our review of The Gallerist, Vital Lacerda's heavy art gallery game. Discover artists, sell their work, and see whether the weight is worth it for you."
 ---
 
 ## Overview

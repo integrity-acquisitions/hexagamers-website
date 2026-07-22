@@ -20,7 +20,7 @@ tags:
   - "ticket-to-ride-europe"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-gateway-board-games-for-beginners-with-reviews.webp"
 lastModified: 2025-01-01
-description: "If you haven’t played board games in a long time, say, since you were a kid, a lot has changed. Gone are the days of when Monopoly, Sorry, or Scrabble are…"
+description: "The ten best gateway board games for beginners, reviewed — Catan, Ticket to Ride, Carcassonne, Pandemic, Sushi Go and more, with what each one teaches you."
 ---
 
 

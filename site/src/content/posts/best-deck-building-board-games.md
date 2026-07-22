@@ -19,7 +19,7 @@ tags:
   - "valley-of-the-kings"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-deck-building-board-games.webp"
 lastModified: 2025-01-01
-description: "As your board game collection starts continues to grow, you will start to expand into different genres of games. One of the types that may have you…"
+description: "The best deck building board games, reviewed — Dominion, Star Realms, Clank!, Ascension, Legendary, Friday and more, with what makes each deck feel different."
 ---
 
 
