@@ -8,7 +8,7 @@ tags:
   - "party-game"
   - "wits-and-wagers"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/wits-and-wagers-review.webp"
-description: "Everyone guesses a numerical answer to a trivia question, then bets on which answer they think is closest (without going over). You don't need to know the…"
+description: "Our Wits and Wagers review: the trivia game you can win without knowing any answers. How the betting round works and whether it's worth buying for parties."
 ---
 
 ## Overview

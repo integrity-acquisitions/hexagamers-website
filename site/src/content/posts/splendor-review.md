@@ -10,7 +10,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/splendor-review.webp"
-description: "You're a Renaissance merchant collecting gem tokens to buy development cards. Use cards to buy more powerful cards and attract noble visitors. First to 15…"
+description: "Is Splendor a good board game? Our review of the gem-buying engine builder: how the card economy snowballs, who it suits, and whether it's worth the price."
 ---
 
 ## Overview

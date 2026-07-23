@@ -9,7 +9,7 @@ tags:
   - "strategy-board-game"
   - "worker-placement-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/stone-age-review.webp"
-description: "Lead a prehistoric tribe through survival and growth. Send your people to collect resources, build huts, grow your family, develop tools, and collect…"
+description: "Our Stone Age board game review: worker placement, dice-driven resources, and feeding your tribe. How it plays, basic strategy, and whether it's worth buying."
 ---
 
 ## Overview

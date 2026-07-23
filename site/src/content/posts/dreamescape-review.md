@@ -9,7 +9,7 @@ tags:
   - "dreamescape"
   - "yeg"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/dreamescape-review.webp"
-description: "DreamEscape is an escape room company based in Leduc, Alberta, that also hosts board games and events. We reviewed two of their rooms: Escape The Puzzler…"
+description: "Our review of DreamEscape Gaming in Leduc, Alberta. We played two of their escape rooms — here's how the puzzles, staff, and difficulty actually held up."
 ---
 
 ## Overview

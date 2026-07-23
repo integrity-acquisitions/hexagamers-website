@@ -13,7 +13,7 @@ tags:
   - "two-player"
   - "uprise"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/uprise-review.webp"
-description: "Uprise is a local indie board game designed by Alex Racine, which we had the opportunity to playtest ahead of its Kickstarter launch. Players are members…"
+description: "Our review of Uprise, an indie board game by Alex Racine we playtested before its Kickstarter. How the secret-society tower building plays across 2-8 players."
 ---
 
 ## Overview

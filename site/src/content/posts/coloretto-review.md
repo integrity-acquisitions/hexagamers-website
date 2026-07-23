@@ -10,7 +10,7 @@ tags:
   - "coloretto"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/coloretto-review.webp"
-description: "Match chameleons of the same colour to score points. The more of one colour you collect, the more they're worth — but collecting too many different colours…"
+description: "Our Coloretto review: how the colour-set card game plays, why pushing your luck on a fourth colour hurts, and whether this quick filler is worth buying."
 ---
 
 ## Overview

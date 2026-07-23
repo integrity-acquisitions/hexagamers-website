@@ -10,7 +10,7 @@ tags:
   - "fast-paced"
   - "puzzle-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/dimension-review.webp"
-description: "Race the clock to stack coloured balls in a pyramid that satisfies a randomly drawn set of rules. Six rounds, one minute each. Fast-paced, decision-heavy,…"
+description: "Our Dimension review: stacking coloured balls into a rule-breaking pyramid against a one-minute timer. How the puzzle game plays and whether it's worth buying."
 ---
 
 ## Overview

@@ -11,7 +11,7 @@ tags:
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/pandemic-review.webp"
 lastModified: 2025-01-01
-description: "Four deadly diseases are spreading across the globe. Work together as specialized disease-fighting operatives to contain outbreaks and cure all four before…"
+description: "Does Pandemic still hold up? Our review of the co-op classic — how the disease spread creates tension, where it drags, and whether it's still worth buying."
 ---
 
 ## Overview

@@ -10,7 +10,7 @@ tags:
   - "flash-point-fire-rescue"
   - "strategy"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/flash-point-fire-rescue-review.webp"
-description: "You and your fellow firefighters race to rescue victims from a burning building before it collapses. Fight fires, remove hazmat, and carry victims to…"
+description: "Our Flash Point: Fire Rescue review. How the co-op firefighting game plays, how punishing the fire spread gets, and whether it's worth adding to your shelf."
 ---
 
 ## Overview

@@ -11,7 +11,7 @@ tags:
   - "how-to-play-simplified"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/7-wonders-how-to-play-simplified.webp"
 lastModified: 2025-01-01
-description: "Build an empire across three ages of card drafting. Collect resources, construct buildings, develop armies, and complete your Wonder to earn more Victory…"
+description: "7 Wonders board game rules explained simply: setup, how card drafting works across the three ages, scoring military and science, and the two-player variant."
 ---
 
 Build an empire across three ages of card drafting. Collect resources, construct buildings, develop armies, and complete your Wonder to earn more Victory Points than any other city.

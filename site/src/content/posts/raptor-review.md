@@ -9,7 +9,7 @@ tags:
   - "strategy-board-game"
   - "two-player"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/raptor-review.webp"
-description: "One player controls a mother raptor protecting her five babies. The other commands scientists trying to capture the babies and neutralize the mother. Only…"
+description: "Our Raptor board game review: a two-player duel of mother raptor versus scientists. How the asymmetric card play works and whether it's worth buying."
 ---
 
 ## Overview

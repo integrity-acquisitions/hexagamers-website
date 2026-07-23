@@ -11,7 +11,7 @@ tags:
   - "simplified-rules"
   - "stealing"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/mammut-how-to-play-simplified.webp"
-description: "It's the prehistoric era and your tribe has just returned from a mammoth hunt. Now you must divide the spoils — but other tribe members can steal your…"
+description: "Mammut rules explained simply: how to divide the mammoth hunt spoils, when other players can steal your pile, and how scoring works across the rounds."
 ---
 
 ![Mammut – How To Play](https://img.hexagamers.com/Mammut-How-To-Play-Simplified-1_gauxdc.webp)

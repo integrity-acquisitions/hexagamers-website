@@ -10,7 +10,7 @@ tags:
   - "virtual-reality"
   - "yeg"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/ss-tiberia-smartypantz-escape-room-review.webp"
-description: "Canada's first VR escape room, made by local Edmontonians. Your team boards the SS Tiberia with 30 minutes to reactivate the space station and destroy an…"
+description: "Our review of SS Tiberia at SmartyPantz Edmonton — Canada's first VR escape room. How the 30-minute space station mission played and whether it's worth booking."
 ---
 
 ## Overview

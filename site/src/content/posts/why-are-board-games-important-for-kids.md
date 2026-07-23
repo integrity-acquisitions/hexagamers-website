@@ -8,7 +8,7 @@ tags:
   - "board-games-that-teach-math"
   - "learning-with-board-games"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/why-are-board-games-important-for-kids.webp"
-description: "Board games are a fun way to spend time together as a family — and an excuse to put down the screens. But beyond the enjoyment, they're quietly building…"
+description: "Why board games matter for kids: the turn-taking, patience, memory, and maths skills they quietly build, plus how to pick games that actually deliver them."
 ---
 
 Board games are a fun way to spend time together as a family — and an excuse to put down the screens. But beyond the enjoyment, they're quietly building skills your kids will use for the rest of their lives.

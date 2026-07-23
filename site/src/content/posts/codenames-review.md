@@ -12,7 +12,7 @@ tags:
   - "spy"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/codenames-review.webp"
 lastModified: 2025-01-01
-description: "Two rival spy teams race to make contact with their agents. The only clues are one-word hints from your Spymaster — they connect multiple agents, but one…"
+description: "Our honest Codenames review: how one-word spymaster clues create the tension, what it plays like at different group sizes, and whether it's worth buying."
 ---
 
 ## Overview

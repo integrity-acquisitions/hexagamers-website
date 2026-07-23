@@ -134,7 +134,7 @@ tags:
   - "wyrmwood"
   - "yeg"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/board-game-related-gifts-arent-board-games-2017.webp"
-description: "For great board games to give or gifts for Settlers of Catan fans, we've got you covered! If you're hesitant to buy a board game or want a more unique…"
+description: "Gift ideas for board game lovers who already own the games: accessories, storage, playmats, and tabletop-themed extras that make better presents."
 ---
 
 More...

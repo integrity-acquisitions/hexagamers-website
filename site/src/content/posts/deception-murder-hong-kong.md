@@ -12,7 +12,7 @@ tags:
   - "murder-mystery"
   - "social-deduction"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/deception-murder-hong-kong.webp"
-description: "Investigators work together to solve a murder — but one of them is the killer. A silent Forensic Scientist drops clues via coded boards. Everyone must…"
+description: "Our review of Deception: Murder in Hong Kong. How the Forensic Scientist's coded clues work, how it compares to other social deduction games, and who it suits."
 ---
 
 ## Overview

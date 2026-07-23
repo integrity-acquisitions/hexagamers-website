@@ -21,7 +21,7 @@ tags:
   - "would-you-rather"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-party-board-games-with-reviews.webp"
 lastModified: 2025-01-01
-description: "If you are done with board games you can play by yourself, and are ready to invite some people over, we have just the list of games for you to try. This…"
+description: "Party games that beat Catch Phrase and Taboo at their own game. Our favourite crowd-pleasers for big groups, each with an honest review and player counts."
 ---
 
 ![](https://img.hexagamers.com/Best-party-board-games_ngfjyl.webp "Best party board games")

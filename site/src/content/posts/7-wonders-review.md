@@ -11,7 +11,7 @@ tags:
   - "top-ten-card-drafting-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/7-wonders-review.webp"
 lastModified: 2025-01-01
-description: "As the ruler of one of seven ancient cities, you must build your empire to defeat your enemies and reign supreme. Collect resources, build structures,…"
+description: "Our honest 7 Wonders review: what card drafting across three ages actually plays like, who it suits, where it falls short, and whether it's worth buying."
 ---
 
 ## Overview
