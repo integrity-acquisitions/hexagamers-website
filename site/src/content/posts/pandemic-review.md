@@ -28,7 +28,7 @@ Four deadly diseases are spreading across the globe. Work together as specialize
 
 > Featured on: [Best Cooperative Board Games](/best-cooperative-board-games/) · [Best Two Player Board Games](/best-two-player-board-games/) · [Best Gateway Board Games](/best-gateway-board-games-for-beginners-with-reviews/)
 
-> See also: [How To Play Pandemic – Simplified](/pandemic-how-to-play-simplified/)
+> See also: [How To Play Pandemic – Simplified](/pandemic-how-to-play-simplified/) · [Every Pandemic Expansion and Version](/every-pandemic-expansion-and-version/) · [Best Pandemic Expansions, Ranked](/best-pandemic-expansions/)
 
 ## Kaitlyn's Review
 
