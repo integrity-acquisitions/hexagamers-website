@@ -43,7 +43,7 @@ We pulled from BoardGameGeek community polls, Reddit recommendations, and severa
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#2-ticket-to-ride) | Ticket to Ride | 2–5 | 45–75 min | $$ |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](#3-pandemic) | Pandemic | 2–4 | 45–60 min | $$ |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/carcassonne.webp)](#4-carcassonne) | Carcassonne | 2–5 | 30–45 min | $ |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](#5-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ |
+| [![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](#5-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ |
 | [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#6-codenames) | Codenames | 2–8 | 15–30 min | $ |
 | [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#7-azul) | Azul | 2–4 | 30–45 min | $$ |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](#8-scythe) | Scythe | 1–5 | 90–120 min | $$$ |
@@ -118,7 +118,7 @@ It also introduced us to meeples. Important.
 
 ## 5. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 7 Wonders is a civilization-building card drafting game that plays in thirty minutes regardless of player count. You're developing military, commerce, and science over three ages, drafting one card per round from a hand of seven and passing the rest. The card you pass goes to your neighbour. The card they pass comes to you. What you give is as important as what you keep, and once you internalise that, the game changes.
 

@@ -269,7 +269,7 @@ These are the games that show up on every ranking, win the big awards, and sit n
 | [![](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](#7-scythe) | Scythe | 1-5 | 90-115 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/castles-of-burgundy.webp)](#8-castles-of-burgundy) | Castles of Burgundy | 2-4 | 60-90 min | Medium |
 | [![](https://img.hexagamers.com/Sky_Team_yrvt2z.webp)](#9-sky-team) | Sky Team | 2 | 15 min | Light |
-| [![](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](#10-7-wonders-full-review-here) | 7 Wonders | 3-7 | 30 min | Medium |
+| [![](https://img.hexagamers.com/7-Wonders.webp)](#10-7-wonders-full-review-here) | 7 Wonders | 3-7 | 30 min | Medium |
 
 ## 1. Pandemic Legacy: Season 1
 
@@ -363,7 +363,7 @@ Fifteen minutes, tiny box, and a difficulty ramp through a stack of scenarios. F
 
 ## 10. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
-[![7 Wonders](https://img.hexagamers.com/hexagamers-box-art/7-wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
+[![7 Wonders](https://img.hexagamers.com/7-Wonders.webp)](https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20)
 
 The card drafting game that made drafting mainstream. Everyone picks a card from their hand simultaneously and passes the rest along, building a civilization over three ages.
 
@@ -397,6 +397,11 @@ This is the part that actually helps you buy something. Each section explains wh
 
 **Variations:** some gateways lean on negotiation and player interaction (Catan), some are almost solitaire with a shared board (Ticket to Ride), and some are pure pattern-matching (Kingdomino, Azul). If your beginner is competitive, the trading-and-blocking style works. If they're shy, give them something they can build quietly.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp" alt="Ticket to Ride: Europe box art" loading="lazy" /><span>Ticket to Ride: Europe</span></a>
+<a href="https://www.amazon.com/dp/B0DYK1ZH2D/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Catan-1.webp" alt="Catan box art" loading="lazy" /><span>Catan</span></a>
+</div>
+
 **Our top picks:** [Ticket to Ride: Europe](/ticket-to-ride-europe-review/) is the single best first purchase — five minutes of rules, an hour of real decisions, and it looks like a normal family board game so nobody's intimidated. [Catan](/catan-review/) is the historical answer and still converts people, as long as you accept the dice.
 
 → **Full list:** [Best Gateway Board Games For Beginners](/best-gateway-board-games-for-beginners-with-reviews/), our all-time picks
@@ -410,6 +415,10 @@ Turns are short or simultaneous, rules fit on a card, and the fun comes from wha
 
 There's a real split here. **Word and clue games** (Codenames, Just One, So Clover!) reward cleverness and work with almost anyone. **Performance games** (Telestrations, Time's Up!) require people willing to be a bit silly. **Trivia and betting games** (Wits and Wagers) let people who know nothing still compete. Know which one your group tolerates — handing a shy table a performance game is a bad night.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B0FJMQB63N/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Codenames.webp" alt="Codenames box art" loading="lazy" /><span>Codenames</span></a>
+</div>
+
 **Our top picks:** [Codenames](/codenames-review/) is the most flexible party game made, and one of the very few that satisfies gamers and non-gamers at the same table. [Time's Up!](/times-up-review/) is the pick when the group is loud and willing — three rounds of describing the same names with progressively less allowed, ending in charades.
 
 → **Full list:** [Best Party Board Games](/best-party-board-games-with-reviews/), our all-time picks
@@ -422,6 +431,11 @@ There's a real split here. **Word and clue games** (Codenames, Just One, So Clov
 **How it plays:** the game gets a turn too, and its turn is always bad for you. You spend your actions triaging — this fire is spreading, that disease is about to outbreak, and you have three actions and four problems. The conversation is the gameplay: everyone talking through the board state and deciding who does what.
 
 **Variations:** the big divide is **communication**. Traditional co-ops (Pandemic, Forbidden Desert) let you talk freely, which is friendly but creates the quarterback problem — one confident player running everyone's turn. **Limited-communication co-ops** (Sky Team, The Mind, Hanabi) fix that by banning table talk, and the silence is where the tension comes from. There are also **traitor games** (Dead of Winter) where the team might contain someone working against you.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/pandemic.webp" alt="Pandemic box art" loading="lazy" /><span>Pandemic</span></a>
+<a href="https://www.amazon.com/dp/B00B4ECHJI/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Forbidden-Dessert-Box_qbr1vb.webp" alt="Forbidden Desert box art" loading="lazy" /><span>Forbidden Desert</span></a>
+</div>
 
 **Our top picks:** [Pandemic](/pandemic-review/) remains the best introduction to the genre and the one most people should own first. [Forbidden Desert](/forbidden-desert-review/) is the cheaper, faster, arguably tighter alternative — a shifting sandstorm board that makes every turn feel urgent.
 
@@ -442,6 +456,11 @@ This is the genre with the clearest sub-splits, and they play completely differe
 
 That distinction matters for buying. Groups that hate lying to each other can still love Love Letter, and groups that love the theatre of it want Avalon.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/The-Resistance-Avalon.webp" alt="The Resistance: Avalon box art" loading="lazy" /><span>The Resistance: Avalon</span></a>
+<a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Coup-1_mcfcul.webp" alt="Coup box art" loading="lazy" /><span>Coup</span></a>
+</div>
+
 **Our top picks:** [The Resistance: Avalon](/the-resistance-avalon-review/) if you have five or more people — no player elimination, and Merlin is one of the great role designs. [Coup](/coup-review/) if you have fewer, or want something that resolves in five minutes.
 
 → **Full list:** [Best Social Deduction Board Games](/best-social-deduction-board-games/), our all-time picks
@@ -454,6 +473,10 @@ That distinction matters for buying. Groups that hate lying to each other can st
 **How it plays:** the first few turns are deliberately unsatisfying — you're playing coppers and estates and wondering what the point is. Then around turn six your first real purchase comes back around, and by the end you're drawing half your deck in a single turn. That arc from useless to powerful is the entire appeal.
 
 **Variations:** **pure deck builders** (Dominion) have no board at all — just a market of cards. **Deck builders with a board** (Clank!, Star Realms with its combat) attach the engine to some other activity, so your cards drive movement or fighting. And **deck destruction** matters as much as building: knowing when to *thin* your deck by trashing weak cards is what separates good players from new ones.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B01LYLIS2U/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Dominion_z98xnd.webp" alt="Dominion box art" loading="lazy" /><span>Dominion</span></a>
+</div>
 
 **Our top picks:** [Dominion](/dominion-review/) is the original and still the cleanest expression of the idea — ten kingdom cards from a big box, different every game. It's the one to learn on.
 
@@ -468,6 +491,11 @@ The whole genre runs on blocking. You look at the board, see the space you despe
 
 The split that matters is how badly the game punishes you. **Harsh worker placement** (Agricola, Caverna) adds survival pressure — you must feed your workers, and failing has real penalties. **Friendly worker placement** ([Lords of Waterdeep](/lords-of-waterdeep-review/), [Stone Age](/stone-age-review/)) removes the starvation clock and just lets you build. Newer designs often let you place on occupied spaces for an extra cost, which softens the blocking considerably.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/0786959916/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/lords-of-waterdeep.webp" alt="Lords of Waterdeep box art" loading="lazy" /><span>Lords of Waterdeep</span></a>
+<a href="https://www.amazon.com/dp/B01DREMT68/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Agricola.webp" alt="Agricola box art" loading="lazy" /><span>Agricola</span></a>
+</div>
+
 **Our top picks:** [Lords of Waterdeep](/lords-of-waterdeep-review/) is the best entry point — clean rules, a light D&D theme, and no way to starve. [Agricola](/agricola-review/) is the genre at full strength if your group wants to be squeezed.
 
 → **Full list:** [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/), our all-time picks
@@ -480,6 +508,11 @@ The split that matters is how badly the game punishes you. **Harsh worker placem
 **How it plays:** drafting is a game of reading what's in front of you and what you're about to give away. Take the card that's best for you, or take the card that would be devastating in the hands of the person to your left? Because everyone picks at the same time, drafting games play a lot of people quickly — the main reason the mechanic is everywhere.
 
 **Variations:** **pass-the-hand drafting** ([7 Wonders](/7-wonders-review/), Sushi Go!) is the classic form. **Open drafting** ([Azul](/azul-review/), Splendor's card market) puts everything face up on the table and takes turns — same tension, no hidden information. And plenty of games bolt drafting onto something bigger, using it as the engine that feeds a longer build.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B0043KJW5M/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/7-Wonders.webp" alt="7 Wonders box art" loading="lazy" /><span>7 Wonders</span></a>
+<a href="https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Sushi-Go_ocbhis.webp" alt="Sushi Go! box art" loading="lazy" /><span>Sushi Go!</span></a>
+</div>
 
 **Our top picks:** [7 Wonders](/7-wonders-review/) plays seven people in half an hour, which almost nothing else does. Sushi Go! is the pocket version of the same idea and costs a fraction as much.
 
@@ -494,9 +527,14 @@ The defining feeling is the turn where it clicks — where the card you played s
 
 Engines come in a few shapes. **Tableau builders** ([Wingspan](/wingspan-review/), [Everdell](/everdell-review/), Terraforming Mars) have you laying cards in front of you that combo together. **Deck builders** are technically engine builders where the engine is your deck. And **economic engines** (Scythe, Splendor) build production rates rather than card combos — you're increasing how much you get per turn rather than how many things trigger.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/wingspan.webp" alt="Wingspan box art" loading="lazy" /><span>Wingspan</span></a>
+<a href="https://www.amazon.com/dp/B09ZWQTTNR/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Everdell_x5mxlz.webp" alt="Everdell box art" loading="lazy" /><span>Everdell</span></a>
+</div>
+
 **Our top picks:** [Wingspan](/wingspan-review/) is the friendliest way in — beautiful, low-conflict, and the engine is easy to see working. [Everdell](/everdell-review/) is the prettiest game most people own, with a genuinely clever two-resource-track puzzle under the woodland charm.
 
-*We don't have a full engine building list yet — it's next on the writing queue. In the meantime, both reviews above go deep.*
+→ **Full list:** [Best Engine Building Board Games](/best-engine-building-board-games/), our all-time picks
 
 ## Two-Player Games
 
@@ -505,6 +543,11 @@ Engines come in a few shapes. **Tableau builders** ([Wingspan](/wingspan-review/
 **How it plays:** with only one opponent there's nowhere to hide. Every move you make is directly aimed at one person, and they know it. Good two-player designs lean into that — tight, tense, and usually shorter than multiplayer games because there's no downtime waiting for four other people.
 
 **Variations:** **abstract duels** ([Hive](/hive-review/), chess-likes) are pure skill with no luck and no hidden information. **Card-driven duels** (7 Wonders Duel, Twilight Struggle) add hand management and hidden plans. And **two-player co-ops** (Sky Team, Pandemic at two) turn the format cooperative, which is the reason a lot of couples buy games at all.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B000EN5ZLW/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Hive_zc8kxe.webp" alt="Hive box art" loading="lazy" /><span>Hive</span></a>
+<span class="pick-box"><img src="https://img.hexagamers.com/Patchwork_htst3r.webp" alt="Patchwork box art" loading="lazy" /><span>Patchwork</span></span>
+</div>
 
 **Our top picks:** [Hive](/hive-review/) travels anywhere, has no board, no cards, and no luck — bug tiles and a genuinely deep puzzle. Patchwork is the quiet pick for couples: a quilting game with a mean little economy.
 
@@ -519,6 +562,11 @@ Without an opponent, the game needs to push back some other way — usually a de
 
 Solo modes solve the missing-opponent problem in different ways. **Beat-your-score** games (Sprawlopolis, most puzzle solos) just want you to optimize. **Automa-driven** solos (Wingspan, Scythe) simulate an opponent with a card deck. And **campaign solos** (Gloomhaven, Robinson Crusoe) give you a long-form story to work through over weeks.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/wingspan.webp" alt="Wingspan box art" loading="lazy" /><span>Wingspan</span></a>
+<span class="pick-box"><img src="https://img.hexagamers.com/Sprawlopolis_vz3gj7.webp" alt="Sprawlopolis box art" loading="lazy" /><span>Sprawlopolis</span></span>
+</div>
+
 **Our top picks:** [Wingspan](/wingspan-review/) has one of the best automa systems in the hobby and plays the same solo as it does multiplayer. Sprawlopolis is the pocket-sized option — eighteen cards, fits in a jacket, and it's genuinely hard.
 
 → **Full list:** [Best One Player (Solo) Board Games](/best-one-player-solo-board-games-with-reviews/), our all-time picks
@@ -532,6 +580,10 @@ Solo modes solve the missing-opponent problem in different ways. **Beat-your-sco
 
 **Variations:** **claim-and-challenge** ([Coup](/coup-review/), Liar's Dice) has you asserting something anyone can call out. **Bidding bluffs** (Skull) commit you before the reveal. And **hidden-role bluffs** ([Avalon](/the-resistance-avalon-review/)) tie it to a team game.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B00GDI4HX4/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Coup-1_mcfcul.webp" alt="Coup box art" loading="lazy" /><span>Coup</span></a>
+</div>
+
 **Our top picks:** [Coup](/coup-review/) is the tightest five-minute bluffing game there is. [Sheriff of Nottingham](/sheriff-of-nottingham-review/) is the one to buy if you want bluffing plus negotiation — bribing the sheriff to look the other way is one of the great table moments.
 
 → **Full list:** [Best Bluffing Board Games](/best-bluffing-board-games/)
@@ -543,6 +595,11 @@ Games that work with a genuinely mixed table — kids, parents, and grandparents
 The design problem is making a game a nine-year-old and a forty-year-old can both enjoy. Usually solved with simple rules and a decision space that rewards thinking without punishing not thinking. Short turns matter a lot, because kids don't wait well.
 
 Some family games are just light strategy games ([Azul](/azul-review/), Kingdomino). Others use dexterity or speed to level the field, since a fast kid genuinely beats a slow adult. And a few handicap naturally — [Ghost Blitz](/ghost-blitz-review/) is a reaction game where being an adult helps you not at all.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B000809OAO/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp" alt="Ticket to Ride: Europe box art" loading="lazy" /><span>Ticket to Ride: Europe</span></a>
+<a href="https://www.amazon.com/dp/B077MZ2MPW/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Azul_znrp2h.webp" alt="Azul box art" loading="lazy" /><span>Azul</span></a>
+</div>
 
 **Our top picks:** [Ticket to Ride: Europe](/ticket-to-ride-europe-review/) is the family game most collections should start with. [Azul](/azul-review/) works from about eight upward and doesn't feel like a kids' game to the adults.
 
@@ -556,6 +613,11 @@ Some family games are just light strategy games ([Azul](/azul-review/), Kingdomi
 
 **Variations:** **flicking** (Crokinole, Flick 'em Up), **stacking and balance** (Rhino Hero, Junk Art, Suspend), and **speed and reaction** (Ice Cool, [Ghost Blitz](/ghost-blitz-review/)). Crokinole in particular is less a party game than a genuine lifelong skill game.
 
+<div class="pick-boxes">
+<span class="pick-box"><img src="https://img.hexagamers.com/hexagamers-box-art/crokinole.webp" alt="Crokinole box art" loading="lazy" /><span>Crokinole</span></span>
+<span class="pick-box"><img src="https://img.hexagamers.com/hexagamers-box-art/klask.webp" alt="Klask box art" loading="lazy" /><span>Klask</span></span>
+</div>
+
 **Our top picks:** Crokinole is a beautiful piece of furniture and a game people play for decades. Klask is the two-player option — magnetic air hockey with a fishing hook, and it's brilliant.
 
 → **Full list:** [Best Dexterity Board Games](/best-dexterity-board-games/)
@@ -567,6 +629,11 @@ Complete games in tiny boxes. Usually under twenty cards, usually under fifteen 
 The constraint forces designers to be ruthless. Every card has to matter, so micro games often have a higher decision-per-minute rate than games ten times their size. They're what you bring camping, to a restaurant, or on a plane.
 
 The category splits by what's in the box. **Card-only micros** ([Love Letter](/love-letter-review/), No Thanks!, Scout) fit in a pocket. **Tiny box games with components** (Deep Sea Adventure, Tiny Epic anything) squeeze real board game systems into a small footprint. And **solo micros** (Sprawlopolis) are eighteen cards and a genuine puzzle.
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Love_Letter_yl7dle.webp" alt="Love Letter box art" loading="lazy" /><span>Love Letter</span></a>
+<a href="https://www.amazon.com/dp/B0DKP7Q966/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Deep_Sea_Adventure_ud2j6h.webp" alt="Deep Sea Adventure box art" loading="lazy" /><span>Deep Sea Adventure</span></a>
+</div>
 
 **Our top picks:** [Love Letter](/love-letter-review/) is sixteen cards and a complete deduction game. Deep Sea Adventure is the best push-your-luck game we own — go deeper for treasure, but the oxygen is shared and everyone's greed is killing you all.
 
@@ -580,6 +647,11 @@ The category splits by what's in the box. **Card-only micros** ([Love Letter](/l
 
 **Variations:** **card-driven** (Twilight Struggle) uses a deck to drive events. **Area control** (Root, Scythe) dresses conflict in lighter clothes. **Hex-and-counter** (Memoir '44, Commands & Colors) is the classic map-and-units form. And **epic** (Twilight Imperium, War of the Ring) means clearing your calendar.
 
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B007XDRP1E/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/twilight-struggle.webp" alt="Twilight Struggle box art" loading="lazy" /><span>Twilight Struggle</span></a>
+<a href="https://www.amazon.com/dp/B0002TV2NS/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/memoir-44.webp" alt="Memoir '44 box art" loading="lazy" /><span>Memoir '44</span></a>
+</div>
+
 **Our top picks:** Twilight Struggle for two players who want the best card-driven design ever made. Memoir '44 as the accessible entry — scenario-based, quick, and it teaches the genre painlessly.
 
 → **Full list:** [Best Tabletop War Games](/best-tabletop-war-games/)
@@ -591,6 +663,11 @@ Games where the theme is survival against something that wants to eat you. The g
 Usually a resource squeeze dressed as a story — never enough ammo, food, or actions, and the threat escalating every round. The best ones use the theme to justify genuinely hard decisions about who gets left behind.
 
 The theme gets used four different ways: **pure co-op survival** (Zombicide), **traitor games** (Dead of Winter, where one survivor may be working against the group), **push-your-luck** (Zombie Dice), and **kid-friendly horror** (Zombie Kidz Evolution, which is a legacy game for six-year-olds and genuinely good).
+
+<div class="pick-boxes">
+<a href="https://www.amazon.com/dp/B00HFKITJC/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Dead-of-Winter-1024x1014.webp" alt="Dead of Winter box art" loading="lazy" /><span>Dead of Winter</span></a>
+<a href="https://www.amazon.com/dp/B07M5BFVP2/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Zombie_Kidz_Evolution_ncj82a.webp" alt="Zombie Kidz Evolution box art" loading="lazy" /><span>Zombie Kidz Evolution</span></a>
+</div>
 
 **Our top picks:** Dead of Winter is the standout — a co-op with secret personal objectives and a possible traitor, so you're never sure whether the person making a bad call is incompetent or hostile. Zombie Kidz Evolution is the surprise pick for families.
 
@@ -606,7 +683,7 @@ Short version, based on the dials at the top of this page:
 - **Your group loves lying to each other?** [Social deduction](/best-social-deduction-board-games/), starting with [Avalon](/the-resistance-avalon-review/).
 - **Just the two of you?** [Two player games](/best-two-player-board-games/) — and buy games designed for two, not games that tolerate it.
 - **Playing by yourself?** [Solo games](/best-one-player-solo-board-games-with-reviews/) are a real category now, not an afterthought.
-- **Want the puzzle without the conflict?** Engine builders — [Wingspan](/wingspan-review/) or [Everdell](/everdell-review/).
+- **Want the puzzle without the conflict?** [Engine builders](/best-engine-building-board-games/) — [Wingspan](/wingspan-review/) or [Everdell](/everdell-review/).
 - **Ready for something heavy?** [Worker placement](/best-worker-placement-board-games-reviews/), starting with [Lords of Waterdeep](/lords-of-waterdeep-review/) and working up to [Agricola](/agricola-review/).
 - **Need something for the cabin or a flight?** [Micro games](/best-micro-games/).
 
