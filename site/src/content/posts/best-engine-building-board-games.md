@@ -247,13 +247,13 @@ That speed is the whole pitch. There's almost no setup, turns are quick, and you
 
 ### Century: Spice Road
 
-[![Century: Spice Road](https://img.hexagamers.com/hexagamers-box-art/century-spice-road.webp)](https://www.amazon.com/dp/B071DXCT5L/?tag=hexagamers-20)
+[![Century: Spice Road](https://img.hexagamers.com/hexagamers-box-art/century-spice-road.webp)](https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers07-20)
 
 An excellent light engine and one we'd hand to a family over half the games higher on this list. You're a spice trader upgrading turmeric into saffron into gold, collecting cards that let you make better trades, and cashing them in for scoring cards. The engine is your row of trade cards, and building an efficient conversion chain is deeply satisfying for a game this gentle.
 
 It lost its ranked spot to Splendor for one reason only: Splendor does the same "get better at getting resources" job with fewer moving parts, and it's the cleaner teach. But Century has more texture, and if your group has already worn out Splendor, this is the obvious upgrade. The cubes and little bowls are lovely, too.
 
-<a href="https://www.amazon.com/dp/B071DXCT5L/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers07-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon.ca</a>
 
 ### Gizmos
 
