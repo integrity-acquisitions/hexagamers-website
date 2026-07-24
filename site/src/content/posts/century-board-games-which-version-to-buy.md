@@ -41,6 +41,8 @@ Now the games themselves.
 
 ## Century: Spice Road
 
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-spice-road.webp)](https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers-20)
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30 – 45 min</span><span class="stat-label">Play Time</span></div>
@@ -65,6 +67,8 @@ The pleasure here is the combo. You start with two weak cards and slowly acquire
 - Late game can come down to who drew into the right upgrade cards
 
 ## Century: Eastern Wonders
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-eastern-wonders.webp)](https://www.amazon.com/dp/B079ZN56SP/?tag=hexagamers-20)
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -91,6 +95,8 @@ There's a second layer: you can build trading posts on the islands, which lock i
 
 ## Century: A New World
 
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-a-new-world.webp)](https://www.amazon.com/dp/B07PKDF6WT/?tag=hexagamers-20)
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30 – 45 min</span><span class="stat-label">Play Time</span></div>
@@ -116,11 +122,17 @@ Of the three, this is the most interactive. Everyone's fighting over the same bo
 
 ## Century: Golem Edition (The Pretty Reskin)
 
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-edition.webp)](https://www.amazon.ca/dp/B079DDN9SR/?tag=hexagamers-20)
+
 Here's where people get confused. Century: Golem Edition is not a fourth game in the story. It's Spice Road with a full fantasy makeover. Same rules, same card effects, same turns. What changed is the skin: instead of trading spice cubes, you're trading glowing crystals to feed golems, and the artwork is a big step up. The crystals look better than the cubes, the card art is more vivid, and even the bowls are shaped to hold the pieces more snugly.
 
 So if the mechanics are identical, which do you buy? For most people, **Golem Edition is the better version of Spice Road.** It's the same great game with nicer components and art, and it's often the easier one to find in stock. There's one real catch: the standalone Golem Edition uses different crystal colors than the numbered Century games, so **it does not combine with Spice Road's sequels.** If your plan is to eventually own and combine the trilogy, you want the original Spice Road cubes, not the Golem crystals.
 
 Plan B did release Golem-themed versions of the other two games as well. Golem: Eastern Mountains is the Eastern Wonders equivalent and Golem: An Endless World is the A New World equivalent, so the Golem line has its own matching trilogy if you'd rather collect the prettier versions across the board. Just don't mix a Golem box with a numbered box and expect them to combine.
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-eastern-mountains.webp)](https://www.amazon.com/dp/B08F4CN92Z/?tag=hexagamers-20)
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-an-endless-world.webp)](https://www.amazon.com/dp/B08M69BZLZ/?tag=hexagamers-20)
 
 ## Combining the Games
 
