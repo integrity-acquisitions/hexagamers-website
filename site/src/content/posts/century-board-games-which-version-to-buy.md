@@ -25,6 +25,16 @@ We spent a while sorting out how this all fits together so you don't have to. Be
 
 > See also: [Best Card Drafting Board Games](/best-card-drafting-board-games/) · [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 
+<style>
+.century-box { max-width: 280px; margin: 0.5rem 0 1.25rem; }
+.century-box img { width: 100%; height: auto; border-radius: 6px; }
+.century-buys { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1.5rem; }
+.century-buy { display: flex; align-items: center; gap: 0.85rem; flex-wrap: wrap; }
+.century-buy .century-buy-thumb { flex: 0 0 auto; }
+.century-buy .century-buy-thumb img { width: 60px; height: 60px; object-fit: contain; border-radius: 6px; }
+.century-buy .check-price-btn { margin: 0; }
+</style>
+
 ## The One Idea Behind All Three
 
 Every Century game runs on the same engine. You have four goods of increasing value. Think of them as a ladder, where the cheapest sits at the bottom and the most valuable at the top. You collect the cheap stuff, then trade it up the ladder for better stuff, and cash certain combinations in for point cards. First to a set number of points triggers the end.
@@ -41,7 +51,11 @@ Now the games themselves.
 
 ## Century: Spice Road
 
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-spice-road.webp)](https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers-20)
+
+</div>
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 5</span><span class="stat-label">Players</span></div>
@@ -68,7 +82,11 @@ The pleasure here is the combo. You start with two weak cards and slowly acquire
 
 ## Century: Eastern Wonders
 
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-eastern-wonders.webp)](https://www.amazon.com/dp/B079ZN56SP/?tag=hexagamers-20)
+
+</div>
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -95,7 +113,11 @@ There's a second layer: you can build trading posts on the islands, which lock i
 
 ## Century: A New World
 
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-a-new-world.webp)](https://www.amazon.com/dp/B07PKDF6WT/?tag=hexagamers-20)
+
+</div>
 
 <div class="game-stats">
   <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
@@ -122,7 +144,11 @@ Of the three, this is the most interactive. Everyone's fighting over the same bo
 
 ## Century: Golem Edition (The Pretty Reskin)
 
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-edition.webp)](https://www.amazon.ca/dp/B079DDN9SR/?tag=hexagamers-20)
+
+</div>
 
 Here's where people get confused. Century: Golem Edition is not a fourth game in the story. It's Spice Road with a full fantasy makeover. Same rules, same card effects, same turns. What changed is the skin: instead of trading spice cubes, you're trading glowing crystals to feed golems, and the artwork is a big step up. The crystals look better than the cubes, the card art is more vivid, and even the bowls are shaped to hold the pieces more snugly.
 
@@ -130,9 +156,17 @@ So if the mechanics are identical, which do you buy? For most people, **Golem Ed
 
 Plan B did release Golem-themed versions of the other two games as well. Golem: Eastern Mountains is the Eastern Wonders equivalent and Golem: An Endless World is the A New World equivalent, so the Golem line has its own matching trilogy if you'd rather collect the prettier versions across the board. Just don't mix a Golem box with a numbered box and expect them to combine.
 
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-eastern-mountains.webp)](https://www.amazon.com/dp/B08F4CN92Z/?tag=hexagamers-20)
 
+</div>
+
+<div class="century-box">
+
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-an-endless-world.webp)](https://www.amazon.com/dp/B08M69BZLZ/?tag=hexagamers-20)
+
+</div>
 
 ## Combining the Games
 
@@ -174,10 +208,21 @@ The one combo we'd steer you toward trying is From Sand to Sea. It's the cleares
 
 Century is a rare thing: a family of light games that actually improve when you snap them together, without any of them feeling like an unfinished half. For most people, Golem Edition alone is all the Century they'll ever need. For anyone who catches the bug, Spice Road plus Eastern Wonders is the combination that shows off what the whole system is really about. Buy in wherever fits your table, and know that the ladder up to the full set is there whenever you want it.
 
-<a href="https://www.amazon.ca/dp/B079DDN9SR/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Golem Edition Price on Amazon</a>
-
-<a href="https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Spice Road Price on Amazon</a>
-
-<a href="https://www.amazon.com/dp/B079ZN56SP/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Eastern Wonders Price on Amazon</a>
-
-<a href="https://www.amazon.com/dp/B07PKDF6WT/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check A New World Price on Amazon</a>
+<div class="century-buys">
+  <div class="century-buy">
+    <a class="century-buy-thumb" href="https://www.amazon.ca/dp/B079DDN9SR/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/century-golem-edition.webp" alt="Century: Golem Edition"></a>
+    <a href="https://www.amazon.ca/dp/B079DDN9SR/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Golem Edition Price on Amazon</a>
+  </div>
+  <div class="century-buy">
+    <a class="century-buy-thumb" href="https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/century-spice-road.webp" alt="Century: Spice Road"></a>
+    <a href="https://www.amazon.ca/dp/B071DXCT5L/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Spice Road Price on Amazon</a>
+  </div>
+  <div class="century-buy">
+    <a class="century-buy-thumb" href="https://www.amazon.com/dp/B079ZN56SP/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/century-eastern-wonders.webp" alt="Century: Eastern Wonders"></a>
+    <a href="https://www.amazon.com/dp/B079ZN56SP/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Eastern Wonders Price on Amazon</a>
+  </div>
+  <div class="century-buy">
+    <a class="century-buy-thumb" href="https://www.amazon.com/dp/B07PKDF6WT/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/hexagamers-box-art/century-a-new-world.webp" alt="Century: A New World"></a>
+    <a href="https://www.amazon.com/dp/B07PKDF6WT/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check A New World Price on Amazon</a>
+  </div>
+</div>
