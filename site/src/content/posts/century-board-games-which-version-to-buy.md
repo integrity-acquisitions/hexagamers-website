@@ -28,10 +28,12 @@ We spent a while sorting out how this all fits together so you don't have to. Be
 <style>
 .century-box { max-width: 280px; margin: 0.5rem 0 1.25rem; }
 .century-box img { width: 100%; height: auto; border-radius: 6px; }
+.century-box-row { display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start; }
+.century-box-row .century-box { margin: 0.5rem 0 1.25rem; flex: 1 1 200px; max-width: 240px; }
 .century-buys { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1.5rem; }
 .century-buy { display: flex; align-items: center; gap: 0.85rem; flex-wrap: wrap; }
 .century-buy .century-buy-thumb { flex: 0 0 auto; }
-.century-buy .century-buy-thumb img { width: 60px; height: 60px; object-fit: contain; border-radius: 6px; }
+.century-buy .century-buy-thumb img { width: 90px; height: 90px; object-fit: contain; border-radius: 6px; }
 .century-buy .check-price-btn { margin: 0; }
 </style>
 
@@ -156,16 +158,17 @@ So if the mechanics are identical, which do you buy? For most people, **Golem Ed
 
 Plan B did release Golem-themed versions of the other two games as well. Golem: Eastern Mountains is the Eastern Wonders equivalent and Golem: An Endless World is the A New World equivalent, so the Golem line has its own matching trilogy if you'd rather collect the prettier versions across the board. Just don't mix a Golem box with a numbered box and expect them to combine.
 
+<div class="century-box-row">
 <div class="century-box">
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-eastern-mountains.webp)](https://www.amazon.com/dp/B08F4CN92Z/?tag=hexagamers-20)
 
 </div>
-
 <div class="century-box">
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/century-golem-an-endless-world.webp)](https://www.amazon.com/dp/B08M69BZLZ/?tag=hexagamers-20)
 
+</div>
 </div>
 
 ## Combining the Games
