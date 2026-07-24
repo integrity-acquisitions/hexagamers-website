@@ -200,8 +200,8 @@ h4 { font-size: 1.1rem; }
 }
 
 /* ── Best-of comparison tables: cell alignment & weight ── */
-.post-content :global(table td),
-.post-content :global(table th) {
+.post-content table td,
+.post-content table th {
   vertical-align: middle;
   font-weight: 600;
 }
@@ -257,7 +257,7 @@ h4 { font-size: 1.1rem; }
 }
 
 /* ── Best-of list images: table thumbnails ── */
-.post-content :global(table img) {
+.post-content table img {
   width: 80px;
   height: 80px;
   object-fit: cover;
@@ -265,17 +265,17 @@ h4 { font-size: 1.1rem; }
   display: inline-block;
 }
 /* Table thumbnail links — make clickable thumbnail obvious */
-.post-content :global(table a) {
+.post-content table a {
   display: inline-block;
   border-radius: var(--radius);
   transition: opacity 0.15s, transform 0.15s;
 }
-.post-content :global(table a:hover) {
+.post-content table a:hover {
   opacity: 0.85;
   transform: scale(1.05);
 }
 /* Images that appear as standalone game headers in list posts — cap them */
-.post-page.is-list-post .post-content :global(img:not(.coverImage)) {
+.post-page.is-list-post .post-content img:not(.coverImage) {
   max-width: 300px;
   max-height: 220px;
   object-fit: contain;
