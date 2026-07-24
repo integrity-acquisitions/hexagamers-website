@@ -44,6 +44,8 @@ That answer is similar to a lot of the different board games we talk about. We l
 
 There are a bunch of different worker placement board games out there, so narrowing it down to the best one was fairly tricky. Have a look, and let us know what you think in the comment section below. Maybe there is one that you think we missed that may help out our readers!
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Worker Placement Board Games Comparison Table
 
 (Click on the thumbnail to jump down to the review)

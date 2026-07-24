@@ -28,6 +28,8 @@ A quick word on how we picked. A real party game has to clear a low bar and a hi
 
 This is part of our "what's new" series, alongside the [Best Social Deduction Board Games in 2026](/best-social-deduction-board-games-2026/), [Best Cooperative Board Games in 2026](/best-cooperative-board-games-2026/), and [Best Two Player Board Games in 2026](/best-two-player-board-games-2026/). [Click here to jump to the comparison table](#best-party-board-games-of-2026-comparison-table) if you just want the quick picks.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Party Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

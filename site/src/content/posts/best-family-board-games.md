@@ -30,6 +30,8 @@ We left off the pure little-kid games — the memory-flip, roll-and-move stuff t
 
 If your crowd skews younger, we also have lists for [best board games for kindergarten](/best-board-games-for-kindergarten/) and [best board games for non-gamers](/best-board-games-for-non-gamers/).
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Family Board Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

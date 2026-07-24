@@ -30,6 +30,8 @@ So this isn't our all-time list. This is what's landed since roughly 2023 — th
 
 A quick word on how we picked. Every game here was *originally* released in the last few years — no reprints in a fresh box. We've mixed it up on purpose: some are two-player-only games built from the ground up for a duel, and some play with more but are genuinely at their best with two. We'll tell you which is which. The goal is the same either way — games that make a two-person night feel like the main event, not a consolation prize.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Two-Player Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

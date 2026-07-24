@@ -34,6 +34,8 @@ One thing I'll flag up front: this is a list of board and card war games, the ki
 
 I've tried to spread the picks across the whole range: quick to marathon, two-player duels to six-player free-for-alls, gentle on-ramps to genuinely heavy systems. Each entry gets the honest version — what makes people love it, and where it frustrates them. Because these games are not cheap, and "it depends who you're playing with" is a real answer for most of them.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Tabletop War Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

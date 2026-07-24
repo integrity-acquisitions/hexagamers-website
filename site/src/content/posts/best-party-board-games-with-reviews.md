@@ -40,6 +40,8 @@ For us, some of our best memories have come from these nights, whether it is som
 
 As always, we encourage you to contribute with your thoughts and suggestions in the comments section, also add in why you like it to help us and our readers out!
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Party Board Games Comparison Table
 
 (Click thumbnail to jump down page)

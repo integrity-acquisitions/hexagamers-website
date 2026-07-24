@@ -41,6 +41,8 @@ Finding the best 2 player board games can be difficult. Many games have a tailor
 
 Some variants work well and some fall flat. Other games are strictly two player, never meaning to expand beyond that, but these can suffer the same fate. Finding a solid two player game can be a difficult task. Games should have the same elements you love about multiplayer games: replayability, different pathways to win, durability, theme and execution, and fun. Below are some of our favorites, both of two player board game variant and two player-only, that you'll want to give a try and potentially add to your collection.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Two Player Games Comparison Table
 
 (Click the Thumbnail to Jump to the Review)

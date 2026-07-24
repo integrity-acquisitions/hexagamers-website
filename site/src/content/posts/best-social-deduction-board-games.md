@@ -81,6 +81,8 @@ description: "The best social deduction board games — hidden roles, bluffing a
 
 In social deduction board games, everyone has a role--often kept secret--and players gather information throughout the game to figure out who's who. Players or teams are often pitted against each other to achieve a common or individual goal, and this goal helps them win the game. Logic, bluffing, strategy and often some kind of special ability or skill help you along the road--but if logic and strategy aren't your strong suit, don't worry! A little bluffing (and throwing your friends under the bus) can go a long way. There truly is something for everyone of every age in this genre, and it's a great one to turn to for big groups, parties and even ice breakers. We outlined our top 10 social deduction board games below, and we chose them based on their engagement, creativity, replayability, innovation and sheer amount of fun. These just scratch the surface, though. There are many more out there, just waiting for you to play them, too!
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Social Deduction Board Games Comparison Table
 
 (Click the Thumbnail Image to Jump to the Review)

@@ -56,6 +56,8 @@ So what is card drafting? It's choice. Instead of drawing cards randomly from a 
 
 > Looking for the newer wave instead? We've got a separate list of the [Best Card Drafting Board Games in 2026](/best-card-drafting-board-games-2026/) — the recent pick-and-pass hits like Forest Shuffle, Faraway, and Harmonies.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Card Drafting Games Comparison Table
 
 (Click the thumbnail to jump to the review)

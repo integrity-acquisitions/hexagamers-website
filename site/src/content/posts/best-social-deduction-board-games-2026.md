@@ -26,6 +26,8 @@ But "smaller" isn't "empty." A handful of genuinely new games have shown up sinc
 
 Every game here was *originally* released in the last few years — no reprints in a new box. We've also been honest about where a game sits: a couple below stretch toward "deduction inside a bigger game" rather than pure lying-around-the-table, and we'll tell you when. If you came here purely for a Werewolf-style accusation party, the classics list above is still where the heavy hitters live — but read on, because two of these might surprise you. [Click here to jump to the comparison table.](#best-social-deduction-board-games-of-2026-comparison-table)
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Social Deduction Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

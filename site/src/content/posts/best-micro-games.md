@@ -42,6 +42,8 @@ The bar I used here was simple. The footprint has to be genuinely tiny, a wallet
 
 A few of these are already reviewed in full here on the site. Most aren't yet, because the honest best-of list for this category leans toward games we're still working through ourselves. They're all worth your attention.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Micro Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

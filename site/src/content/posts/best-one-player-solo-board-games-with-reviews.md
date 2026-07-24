@@ -39,6 +39,8 @@ The type of multiple player games that you like to play will highly correlate to
 
 As always, you may or may not agree with the choices made on this list of the top single player board games, but we welcome your comments below to help us and our readers out!
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best One Player Board Games Comparison Table
 
 (Click thumbnail to jump down page)

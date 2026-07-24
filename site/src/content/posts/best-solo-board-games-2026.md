@@ -30,6 +30,8 @@ A quick word on how we picked. Every game here was *originally* published in the
 
 This is part of our "what's new" series, alongside the [Best Worker Placement Board Games in 2026](/best-worker-placement-board-games-2026/), [Best Cooperative Board Games in 2026](/best-cooperative-board-games-2026/), and [Best Two Player Board Games in 2026](/best-two-player-board-games-2026/). [Click here to jump to the comparison table](#best-solo-board-games-of-2026-comparison-table) if you just want the quick picks.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Solo Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

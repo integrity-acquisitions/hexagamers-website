@@ -30,6 +30,8 @@ We've played a lot of these. Some are five-minute card games you can learn on th
 
 A few things we looked for when putting this together: games where the bluffing is the mechanic, not just a side feature; games that work with groups who aren't veteran board gamers; and games with enough replay value that you'll actually keep coming back to them. Skull made the cut. Resistance: Avalon made the cut. One very famous social deduction game about German politics also made the cut.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Bluffing Board Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

@@ -40,6 +40,8 @@ When putting this list together, we prioritized:
 
 We didn't limit ourselves to games we already owned. This is what we consider the genuine best in the category right now.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Dexterity Board Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

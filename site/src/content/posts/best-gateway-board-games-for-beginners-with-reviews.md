@@ -32,6 +32,8 @@ There are all sorts of different genres, difficulty/strategy levels, and styles 
 
 If, however, you are a beginner looking to get started into gaming, we have compiled a list of the best board games for beginners that is perfect for people just like you.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## What is a Gateway Board Game?
 
 These games are sometimes referred to as gateway board games simply because they are the gateway to more complex board games in the same genre. Also, these can be the perfect ones to pull out for those non-gamer friends of yours to get them sucked into this wonderful and vast world of boardgaming.

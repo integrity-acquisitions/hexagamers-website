@@ -33,6 +33,8 @@ We went a little wide on this list on purpose. Some of these are heavy co-op sur
 
 We tried to pick across price and weight so there's something here whether you want a 15-minute dice game or a sprawling box of miniatures. A few of these aren't on the site yet as full reviews, and we've flagged the ones we want to write up properly down the line.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Zombie Board Games Comparison Table
 
 (Click the thumbnail to jump down to the entry)

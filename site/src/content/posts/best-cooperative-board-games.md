@@ -39,6 +39,8 @@ We also looked at things like the theme of the game, player interactions through
 
 As with the other board game genres, there are a ton of options for top cooperative board games. While these are our favorites, we know there are many other great ones. There are some really good games that didn't make our list, because we didn't feel they ranked high enough in all of the areas we took into account. Feel free to comment down below and let us know what you think about the games we chose and what you think should have made the cut!
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Cooperative Board Game Comparison Table
 
 Click the thumbnail to jump down to the game write up

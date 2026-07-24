@@ -29,6 +29,8 @@ This isn't our all-time list. It's what's arrived since roughly 2023 — the rec
 
 Every game here was originally released in the last few years, and every one uses drafting as a core mechanic — not a footnote. A couple lean toward set collection or tile-laying, and we'll flag exactly how each one drafts so you know what you're getting.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Card Drafting Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

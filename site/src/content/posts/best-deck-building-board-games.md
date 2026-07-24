@@ -39,6 +39,8 @@ We are well aware that the games we chose here could be argued upon endless (act
 
 Have a look at some of the highest rated games, with small reviews, according to us.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Deck Building Games Comparison Table
 
 (Click thumbnail to jump down page)

@@ -26,6 +26,8 @@ So this isn't our all-time list. This is what's landed since roughly 2023 — th
 
 A quick note on how we picked. Every game here was *originally* released in the last few years — no reprints of old favorites dressed up as new. We also leaned hard on two things we care about in co-op: games that fight the "one bossy player runs everyone's turn" problem (the quarterback problem), and games with enough variety that you'll actually pull them out a second and third time. A couple of these solve the quarterback problem better than anything from the old era, mostly by not letting you talk.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Cooperative Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

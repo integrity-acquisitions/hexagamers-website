@@ -28,6 +28,8 @@ So this isn't our all-time ranking. It's what's actually arrived since roughly 2
 
 Every game here was originally released in the last few years. No reissues of old favorites, no expansions to games you already own — new boxes only. And a fair warning we'll repeat below: genuinely *new* standalone deck builders are thinner on the ground than they used to be, because the best designers keep folding the mechanic into hybrids. We'd rather tell you that than pad the list.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Deck Building Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.

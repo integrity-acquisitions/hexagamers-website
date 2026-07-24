@@ -30,6 +30,8 @@ A quick word on how we picked. A gateway game has to do three things: teach in w
 
 This is part of our "what's new" series, alongside the [Best Two Player Board Games in 2026](/best-two-player-board-games-2026/), [Best Card Drafting Board Games in 2026](/best-card-drafting-board-games-2026/), and [Best Cooperative Board Games in 2026](/best-cooperative-board-games-2026/). [Click here to jump to the comparison table](#best-gateway-board-games-of-2026-comparison-table) if you just want the quick picks.
 
+> Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
+
 ## Best Gateway Board Games of 2026 Comparison Table
 
 Click the thumbnail to jump down to the game write up.
