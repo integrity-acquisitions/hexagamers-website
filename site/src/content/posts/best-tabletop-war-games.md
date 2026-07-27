@@ -47,7 +47,7 @@ I've tried to spread the picks across the whole range: quick to marathon, two-pl
 | [![](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](#3-scythe) | Scythe | 1-5 | 90-115 min | $$$$ | — |
 | [![](https://img.hexagamers.com/hexagamers-box-art/star-wars-rebellion.webp)](#4-star-wars-rebellion) | Star Wars: Rebellion | 2-4 | 180-240 min | $$$$ | — |
 | [![](https://img.hexagamers.com/hexagamers-box-art/memoir-44.webp)](#5-memoir-44) | Memoir '44 | 2 | 30-60 min | $$$ | — |
-| [![](https://img.hexagamers.com/hexagamers-box-art/root.webp)](#6-root) | Root | 2-4 | 60-90 min | $$$ | — |
+| [![](https://img.hexagamers.com/hexagamers-box-art/root.webp)](#6-root-full-review-here) | Root | 2-4 | 60-90 min | $$$ | — |
 | [![](https://img.hexagamers.com/hexagamers-box-art/axis-and-allies-1942.webp)](#7-axis--allies-1942-edition) | Axis & Allies: 1942 | 2-5 | 240-360 min | $$$ | — |
 | [![](https://img.hexagamers.com/hexagamers-box-art/undaunted-normandy.webp)](#8-undaunted-normandy) | Undaunted: Normandy | 2 | 45-60 min | $$ | — |
 | [![](https://img.hexagamers.com/hexagamers-box-art/twilight-imperium-4th-edition.webp)](#9-twilight-imperium-fourth-edition) | Twilight Imperium (Fourth Edition) | 3-6 | 240-480 min | $$$$$ | — |
@@ -135,7 +135,7 @@ As a first war game, or a quick one for a weeknight, it's hard to beat.
 
 <a href="https://www.amazon.com/dp/B0002TV2NS/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 6. Root
+## 6. Root ([Full Review Here](/root-review/))
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/root.webp)](https://www.amazon.com/dp/B07F454YF3/?tag=hexagamers-20)
 

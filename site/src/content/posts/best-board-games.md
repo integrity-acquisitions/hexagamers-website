@@ -264,7 +264,7 @@ These are the games that show up on every ranking, win the big awards, and sit n
 | [![](https://img.hexagamers.com/Gloomhaven_tvaycr.webp)](#2-gloomhaven) | Gloomhaven | 1-4 | 90-120 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](#3-terraforming-mars) | Terraforming Mars | 1-5 | 120 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#4-wingspan-full-review-here) | Wingspan | 1-5 | 40-70 min | Medium |
-| [![](https://img.hexagamers.com/hexagamers-box-art/root.webp)](#5-root) | Root | 2-4 | 60-90 min | Heavy |
+| [![](https://img.hexagamers.com/hexagamers-box-art/root.webp)](#5-root-full-review-here) | Root | 2-4 | 60-90 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/twilight-struggle.webp)](#6-twilight-struggle) | Twilight Struggle | 2 | 120-180 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/scythe.webp)](#7-scythe) | Scythe | 1-5 | 90-115 min | Heavy |
 | [![](https://img.hexagamers.com/hexagamers-box-art/castles-of-burgundy.webp)](#8-castles-of-burgundy) | Castles of Burgundy | 2-4 | 60-90 min | Medium |
@@ -311,7 +311,7 @@ Won the Kennerspiel des Jahres in 2019 and brought a lot of people into medium-w
 
 <a href="https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 5. Root
+## 5. Root ([Full Review Here](/root-review/))
 
 [![Root](https://img.hexagamers.com/hexagamers-box-art/root.webp)](https://www.amazon.com/dp/B07F454YF3/?tag=hexagamers-20)
 
