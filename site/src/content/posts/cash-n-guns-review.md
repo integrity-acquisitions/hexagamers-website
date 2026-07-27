@@ -21,6 +21,8 @@ You're a mobster divvying up stolen loot over eight rounds. Everyone's armed wit
 
 ![Cash 'n Guns set up on the table mid-standoff](https://img.hexagamers.com/Cash-n-Guns-table_ccvz8y.webp "A Cash 'n Guns standoff")
 
+> See also: [How To Play Cash 'n Guns](/cash-n-guns-how-to-play-simplified/)
+
 <div class="game-stats">
   <div class="stat"><span class="stat-value">4 – 8</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">30 min</span><span class="stat-label">Play Time</span></div>
