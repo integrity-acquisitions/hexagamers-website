@@ -26,7 +26,7 @@ description: "Learn the rules of Ticket to Ride: Europe in five minutes — setu
 
 Connect cities across Europe with coloured trains to complete routes and score points. Longer routes are worth more points. But watch out — rivals may be racing for the same cities, forcing you to find alternate paths.
 
-> Full thoughts here: [Ticket to Ride: Europe – Review](/ticket-to-ride-europe-review/)
+> Full thoughts here: [Ticket to Ride: Europe – Review](/ticket-to-ride-europe-review/) · Buying your first box? [Ticket to Ride vs Ticket to Ride Europe](/ticket-to-ride-vs-ticket-to-ride-europe/)
 
 > Also on our list: [Best Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
 

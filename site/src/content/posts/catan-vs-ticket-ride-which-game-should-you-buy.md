@@ -26,6 +26,8 @@ They share some DNA but play very differently. We've broken down every meaningfu
 
 > Check out our full reviews: [Catan Review](/catan-review/) · [Ticket to Ride: Europe Review](/ticket-to-ride-europe-review/)
 
+> Settled on trains? [Ticket to Ride vs Ticket to Ride Europe](/ticket-to-ride-vs-ticket-to-ride-europe/) covers which of the two boxes to buy first.
+
 ## Quick Comparison
 
 | | Catan | Ticket to Ride: Europe |

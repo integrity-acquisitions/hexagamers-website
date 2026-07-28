@@ -160,4 +160,4 @@ Ties go to whoever completed the most Destination Tickets. Still tied? The Europ
 
 ---
 
-Once you've got the rules down, our [Ticket to Ride: Europe review](/ticket-to-ride-europe-review/) covers whether it's the version worth owning, and the [simplified how-to-play guide](/ticket-to-ride-europe-how-to-play-simplified/) is the faster read if you're teaching it to someone new.
+Once you've got the rules down, our [Ticket to Ride: Europe review](/ticket-to-ride-europe-review/) covers whether it's the version worth owning, and the [simplified how-to-play guide](/ticket-to-ride-europe-how-to-play-simplified/) is the faster read if you're teaching it to someone new. Still deciding which box to buy? [Ticket to Ride vs Ticket to Ride Europe](/ticket-to-ride-vs-ticket-to-ride-europe/) compares the two maps directly.
