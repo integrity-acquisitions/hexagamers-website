@@ -46,17 +46,25 @@ Strip away the map art and Europe is the original game plus three additions. The
 
 **Tunnels.** Some routes are marked as tunnels. You play your cards as normal, then flip the top 3 cards of the draw pile. For every flipped card matching the colour you played, you owe one more card of that colour. Can't or won't pay? You take everything back and your turn is gone.
 
+![Tunnel routes between Madrid and Pamplona on the Ticket to Ride Europe board](https://img.hexagamers.com/Ticket-to-Ride-Europe-Underground-Route_ylej27.webp "Tunnel routes on the Ticket to Ride Europe board")
+
 That last part is what people underestimate. A failed tunnel doesn't cost you cards. It costs you a whole turn, in a game that only lasts twenty-odd turns. Attempting a long tunnel without spare cards in hand is how new players lose games they were winning.
 
 **Ferries.** Routes crossing water show a locomotive symbol, and those spaces must be paid with actual locomotive cards. No substitutions. Locomotives are the wildcard in both games, and in Europe they're suddenly a required resource rather than a nice bonus. Taking a face-up locomotive costs your entire turn, which turns an obvious decision into a real one.
 
+![The Dieppe to London ferry route showing required locomotive symbols](https://img.hexagamers.com/Ticket-to-Ride-Europe-Ferries_jybjro.webp "A ferry route in Ticket to Ride Europe — the locomotive icons are mandatory")
+
 **Stations.** You get three. Placing one in a city lets you borrow a single route belonging to another player through that city, purely to finish your own tickets. The first costs 1 card, the second 2 matching, the third 3.
+
+![Three green plastic train stations on the Ticket to Ride Europe board](https://img.hexagamers.com/Ticket-to-Ride-Europe-Train-Station_bqjogy.webp "Train stations — the piece the original has no equivalent of")
 
 Stations are the addition that changes the *feel* of the game most, and it's the one nobody mentions. In the original, if someone takes the track you needed, you're finished. Reroute the long way round or eat the penalty. In Europe you have a parachute. Each unused station is worth 4 points at the end, so pulling it costs you something, but you're never truly locked out.
 
 ## Which Map Is Better?
 
 The US map is cleaner. Wide open middle, obvious long horizontal runs, routes that mostly read at a glance. The Europe map is denser and more tangled, with the tunnels and ferries breaking up what would otherwise be straightforward connections.
+
+![The full Ticket to Ride Europe game board showing the route network across Europe](https://img.hexagamers.com/Ticket-to-Ride-Europe-Game-Board_cnyswt.webp "The Ticket to Ride Europe board — denser and more tangled than the US map")
 
 Europe's board is also just nicer to look at, and cities are printed in their native language — Bruxelles, not Brussels; München, not Munich. Some players find that harder to scan. We think it adds a lot, but if you're playing with kids or anyone who'd rather not hunt for a city they know by a different name, it's worth knowing before the box is open.
 
