@@ -30,7 +30,7 @@ They are more expensive than the traditional Catan board, but are the perfect gi
 
 Quick Note: You can click the thumbnails to enlarge each board AND/OR click the name to see where they came from.
 
-## 1. [](https://www.etsy.com/ca/listing/264911711/3d-settlers-of-catan-laser-cut-hexagon)[Laser Cut Catan Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F264911711%2F3d-settlers-of-catan-laser-cut-hexagon)
+## 1. [Laser Cut Catan Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F264911711%2F3d-settlers-of-catan-laser-cut-hexagon)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F264911711%2F3d-settlers-of-catan-laser-cut-hexagon" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-1a_vffooq.webp" alt="Custom Catan Board 1a" loading="lazy"></a>
@@ -42,7 +42,7 @@ Quick Note: You can click the thumbnails to enlarge each board AND/OR click the 
 
 This is one of our favorite custom Catan boards for obvious reasons. The design is relatively simple but the effect is amazing. The 3d aspect of it makes you feel like you are really finding the best space in a wide variety of landscapes to build your settlement. We love that the number tiles are simple and have a perfect spot to sit on each hex tile, and also that the hex tiles are all interlocking to make a more stable game board.
 
-## 2. [](https://www.etsy.com/ca/listing/511866219/portable-settlers-of-catan-game-board)[](https://www.etsy.com/ca/listing/511866219/portable-settlers-of-catan-game-board)[Portable Catan Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)
+## 2. [Portable Catan Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F511866219%2Fportable-settlers-of-catan-game-board" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-2a_nkwqu8.webp" alt="Custom Catan Board 2a" loading="lazy"></a>
@@ -54,7 +54,7 @@ This is one of our favorite custom Catan boards for obvious reasons. The design 
 
 The next item on our list is a bit of an exception. It uses the same tiles as the original Catan board, but they made a carrying case with the middle cut out so that the pieces fit perfectly inside and will stay in one place. They also made this board folding with storage on the inside to keep all your pieces safe when not in use.
 
-## 3. [](https://www.etsy.com/ca/listing/216710446/3d-settlers-of-catan-resource-tiles)[3D Catan Resource Tiles](http://tidd.ly/841925b1)
+## 3. [3D Catan Resource Tiles](http://tidd.ly/841925b1)
 
 <div class="img-gallery">
   <a href="http://tidd.ly/841925b1" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-3a_i622dz.webp" alt="Custom Catan Board 3a" loading="lazy"></a>
@@ -62,7 +62,7 @@ The next item on our list is a bit of an exception. It uses the same tiles as th
 
 This next Catan custom board option is truly unique! You can order the pieces beautifully painted, or you can order them unpainted and add the details yourself. The hexes themselves have great details, are 3d, and super interactive.
 
-## 4. [](https://www.etsy.com/ca/listing/255677600/settlers-of-catan-3d-tile-set-unpainted)[Unpainted Catan Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F255677600%2Fsettlers-of-catan-3d-tile-set-unpainted)
+## 4. [Unpainted Catan Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F255677600%2Fsettlers-of-catan-3d-tile-set-unpainted)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F255677600%2Fsettlers-of-catan-3d-tile-set-unpainted" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-4a_wvab5i.webp" alt="Custom Catan Board 4a" loading="lazy"></a>
@@ -95,7 +95,7 @@ This next one is pretty cool. Their mission in creating it was to make the resou
 
 From one that we feel we could recreate with some time and materials to this amazing wooden beauty that would require an extremely talented craftsman. The details put into each hex are breathtaking. If you want a show stopper Catan board to play on then this is it!
 
-## 7. [](https://www.etsy.com/ca/listing/273695920/custom-settlers-of-catan-board-engraved)[Sleek Design Elements](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F273695920%2Fcustom-settlers-of-catan-board-engraved)
+## 7. [Sleek Design Elements](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F273695920%2Fcustom-settlers-of-catan-board-engraved)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F273695920%2Fcustom-settlers-of-catan-board-engraved" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-7a_fkicto.webp" alt="Custom Catan Board 7a" loading="lazy"></a>
@@ -126,7 +126,7 @@ Wow! This is the product of someone who is good at their craft and wanted to cre
 
 Speaking of creativity… When making the list of best custom Catan boards, this one made us speechless. The "Catanosphere" as they call it is one of a kind. Playing on a sphere would add a new level of difficulty to a very strategic game. The neat thing is, it uses magnets to hold the pieces of the original Catan game to the globe so you can play it either way and switch around the hexes.
 
-## 10. [](https://www.etsy.com/ca/listing/278158828/lego-brick-board-for-settlers-of-catan)[Table Flipping Friendly Lego Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F278158828%2Flego-brick-board-for-settlers-of-catan)
+## 10. [Table Flipping Friendly Lego Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F278158828%2Flego-brick-board-for-settlers-of-catan)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F278158828%2Flego-brick-board-for-settlers-of-catan" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-10a_ydxnpq.webp" alt="Custom Catan Board 10a" loading="lazy"></a>
@@ -159,7 +159,7 @@ Lego boards seem to be the most popular for creating a custom board at home. Whe
 
 This board made it onto our list of the top custom Catan boards partly because it's made from plywood! Such a simple material to use yet the board is so colorful and special. We love how the ports are perfectly cut to fit the original tokens.
 
-## 13. [](https://www.etsy.com/ca/listing/174628113/settlers-of-catan-catan-catan-board-game)[](https://www.etsy.com/ca/listing/174628113/settlers-of-catan-catan-catan-board-game)[Ultimate Minimalist Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F174628113%2Fsettlers-of-catan-catan-catan-board-game)
+## 13. [Ultimate Minimalist Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F174628113%2Fsettlers-of-catan-catan-catan-board-game)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F174628113%2Fsettlers-of-catan-catan-catan-board-game" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-13a_wwtyud.webp" alt="Custom Catan Board 13a" loading="lazy"></a>
@@ -223,7 +223,7 @@ The creator of our next board got frustrated when her much loved original starte
 
 Giant Catan! This looks like such a fun thing to have for a barbeque or outdoor event! Storing and transporting all of the pieces would take a bit of work but it would be worth it. We love that they made every piece. They even provided beach bags to store your resources in since they decided to have 3d pieces such as stuffed animal sheep instead of cards.
 
-## 19. [](https://www.etsy.com/ca/listing/504492595/catan-settlers-board-settlers-of-catan)[](https://www.etsy.com/ca/listing/504492595/catan-settlers-board-settlers-of-catan)[Simplistic Design Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F504492595%2Fcatan-settlers-board-settlers-of-catan)
+## 19. [Simplistic Design Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F504492595%2Fcatan-settlers-board-settlers-of-catan)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F504492595%2Fcatan-settlers-board-settlers-of-catan" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-19a_lw6ycm.webp" alt="Custom Catan Board 19a" loading="lazy"></a>
@@ -234,7 +234,7 @@ Giant Catan! This looks like such a fun thing to have for a barbeque or outdoor 
 
 Another more minimal design, this time using aspen wood. We love how the hexagons have an image of that resource on them. The simple design gives it a very clean look. The high quality materials used will help this board to stand the test of time.
 
-## 20. [](https://www.etsy.com/ca/listing/275658742/custom-wooden-game-board-for-settlers-of)[](https://www.etsy.com/ca/listing/275658742/custom-wooden-game-board-for-settlers-of)[Baltic Birch Plywood Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275658742%2Fcustom-wooden-game-board-for-settlers-of)
+## 20. [Baltic Birch Plywood Board](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275658742%2Fcustom-wooden-game-board-for-settlers-of)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F275658742%2Fcustom-wooden-game-board-for-settlers-of" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-20a_ccalhe.webp" alt="Custom Catan Board 20a" loading="lazy"></a>
@@ -246,7 +246,7 @@ Another more minimal design, this time using aspen wood. We love how the hexagon
 
 We love the wood carved boards and this one is no exception. It is made from Baltic Birch Plywood and is very detailed. Our favorite hexes are the Sheep ones and we appreciate the details on the trading ports. This seller also included letters on the number chits for easy distribution on this amazing Catan custom board.
 
-## 21. [](https://www.etsy.com/ca/listing/513690055/settlers-of-catan-game-board-laser-cut)[Design Your Own Custom Board Starter Kit](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513690055%2Fsettlers-of-catan-game-board-laser-cut)
+## 21. [Design Your Own Custom Board Starter Kit](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513690055%2Fsettlers-of-catan-game-board-laser-cut)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F513690055%2Fsettlers-of-catan-game-board-laser-cut" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-21a_dzktno.webp" alt="Custom Catan Board 21a" loading="lazy"></a>
@@ -257,7 +257,7 @@ We love the wood carved boards and this one is no exception. It is made from Bal
 
 If you are looking to create your own custom Catan board, but would like to make the process a little bit simpler then this is a great place to start. With this package you receive the pieces showing and could top the hexes with materials or drawings of your choosing. The cost on these are low and it would eliminate the fuss work of making sure all your hexes are the same size and will fit perfectly into the border.
 
-## 22. [](https://www.etsy.com/ca/listing/268475321/settlers-of-catan-resource-tile-set-one)[Hand Sewn Catan Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F268475321%2Fsettlers-of-catan-resource-tile-set-one)
+## 22. [Hand Sewn Catan Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F268475321%2Fsettlers-of-catan-resource-tile-set-one)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F268475321%2Fsettlers-of-catan-resource-tile-set-one" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-22a_qlk25n.webp" alt="Custom Catan Board 22a" loading="lazy"></a>
@@ -268,7 +268,7 @@ If you are looking to create your own custom Catan board, but would like to make
 
 Arguably the cutest board on our best custom Catan boards list is this hand sewn beauty. We love that there is no fancy machinery used to make this one. A thick cardstock center is used for stability and the cover on the tiles is made using fleece and felt. Let the board flipping begin, these tiles can handle it!
 
-## 23. [](https://www.etsy.com/ca/listing/509270448/settlers-of-catan-board-unofficial-o)[Natural Hard Wood Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o)
+## 23. [Natural Hard Wood Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F509270448%2Fsettlers-of-catan-board-unofficial-o" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-23a_cfe7mt.webp" alt="Custom Catan Board 23a" loading="lazy"></a>
@@ -280,7 +280,7 @@ Arguably the cutest board on our best custom Catan boards list is this hand sewn
 
 We love the colors used in this hardwood board. Each type of resource hex is made using a different type of hardwood for a natural color and finished with tung oil to keep the natural wood feel. One of our favorite features is the hole in the center of each tile to hold the number chits. This gives the board a flat playing surface that gives it a very sleek look.
 
-## 24. [](https://www.etsy.com/ca/listing/456646154/wooden-settlers-of-catan-board-game)[Interlocking Hex Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F456646154%2Fwooden-settlers-of-catan-board-game)
+## 24. [Interlocking Hex Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F456646154%2Fwooden-settlers-of-catan-board-game)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F456646154%2Fwooden-settlers-of-catan-board-game" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-24a_qndsdt.webp" alt="Custom Catan Board 24a" loading="lazy"></a>
@@ -322,7 +322,7 @@ Another unique style used to create this board. The edging technique would make 
 
 Here is another example of a board featuring the harbor pieces. The texture on the hexes captures your attention. There are 3d elements used on the resource hexes without making it over the top. It has a clean playable feel the is very inviting.
 
-## 28. [](https://www.etsy.com/ca/listing/92655958/custom-3d-settlers-of-catan-game-board)[3D Printer Board](https://www.thingiverse.com/make:220190)
+## 28. [3D Printer Board](https://www.thingiverse.com/make:220190)
 
 <div class="img-gallery">
   <a href="https://www.thingiverse.com/make:220190" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-28a_hjk3dz.webp" alt="Custom Catan Board 28a" loading="lazy"></a>
@@ -333,7 +333,7 @@ Here is another example of a board featuring the harbor pieces. The texture on t
 
 A 3D Printed board! This is so clean and beautiful! We can't stop staring at these images and finding new details that we love. As a plus the creator included the files they used to print this. So if you happen to have a 3D printer lying around you could make your own.
 
-## 29. [](https://www.etsy.com/ca/listing/92655958/custom-3d-settlers-of-catan-game-board)[Polymer Clay Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F92655958%2Fcustom-3d-settlers-of-catan-game-board)
+## 29. [Polymer Clay Tiles](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F92655958%2Fcustom-3d-settlers-of-catan-game-board)
 
 <div class="img-gallery">
   <a href="https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F92655958%2Fcustom-3d-settlers-of-catan-game-board" target="_blank" rel="noopener"><img src="https://img.hexagamers.com/Custom-Catan-Board-29a_tgdeqi.webp" alt="Custom Catan Board 29a" loading="lazy"></a>

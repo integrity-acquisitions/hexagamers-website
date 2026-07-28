@@ -213,9 +213,9 @@ We love pretty much all of them, but our favourites are from...
 
 All of these made to withstand use and abuse and will make a great accent to any games night and any table. 
 
-## [Catan Minimalist Prints](https://www.etsy.com/ca/listing/243916170/catan-inspired-minimalist-prints-2-set)
+## [Catan Minimalist Prints](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F243916170%2Fcatan-inspired-minimalist-prints-2-set)
 
-[![Hexagamers](https://img.hexagamers.com/minimalistprint_JosephPrints_tk3pnq.webp)](https://www.etsy.com/ca/listing/243916170/catan-inspired-minimalist-prints-2-set)
+[![Hexagamers](https://img.hexagamers.com/minimalistprint_JosephPrints_tk3pnq.webp)](https://click.linksynergy.com/deeplink?id=4706536&mid=54027&murl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F243916170%2Fcatan-inspired-minimalist-prints-2-set)
 
 For designers and minimalists, these prints are a unique and eye-catching accent piece. Each hexagon matches a piece on the Catan board, with the last print showing the resources needed to purchase game items. The prints can be ordered in five sizes, ensuring it will fit in any room on any wall.
 
