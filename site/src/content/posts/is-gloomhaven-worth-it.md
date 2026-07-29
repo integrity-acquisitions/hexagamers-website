@@ -31,6 +31,8 @@ Now the longer version, because at this price you deserve more than a one-word v
 
 > Featured on: [Best Cooperative Board Games](/best-cooperative-board-games/)
 
+> See also: [Gloomhaven vs Frosthaven — Which Should You Buy?](/gloomhaven-vs-frosthaven/)
+
 ## Ryan's Review
 
 ### Likes
