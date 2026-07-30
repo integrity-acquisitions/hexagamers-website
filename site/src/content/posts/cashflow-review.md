@@ -114,3 +114,5 @@ There's also a Cashflow for Kids version that teaches the same passive-income co
 I enjoy Cashflow for what it's trying to do. It reinforces an investing mindset and the core principles from the Rich Dad books in a hands-on way. If you have an entrepreneurial mindset, you'll get something from it. As a board game experience, though, it doesn't hold up to modern standards — especially at its price point. Seek out a local Cashflow group first before buying; many cities have them and you can try it for free.
 
 Judge it as a financial education tool that happens to use a board, and it earns its place. Judge it as a board game, and it doesn't. Buy accordingly.
+
+<a href="https://www.amazon.com/dp/B078S5T7GL/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
