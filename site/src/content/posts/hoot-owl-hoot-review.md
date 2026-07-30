@@ -25,7 +25,7 @@ The sun is rising! Work together to fly all the owls back to the nest before day
   <div class="stat"><span class="stat-value">4+</span><span class="stat-label">Age</span></div>
 </div>
 
-> Featured on: [Best Board Games for 3 Year Olds](/best-board-games-3-year-olds-reviews/)
+> Featured on: [Best Board Games for 3 Year Olds](/best-board-games-3-year-olds-reviews/) · [Best Board Games for 4 Year Olds](/best-board-games-for-4-year-olds/)
 
 ## Kaitlyn's Review
 
