@@ -175,3 +175,5 @@ The only downside is that in the new version, the endless loop is proving imposs
 So, there you have it. The top-rated board games that teach math skills. It is important to note that the above games have been compiled according to how they help kids develop strategy skills that are vital in maths. Depending on where you or your child is at on the development level, you should be able to find a game (or adapt one) that suits your needs.
 
 Hope you enjoyed and found the list helpful. If so, please share or leave a comment below. Also, if you have discovered a good game that we might have missed, add it in the comments to help each other out!
+
+Looking beyond maths? Our [best educational board games](/best-educational-board-games/) list covers logic, spatial reasoning and deduction too, with picks from age 4 upward.

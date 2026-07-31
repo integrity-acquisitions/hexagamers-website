@@ -115,3 +115,4 @@ Kids grow up fast. The laughter over a board game is one of those things you'll 
 > - [Best Board Games for 2-Year-Olds](/best-board-games-2-year-olds-reviews/)
 > - [Best Board Games for 3-Year-Olds](/best-board-games-3-year-olds-reviews/)
 > - [Best Board Games that Teach Math](/top-rated-board-games-that-teach-math-skills/)
+> - [Best Educational Board Games](/best-educational-board-games/)
