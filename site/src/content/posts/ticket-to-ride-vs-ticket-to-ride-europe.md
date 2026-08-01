@@ -25,6 +25,8 @@ Both games are the same at heart: collect coloured train cards, spend matching s
 
 > Our full reviews and guides: [Ticket to Ride: Europe Review](/ticket-to-ride-europe-review/) · [How To Play Ticket to Ride Europe – Simplified](/ticket-to-ride-europe-how-to-play-simplified/) · [Official Rules PDF & Full Rules Summary](/ticket-to-ride-europe-rules-pdf/)
 
+> Looking wider than these two? [Every Ticket to Ride Version Ranked](/ticket-to-ride-versions-ranked/) covers the city editions, Nordic Countries, Legacy and the map collections.
+
 ## Quick Comparison
 
 | | Ticket to Ride | Ticket to Ride: Europe |
