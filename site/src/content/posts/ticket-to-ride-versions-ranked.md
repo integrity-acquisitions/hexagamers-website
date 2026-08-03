@@ -10,7 +10,7 @@ tags:
   - "ticket-to-ride-versions"
   - "trains"
   - "which-version-to-buy"
-coverImage: "https://img.hexagamers.com/hexagamers-reviews/ticket-to-ride-versions-ranked.webp"
+coverImage: "https://img.hexagamers.com/hexagamers-reviews/ticket-to-ride-versions-ranked-v2.webp"
 lastModified: 2026-08-01
 description: "The main Ticket to Ride versions ranked — standalone boxes, city Express editions, First Journey, Legacy and the map collections, with a clear answer on which to buy first."
 ---
