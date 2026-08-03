@@ -1,5 +1,5 @@
 ---
-title: "Every Ticket to Ride Version Ranked (And Which One to Buy First)"
+title: "Ticket to Ride Versions Ranked (And Which One to Buy First)"
 date: 2026-08-01
 categories:
   - "favourites-lists"
@@ -12,14 +12,14 @@ tags:
   - "which-version-to-buy"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/ticket-to-ride-versions-ranked.webp"
 lastModified: 2026-08-01
-description: "Every Ticket to Ride version ranked — standalone boxes, city Express editions, First Journey, Legacy and the map collections, with a clear answer on which to buy first."
+description: "The main Ticket to Ride versions ranked — standalone boxes, city Express editions, First Journey, Legacy and the map collections, with a clear answer on which to buy first."
 ---
 
 Ticket to Ride has been running since 2004, and Days of Wonder has never really stopped making them. There are standalone boxes, city editions that play in fifteen minutes, a kids' version, a twelve-game legacy campaign, and a numbered series of map expansions that need a base game you might not own.
 
 Walk into a shop and you'll see four or five blue boxes with trains on them. Almost none of the packaging makes it obvious which ones are complete games and which ones are map add-ons that do nothing on their own. That's the problem worth solving, so it's the one we've built this around.
 
-Everything ranked below, with the standalone-or-expansion question answered up front for each one.
+Ranked below are the versions you'll actually run into on a shop shelf or an Amazon search, with the standalone-or-expansion question answered up front for each one. The series is bigger than this list — there are region-locked and out-of-print boxes like Märklin, Germany and Northern Lights, plus a standalone card game — and there's a section near the bottom covering those, so you know what you're looking at if one turns up secondhand.
 
 [Click here to jump to the comparison table...](#ticket-to-ride-versions-comparison-table)
 
@@ -42,11 +42,12 @@ This trips people up constantly, because a Map Collection box looks just as subs
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-europe.webp)](#1-ticket-to-ride-europe) | Ticket to Ride: Europe | ✅ Yes | 2–5 | 30–60 min | Regular groups, most replay value |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#2-ticket-to-ride-the-original-us-map) | Ticket to Ride (US) | ✅ Yes | 2–5 | 30–60 min | First-time buyers, families |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-nordic-countries.webp)](#3-ticket-to-ride-nordic-countries) | Nordic Countries | ✅ Yes | 2–3 | 30–60 min | Couples, two-player households |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-new-york.webp)](#4-city-editions--new-york-london-paris-berlin-san-francisco-amsterdam) | City editions | ✅ Yes | 2–4 | 10–15 min | Travel, lunch breaks, quick fills |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-legacy-legends-of-the-west.webp)](#5-ticket-to-ride-legacy-legends-of-the-west) | Legacy: Legends of the West | ✅ Yes | 2–5 | 12-game campaign | Committed groups of the same people |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-rails-and-sails.webp)](#6-ticket-to-ride-rails--sails) | Rails & Sails | ✅ Yes | 2–5 | 90–120 min | Groups wanting a longer game |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-first-journey.webp)](#7-ticket-to-ride-first-journey) | First Journey | ✅ Yes | 2–4 | 15–30 min | Kids aged 6–8 |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-map-collection-vol-5-uk.webp)](#8-the-map-collection-volumes-1-7) | Map Collection Vol. 1–7 | ❌ **No** | Varies | Varies | Owners of a base game |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-london.webp)](#4-ticket-to-ride-london) | Ticket to Ride: London | ✅ Yes | 2–4 | 10–15 min | Two players, travel, cheapest way in |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-new-york.webp)](#5-the-other-city-editions--new-york-paris-berlin-san-francisco-amsterdam) | Other city editions | ✅ Yes | 2–4 | 10–15 min | Travel, lunch breaks, quick fills |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-legacy-legends-of-the-west.webp)](#6-ticket-to-ride-legacy-legends-of-the-west) | Legacy: Legends of the West | ✅ Yes | 2–5 | 12-game campaign | Committed groups of the same people |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-rails-and-sails.webp)](#7-ticket-to-ride-rails--sails) | Rails & Sails | ✅ Yes | 2–5 | 90–120 min | Groups wanting a longer game |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-first-journey.webp)](#8-ticket-to-ride-first-journey) | First Journey | ✅ Yes | 2–4 | 15–30 min | Kids aged 6–8 |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-map-collection-vol-5-uk.webp)](#9-the-map-collection-volumes-1-7) | Map Collection Vol. 1–7 | ❌ **No** | Varies | Varies | Owners of a base game |
 
 ## The Ranking
 
@@ -94,25 +95,41 @@ Every other box says 2-5 and plays fine at two while feeling a bit empty. A big 
 
 If you're a couple, or your game nights are mostly you and one other person, this is a better buy than Europe. Almost nobody tells you that.
 
-The ceiling is the catch. It stops at three players, so it can't be your only copy if you ever host four.
+The ceiling is the catch. It stops at three players, so it can't be your only copy if you ever host four. Availability is the other one — it's a 2007 box and it's drifted out of print, so expect to hunt or pay over the odds. If that's where you land, **London** at #4 is the in-print two-player answer, and **Northern Lights** covers the same Scandinavian map at 2-5 players if you can source it.
 
-### 4. City editions — New York, London, Paris, Berlin, San Francisco, Amsterdam
+### 4. Ticket to Ride: London
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-london.webp)](https://www.amazon.com/dp/B07SG5QWJY/?tag=hexagamers-20)
+
+**Standalone.** 2-4 players, 10-15 minutes, ages 8+.
+
+The one we should have called out separately from the start, because it's the answer to a question a lot of people are actually asking: what's the cheapest way to find out whether you like Ticket to Ride, and what works at two.
+
+London is 1970s buses across a scaled-down map of the city, and it's the pick of the small boxes at two players. Where Europe and the original US map both feel roomy with only two people on them, London's map is cramped by design — you and one other person are competing for the same handful of routes from the first turn, and a game is genuinely done in fifteen minutes. That's the same argument we make for Nordic Countries above, except London is still in print and costs a fraction as much.
+
+It teaches in about three minutes, too, which makes it the easiest box on this page to put in front of someone who says they don't like board games.
+
+The limits are the obvious ones. Four players is a squeeze on a map this small, and fifteen minutes doesn't leave room for a long-route plan to pay off — the thing the full-size boxes do best. It's a great first purchase and a great second one, but if your group is usually four or five people it shouldn't be your only copy.
+
+<a href="https://www.amazon.com/dp/B07SG5QWJY/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Ticket to Ride London Price on Amazon</a>
+
+### 5. The other city editions — New York, Paris, Berlin, San Francisco, Amsterdam
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-new-york.webp)](https://www.amazon.com/dp/B07F46X4GY/?tag=hexagamers-20)
 
 **Standalone.** 2-4 players, 10-15 minutes, ages 8+.
 
-Small boxes, small maps, one city each, done in a quarter of an hour. New York is 1960s taxis, London is 1970s buses, Amsterdam is 17th-century horse carts, San Francisco is cable cars, Berlin is trams and subways, Paris is 1920s buses. Some are branded as **Express** editions.
+Small boxes, small maps, one city each, done in a quarter of an hour. New York is 1960s taxis, Amsterdam is 17th-century horse carts, San Francisco is cable cars, Berlin is trams and subways, Paris is 1920s buses. Some are branded as **Express** editions.
 
 These are much better than they have any right to be. You get the core decision loop intact, competition for routes starts immediately because the map is tiny, and the box fits in a coat pocket. For a lunch break or a train journey they're excellent, and they're cheap enough to own two or three.
 
 What they're not is a replacement for a full-size box. Fifteen minutes doesn't leave room for a plan to develop, and the tickets are short enough that the long-route payoff never really lands. Buy one as your second Ticket to Ride, not your first.
 
-San Francisco and Berlin get picked out most often as the strongest maps of the set, and both hold up well at two players.
+San Francisco and Berlin get picked out most often as the strongest maps of the set after London, and both hold up well at two players.
 
 <a href="https://www.amazon.com/dp/B07F46X4GY/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Ticket to Ride New York Price on Amazon</a>
 
-### 5. Ticket to Ride Legacy: Legends of the West
+### 6. Ticket to Ride Legacy: Legends of the West
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-legacy-legends-of-the-west.webp)](https://www.amazon.com/dp/B0C6V67YZC/?tag=hexagamers-20)
 
@@ -128,7 +145,7 @@ Buy it if your group has already finished a campaign together. Otherwise you're 
 
 <a href="https://www.amazon.com/dp/B0C6V67YZC/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Ticket to Ride Legacy Price on Amazon</a>
 
-### 6. Ticket to Ride: Rails & Sails
+### 7. Ticket to Ride: Rails & Sails
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-rails-and-sails.webp)](https://www.amazon.com/dp/B01IHOV8ME/?tag=hexagamers-20)
 
@@ -142,7 +159,7 @@ The play time isn't a rounding error, though. Ninety minutes to two hours turns 
 
 <a href="https://www.amazon.com/dp/B01IHOV8ME/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Ticket to Ride Rails &amp; Sails Price on Amazon</a>
 
-### 7. Ticket to Ride: First Journey
+### 8. Ticket to Ride: First Journey
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-first-journey.webp)](https://www.amazon.com/dp/B01MQ4IKQJ/?tag=hexagamers-20)
 
@@ -156,7 +173,7 @@ It sits here only because the audience is narrow. For the six-to-eight-year-old 
 
 <a href="https://www.amazon.com/dp/B01MQ4IKQJ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Ticket to Ride First Journey Price on Amazon</a>
 
-### 8. The Map Collection volumes (1-7)
+### 9. The Map Collection volumes (1-7)
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-map-collection-vol-5-uk.webp)](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-map-collection-vol-5-uk.webp)
 
@@ -176,17 +193,32 @@ They're last because of that dependency, not because of quality. Several are exc
 
 Just don't buy one first. A Map Collection box as somebody's introduction to Ticket to Ride is a gift they can't open.
 
+## What We Haven't Ranked
+
+The list above is the versions you can walk into a shop and buy today. The series has more than that, and these are the ones most likely to turn up in a search or on a secondhand shelf:
+
+- **Märklin** (2006) — a German map with a passenger-pickup system layered on top. Long out of print and collectible, so it sells well above what a current box costs.
+- **Germany** (2012) — effectively Märklin's map reissued without the licence, with a passenger rule of its own. Also hard to find new.
+- **Northern Lights** (2023) — the same Scandinavian region as Nordic Countries, but 2-5 players with end-game bonus cards. Sold mainly in Scandinavia, which is why it's absent above rather than because it's bad. If you want the Nordic map and can't find Nordic Countries, this is the one still being printed.
+- **Ghost Train** (2023) — a Halloween-themed First Journey variant for the same 6+ age bracket.
+- **The Card Game** (2008) — no board at all. A different game wearing the name.
+- **Regional one-offs** — Switzerland began as a 2007 standalone and now only exists inside Map Collection Vol. 2. India, Nederland and the UK have similar histories.
+
+None of these change the buying advice below. They're listed so that a box we didn't rank doesn't read as one we missed.
+
 ## So Which One Should You Actually Buy?
 
 **Never played it, buying one box:** the **original US version**. Five-minute teach, cleanest design, most forgiving to hand to non-gamers.
 
 **You know you like this style, buying for a group that plays regularly:** **Europe**. More tickets, more replay value, and stations mean nobody gets locked out and checks out of the game.
 
-**It's mostly two of you:** **Nordic Countries**, and it isn't close.
+**It's mostly two of you:** **Nordic Countries** is still the best two-player map in the series if you can find it — but it's scarce now, so **London** is the realistic answer. It's in print, it's cheap, and a small map is exactly what two players want.
+
+**You want to spend as little as possible finding out if you like it:** **London**, for the same reasons.
 
 **Buying for a child aged 6-8:** **First Journey**.
 
-**You want something in a bag for travel or lunch breaks:** any **city edition** — San Francisco or Berlin first.
+**You want something in a bag for travel or lunch breaks:** any **city edition** — London, then San Francisco or Berlin.
 
 **Your group finishes campaigns:** **Legacy: Legends of the West**.
 
