@@ -45,8 +45,8 @@ Mouse Trap is 1963. Operation is 1965. Hungry Hungry Hippos is 1978. Guess Who? 
 | — | Dark Tower | 1981 | 1–4 | Sequel only |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/trivial-pursuit.webp)](#3-trivial-pursuit-1981) | Trivial Pursuit | 1981 | 2–6 | Yes |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/mall-madness.webp)](#4-mall-madness-1988) | Mall Madness | 1988 | 2–4 | Yes |
-| — | Crossbows and Catapults | 1983 | 2 | Reissued |
-| — | Pictionary | 1985 | 3+ | Yes |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crossbows-and-catapults.webp)](#5-crossbows-and-catapults-1983) | Crossbows and Catapults | 1983 | 2 | Reissued |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pictionary.webp)](#6-pictionary-1985) | Pictionary | 1985 | 3+ | Yes |
 | — | Girl Talk | 1988 | 2–10 | Out of print |
 
 ---
@@ -129,6 +129,8 @@ Hasbro reissued it in 2020 with a 3D board and updated characters, and versions 
 
 ## 5. Crossbows and Catapults (1983)
 
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crossbows-and-catapults.webp)](https://www.amazon.com/dp/B0CSLVLQP7/?tag=hexagamers-20)
+
 Two castles made of plastic bricks, two rubber-band powered siege weapons, and one very simple objective: knock the other one down.
 
 You build your fortification, you load a plastic disc into a catapult or crossbow, you pull it back, and you let fly. Hit a wall and bricks scatter. Hit a Viking and he's captured. There were caltrops and barricades and rules about what counted as a hit, and nobody who played this game has ever once consulted them.
@@ -139,11 +141,15 @@ The rebuild between rounds was half the appeal too. You'd lose a tower, then rec
 
 **The eternal problem:** the discs go *everywhere*. Under the sofa, behind the radiator, into the dog. Every surviving copy is missing pieces, which is worth knowing before you buy a used one.
 
-It's had several lives with different publishers — Lakeside, Tomy, Base Toys — and Moose Toys currently sells a version as *Battlegrounds: Crossbows and Catapults*. The 2007 reissue swapped Vikings for Orcs versus Knights. None of them quite match the original's brick quality, but the core still works.
+It's had several lives with different publishers — Lakeside, Tomy, Base Toys — and Goliath currently sells a version as *Crossbows & Catapults Castle Battle*. The 2007 reissue swapped Vikings for Orcs versus Knights. None of them quite match the original's brick quality, but the core still works.
+
+<a href="https://www.amazon.com/dp/B0CSLVLQP7/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
 ## 6. Pictionary (1985)
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pictionary.webp)](https://www.amazon.com/dp/B07STLTFHG/?tag=hexagamers-20)
 
 The one game on this list that's a legitimately great design, and it got made because a waiter kept beating his friends at charades with a pencil.
 
@@ -154,6 +160,8 @@ Rob Angel wrote out the first word lists on a typewriter and self-published 1,00
 It also has the rarest quality in a party game: **being bad at it is fun.** A terrible drawing generates more table energy than a good one. The person who can actually draw is often at a disadvantage, because they spend forty seconds on a beautiful horse while someone else scribbles four lines and gets "horse" in three seconds.
 
 Still in print through Mattel, still cheap, still works at any gathering with more than four people. Of everything on this list, it's the one most likely to earn a place on your shelf today rather than in a memory.
+
+<a href="https://www.amazon.com/dp/B07STLTFHG/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ---
 
