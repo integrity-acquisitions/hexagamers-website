@@ -1,6 +1,6 @@
 ---
 title: "Best Board Games for Speech Therapy"
-date: 2026-08-06
+date: 2026-08-07
 categories:
   - "favourites-lists"
   - "games"
@@ -14,7 +14,7 @@ tags:
   - "connect-4"
   - "best-board-games-list"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-speech-therapy.webp"
-lastModified: 2026-08-06
+lastModified: 2026-08-07
 description: "Nine board games speech-language pathologists actually reach for, built for articulation drills, categories, sequencing, and turn-taking."
 ---
 
