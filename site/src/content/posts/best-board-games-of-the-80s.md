@@ -51,8 +51,8 @@ One note on what got cut: **Acquire** (1964), **Cosmic Encounter** (1977), and *
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/heroquest.webp)](#3-heroquest-1989) | HeroQuest | 1989 | 2–5 | 90 min | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/talisman.webp)](#4-talisman-1983) | Talisman | 1983 | 2–6 | 120–240 min | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/axis-and-allies-1942.webp)](#5-axis--allies-1981) | Axis & Allies | 1981 | 2–5 | 180 min | — |
-| — | The Fury of Dracula | 1987 | 2–5 | 60–180 min | — |
-| — | Space Hulk | 1989 | 2 | 60–90 min | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/fury-of-dracula.webp)](#6-the-fury-of-dracula-1987) | The Fury of Dracula | 1987 | 2–5 | 60–180 min | — |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/space-hulk.webp)](#7-space-hulk-1989) | Space Hulk | 1989 | 2 | 60–90 min | — |
 
 ---
 
@@ -158,6 +158,8 @@ There are many versions now. **Axis & Allies: 1942 Second Edition** is the stand
 
 ## 6. The Fury of Dracula (1987)
 
+![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/fury-of-dracula.webp)
+
 Scotland Yard with fangs, and better for it.
 
 Stephen Hand's design takes the hidden movement idea and puts it on a map of Europe. One player is Dracula, moving in secret, leaving traps and vampires behind him. Everyone else plays hunters from the Stoker novel, chasing him across the continent while day turns to night and back again.
@@ -173,6 +175,8 @@ The day/night cycle matters as well. Dracula is far more dangerous after dark, s
 ---
 
 ## 7. Space Hulk (1989)
+
+![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/space-hulk.webp)
 
 Two players, a derelict spaceship, and the most one-sided-feeling game that is somehow completely balanced.
 

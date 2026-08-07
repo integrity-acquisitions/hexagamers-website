@@ -45,7 +45,7 @@ We've also been honest about what you can still buy. Most of these are easier to
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/13-dead-end-drive.webp)](#1-13-dead-end-drive-1993) | 13 Dead End Drive | 1993 | 2–4 | Out of print |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/jumanji.webp)](#2-jumanji-1995) | Jumanji | 1995 | 2–4 | Yes |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/cranium.webp)](#3-cranium-1998) | Cranium | 1998 | 4+ | Yes |
-| — | Electronic Dream Phone | 1991 | 2–4 | Used only |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/electronic-dream-phone.webp)](#4-electronic-dream-phone-1991) | Electronic Dream Phone | 1991 | 2–4 | Used only |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crossfire.webp)](#5-crossfire-1994-version) | Crossfire (90s version) | 1994 | 2 | Reissued |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dont-wake-daddy.webp)](#6-dont-wake-daddy-1992) | Don't Wake Daddy | 1992 | 2–6 | Yes |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/crocodile-dentist.webp)](#7-crocodile-dentist-1990) | Crocodile Dentist | 1990 | 2–4 | Yes |
@@ -112,6 +112,8 @@ The Cranium Classic edition is the current version and is basically the original
 ---
 
 ## 4. Electronic Dream Phone (1991)
+
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/electronic-dream-phone.webp)](https://www.ebay.com/sch/i.html?_nkw=Dream+phone+board+game)
 
 There's no current edition of this one, so the only way in is the used market — and that's the story of this game.
 
