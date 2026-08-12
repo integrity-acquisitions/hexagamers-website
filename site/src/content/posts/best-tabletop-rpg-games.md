@@ -138,7 +138,7 @@ For a group that wants sharp, low-prep sessions with real momentum, this is the 
 
 ## 6. Shadowdark
 
-[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/shadowdark.webp)](https://www.amazon.com/dp/B0DMK1MPW3/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/shadowdark.webp)](https://www.thearcanelibrary.com/pages/shadowdark)
 
 Shadowdark won four gold ENNIEs in 2024, including Product of the Year, and it deserved every one. The idea behind it is simple: take the fast, dangerous feel of the very earliest dungeon crawls, and rebuild it with rules a modern player can actually read.
 
@@ -150,7 +150,7 @@ The mechanic everyone talks about is the torch. Light sources burn for one real 
 
 If you want old-school danger without an old-school rulebook, start here.
 
-<a href="https://www.amazon.com/dp/B0DMK1MPW3/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.thearcanelibrary.com/pages/shadowdark" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price at The Arcane Library</a>
 
 ## 7. Monster of the Week
 

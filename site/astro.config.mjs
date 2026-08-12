@@ -10,10 +10,18 @@ import sitemap from '@astrojs/sitemap';
 // To refresh: re-run the GA4 404 query and update src/redirects.json.
 import redirects from './src/redirects.json' with { type: 'json' };
 
+// Markdown image links (`[![](box-art)](amazon-url)`) can't carry target/rel,
+// so outbound links used to open in the same tab while the HTML buy buttons
+// opened in a new one. This normalises both at build time.
+import { rehypeExternalLinks } from './src/plugins/rehype-external-links.mjs';
+
 export default defineConfig({
   site: 'https://hexagamers.com',
   output: 'static',
   trailingSlash: 'always',
   redirects,
   integrations: [sitemap()],
+  markdown: {
+    rehypePlugins: [rehypeExternalLinks],
+  },
 });
