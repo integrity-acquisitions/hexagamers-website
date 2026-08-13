@@ -60,7 +60,7 @@ There are a bunch of different worker placement board games out there, so narrow
 | [![](https://img.hexagamers.com/Alien-Frontiers_mn5reu.webp)](#6-alien-frontiers) | Alien Frontiers | 2-4 | 90 min | $$$$ |  |
 | [![](https://img.hexagamers.com/The-Manhattan-Project_gwi9ev.webp)](#7-the-manhattan-project) | The Manhattan Project | 2-5 | 120 min | $$$ |  |
 | [![](https://img.hexagamers.com/Stone-Age_f5oj2l.webp)](#8-stone-age-full-review-here) | Stone Age | 2-4 | 60 - 90 min | $$$$ |  |
-| [![](https://img.hexagamers.com/Viticulture_vfe5s9.webp)](#9-viticulture-essentials-edition) | Viticulture | 2-6 | 90 min | $$$$ |  |
+| [![](https://img.hexagamers.com/Viticulture_vfe5s9.webp)](#9-viticulture-essentials-edition-full-review-here) | Viticulture | 2-6 | 90 min | $$$$ |  |
 | [![](https://img.hexagamers.com/Le-Havre_f6hujf.webp)](#10-le-havre) | Le Havre | 1-5 | 30 - 150 min | $$$$ |  |
 
 ## Best Worker Placement Board Games
@@ -239,7 +239,7 @@ There are a number of paths to victory in this game with the tools, artifacts, b
 If you want a game that is quick to understand and get playing, this one is a good choice. It also doesn’t take long to set up and has good replay-ability. Which is why it is one of the top people placing board games
 
 <a href="https://www.amazon.com/dp/B00CF4G7OW/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 9. Viticulture Essentials Edition
+## 9. Viticulture Essentials Edition ([Full Review Here](/viticulture-review/))
 
 
 [![Hexagamers](https://img.hexagamers.com/Viticulture_vfe5s9.webp)](https://www.amazon.com/dp/B018GRSLK4/?tag=hexagamers-20)

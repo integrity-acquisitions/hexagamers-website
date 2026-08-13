@@ -206,7 +206,7 @@ If your teen has played Catan and wants something more, Everdell is the directio
 
 ---
 
-## 10. Sushi Go! ([Full Review Here](/best-gateway-board-games-for-beginners-with-reviews/))
+## 10. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 
