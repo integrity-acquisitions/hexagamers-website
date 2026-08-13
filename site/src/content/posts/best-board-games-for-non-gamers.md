@@ -45,7 +45,7 @@ If you want to go deeper on the gateway game concept, check out our [Best Gatewa
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#1-ticket-to-ride-full-review-here) | Ticket to Ride | 2–5 | 45–75 min | $$$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#2-codenames-full-review-here) | Codenames | 2–8 | 15–30 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/pandemic.webp)](#3-pandemic-full-review-here) | Pandemic | 2–4 | 45–60 min | $$ | 4.2 / 5 |
-| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#4-sushi-go) | Sushi Go! | 2–5 | 15–20 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#4-sushi-go-full-review-here) | Sushi Go! | 2–5 | 15–20 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](#5-splendor-full-review-here) | Splendor | 2–4 | 30 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](#6-carcassonne-full-review-here) | Carcassonne | 2–5 | 35–45 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Coup-1_mcfcul.webp)](#7-coup-full-review-here) | Coup | 2–6 | 15 min | $ | — |
@@ -101,7 +101,7 @@ We've played this with people who had zero board game background and watched the
 
 <a href="https://www.amazon.com/dp/B00A2HD40E/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 4. Sushi Go!
+## 4. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 

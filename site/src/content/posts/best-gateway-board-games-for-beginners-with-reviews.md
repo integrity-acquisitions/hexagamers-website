@@ -72,7 +72,7 @@ It would be almost impossible to cover every game in our best gateway board game
 | [![](https://img.hexagamers.com/Ticket-to-Ride-Europe-1_o4fsep.webp)](#2-ticket-to-ride-europe-full-review-here) | Ticket To Ride: Europe | 2-5 | 30-60 min | $$$ |  |
 | [![](https://img.hexagamers.com/Carcassonne-1_yvv5cv.webp)](#3-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 min | $$$ |  |
 | [![](https://img.hexagamers.com/Lords-Of-Waterdeep.webp)](#4-lords-of-waterdeep-full-review-here) | Lords Of Waterdeep | 2-5 | 60-120 | $$$ |  |
-| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#5-sushi-go) | Sushi Go! | 2-5 | 15 min | $ |  |
+| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#5-sushi-go-full-review-here) | Sushi Go! | 2-5 | 15 min | $ |  |
 | [![](https://img.hexagamers.com/Dominion_z98xnd.webp)](#6-dominion-full-review-here) | Dominion | 2-4 | 30 min | $$ |  |
 | [![](https://img.hexagamers.com/Pandemic.webp)](#7-pandemic-full-review-here) | Pandemic | 2-4 | 45 min | $$ |  |
 | [![](https://img.hexagamers.com/Takenoko_psyu9h.webp)](#8-takenokofull-review-here) | Takenoko | 2-4 | 45 min | $$$ |  |
@@ -167,7 +167,7 @@ This one is played over 8 rounds, and games go fairly quick. It is a good intro 
 It is a really fun gateway board game that will test your ability to think, plan, and adapt on the spot. Even if it’s not your first game, we highly recommend this one.
 
 <a href="https://www.amazon.com/dp/0786959916/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 5. Sushi Go!
+## 5. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 
 [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)

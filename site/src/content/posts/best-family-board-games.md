@@ -40,7 +40,7 @@ If your crowd skews younger, we also have lists for [best board games for kinder
 | --- | --- | --- | --- | --- | --- |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride.webp)](#1-ticket-to-ride-full-review-here) | Ticket to Ride | 2-5 | 30-60 min | $$$ | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/kingdomino.webp)](#2-kingdomino) | Kingdomino | 2-4 | 15-20 min | $$ | — |
-| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#3-sushi-go) | Sushi Go! | 2-5 | 15 min | $ | — |
+| [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#3-sushi-go-full-review-here) | Sushi Go! | 2-5 | 15 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/Azul_znrp2h.webp)](#4-azul-full-review-here) | Azul | 2-4 | 30-45 min | $$$ | 4.7 / 5 |
 | [![Hexagamers](https://img.hexagamers.com/Carcassonne-Original-2000.webp)](#5-carcassonne-full-review-here) | Carcassonne | 2-5 | 30-45 min | $$$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Takenoko_psyu9h.webp)](#6-takenoko-full-review-here) | Takenoko | 2-4 | 45 min | $$$ | — |
@@ -75,7 +75,7 @@ It won the Spiel des Jahres for a reason. The components are chunky and satisfyi
 
 <a href="https://www.amazon.com/dp/B01N3A4070/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 3. Sushi Go!
+## 3. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
 

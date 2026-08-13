@@ -157,7 +157,7 @@ A fast game with hilarious illustrations and a lot of silliness, Exploding Kitte
 Ghost Blitz is a recognition game that demands quick reflexes. Suitable for kids but still for adults, 2-8 players compete to collect the most amount of cards to win. Six items sit in front of the players: a grey mouse, a white ghost, a green bottle, a red chair and a blue book. One card is flipped, showing five or six pieces, but either only one element is correct or all five are incorrect, requiring the player to grab either the correct object or the only object missing. It's a great teaching game for kids but still challenging and stimulating for the bigger kids, plus it takes only about 20 minutes to play!
 
 <a href="https://www.amazon.com/dp/B0047N0Y52/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 7. Sushi Go!
+## 7. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 
 [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp "Sushi Go!")](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)

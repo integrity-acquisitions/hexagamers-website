@@ -73,7 +73,7 @@ So what is card drafting? It's choice. Instead of drawing cards randomly from a 
 | [![](https://img.hexagamers.com/Nevermore_ltk4bn.webp)](#7-nevermore) |   Nevermore   |   3-6   |   45-60 min   |   $$   |  |
 | [![](https://img.hexagamers.com/Tides-Of-Time_oyehrb.webp)](#8-tides-of-time) |   Tides of Time   |   2   |   15-20 min   |   $   |  |
 | [![](https://img.hexagamers.com/Fairy-Tale_ilp3s0.webp)](#9-fairy-tale) |   Fairy Tale   |   2-5   |   30 min   |   $   |  |
-| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#10-sushi-go) |   Sushi Go!   |   2-5   |   15 min   |   $   |  |
+| [![](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](#10-sushi-go-full-review-here) |   Sushi Go!   |   2-5   |   15 min   |   $   |  |
 
 ## 1. 7 Wonders ([Full Review Here](/7-wonders-review/))
 
@@ -211,7 +211,7 @@ This is also where things get a little complicated, and while we know it's the p
 Cards are nicely illustrated, though tailored to the fantasy fanatics, so not everyone will appreciate the theme and execution. You can learn Fairy Tale fairly quickly, and it certainly gets easier as you play. The level of interaction, evolving scores and changing game mechanics are great game components and make Fairy Tale a great card-drafting game you can play over and over.
 
 <a href="https://www.amazon.com/dp/B00IKUH7E4/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
-## 10. Sushi Go!
+## 10. Sushi Go! ([Full Review Here](/sushi-go-review/))
 
 
 [![Hexagamers](https://img.hexagamers.com/Sushi-Go_ocbhis.webp)](https://www.amazon.com/dp/B00J57VU44/?tag=hexagamers-20)
