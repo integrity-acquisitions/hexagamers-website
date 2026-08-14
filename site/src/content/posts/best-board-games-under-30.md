@@ -241,4 +241,4 @@ You don't need to spend $80 to get a great night out of a board game. Coup, No T
 
 Our top pick for a first purchase from this list: **Coup** for groups that like social deduction, **Kingdomino** for families or mixed groups, and **Codenames** if you need something that works for literally everyone from ages 10 to 70.
 
-> Also worth reading: [25 Games Under $25](/25-games-under-25/) · [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/)
+> Also worth reading: [25 Games Under $25](/25-games-under-25/) · [Best Gateway Board Games for Beginners](/best-gateway-board-games-for-beginners-with-reviews/) · [Best Board Games for College Students](/best-board-games-for-college-students/)

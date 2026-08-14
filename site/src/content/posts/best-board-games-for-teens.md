@@ -231,3 +231,5 @@ If we had to pick one to start with: Coup. Cheap, fast, chaotic, and teen groups
 The list spans a range on purpose. Something here for a competitive group, a social group, a group that wants to cooperate, and a group that just wants to laugh for 20 minutes. Pick to your crowd.
 
 If there's a game consistently landing with your teens that didn't make this list, drop it in the comments — we're genuinely curious what else is out there.
+
+> Also worth reading: [Best Board Games for College Students](/best-board-games-for-college-students/), for when they move into a dorm.
