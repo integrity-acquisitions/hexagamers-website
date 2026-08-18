@@ -140,7 +140,7 @@ The catch is the planning. You can only scheme so far ahead, because you don't k
 
 ## 8. Cards Against Humanity ([Full Review Here](/cards-against-humanity-review/))
 
-[![Hexagamers](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp)](https://www.amazon.com/dp/B0771YL7DZ/?tag=hexagamers-20)
+[![Hexagamers](https://img.hexagamers.com/Cards-Against-Humanity_ebqnyd.webp)](https://www.amazon.com/dp/B004S8F7QM/?tag=hexagamers-20)
 
 You almost certainly already know this one. A rotating judge plays a fill-in-the-blank prompt card, everyone else submits the most ridiculous white card from their hand, and the judge picks their favourite. Repeat until someone's had enough. It's crude, it's simple, and it lives or dies entirely on the people playing it.
 
@@ -148,7 +148,7 @@ Eight is arguably its best count. More players means more wildly different cards
 
 We'll be honest about the caveat, because the game won't be: it's only as good as your crowd and only fun for so long in one sitting. Play it with the wrong people and it falls flat. Play it with a big group that's in the right mood and it's a reliable closer for the night. Know your table, keep the rounds loose, and don't expect it to carry a whole evening on its own.
 
-<a href="https://www.amazon.com/dp/B0771YL7DZ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B004S8F7QM/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
 ## 9. Camel Up ([Full Review Here](/camel-up-review/))
 
