@@ -1,6 +1,6 @@
 ---
 title: "Best Area Control Board Games"
-date: 2026-08-19
+date: 2026-08-20
 categories:
   - "favourites-lists"
   - "games"
@@ -12,7 +12,7 @@ tags:
   - "rising-sun"
   - "el-grande"
   - "strategy-board-games"
-lastModified: 2026-08-19
+lastModified: 2026-08-20
 description: "The best area control board games — El Grande, Root, Rising Sun, Blood Rage, Cyclades, Inis and more, ranked for players who want to fight over territory."
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-area-control-board-games.webp"
 ---
