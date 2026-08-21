@@ -1,6 +1,6 @@
 ---
 title: "Best Board Games Like Chess"
-date: 2026-08-20
+date: 2026-08-21
 categories:
   - "favourites-lists"
   - "games"
@@ -13,7 +13,7 @@ tags:
   - "quoridor"
   - "two-player-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-like-chess.webp"
-lastModified: 2026-08-20
+lastModified: 2026-08-21
 description: "Nine pure abstract strategy games for chess players who want something new: no luck, no hidden information, just tactics."
 ---
 
