@@ -303,3 +303,5 @@ We included a link to one of the best deals on Amazon, which is a great starting
 We know that everyone parties a little bit different from one another, so we tried to include a big variety of games in our list so that everyone could find something to suit their own party/guests. Your mileage will vary with every game and with different groups of people, so keep that in mind. There are loads of party games available and we couldn’t include all of them on our list of best party board games, so if there are some you think people should know about, let us know in the comments. We are constantly trying new board games, so we will keep this list updated if we find another great party game.
 
 Looking for a Board Games you can all play cooperatively? Check out...[Top Cooperative Board Games](/best-cooperative-board-games/)
+
+Hosting a bigger crowd than usual? Our [best board games for large groups](/best-board-games-for-large-groups/) list covers picks built specifically for 10+ players.

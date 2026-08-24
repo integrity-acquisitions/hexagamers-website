@@ -1,5 +1,5 @@
 ---
-title: "Best Board Games for Camping"
+title: "Best Board Games for Camping and Vacation"
 date: 2026-06-22
 categories:
   - "favourites-lists"
@@ -17,16 +17,20 @@ tags:
   - "sea-salt-and-paper"
   - "the-mind"
   - "jaipur"
+  - "vacation-games"
+  - "travel-board-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-board-games-for-camping.webp"
-lastModified: 2026-06-22
-description: "The best board games for camping — small, fast, packable games that survive a picnic table, a tent, and a few drinks around the fire."
+lastModified: 2026-08-24
+description: "The best board games for camping, road trips, and vacation — small, fast, packable games that survive a picnic table, a beach house, or a tent."
 ---
 
 A camping game has its own rulebook before you even open the box. It has to be small enough to throw in a backpack, quick enough to play in fading daylight, and simple enough that nobody's hauling out a twelve-page manual by headlamp. Bonus points if it survives a gust of wind and a spilled drink.
 
+The same list works if you're not sleeping in a tent. A cabin rental, a beach house, a hotel room after a long travel day — the requirements barely change. Small box, short setup, nothing that needs a full-size table. If you're packing for a vacation and wondering what to throw in the carry-on, keep reading.
+
 [Click here to jump to the comparison table...](#best-board-games-for-camping-comparison-table)
 
-We picked these specifically for the campsite: tiny footprints, short play times, and rules you can teach in the time it takes to roast a marshmallow. A few of them we've actually packed on trips ourselves — Flip 7 and Deep Sea Adventure have both earned a permanent spot in the camping bag. None of them need a big flat surface or a hundred fiddly pieces, which is exactly what you want when "the table" is a cooler lid.
+We picked these specifically for travel: tiny footprints, short play times, and rules you can teach in the time it takes to roast a marshmallow. A few of them we've actually packed on trips ourselves — Flip 7 and Deep Sea Adventure have both earned a permanent spot in the camping bag. None of them need a big flat surface or a hundred fiddly pieces, which is exactly what you want when "the table" is a cooler lid or an airplane tray.
 
 If you want more pocket-sized options, our [best micro games](/best-micro-games/) list overlaps heavily with this one.
 

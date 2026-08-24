@@ -9,6 +9,7 @@ tags:
   - "micro-games"
   - "pocket-games"
   - "travel-games"
+  - "vacation-games"
   - "card-games"
   - "board-game"
   - "sprawlopolis"
@@ -23,7 +24,7 @@ tags:
   - "coup"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-micro-games.webp"
 lastModified: 2026-05-29
-description: "The best micro games — wallet games, Oink boxes, and tiny-footprint designs that pack a full game night into something you can carry in a pocket."
+description: "The best micro games for vacation and travel — wallet games, Oink boxes, and tiny-footprint designs that pack a full game night into something you can carry in a pocket."
 ---
 
 There's a specific kind of magic in a game that has no business being as good as it is. You hand someone a box the size of a deck of cards, or a little vinyl wallet, and twenty minutes later they're hunched over the table arguing about their next move like it's a four-hour epic.
