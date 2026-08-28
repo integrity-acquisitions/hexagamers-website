@@ -1,5 +1,5 @@
 ---
-title: "Best Board Games for 2 Year Olds — 6 Toddler Games That Actually Work"
+title: "Best Board Games for 2 Year Olds (2026) — Tested by Parents"
 date: 2017-04-10
 categories: 
   - "favourites-lists"
@@ -19,7 +19,7 @@ tags:
   - "strategy"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-articles/best-board-games-2-year-olds-reviews.webp"
-lastModified: 2026-07-30
+lastModified: 2026-08-28
 description: "The 6 best board games for 2 year olds, tested by parents — cooperative, no reading required, no choking hazards. Which to buy first and what each one teaches."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Codenames: How To Play – Simplified"
+title: "How to Play Codenames — Rules Explained Simply"
 date: 2017-03-06
 categories: 
   - "games"
@@ -11,8 +11,8 @@ tags:
   - "party-game"
   - "spy"
 coverImage: "https://img.hexagamers.com/hexagamers-guides/codenames-how-to-play-simplified.webp"
-lastModified: 2025-01-01
-description: "How to play Codenames, simplified — giving one-word clues as Spymaster, plus the rules people argue about: proper nouns, acronyms, passing, and 2-3 player games."
+lastModified: 2026-08-28
+description: "How to play Codenames: Spymasters give one-word clues linking multiple grid words, teams guess before hitting the assassin. Full rules for clue-giving, proper nouns, acronyms, passing, and 2-3 player games."
 ---
 
 Two spy teams compete to contact all their agents first. Your Spymaster gives one-word clues linking multiple codenames on the grid — but guess wrong and you might hand the game to your rivals, or hit the assassin and lose instantly.
