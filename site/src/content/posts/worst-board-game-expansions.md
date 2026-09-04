@@ -24,7 +24,7 @@ So this list isn't really about bad games. It's about good games that got an exp
 
 ## Carcassonne: The Tower
 
-![Carcassonne: The Tower box art](https://img.hexagamers.com/hexagamers-box-art/carcassonne-the-tower.webp)
+<img src="https://img.hexagamers.com/hexagamers-box-art/carcassonne-the-tower.webp" alt="Carcassonne: The Tower box art" height="200" style="height:200px;width:auto;margin:0.5rem 0;" />
 
 [Carcassonne](/carcassonne-how-to-play-simplified/) works because nobody's really attacking anybody. You're placing tiles, claiming features, quietly out-scoring the table — it's one of the most non-confrontational games in the hobby, and that's a feature, not a gap.
 
@@ -34,7 +34,7 @@ If you and your group like a little more conflict in your tile-layers, it's not 
 
 ## King of Tokyo: Power Up!
 
-![King of Tokyo: Power Up! box art](https://img.hexagamers.com/hexagamers-box-art/king-of-tokyo-power-up.webp)
+<img src="https://img.hexagamers.com/hexagamers-box-art/king-of-tokyo-power-up.webp" alt="King of Tokyo: Power Up! box art" height="200" style="height:200px;width:auto;margin:0.5rem 0;" />
 
 King of Tokyo is a dice-chucking monster brawl that's meant to move fast — roll, reroll, smash, repeat. Power Up! adds Evolution cards that let your monster permanently upgrade over the course of a game, which sounds like exactly the kind of thing this genre loves.
 
@@ -44,7 +44,7 @@ The idea itself isn't bad — permanent monster upgrades is a fun hook. It just 
 
 ## 7 Wonders: Leaders
 
-![7 Wonders: Leaders box art](https://img.hexagamers.com/hexagamers-box-art/7-wonders-leaders.webp)
+<img src="https://img.hexagamers.com/hexagamers-box-art/7-wonders-leaders.webp" alt="7 Wonders: Leaders box art" height="200" style="height:200px;width:auto;margin:0.5rem 0;" />
 
 [7 Wonders](/7-wonders-review/) is a tight, elegant drafting game — three ages, pass the hand, build your civilization, done in half an hour. Part of why it holds up is how little rules overhead it needs once you know it.
 
@@ -54,7 +54,7 @@ This is the one on this list we'd call "good for the wrong audience" rather than
 
 ## Dominion: Alchemy
 
-![Dominion: Alchemy box art](https://img.hexagamers.com/hexagamers-box-art/dominion-alchemy.webp)
+<img src="https://img.hexagamers.com/hexagamers-box-art/dominion-alchemy.webp" alt="Dominion: Alchemy box art" height="200" style="height:200px;width:auto;margin:0.5rem 0;" />
 
 [Dominion](/dominion-how-to-play-simplified/) invented deck-building as a genre, and the expansions that followed mostly did what good expansions should — new card pools that combine with the base set in fresh ways, without changing how a turn actually works.
 
@@ -64,7 +64,7 @@ Dominion has released a lot of expansions since, and most of them (Prosperity, S
 
 ## Ticket to Ride: Alvin & Dexter
 
-![Ticket to Ride: Alvin & Dexter box art](https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-alvin-and-dexter.webp)
+<img src="https://img.hexagamers.com/hexagamers-box-art/ticket-to-ride-alvin-and-dexter.webp" alt="Ticket to Ride: Alvin & Dexter box art" height="200" style="height:200px;width:auto;margin:0.5rem 0;" />
 
 [Ticket to Ride](/ticket-to-ride-europe-review/) sells itself on a simple, evocative theme — you're laying real train routes across a map, and that grounded, almost nostalgic feel is a big part of the appeal.
 
