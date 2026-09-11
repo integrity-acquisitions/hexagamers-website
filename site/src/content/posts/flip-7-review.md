@@ -64,4 +64,6 @@ The rules take about five minutes to explain, and most people are playing comfor
 
 Small box, good price, and you can stuff it in a jacket pocket without a second thought. That's most of the pitch. Not the game you pull out when you want to think hard — pull it out when you want everyone at the table talking and nobody staring at their phone. It won't be what people are still amped up about on the drive home, but as the game that gets the night started, it earns its place.
 
+Want more chaos and player interaction? Check out our [Flip 7: With a Vengeance Review](/flip-7-with-a-vengeance-review/) — the standalone sequel that turns the same core game a lot meaner.
+
 <a href="https://www.amazon.com/dp/B0D7QWLH4S/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
