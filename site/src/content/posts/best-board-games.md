@@ -669,9 +669,9 @@ The theme gets used four different ways: **pure co-op survival** (Zombicide), **
 <a href="https://www.amazon.com/dp/B07M5BFVP2/?tag=hexagamers-20" target="_blank" rel="nofollow noopener"><img src="https://img.hexagamers.com/Zombie_Kidz_Evolution_ncj82a.webp" alt="Zombie Kidz Evolution box art" loading="lazy" /><span>Zombie Kidz Evolution</span></a>
 </div>
 
-**Our top picks:** Dead of Winter is the standout — a co-op with secret personal objectives and a possible traitor, so you're never sure whether the person making a bad call is incompetent or hostile. Zombie Kidz Evolution is the surprise pick for families.
+**Our top picks:** Dead of Winter is the standout — a co-op with secret personal objectives and a possible traitor, so you're never sure whether the person making a bad call is incompetent or hostile. Zombie Kidz Evolution is the surprise pick for families. For horror beyond zombies, Betrayal at House on the Hill and Mansions of Madness lean gothic and Lovecraftian instead.
 
-→ **Full list:** [Best Zombie Board Games](/best-zombie-board-games/)
+→ **Full list:** [Best Zombie Board Games](/best-zombie-board-games/) · [Best Horror Board Games](/best-horror-board-games/)
 
 ## How to Choose Your Next Game
 
