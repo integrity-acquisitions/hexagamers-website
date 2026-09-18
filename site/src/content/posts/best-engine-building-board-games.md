@@ -53,7 +53,7 @@ Tableau engines give you the most visible payoff, because the combo is sitting r
 | Image | Game | Players | Time | Engine Type |
 | --- | --- | --- | --- | --- |
 | [![](https://img.hexagamers.com/hexagamers-box-art/wingspan.webp)](#1-wingspan-full-review-here) | Wingspan | 1-5 | 40-70 min | Tableau |
-| [![](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](#2-terraforming-mars) | Terraforming Mars | 1-5 | 120 min | Tableau |
+| [![](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](#2-terraforming-mars-full-review-here) | Terraforming Mars | 1-5 | 120 min | Tableau |
 | [![](https://img.hexagamers.com/Agricola.webp)](#3-agricola-full-review-here) | Agricola | 1-4 | 90 min | Economic + Workers |
 | [![](https://img.hexagamers.com/Everdell_x5mxlz.webp)](#4-everdell-full-review-here) | Everdell | 1-4 | 40-80 min | Tableau |
 | [![](https://img.hexagamers.com/hexagamers-box-art/splendor.webp)](#5-splendor-full-review-here) | Splendor | 2-4 | 30 min | Economic |
@@ -79,7 +79,7 @@ The solo automa is one of the best in the hobby, too, and it plays almost identi
 
 <a href="https://www.amazon.com/dp/B07YQ641NQ/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 2. Terraforming Mars
+## 2. Terraforming Mars ([Full Review Here](/terraforming-mars-review/))
 
 [![Terraforming Mars](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)
 

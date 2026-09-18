@@ -68,7 +68,7 @@ One thing worth saying up front: we've deliberately left out legacy and campaign
 
 | Image | Game | Players | Time | Where the Variety Comes From |
 | --- | --- | --- | --- | --- |
-| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](#1-terraforming-mars) | Terraforming Mars | 1-5 | 120 min | 208 project cards, 17 corporations |
+| [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](#1-terraforming-mars-full-review-here) | Terraforming Mars | 1-5 | 120 min | 208 project cards, 17 corporations |
 | [![Hexagamers](https://img.hexagamers.com/Dominion_z98xnd.webp)](#2-dominion-full-review-here) | Dominion | 2-4 | 30 min | 5.3 million possible kingdoms |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/spirit-island.webp)](#3-spirit-island) | Spirit Island | 1-4 | 90-120 min | 8 spirits × 7 adversaries × difficulty |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/root.webp)](#4-root-full-review-here) | Root | 2-4 | 60-90 min | Factions with zero shared rules |
@@ -79,7 +79,7 @@ One thing worth saying up front: we've deliberately left out legacy and campaign
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/innovation.webp)](#9-innovation) | Innovation | 2-4 | 30-75 min | 105 cards, every one a unique rule |
 | [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#10-codenames-full-review-here) | Codenames | 2-8+ | 15 min | 400 words, and the people playing |
 
-## 1. Terraforming Mars
+## 1. Terraforming Mars ([Full Review Here](/terraforming-mars-review/))
 
 [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/terraforming-mars.webp)](https://www.amazon.com/dp/B01GSYA4K2/?tag=hexagamers-20)
 
