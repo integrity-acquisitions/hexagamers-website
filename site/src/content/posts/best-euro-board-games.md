@@ -26,6 +26,8 @@ The short version: a Euro game is low on luck, low on player elimination, and hi
 
 We built this list from BGG's heavy-Euro rankings, the community consensus on r/boardgames, and years of our own group actually playing this stuff. Range mattered as much as raw rank — a good heavy-Euro shelf needs a network builder, a worker placement game, an auction game, and something with a genuine gut-punch of a scoring system, not ten versions of the same skeleton.
 
+A handful of these also show up on our [best historical board games](/best-historical-board-games/) list, since a lot of great heavy Euros happen to be set in real history. That list sorts by setting instead of weight, so it's worth a look if theme matters more to you than complexity.
+
 > Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
 
 ## What Makes a Euro Game a *Heavy* Euro?

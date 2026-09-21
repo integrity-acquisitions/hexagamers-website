@@ -32,6 +32,8 @@ I lean toward that wider definition here. A war game, for this list, is a game w
 
 One thing I'll flag up front: this is a list of board and card war games, the kind that come complete in a box. If you're after miniatures war gaming (Warhammer 40K, Star Wars: Legion, A Song of Ice and Fire), that's a related but different hobby with its own painting, list-building, and buy-in. Everything below you can open, punch, and play the same night.
 
+If combat isn't the draw and you're after historical theming without the battles, our [best historical board games](/best-historical-board-games/) list covers the builders and traders instead.
+
 I've tried to spread the picks across the whole range: quick to marathon, two-player duels to six-player free-for-alls, gentle on-ramps to genuinely heavy systems. Each entry gets the honest version — what makes people love it, and where it frustrates them. Because these games are not cheap, and "it depends who you're playing with" is a real answer for most of them.
 
 > Part of our complete guide to the [Best Board Games](/best-board-games/), where this category fits in the wider hobby.
