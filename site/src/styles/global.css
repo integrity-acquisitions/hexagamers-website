@@ -199,6 +199,17 @@ h4 { font-size: 1.1rem; }
   font-size: 0.9rem;
 }
 
+/* ── Game picker (jump nav for multi-game how-to-play posts) ── */
+.game-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0.5rem 0 1.75rem;
+}
+.game-picker .btn {
+  text-decoration: none;
+}
+
 /* ── Best-of comparison tables: cell alignment & weight ── */
 .post-content table td,
 .post-content table th {
