@@ -119,7 +119,7 @@ For under $15 though, the base game is a steal. It's earned a permanent spot as 
 
 [![Hexagamers](https://img.hexagamers.com/Love_Letter_yl7dle.webp)](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
 
-Love Letter is 16 cards and a simple premise: survive long enough to be the last player standing, or hold the highest-value card when the deck runs out. On your turn you draw one card and play one, triggering effects that let you guess opponents' cards, peek at hidden hands, or force someone out of the round.
+Love Letter is 21 cards and a simple premise: survive long enough to be the last player standing, or hold the highest-value card when the deck runs out. On your turn you draw one card and play one, triggering effects that let you guess opponents' cards, peek at hidden hands, or force someone out of the round.
 
 The game rewards memory and reading people more than luck, even though it plays in under 20 minutes and lives in a small bag. We've pulled it out before dinner, played three rounds, and still been back on the couch before food arrived.
 

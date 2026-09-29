@@ -138,7 +138,7 @@ Designed just for two people, players work to fill their quilt with patchwork pi
 
 [![](https://img.hexagamers.com/love-letter-box_hhhrlq.webp "love letter box")](https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20)
 
-Love Letter is a social deduction game for 2-4 people. In your quest to win the Princess' favour, you must rely on those closest to her to deliver her your letter. Every player gets a role and uses their turn to guess who other players are, or take actions to knock people out of the game. Be the last standing or the last with the highest score, and you win the round. The player first with four points wins the game. It's a simpler game and so easier to play with younger players, or as an intro into the genre. Games take about 20 minute and what's better, there's even a holiday version!
+Love Letter is a social deduction game for 2-6 people. In your quest to win the Princess' favour, you must rely on those closest to her to deliver her your letter. Every player gets a role and uses their turn to guess who other players are, or take actions to knock people out of the game. Be the last standing or the last with the highest score, and you win the round. Win enough rounds and you win the game (the target depends on how many are playing). It's a simpler game and so easier to play with younger players, or as an intro into the genre. Games take about 20 minute and what's better, there's even a holiday version!
 
 <a href="https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 ## 5. Exploding Kittens

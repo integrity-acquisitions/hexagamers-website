@@ -9,17 +9,18 @@ tags:
   - "micro-game"
   - "strategy-board-game"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/love-letter-review.webp"
-description: "Our review of Love Letter, the 16-card deduction game. How many players it takes, how a round plays out, and why it keeps ending up in people's bags."
+lastModified: 2026-09-29
+description: "Our review of Love Letter, the pocket-sized deduction card game. How many players it takes, how a round plays out, and why it keeps ending up in people's bags."
 ---
 
 ## Overview
 
-The Princess is locked away in her tower. Suitors compete to get their letter to her first — using 16 cards and social deduction. Each turn you hold one card and draw one more, then play one, following its action. Last player standing, or highest card when the deck runs out, wins the round.
+The Princess is locked away in her tower. Suitors compete to get their letter to her first, using a tiny deck of 21 cards and some social deduction. Each turn you hold one card and draw one more, then play one, following its action. Last player standing, or highest card when the deck runs out, wins the round.
 
 ![The Love Letter cards and tokens laid out](https://img.hexagamers.com/Love-Letter-Cards-and-Tokens_o9bi2t.webp "Love Letter cards and tokens")
 
 <div class="game-stats">
-  <div class="stat"><span class="stat-value">2 – 4</span><span class="stat-label">Players</span></div>
+  <div class="stat"><span class="stat-value">2 – 6</span><span class="stat-label">Players</span></div>
   <div class="stat"><span class="stat-value">15–20 min</span><span class="stat-label">Play Time</span></div>
   <div class="stat"><span class="stat-value">10+</span><span class="stat-label">Age</span></div>
 </div>
@@ -33,7 +34,6 @@ The Princess is locked away in her tower. Suitors compete to get their letter to
 - Strong story and lore behind the game
 
 ### Dislikes
-- Only 2–4 players without buying the premium version
 - Not much strategic depth compared to other deduction games
 - Not an all-night game
 
@@ -55,10 +55,12 @@ Love Letter is a micro game built around deducing what card your opponents are h
 
 **As a starter or filler game it shines.** Perfect for opening a game night, filling a short gap, or introducing total newcomers to card game mechanics. The lore is surprisingly well developed — AEG wrote a full story connected to their Tempest game line (Courtier sets up Love Letter, Dominaire follows it). Worth reading the rulebook for if you're into that.
 
-**The player count is limiting.** Our regular group is 6 players and Love Letter's 2–4 limit means we skip it often. The premium edition supports 2–8 but is significantly more expensive.
+**Update (September 2026): the player count problem is fixed.** We first played the original 16-card edition, which only took 2–4 players. Our regular group is six, so we skipped it often. The edition you'll find today is Z-Man Games' version, refreshed in 2025, and it plays **2–6**. It adds two characters to make that work. The Chancellor lets you draw two cards, keep one of your three and put the other two on the bottom of the deck. The Spy does nothing when played, but if you're the only player still in the round who played or discarded one, you get a bonus token. Everything else plays the way we describe here, and the new box holds a velvet bag with the whole game in it.
 
 ## Conclusion
 
 ![The small Love Letter box](https://img.hexagamers.com/Love-Letter-Box-2_qqsyma.webp "The Love Letter box")
 
-Love Letter is the right pick if you want something quick, cheap, and easy to travel with. It doesn't have the depth of Coup or Avalon, but it fills a different need — the pure, fast micro-game slot. Great gift, great starter, great between-game filler. Doesn't hold your attention all night, but it was never meant to.
+Love Letter is the right pick if you want something quick, cheap, and easy to travel with. It doesn't have the depth of Coup or Avalon, but it fills a different need — the pure, fast micro-game slot. Great gift, great starter, great between-game filler. Doesn't hold your attention all night, but it was never meant to. And now that the current edition seats six, it finally fits our full group.
+
+<a href="https://www.amazon.com/dp/B0F2J8DVHH/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
