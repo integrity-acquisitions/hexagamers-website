@@ -34,7 +34,7 @@ Your two meeples are settled into their wood house on their plot of land — but
 
 > Featured on: [Best Solo Board Games](/best-one-player-solo-board-games-with-reviews/)
 
-> See also: [How To Play Agricola – Simplified](/agricola-how-to-play-simplified/) · [Agricola vs Caverna](/agricola-vs-caverna-which-game-should-you-buy/)
+> See also: [How To Play Agricola – Simplified](/agricola-how-to-play-simplified/) · [Agricola vs Caverna](/agricola-vs-caverna-which-game-should-you-buy/) · [Viticulture vs Agricola](/viticulture-vs-agricola/)
 
 ## Kaitlyn's Review
 

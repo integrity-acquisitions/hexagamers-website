@@ -32,7 +32,7 @@ You own a small vineyard in Tuscany that you inherited with almost nothing in it
 
 > Featured on: [Best Worker Placement Board Games](/best-worker-placement-board-games-reviews/) · [Best Engine Building Board Games](/best-engine-building-board-games/)
 
-> See also: [Agricola Review](/agricola-review/) · [Agricola vs Caverna](/agricola-vs-caverna-which-game-should-you-buy/)
+> See also: [Agricola Review](/agricola-review/) · [Agricola vs Caverna](/agricola-vs-caverna-which-game-should-you-buy/) · [Viticulture vs Agricola](/viticulture-vs-agricola/)
 
 ## Ryan's Review
 
