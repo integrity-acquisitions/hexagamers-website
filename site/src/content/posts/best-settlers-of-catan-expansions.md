@@ -11,7 +11,7 @@ tags:
   - "best-expansions"
   - "strategy-board-games"
 coverImage: "https://img.hexagamers.com/hexagamers-reviews/best-settlers-of-catan-expansions.webp"
-lastModified: 2018-03-14
+lastModified: 2026-10-29
 description: "Already love Catan but feel like the base game has run its course? Here's our honest rundown of every major Catan expansion and which ones are actually worth buying."
 ---
 
@@ -21,7 +21,9 @@ The base game is great — we've said that before and we mean it — but there c
 
 Here's where we landed after playing through the main ones. And if you're shopping for a Catan fan, check out our [Best Catan Gifts](/best-settlers-of-catan-gifts/) list too — expansions make excellent presents.
 
-A few things worth knowing before you buy: most of these require the base Catan game to play. Some need a specific player count, so double-check before ordering. And as always, your group might love what ours finds frustrating.
+A few things worth knowing before you buy: every expansion here requires the base Catan game to play. Some need a specific player count, so double-check before ordering. And as always, your group might love what ours finds frustrating.
+
+If you're after a different Catan game rather than an add-on for the one you own (Junior, Rivals, Starfarers, the new Zip edition), that's a separate list: [Every Catan Version Ranked](/catan-versions-ranked/).
 
 ## Best Catan Expansions — Comparison Table
 
@@ -33,7 +35,6 @@ A few things worth knowing before you buy: most of these require the base Catan 
 | [![](https://img.hexagamers.com/Catan_-_Cities_and_Knights_gtqxle.webp)](#2-cities--knights) | Cities & Knights | 3–4 | 90–180 min | $$$ |
 | [![](https://img.hexagamers.com/Catan_-_Traders_and_Barbarians_vopqg9.webp)](#3-traders--barbarians) | Traders & Barbarians | 2–4 | 60–120 min | $$$ |
 | [![](https://img.hexagamers.com/Catan_-_Explorers_and_Pirates_srlejv.webp)](#4-explorers--pirates) | Explorers & Pirates | 3–4 | 90–120 min | $$$ |
-| [![](https://img.hexagamers.com/Catan_-_Settlers_of_America_hrjkxo.webp)](#5-catan-histories--settlers-of-america) | Settlers of America | 3–4 | 60–120 min | $$$ |
 
 ## 1. Seafarers
 
@@ -99,19 +100,19 @@ That's not necessarily a knock on it. Some groups want a bigger departure and fi
 
 <a href="https://www.amazon.com/dp/B0DYF8J5C8/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 5. Catan: Histories — Settlers of America
+## Not an Expansion: Catan Histories: Settlers of America
 
 [![Hexagamers](https://img.hexagamers.com/Catan_-_Settlers_of_America_hrjkxo.webp)](https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20)
 
-This one is standalone. You don't need the base Catan game to play it.
+Settlers of America shows up on a lot of expansion lists, ours included at one point, but it isn't an expansion. It's a standalone game from the Catan Histories line. You don't need the base Catan game to play it, and none of the expansions above work with it.
 
-Settlers of America drops the core mechanics into a 19th century expansion setting. You're building railroads, sending trains west, and trading goods between your cities and your opponents'. The map is fixed — the continental US — which kills some of the board variability but grounds the game in a way some groups respond well to.
+Settlers of America drops the core mechanics into the westward expansion of the 19th-century US. You're building railroads, sending trains west, and trading goods between your cities and your opponents'. The map is fixed — the continental US — which kills some of the board variability but grounds the game in a way some groups respond well to.
 
 **The train mechanic adds something different.** Shipping goods between cities creates player interaction that's more cooperative than standard Catan. You're sometimes relying on opponents to accept deliveries. It's an odd feeling at first, but it works.
 
-Because it's standalone it doesn't stack with your other expansions, which is either fine or annoying depending on what you were hoping for. It runs 60–120 minutes and the fixed map means less variety game to game.
+It runs 60–120 minutes, and the fixed map means less variety game to game.
 
-If you have someone in your group who has resisted Catan because of the island fantasy theme, the historical US setting sometimes gets them on board. Not always. But sometimes.
+If you have someone in your group who has resisted Catan because of the island fantasy theme, the historical US setting sometimes gets them on board. Not always. But sometimes. We cover it alongside the other standalone Catan games in our [Catan versions guide](/catan-versions-ranked/).
 
 <a href="https://www.amazon.com/dp/B003NX73F6/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
