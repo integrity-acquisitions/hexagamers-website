@@ -101,7 +101,7 @@ Some people call it a party game. It isn't. It's a strategy game with a party ga
 
 <a href="https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 4. Secret Hitler
+## 4. Secret Hitler ([Full Review Here](/secret-hitler-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Secret-Hitler_dbucne-jpg.webp)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
 

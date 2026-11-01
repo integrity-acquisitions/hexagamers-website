@@ -40,7 +40,7 @@ We pulled from BGG's large-group recommendation polls, Reddit threads asking the
 | Image | Game | Players | Time | Price | Our Rating |
 | --- | --- | --- | --- | --- | --- |
 | [![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](#1-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
-| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#2-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#2-secret-hitler-full-review-here) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/Telestrations_da3zgk.webp)](#4-telestrations) | Telestrations | 4–8 | 30 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/One_night_ultimate_werewolf_pvnehl.webp)](#5-one-night-ultimate-werewolf) | One Night Ultimate Werewolf | 3–10 | 10 min | $ | — |
@@ -66,7 +66,7 @@ One note: this is a strategy game with party-game energy, not a true party game.
 
 <a href="https://www.amazon.com/dp/B009SAAV0C/?tag=hexagamers-20" class="check-price-btn" target="_blank" rel="nofollow noopener">Check Price on Amazon</a>
 
-## 2. Secret Hitler
+## 2. Secret Hitler ([Full Review Here](/secret-hitler-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
 

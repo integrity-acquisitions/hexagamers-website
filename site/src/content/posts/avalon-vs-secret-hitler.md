@@ -25,7 +25,7 @@ They're not. We've spent a lot of nights with both. Avalon shot to the top of my
 
 If you want the short version: **Avalon is the safer pick for almost every group.** It's cheaper, nobody sits out, the theme won't cause a fight before the game even starts, and the Merlin twist at the end is the best finish in the genre. **Secret Hitler is the pick if your table would rather argue in circles than solve a puzzle.** The evidence in that game never quite adds up to proof, and that's the whole point. Read on for why, especially the theme section below before you buy for a mixed group.
 
-> Related reading: [The Resistance: Avalon Review](/the-resistance-avalon-review/) · [Best Games Like Secret Hitler](/best-games-like-secret-hitler/) · [Best Social Deduction Board Games](/best-social-deduction-board-games/)
+> Related reading: [The Resistance: Avalon Review](/the-resistance-avalon-review/) · [Secret Hitler Review](/secret-hitler-review/) · [Best Games Like Secret Hitler](/best-games-like-secret-hitler/) · [Best Social Deduction Board Games](/best-social-deduction-board-games/)
 
 ## Quick Comparison
 

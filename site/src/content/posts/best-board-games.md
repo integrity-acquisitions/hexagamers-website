@@ -450,7 +450,7 @@ You're given a secret role. Most players are on the good team and know nothing; 
 
 This is the genre with the clearest sub-splits, and they play completely differently.
 
-- **Hidden roles with bluffing:** [Avalon](/the-resistance-avalon-review/), Secret Hitler, [One Night Ultimate Werewolf](/one-night-ultimate-werewolf-review/). You have a secret team and you lie about it all game.
+- **Hidden roles with bluffing:** [Avalon](/the-resistance-avalon-review/), [Secret Hitler](/secret-hitler-review/), [One Night Ultimate Werewolf](/one-night-ultimate-werewolf-review/). You have a secret team and you lie about it all game.
 - **Bluffing without hidden roles:** [Coup](/coup-review/). Everyone knows the situation; you're lying about which cards you hold, and anyone can challenge at any time.
 - **Deduction without bluffing:** [Love Letter](/love-letter-review/), Deception: Murder in Hong Kong. You're reading limited information and drawing conclusions, but nobody's putting on a performance.
 

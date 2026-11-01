@@ -139,6 +139,6 @@ It's also the quickest game on this list to actually get going. Shuffle the loca
 
 If you only walk away with one pick, make it The Resistance: Avalon. It's the closest thing here to Secret Hitler's actual rhythm of votes, accusations, and trust slowly falling apart, and it moves a little faster to boot. But the real value in a list like this is having options for different nights: Coup and Spyfall for something quick between rounds, Saboteur for easing newer players in, Two Rooms and a Boom for the night your group somehow has fourteen people show up.
 
-None of these replace Secret Hitler, and they're not trying to. They're just for the nights when you want that same "I can't believe you just said that" feeling from a different angle. If you're building out a hidden-role collection, our [Best Bluffing Board Games](/best-bluffing-board-games/) list is a good next stop.
+None of these replace [Secret Hitler](/secret-hitler-review/), and they're not trying to. They're just for the nights when you want that same "I can't believe you just said that" feeling from a different angle. If you're building out a hidden-role collection, our [Best Bluffing Board Games](/best-bluffing-board-games/) list is a good next stop.
 
 Got a staple we left off? Tell us which one in the comments.

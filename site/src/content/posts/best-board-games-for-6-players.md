@@ -42,7 +42,7 @@ We pulled from BGG community polls, Reddit recommendation threads, and our own g
 | [![Hexagamers](https://img.hexagamers.com/The-Resistance-Avalon.webp)](#2-the-resistance-avalon) | The Resistance: Avalon | 5–10 | 30–45 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Codenames.webp)](#3-codenames) | Codenames | 2–8 | 15–30 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/7-Wonders.webp)](#4-7-wonders) | 7 Wonders | 3–7 | 30 min | $$ | — |
-| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#5-secret-hitler) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
+| [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](#5-secret-hitler-full-review-here) | Secret Hitler | 5–10 | 30–45 min | $$ | — |
 | [![Hexagamers](https://img.hexagamers.com/Skull_kfpcyd.webp)](#6-skull) | Skull | 3–6 | 30 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/sushi-go-party-edition_xq83ml.webp)](#7-sushi-go-party) | Sushi Go Party! | 2–8 | 20 min | $ | — |
 | [![Hexagamers](https://img.hexagamers.com/hexagamers-box-art/dixit.webp)](#8-dixit) | Dixit | 3–6 | 30–45 min | $$ | — |
@@ -115,7 +115,7 @@ The science track is the ceiling option — three matching symbol sets and the p
 
 ---
 
-## 5. Secret Hitler
+## 5. Secret Hitler ([Full Review Here](/secret-hitler-review/))
 
 [![Hexagamers](https://img.hexagamers.com/Secret_Hitler_a0jv7r.webp)](https://www.amazon.com/dp/B01JKD4HYC/?tag=hexagamers-20)
 
